@@ -1,0 +1,1568 @@
+Parameter_ID	Concepticon_Gloss	Concepticon_ID	Proto_ID
+1_dust	DUST	2	
+88_mud	MUD	640	
+95_sand	SAND	671	
+90_plain	PLAIN	652	
+167_water	WATER	948	
+81_lake	LAKE	624	
+483_springorwell	SPRING OR WELL	2144	
+59_forest	FOREST	420	
+157_tree	TREE	906	
+421_sky	SKY	1732	
+292_sun	SUN	1343	
+281_moon	MOON	1313	
+334_star	STAR	1430	
+408_lightning	LIGHTNING	1654	
+198_thunder	THUNDER	1150	
+422_rainbow	RAINBOW	1733	
+83_lightradiation	LIGHT (RADIATION)	630	
+5_darkness	DARKNESS	11	
+306_shade	SHADE	1388	
+473_dew	DEW	1977	
+169_wind	WIND	960	
+362_cloud	CLOUD	1489	
+41_fog	FOG	249	
+91_rainprecipitation	RAIN (PRECIPITATION)	658	
+37_fire	FIRE	221	
+136_smokeexhaust	SMOKE (EXHAUST)	778	
+89_ash	ASH	646	
+24_burnsomething	BURN (SOMETHING)	141	
+332_burning	BURNING	1428	
+125_lightignite	LIGHT (IGNITE)	737	
+20_extinguish	EXTINGUISH	127	
+4_firewood	FIREWOOD	10	
+210_charcoal	CHARCOAL	1188	
+103_person	PERSON	683	
+376_man	MAN	1554	
+170_woman	WOMAN	962	
+298_boy	BOY	1366	
+12_youngman	YOUNG MAN	76	
+405_girl	GIRL	1646	
+13_youngwoman	YOUNG WOMAN	77	
+278_childyounghuman	CHILD (YOUNG HUMAN)	1304	
+272_baby	BABY	1289	
+214_husband	HUSBAND	1200	
+213_wife	WIFE	1199	
+32_marry	MARRY	203	
+228_father	FATHER	1217	
+227_mother	MOTHER	1216	
+428_olderbrother	OLDER BROTHER	1759	
+429_youngerbrother	YOUNGER BROTHER	1760	
+427_oldersister	OLDER SISTER	1758	
+430_youngersister	YOUNGER SISTER	1761	
+58_oldman	OLD MAN	406	
+158_oldwoman	OLD WOMAN	907	
+197_orphan	ORPHAN	1149	
+222_i	I	1209	
+226_thou	THOU	1215	
+224_we	WE	1212	
+225_you	YOU	1213	
+144_they	THEY	817	
+80_animal	ANIMAL	619	
+289_pig	PIG	1337	
+282_chicken	CHICKEN	1318	
+297_duck	DUCK	1360	
+70_nest	NEST	539	
+164_bird	BIRD	937	
+209_vulture	VULTURE	1185	
+437_bat	BAT	1793	
+154_parrot	PARROT	882	
+124_owl	OWL	735	
+478_dog	DOG	2009	
+221_cat	CAT	1208	
+38_fish	FISH	227	
+465_deer	DEER	1936	
+307_louse	LOUSE	1392	
+73_ant	ANT	587	
+149_spider	SPIDER	843	
+92_bee	BEE	665	
+370_wasp	WASP	1517	
+367_flyinsect	FLY (INSECT)	1504	
+369_mosquito	MOSQUITO	1509	
+230_worm	WORM	1219	
+122_snake	SNAKE	730	
+436_butterfly	BUTTERFLY	1791	
+375_snail	SNAIL	1543	
+68_frog	FROG	503	
+84_lizard	LIZARD	632	
+15_turtle	TURTLE	112	
+358_body	BODY	1480	
+131_skin	SKIN	763	
+489_hairhead	HAIR (HEAD)	2648	
+99_beard	BEARD	678	
+31_hairbody	HAIR (BODY)	189	
+166_blood	BLOOD	946	
+309_bone	BONE	1394	
+140_rib	RIB	801	
+308_hornanatomy	HORN (ANATOMY)	1393	
+231_tail	TAIL	1220	
+273_back	BACK	1291	
+259_head	HEAD	1256	
+384_brain	BRAIN	1583	
+377_face	FACE	1560	
+18_forehead	FOREHEAD	123	
+139_jaw	JAW	798	
+420_cheek	CHEEK	1730	
+256_eye	EYE	1248	
+205_eyebrow	EYEBROW	1173	
+374_eyelash	EYELASH	1540	
+255_ear	EAR	1247	
+232_nose	NOSE	1221	
+96_mouth	MOUTH	674	
+62_lip	LIP	478	
+219_tongue	TONGUE	1205	
+303_tooth	TOOTH	1380	
+286_neck	NECK	1333	
+293_throat	THROAT	1346	
+359_shoulder	SHOULDER	1482	
+413_arm	ARM	1673	
+455_armpit	ARMPIT	1886	
+174_elbow	ELBOW	981	
+267_hand	HAND	1277	
+208_palmofhand	PALM OF HAND	1183	
+277_finger	FINGER	1303	
+261_fingernail	FINGERNAIL	1258	
+275_leg	LEG	1297	
+61_upperlegthigh	UPPER LEG (THIGH)	471	
+299_knee	KNEE	1371	
+276_foot	FOOT	1301	
+173_heel	HEEL	980	
+48_footprint	FOOTPRINT	318	
+260_wing	WING	1257	
+215_feather	FEATHER	1201	
+390_chest	CHEST	1592	
+313_breast	BREAST	1402	
+446_navel	NAVEL	1838	
+234_heart	HEART	1223	
+104_lung	LUNG	688	
+235_liver	LIVER	1224	
+64_kidney	KIDNEY	489	
+145_stomach	STOMACH	819	
+147_buttocks	BUTTOCKS	834	
+153_cough	COUGH	879	
+396_sneeze	SNEEZE	1621	
+340_spit	SPIT	1440	
+268_vomit	VOMIT	1278	
+314_bite	BITE	1403	
+49_lick	LICK	319	
+385_sleep	SLEEP	1585	
+474_snore	SNORE	1983	
+463_dreamsomething	DREAM (SOMETHING)	1920	
+393_wakeup	WAKE UP	1602	
+75_piss	PISS	592	
+97_shitdefecate	SHIT (DEFECATE)	676	
+9_shiver	SHIVER	52	
+23_bathe	BATHE	138	
+191_beborn	BE BORN	1090	
+326_kill	KILL	1417	
+417_bury	BURY	1719	
+493_mightyorpowerfulorstrong	MIGHTY OR POWERFUL OR STRONG	3188	
+448_sick	SICK	1847	
+195_wound	WOUND	1109	
+439_pus	PUS	1808	
+66_cure	CURE	499	
+28_rest	REST	168	
+378_lazy	LAZY	1564	
+176_deaf	DEAF	996	
+410_mute	MUTE	1666	
+354_drunk	DRUNK	1463	
+288_eat	EAT	1336	
+43_food	FOOD	256	
+469_raw	RAW	1959	
+30_ripe	RIPE	178	
+419_rotten	ROTTEN	1728	
+312_drink	DRINK	1401	
+451_hunger	HUNGER	1864	
+328_suck	SUCK	1421	
+156_swallow	SWALLOW	897	
+193_cooksomething	COOK (SOMETHING)	1100	
+44_peel	PEEL	275	
+432_scrape	SCRAPE	1767	
+480_mix	MIX	2017	
+181_grind	GRIND	1033	
+85_meat	MEAT	634	
+368_fruit	FRUIT	1507	
+51_fatorganicsubstance	FAT (ORGANIC SUBSTANCE)	323	
+165_honey	HONEY	942	
+86_milk	MILK	635	
+123_beverage	BEVERAGE	731	
+57_alcoholfermenteddrink	ALCOHOL (FERMENTED DRINK)	404	
+127_egg	EGG	744	
+457_clothes	CLOTHES	1895	
+395_cloth	CLOTH	1616	
+449_cotton	COTTON	1850	
+17_spin	SPIN	121	
+21_weave	WEAVE	133	
+352_sew	SEW	1457	
+304_needleforsewing	NEEDLE (FOR SEWING)	1382	
+202_thread	THREAD	1161	
+134_belt	BELT	772	
+301_ring	RING	1374	
+356_comb	COMB	1475	
+258_house	HOUSE	1252	
+379_door	DOOR	1567	
+133_roof	ROOF	769	
+34_field	FIELD	212	
+327_dig	DIG	1418	
+116_seed	SEED	714	
+69_maize	MAIZE	506	
+79_grass	GRASS	606	
+361_plantsomething	PLANT (SOMETHING)	1486	
+94_root	ROOT	670	
+82_leaf	LEAF	628	
+39_flower	FLOWER	239	
+171_tobacco	TOBACCO	974	
+218_bark	BARK	1204	
+26_sweetpotatoyam	SWEET POTATO	159	
+162_cassava	CASSAVA	925	
+152_pumpkin	PUMPKIN	864	
+477_bend	BEND	2004	
+462_tie	TIE	1917	
+52_untie	UNTIE	352	
+229_rope	ROPE	1218	
+335_cut	CUT	1432	
+98_axe	AXE	677	
+101_breakdestroyorgetdestroyed	BREAK (DESTROY OR GET DESTROYED)	680	
+338_split	SPLIT	1437	
+423_tearshred	TEAR (SHRED)	1735	
+347_rub	RUB	1449	
+350_pull	PULL	1455	
+323_squeeze	SQUEEZE	1414	
+349_wash	WASH	1453	
+373_basket	BASKET	1539	
+53_fanaction	FAN (ACTION)	360	
+132_move	MOVE	765	
+344_turnaround	TURN AROUND	1444	
+146_roll	ROLL	827	
+67_lift	LIFT	501	
+269_fall	FALL	1280	
+351_throw	THROW	1456	
+460_shake	SHAKE	1909	
+339_swim	SWIM	1439	
+341_flymovethroughair	FLY (MOVE THROUGH AIR)	1441	
+29_blowofwind	BLOW (OF WIND)	175	
+496_crawlorcreep	CRAWL OR CREEP	3456	
+283_slip	SLIP	1324	
+442_jump	JUMP	1829	
+453_dance	DANCE	1879	
+343_walk	WALK	1443	
+371_run	RUN	1519	
+108_go	GO	695	
+111_goupascend	GO UP (ASCEND)	705	
+479_godowndescend	GO DOWN (DESCEND)	2014	
+194_goout	GO OUT	1107	
+345_come	COME	1446	
+72_comeback	COME BACK	581	
+168_flee	FLEE	956	
+189_follow	FOLLOW	1085	
+305_arrive	ARRIVE	1387	
+128_enter	ENTER	749	
+109_carry	CARRY	700	
+106_bring	BRING	692	
+196_send	SEND	1127	
+348_push	PUSH	1452	
+485_path	PATH	2252	
+471_canoe	CANOE	1970	
+150_seize	SEIZE	855	
+126_thing	THING	738	
+346_give	GIVE	1447	
+355_lookfor	LOOK FOR	1468	
+452_buy	BUY	1869	
+380_sell	SELL	1571	
+414_behind	BEHIND	1686	
+394_inside	INSIDE	1606	
+130_outside	OUTSIDE	762	
+360_beloworunder	BELOW OR UNDER	1485	
+389_up	UP	1591	
+177_put	PUT	998	
+325_sit	SIT	1416	
+36_liedown	LIE DOWN	215	
+342_stand	STAND	1442	
+3_gather	GATHER	7	
+382_pileup	PILE UP	1576	
+424_join	JOIN	1743	
+296_separate	SEPARATE	1359	
+199_open	OPEN	1156	
+184_shut	SHUT	1046	
+129_cover	COVER	761	
+78_hideconceal	HIDE (CONCEAL)	602	
+102_side	SIDE	682	
+494_centerormiddle	CENTER OR MIDDLE	3208	
+179_right	RIGHT	1019	
+40_left	LEFT	244	
+467_near	NEAR	1942	
+317_far	FAR	1406	
+63_grow	GROW	479	
+216_big	BIG	1202	
+254_small	SMALL	1246	
+217_long	LONG	1203	
+404_short	SHORT	1645	
+252_wide	WIDE	1243	
+263_narrow	NARROW	1267	
+253_thick	THICK	1244	
+391_deep	DEEP	1593	
+402_flat	FLAT	1633	
+315_straight	STRAIGHT	1404	
+45_crooked	CROOKED	297	
+411_hole	HOLE	1667	
+364_one	ONE	1493	
+366_two	TWO	1498	
+65_three	THREE	492	
+14_all	ALL	98	
+212_many	MANY	1198	
+251_few	FEW	1242	
+333_full	FULL	1429	
+398_empty	EMPTY	1624	
+383_only	ONLY	1580	
+120_first	FIRST	728	
+241_new	NEW	1231	
+220_young	YOUNG	1207	
+239_old	OLD	1229	
+302_now	NOW	1376	
+401_fast	FAST	1631	
+431_finish	FINISH	1766	
+236_daynotnight	DAY (NOT NIGHT)	1225	
+242_night	NIGHT	1233	
+121_dawn	DAWN	729	
+290_morning	MORNING	1339	
+400_evening	EVENING	1629	
+285_tomorrow	TOMORROW	1329	
+206_yesterday	YESTERDAY	1174	
+237_year	YEAR	1226	
+387_smellstink	SMELL (STINK)	1587	
+7_stinking	STINKING	42	
+118_sweet	SWEET	717	
+155_bitter	BITTER	887	
+459_sour	SOUR	1906	
+320_see	SEE	1409	
+440_look	LOOK	1819	
+114_shine	SHINE	708	
+100_bright	BRIGHT	679	
+287_white	WHITE	1335	
+27_black	BLACK	163	
+25_red	RED	156	
+148_blue	BLUE	837	
+331_green	GREEN	1425	
+330_yellow	YELLOW	1424	
+456_touch	TOUCH	1892	
+454_hard	HARD	1884	
+450_soft	SOFT	1856	
+464_rough	ROUGH	1923	
+310_sharp	SHARP	1396	
+223_heavy	HEAVY	1210	
+187_lightweight	LIGHT (WEIGHT)	1052	
+418_wet	WET	1726	
+311_dry	DRY	1398	
+270_hot	HOT	1286	
+271_cold	COLD	1287	
+110_clean	CLEAN	704	
+240_dirty	DIRTY	1230	
+56_wrinkled	WRINKLED	380	
+142_soul	SOUL	811	
+294_laugh	LAUGH	1355	
+322_play	PLAY	1413	
+161_love	LOVE	923	
+163_embrace	EMBRACE	928	
+434_pain	PAIN	1783	
+447_cry	CRY	1839	
+407_tearofeye	TEAR (OF EYE)	1651	
+137_fearfright	FEAR (FRIGHT)	781	
+435_want	WANT	1784	
+425_choose	CHOOSE	1750	
+409_true	TRUE	1657	
+77_liemislead	LIE (MISLEAD)	601	
+182_good	GOOD	1035	
+274_bad	BAD	1292	
+324_thinkreflect	THINK (REFLECT)	1415	
+321_knowsomething	KNOW (SOMETHING)	1410	
+113_remember	REMEMBER	707	
+372_forget	FORGET	1523	
+264_yes	YES	1268	
+265_no	NO	1269	
+248_how	HOW	1239	
+245_what	WHAT	1236	
+247_when	WHEN	1238	
+246_where	WHERE	1237	
+244_who	WHO	1235	
+262_sing	SING	1261	
+117_shout	SHOUT	715	
+180_whistle	WHISTLE	1025	
+397_speak	SPEAK	1623	
+353_say	SAY	1458	
+279_language	LANGUAGE	1307	
+316_name	NAME	1405	
+280_askinquire	ASK (INQUIRE)	1309	
+441_askrequest	ASK (REQUEST)	1828	
+186_call	CALL	1084	
+412_write	WRITE	1672	
+135_flute	FLUTE	777	
+284_friend	FRIEND	1325	
+458_help	HELP	1897	
+443_meet	MEET	1831	
+329_fight	FIGHT	1423	
+175_bow	BOW	994	
+172_arrow	ARROW	977	
+337_hunt	HUNT	1435	
+204_shoot	SHOOT	1172	
+115_steal	STEAL	713	
+472_demon	DEMON	1973	
+238_earthsoil	EARTH (SOIL)	1228	
+403_relatives	RELATIVES	1644	
+47_hawk	HAWK	307	
+33_nasalmucussnot	NASAL MUCUS (SNOT)	208	
+11_claw	CLAW	72	
+138_testicles	TESTICLES	797	
+233_penis	PENIS	1222	
+201_fart	FART	1159	
+71_copulate	COPULATE	549	
+74_naked	NAKED	590	
+468_unripe	UNRIPE	1958	
+50_chew	CHEW	321	
+498_cookingpot	COOKING POT	3653	
+392_flour	FLOUR	1594	
+160_chilipepper	CHILI PEPPER	919	
+470_necklace	NECKLACE	1961	
+357_chair	CHAIR	1476	
+35_stretch	STRETCH	214	
+461_press	PRESS	1913	
+381_float	FLOAT	1574	
+426_leave	LEAVE	1752	
+143_half	HALF	816	
+291_summer	SUMMER	1342	
+319_hear	HEAR	1408	
+55_pinch	PINCH	378	
+243_smooth	SMOOTH	1234	
+8_besilent	BE SILENT	48	
+188_trappitfall	TRAP (PITFALL)	1075	
+300_medicine	MEDICINE	1372	
+266_salt	SALT	1274	
+6_spreadout	SPREAD OUT	38	
+200_because	BECAUSE	1157	
+46_chieftain	CHIEFTAIN	301	
+141_blanket	BLANKET	806	
+178_bridge	BRIDGE	1011	
+112_dark	DARK	706	
+159_drum	DRUM	908	
+2_fill	FILL	2006	
+10_kneel	KNEEL	66	
+19_thorn	THORN	124	
+22_here	HERE	136	
+42_sharpensomething	SHARPEN (SOMETHING)	251	
+60_getlost	GET LOST	423	
+76_potato	POTATO	593	
+87_mountain	MOUNTAIN	639	
+93_river	RIVER	666	
+107_get	GET	694	
+119_find	FIND	719	
+151_stone	STONE	857	
+183_increase	INCREASE	1041	
+185_pursue	PURSUE	1047	
+190_workactivity	WORK (ACTIVITY)	1086	
+192_fasten	FASTEN	1094	
+207_ghost	GHOST	1175	
+211_givebirth	GIVE BIRTH	1195	
+249_not	NOT	1240	
+250_some	SOME	1241	
+257_belly	BELLY	1251	
+295_enemy	ENEMY	1358	
+318_breathe	BREATHE	1407	
+336_hit	HIT	1433	
+363_mouse	MOUSE	1491	
+365_die	DIE	1494	
+386_smellperceive	SMELL (PERCEIVE)	1586	
+388_waitfor	WAIT (FOR)	1590	
+399_dead	DEAD	1625	
+406_sitdown	SIT DOWN	1649	
+416_tell	TELL	1711	
+438_wood	WOOD	1803	
+444_vagina	VAGINA	1836	
+466_there	THERE	1937	
+475_gettired	GET TIRED	1996	
+481_hammock	HAMMOCK	2019	
+482_combverb	COMB (VERB)	2070	
+488_boilsomething	BOIL (SOMETHING)	2492	
+490_highortall	HIGH OR TALL	2790	
+492_wakeupsomeone	WAKE UP (SOMEONE)	3174	
+497_townorvillage	TOWN OR VILLAGE	3609	
+486_cloudy	CLOUDY	2341	
+16_dive	DIVE	119	
+495_bloom	BLOOM	3287	
+433_approach	APPROACH	1778	
+415_smokeinhale	SMOKE (INHALE)	1689	
+476_flow	FLOW	2003	
+484_becomeangry	BECOME ANGRY	2215	
+105_between	BETWEEN	689	
+54_pickup	PICK UP	371	
+445_vulva	VULVA	1837	
+487_sucklebreastfeednurse	SUCKLE (BREASTFEED, NURSE)	2472	
+203_trapcatch	TRAP (CATCH)	1170	
+491_menstruate	MENSTRUATE	2827	
+501_spiderweb	SPIDER WEB	1065	
+500_treestump	TREE STUMP	241	
+499_wave	WAVE	978	
+0_fazermatar			§1
+1_macaxeiramandioca	CASSAVA	925	§2
+2_capivara	CAPYBARA	314	§3
+12_grande	BIG	1202	§12
+415_velho	OLD	1229	§413
+429_pequeno	SMALL	1246	§427
+1040_paca			§223
+5_sufixodeconcordanciadointransitivo			§6
+6_tipodeveneno			§7
+26_tapir			§8
+9_mulheresposa			§9a
+10_tragar			§10
+11_yo	I	1209	§11
+29_muito	MANY	1198	§27
+13_piolho	LOUSE	1392	§13
+14_lago	LAKE	624	§14
+15_dono	OWNER	1036	§15
+274_espdepassaro			§271
+17_quentecalor			§17
+18_abracarsegurarnosbracos	EMBRACE	928	§18
+19_seguirllevandoenlosbrazos			§18a
+20_subir	GO UP (ASCEND)	705	§18b
+21_criacaoanimaldomestico			§19
+22_dar	GIVE	1447	§20
+23_espdeonca			§21
+86_jaguar			§21
+24_espdepeixeespdafamloricariidae			§22
+499_peixe	FISH	227	§496
+25_dordoer			§23
+26_japuespdepassarodafamicteridae			§24
+27_macacopretoespdemacacodafamatelidae			§25
+448_rodar	RUN	1519	§446
+30_uruburei			§28
+31_pesado	HEAVY	1210	§29
+32_arraia	STINGRAY	1910	§30
+494_espdecarrapato			§491
+34_chuva	RAIN (PRECIPITATION)	658	§32
+35_olhar	LOOK	1819	§33
+36_tossir	COUGH	879	§34
+49_vomitar	VOMIT	1278	§47
+37_conheceraprender	LEARN	504	§35
+383_bravo	BRAVE	3	§381
+38_aguafrescalitliquidonovo			§36
+320_rio	RIVER	666	§317
+73_novo	NEW	1231	§71
+39_rir	LAUGH	1355	§37
+40_dormir	SLEEP	1585	§38
+41_lua	MOON	1313	§39
+42_sombra	SHADE	1388	§40
+43_chuparsugar	SUCK	1421	§41
+44_eleesse	HE	1211	§42
+91_espdegarca			§89
+47_pisar	STEP (VERB)	2065	§45
+48_lingua	TONGUE	1205	§46
+50_nome	NAME	1405	§48
+51_mutumdaespdafamcracidae	CURASSOW	315	§49
+52_abertura			§50
+53_essetanto			§51
+54_3apessoadoplural			§52
+55_queoque	WHAT	1236	§53
+56_seusuadeledela	HIS OR HER	2092	§54
+57_caminhopicada	PATH	2252	§55
+58_noiteescuro			§56
+59_tela	CLOTH	1616	§57
+60_rocado	SWIDDEN FIELD	429	§58
+469_chacra	FIELD	212	§467
+61_filhocrianca	CHILD (YOUNG HUMAN)	1304	§59
+62_espuma	FOAM	1768	§60
+63_plantar	PLANT (SOMETHING)	1486	§61
+64_sol	SUN	1343	§62
+65_ovo	EGG	744	§63
+66_cochichar	WHISPER	55	§64
+67_doce	SWEET	717	§65
+510_espdepeixe			§506
+69_papagaioespdafampsittacidae	PARROT	882	§67
+472_surubim			§100
+71_trazerbuscar			§69
+329_comitative			§70
+74_esquecerperder			§72
+75_lagrima	TEAR (OF EYE)	1651	§73
+76_ondas	WAVE	978	§74
+77_testacara			§75
+173_cara	YAM	410	§171
+78_maridomacho			§76
+79_varon	MALE PERSON	2106	§77
+80_espdearvoredafamphyllanthaceae			§78
+81_olho	EYE	1248	§79
+395_cortar	CUT	1432	§393
+84_sobrancelhas	EYEBROW	1173	§82
+465_espderaousapo			§463
+86_finoraso	THIN	2308	§84
+87_sopacaldo	SOUP	1547	§85
+88_rostocara	FACE	1560	§86
+89_pegar	CATCH	702	§87
+90_pelecouro	LEATHER OR HIDE	3326	§88
+92_carapana	MOSQUITO	1509	§90
+93_fruto	FRUIT	1507	§91
+1490_marimbondocaba			§333
+95_buritimauritiaviniferamart	MIRITI PALM	3811	§93
+96_goiaba			§94
+97_pluralizador			§95
+98_espdepicapaudafampicidae			§96
+99_tipodecaixa			§97
+444_espdepalmeira			§442
+101_tocotronco	TREE STUMP	241	§99
+102_espdepeixedafampimelodidae			§100
+103_ceradeabeja	BEESWAX	1931	§101
+413_espdearvore			§411
+105_arbolpequenocuyacortezaseusaparahacersogas			§103
+106_espdeabelha			§104
+107_pelocabelo	HAIR	1040	§105
+108_insecto	INSECT	620	§106
+262_jenipapo	GENIPA	3920	§259
+109_espdelontra			§107
+503_head			§108
+111_sentarsentarse	SIT	1416	§109
+113_solucosolucar	HICCOUGH	162	§111
+114_cigarra	CICADA	2353	§112
+115_carvaobrasa	CHARCOAL	1188	§113
+116_brasa			§114
+117_quem	WHO	1235	§115
+118_pegaragarrarcomamao	SEIZE	855	§116
+119_picardaragulhadaferrarinjetarfurar			§117
+120_amassarbatergolpear			§118
+121_mentir	LIE (MISLEAD)	601	§119
+122_espdemolusco			§120
+123_grilogafanhoto	GRASSHOPPER	607	§121
+124_martimpescardor			§122
+125_espdeveado			§123
+126_fogo	FIRE	221	§124
+127_cinzalitpopoeiradefogo			§125
+128_guiarumacanoaportras			§126
+129_parteposterior	BACK (PART)	2323	§127
+130_lavarlavarse	WASH	1453	§128
+310_lavar	WASH	1453	§307
+131_telaroupa	CLOTHES	1895	§129
+180_duroforte	HARD	1884	§178
+133_liquidoagua	LIQUID	58	§131
+134_tigredeaguanutria	OTTER	15	§132
+135_deixarlargar	LEAVE	1752	§133
+137_bilharqueimar	BURN	2102	§135
+138_semente	SEED	714	§136
+139_entrar	ENTER	749	§137
+236_espdeformiga			§233
+145_clasedehormiga			§143
+142_sangue	BLOOD	946	§140
+143_rabo	TAIL	1220	§141
+144_verolhar	SEE	1409	§142
+146_urinarurina			§144
+147_espdearvoreetambemseufruto			§145
+148_arvoregenpaugen			§146
+149_ouvirescutarentender	HEAR	1408	§147
+150_bordalabios			§148
+151_jacuespdepassaro	GUAN	437	§149
+152_desejar	DESIRE	2117	§150
+153_chamar	CALL	1084	§151
+154_tipodebanco			§152
+155_desenharpintar			§153
+160_barba	BEARD	678	§158
+157_pontaextremo	TIP (OF OBJECT)	2992	§155
+158_ensartar			§156
+159_labios	LIP	478	§157
+168_espdearara			§166
+162_costas	BACK	1291	§160
+163_parente	RELATIVES	1644	§161
+164_tipodecesto			§162
+165_abacaxi	PINEAPPLE	2440	§163
+167_espdecobra			§165
+169_relampago	LIGHTNING	1654	§167
+170_arco	BOW	994	§168
+330_flecha	ARROW	977	§328
+455_zarabatana	BLOWGUN	432	§453
+171_quatipuru	SQUIRREL	1628	§169
+172_jacare	CAIMAN	2438	§170
+174_lenha	FIREWOOD	10	§172
+175_querer	WANT	1784	§173
+195_luciernaga	BAT	1793	§193
+177_costasprefixopartedocorpo			§175
+178_costurar	SEW	1457	§176
+179_vasilhaprato			§177
+181_pedacocaco	PIECE	594	§179
+182_grossoespesso	THICK	1244	§180
+183_tipodepanela			§181
+184_terminaracabar	FINISH	1766	§182
+185_sufixolocativoablativo			§183
+186_buracoorificio	HOLE	1667	§184
+187_coxa	UPPER LEG (THIGH)	471	§185
+869_smoke			§186
+189_ferver	BOIL (OF LIQUID)	792	§187
+190_mandibula	JAW	798	§188
+191_irmaodamae	MATERNAL AUNT (MOTHER'S SISTER)	2693	§189
+192_vagalume	FIREFLY	206	§190
+193_irmaodamae	MATERNAL UNCLE (MOTHER'S BROTHER)	2692	§191
+194_ingeriralimentosmoles			§192
+328_comer	EAT	1336	§326
+196_nambu	TINAMOU	3921	§194
+197_espdefungo			§195
+198_pus	PUS	1808	§196
+199_valor			§197
+200_cinzaacinzentado	ASH	646	§198
+201_cedro	BRAZILIAN CEDAR	3929	§199
+202_cujubim			§200
+203_sufixoverbalcausativo			§201
+204_morrocolina	HILL	614	§202
+228_areia	SAND	671	§225
+965_earth			§207
+206_frio	COLD	1287	§204
+475_varrerciscar	SWEEP	230	§473
+233_chifredeanimal	HORN (ANATOMY)	1393	§230
+210_naterraporterra			§208
+211_enterrar	BURY	1719	§209a
+212_faixaparaacabecachapeu	HEADGEAR	2130	§209
+437_rato	RAT	1490	§435
+229_pedra	STONE	857	§226
+990_piranha			§212
+216_esperar	WAIT (FOR)	1590	§213
+217_sobreencimaacima	ABOVE	1741	§214
+218_metal	METAL	2244	§215
+1746_banana			§385
+220_sentirsaudade	MISS (SOMEBODY)	2328	§217
+221_subirummorro	GO UP (ASCEND)	705	§218
+222_camarao	SHRIMP	2349	§219
+224_barropoeira			§221
+387_espdeplanta			§385
+226_cutiaespderoedor	AGOUTI	313	§223
+403_espdecabaca			§401
+230_urucumaarvoreeoseufruto	ACHIOTE	349	§227
+231_encimacume	ATOP	57	§228
+232_cortarocabelo	CUT (WITH SCISSORS)	2155	§229
+234_golpearacabeca			§231
+235_morrer	DIE	1494	§232
+237_torcergirarmoveremcirculos	TWIST (AROUND)	3199	§234
+238_tocarmexercomamaotatear	TOUCH	1892	§235
+239_molharmolhado			§236
+242_mao	HAND	1277	§239
+241_unhadamao	FINGERNAIL	1258	§238
+243_maodireita	RIGHT HAND	2183	§240
+244_encontrarprocurar	MEET	1831	§241
+245_engatinhar	CRAWL	96	§242
+246_dedo	FINGER	1303	§243
+247_barreirocanama			§244
+248_tuvoce	THOU	1215	§245
+249_vocesvos	YOU	1213	§246a
+250_pamonha			§247
+251_anzol	FISHHOOK	1074	§248
+252_venenoamargo			§249
+253_espinho	THORN	124	§250
+254_ninho	NEST	539	§251
+474_espdemacaco			§472
+256_ceu	SKY	1732	§253
+257_espdemosquito			§254
+258_cupim	TERMITE	883	§255
+259_sonar	DREAM	2374	§256
+260_abaixoembaixosob	BELOW OR UNDER	1485	§257
+261_carne	MEAT	634	§258
+263_colocardentrosubmergir			§260
+264_dentronocentro	INSIDE	1606	§261
+265_banharsetomarbanho	BATHE	138	§262
+266_largo	WIDE	1243	§263
+267_morder	BITE	1403	§264
+268_estrangeiro	STRANGER	791	§265
+309_branco	WHITE	1335	§306
+269_arcoiris	RAINBOW	1733	§266
+270_capoeirarocaabandonada			§267
+271_jacamimespdepassaro			§268
+272_unirjuntar	GATHER	7	§269
+273_amarrar	TIE	1917	§270
+275_dia	DAY (NOT NIGHT)	1225	§272
+276_ficarempe	STAND	1442	§273
+277_matafloresta	FOREST	420	§274
+278_brisa			§275
+285_vento	WIND	960	§282
+279_lacraiaescorpiao			§276
+280_escurtarouvir	HEAR	1408	§277
+281_arrastar	DRAG	2030	§278
+282_suar	SWEAT (PERSPIRE)	126	§279
+283_unclear			§280
+284_aborrecerse			§281
+286_nosnos	WE	1212	§283
+287_profundo	DEEP	1593	§284
+290_espdecaramujo			§287
+289_minhoca	EARTHWORM	2350	§286
+291_gostosodelicioso	TASTY	1813	§288
+484_cheiro	ODOR (SMELL)	3704	§482
+292_amargostar	LOVE	923	§289
+293_apagar	EXTINGUISH	127	§290
+295_nadar	SWIM	1439	§292
+297_canoa	CANOE	1970	§294
+296_pato	DUCK	1360	§293
+298_voar	FLY (MOVE THROUGH AIR)	1441	§295
+299_virchegar	ARRIVE	1387	§296
+300_flor	FLOWER	239	§297
+301_garraunha	CLAW	72	§298
+302_falavozpalavra	VOICE	1363	§299
+503_dizerfalar	SAY	1458	§500
+303_respirar	BREATHE	1407	§300
+304_coracao	HEART	1223	§301
+305_esconder	HIDE (CONCEAL)	602	§302
+512_roubar	STEAL	713	§508
+306_homemhumano	PERSON	683	§303
+501_espdequeixadaporcodomato			§498
+308_vermelho	RED	156	§305
+321_amarelo	YELLOW	1424	§319
+311_embebedarsebebadoembriagado			§308
+324_surdo	DEAF	996	§322
+313_ouvido	EARHOLE	3891	§310
+314_espdetabocabambu			§311
+368_tombar	FALL	1280	§366
+502_espdetatu			§499
+317_enfeitedeorelhabrinco	EARRING	770	§314
+318_pai	FATHER	1217	§315
+319_enganar	DECEIVE	3230	§316
+322_novofrescocru			§320
+323_ramadelarbol	BRANCH	1531	§321
+456_broto	SPROUT (SHOOT)	3358	§454
+325_abanar	FAN (ACTION)	360	§323
+326_podre	ROTTEN	1728	§324
+327_asapena			§325
+329_sobrinhofilhodairma	NEPHEW	1063	§327
+331_periquito	PARAKEET	886	§329
+332_beijaflor	HUMMINGBIRD	1589	§330
+333_espdetucano			§331
+334_fedidofedor	ODOR (SMELL)	3704	§332
+335_espdecobra			§333
+336_bolsapequena			§334
+337_esteira	MAT	195	§335
+339_comidacoisadecomer	FOOD	256	§337
+340_fezes	FAECES (EXCREMENT)	675	§338
+341_espdetuberculoinhame			§339
+342_irmaouirmaodosexooposto			§340
+343_intestinobarriga			§341
+344_veia	VEIN	1924	§342
+345_espdecoruja			§343
+346_espdepreguica			§344
+347_tornozelo	ANKLE	803	§345
+348_jogarabandonar			§346
+349_poeira	DUST	2	§347
+350_braco	ARM	1673	§348
+351_agora	NOW	1376	§349
+352_remediomedicinatradicional	MEDICINE	1372	§350
+353_termedoassustarse	FEAR (BE AFRAID)	1419	§351
+517_tenermiedo			1
+354_dois	TWO	1498	§352
+355_envergonharsetervergonha	ASHAMED	1894	§353
+356_rotulajoelho	KNEE	1371	§354
+358_deitarse	LIE DOWN	215	§356
+359_cobrirenvolver	COVER	761	§357
+360_pelodocorpo	HAIR (BODY)	189	§358
+361_joelho	KNEE	1371	§359
+362_matar	KILL	1417	§360
+363_pontacabeceiradorio	HEADWATERS	2672	§361
+364_parafrenteparacimanorio			§362
+365_buracodonariznarina	NOSTRIL	1178	§363
+366_moer	GRIND	1033	§364
+367_septonasal			§365
+369_instrumentomusical			§367
+370_igualdomesmojeitotambem	SAME	200	§368
+372_fiocorda			§370
+373_fio	THREAD	1161	§371
+374_guaribaespdemacacomonoaullador	HOWLER MONKEY	433	§372
+498_machado	AXE	677	§495
+376_tabaco	TOBACCO	974	§374
+377_cobra	SNAKE	730	§375
+378_fazerdietajejum	FASTING	3331	§376
+379_levantarsuspender			§377
+382_vestirroupa	WEAR	976	§380
+389_pensar	THINK (REFLECT)	1415	§387
+384_quati	COATI (COATIMUNDI)	2389	§382
+385_bombonito	GOOD	1035	§383
+386_peitoprefixopartedocorpo			§384
+388_espdearanha			§386
+391_piumespdemosca			§389
+392_macacosagui			§390
+393_claridade			§391
+394_tamandua	ANTEATER	181	§392
+396_bocejar	YAWN	1028	§394
+397_cascadearvorepele			§395
+398_quente	HOT	1286	§396
+399_cunhadaesposaprimacruzada			§397
+400_osso	BONE	1394	§398
+478_algodao	COTTON	1850	§476
+402_pilaopedra	STONE	857	§400
+404_espdearara			§402
+405_jabuti	RED-FOOTED TORTOISE	3949	§403
+406_canadeacucar	SUGAR CANE	146	§404
+407_tragar	SWALLOW	897	§405
+408_debulharomilho			§406
+410_espdelagartixa			§408
+411_milho	MAIZE	506	§409
+412_espdelagarta			§410
+414_gorduraoleo	FAT (ORGANIC SUBSTANCE)	323	§412
+425_gordo	FAT (OBESE)	1279	§423
+416_dentebicodeave			§414
+417_urubu	VULTURE	1185	§415
+418_cheirar	SMELL (PERCEIVE)	1586	§416
+419_tetofeitodepalha	ROOF	769	§417
+420_benefactivo			§418
+421_sufixodeconcordanciatransitiva			§419
+422_assar	ROAST (SOMETHING)	1962	§420
+423_agulha	NEEDLE (FOR SEWING)	1382	§421
+424_cocarcoceira	ITCH	148	§422
+426_casa	HOUSE	1252	§424
+427_descascar	PEEL	275	§425
+428_espdetucanogrande			§426
+430_pelarsemudardepele			§428
+431_seiosleite	BREAST OR MILK	2129	§429
+1741_chest			§384
+432_verdenaomaduro	UNRIPE	1958	§430
+1947_papaya			§431
+434_vello	FUR	580	§432
+436_meninamoca	YOUNG WOMAN	77	§434
+438_pe	FOOT	1301	§436
+439_tapiricasatemporaria			§437
+440_figado	LIVER	1224	§438
+441_amendoim	GROUNDNUT (PEANUT)	595	§439
+442_bochecha	CHEEK	1730	§440
+443_probar	TRY	1812	§441
+445_ponteplataforma	BRIDGE	1011	§443
+446_raiz	ROOT	670	§444
+447_pauvelhopaupodre			§445
+449_roupa	CLOTHES	1895	§447
+451_sal	SALT	1274	§449
+452_pauzadaamontoadodetroncoquedescenorio			§450
+453_tabocautilizadaparafazerflechas			§451
+454_quebrar	BREAK (DESTROY OR GET DESTROYED)	680	§452
+457_pescoco	NECK	1333	§455
+458_espdegaviao			§456
+459_pomodeadao	ADAM'S APPLE	802	§457
+460_nominalizadordeinstrumento			§458
+461_batergolpear	HIT	1433	§459
+462_espingarda	SHOTGUN	3948	§460
+463_coador			§461
+486_remo	OAR	3137	§483b
+464_engravidardaraluz			§462
+466_azulescuro			§464
+491_negro	BLACK	163	§488
+467_verruga	WART	2665	§465
+468_fazer	DO	813	§466
+470_aguario			§468
+472_pupunha	PEACH PALM	3919	§470
+473_espdeabobora			§471
+476_erva	GRASS	606	§474
+477_teiadearanha	SPIDER WEB	1065	§475
+479_sufixoverbalimperativo			§477
+480_igarape			§478
+481_outro	OTHER	197	§479
+482_umnumeral	ONE	1493	§480
+483_parteinferiordaperna			§481
+485_remar	ROW	1849	§483a
+487_llorar	CRY	1839	§484
+488_bordunabastao	STICK	1295	§485
+489_passar	PASS BY	558	§486
+490_pantorrilha	CALF OF LEG	498	§487
+492_estrela	STAR	1430	§489
+493_comempossede	WITH	1340	§490
+495_cidadeassentamento	TOWN	1391	§492
+496_sufixonegativo			§493
+497_escuronoite			§494
+500_tarde	AFTERNOON	1807	§497
+504_animal	ANIMAL	619	§501
+505_calorquente			§502
+506_terfebreesquentarse			§502a
+507_feiticeiro	SORCERER	823	§503
+515_espirito	GHOST	1175	§511
+508_espdepimenta			§504
+509_perguntar	ASK (INQUIRE)	1309	§505
+511_fiolinhacorda			§507
+513_gentecorpohumano	PERSON	683	§509
+514_crescer	GROW	479	§510
+516_mulhervelha			§512
+hacer	DO	813	1
+cargar	CARRY	700	1
+muela	MOLAR TOOTH	1049	1
+persuadir	PERSUADE	3645	1
+quedarsetenerestar			1
+terminaracabar	FINISH	1766	1
+andar	FOLD	1470	319
+transitivizingsuffix			2
+simpleinterrogante			3
+que	WHAT	1236	3
+cosa	THING	738	3
+quien	WHO	1235	3
+conque			3
+paraque			3
+dequien			3
+interrogacion			3
+barbasco	FISH POISON	348	4
+pampa	PLAIN	652	5
+teta	BREAST	1402	6
+chontaloro			7
+arbol	TREE	906	8
+negativesuffix			9
+motacucillo			10
+sangre	BLOOD	946	11
+lengua	TONGUE	1205	12
+palosanto			13
+mujer	WOMAN	962	14
+gualusa			15
+obscuro	OBSCURE	1764	16
+creceragrandar			17
+hombro	SHOULDER	1482	18
+grillo	CRICKET	2354	19
+alacran	SCORPION	1538	20
+amigo	FRIEND	1325	21
+abeja	BEE	665	22
+mundo	WORLD	965	23
+tapir	TAPIR	312	24
+marido	HUSBAND	1200	25
+sucio	DIRTY	1230	26
+mirarver	SEE	1409	27
+mostrar	SHOW	1039	27
+parecido	SIMILAR	1558	27
+saber	KNOW (SOMETHING)	1410	27
+lago	LAKE	624	28
+rociosereno	DEW	1977	28
+codo	ELBOW	981	29
+brazo	ARM	1673	29
+espalda	BACK	1291	29
+frio	COLD	1287	30
+cielo	SKY	1732	31
+largo	LONG	1203	31
+ajoajo			32
+abuelo	GRANDFATHER	1383	33
+cedro			34
+colgar	HANG UP	357	36
+luna	MOON	1313	37
+desidia			38
+hilar	SPIN	121	39
+pedir	ASK (REQUEST)	1828	40
+nombre	NAME	1405	41
+jochipintado			42
+vibora	SNAKE	730	43
+hijo	SON	1620	44
+sembrar	SOW SEEDS	748	45
+caricari			46
+jausilagartija	LIZARD	632	47
+sal	SALT	1274	48
+acomodar			49
+arrojar	THROW	1456	50
+tostar			51
+ventear			52
+viento	WIND	960	52
+traer	BRING	692	53
+nadar	SWIM	1439	54
+encima	ABOVE	1741	55
+tambien			55
+rioarriba			55
+buitrenegro			56
+felizalegrecontento	HAPPY	1495	57
+querer	WANT	1784	57
+garrapata			58
+escarbar			59
+viejo	OLD	1229	60
+dos	TWO	1498	61
+osohormigueroosoperezoso			62
+piojo	LOUSE	1392	63
+palmareal			64
+balsa	RAFT	1664	65
+cuquisa			66
+aji	CHILI PEPPER	919	67
+pesado	HEAVY	1210	68
+murcielago	BAT	1793	69
+avispopeto			70
+dulce	SWEET	717	71
+piel	SKIN	763	72
+meter	PUT	998	73
+marimono			74
+verguenza	SHAME	1776	75
+basura	GARBAGE	909	76
+par	PAIR	1888	77
+cara	FACE	1560	77
+abajo	DOWN	1326	78
+bajar	GO DOWN (DESCEND)	2014	78
+sobrinoa	NEPHEW	1063	79
+melero			80
+tucandera			81
+perdiz	PARTRIDGE	3681	82
+guayabaarbol	GUAVA	3981	83
+risueno			84
+ranasapo	FROG	503	85
+pusmateria			86
+chuchiocharocanabrava	REED	659	87
+floracion			88
+cabello	HAIR (HEAD)	2648	88
+mojar			89
+reir	LAUGH	1355	90
+orilla	SHORE	113	91
+necesito			92
+piepierna	FOOT OR LEG	2098	93
+cabeza	HEAD	1256	94
+puntadeflechahechadetacuararaspada			95
+hueso	BONE	1394	96
+ayudar	HELP	1897	97
+diente	TOOTH	1380	98
+dualsuffix			99
+gritar	SHOUT	715	100
+fuerteagrio			101
+pecho	CHEST	1592	102
+puertaafuera			103
+gusano	WORM	1219	104
+grasagordura	FAT (ORGANIC SUBSTANCE)	323	105
+lamer	LICK	319	106
+gancho	HOOK	1071	107
+atorar			108
+diafiesta			109
+tejer	WEAVE	133	110
+robar	STEAL	713	111
+palmera	PALM TREE	1181	112
+marihui			113
+excusar			114
+grano	GRAIN	605	115
+esquina	CORNER	192	115
+borogusano			116
+tatu	TATTOO	68	117
+hipo	HICCOUGH	162	118
+morder	BITE	1403	119
+tucan	TOUCAN	308	120
+cuandoharto			121
+subir	CLIMB	1102	122
+aro			123
+voz	VOICE	1363	124
+encontrar	FIND	719	125
+ombligo	NAVEL	1838	126
+adjectivizingsuffix			127
+palo	STICK	1295	128
+caer	FALL	1280	129
+tabano			130
+cuerno	HORN (ANATOMY)	1393	131
+tortugapeta			132
+ardilla	SQUIRREL	1628	133
+raspar	SCRAPE	1767	134
+hombre	MAN	1554	135
+mononocturno			136
+mosquito	MOSQUITO	1509	137
+camino	PATH	2252	138
+pariente	RELATIVES	1644	139
+hondoprofundo	DEEP	1593	140
+entrarcentro			140
+adentroen	IN	1460	140
+envolver	WRAP	1113	140
+cascabel	RATTLESNAKE	871	141
+racimo	BUNCH	1966	142
+brujodios			143
+molertocar			144
+venado	DEER	1936	145
+excremento	FAECES (EXCREMENT)	675	146
+llevar	CARRY	700	147
+monomanechi			148
+absolutiveprefix			149
+si	YES	1268	150
+1p	WE	1212	151
+tigre	JAGUAR	1250	152
+raya			153
+remedio	MEDICINE	1372	154
+puercoespin	PORCUPINE	2510	155
+oreja	EAR	1247	156
+carino			157
+diablozorro			158
+vivo	BE ALIVE	1422	159
+sol	SUN	1343	160
+tomarbeber	DRINK	1401	161
+esperar	WAIT (FOR)	1590	162
+hormiga	ANT	587	163
+consumir	CONSUME (DRINK OR EAT)	2787	164
+hojapelopluma			165
+agarrar	SEIZE	855	166
+japutamu			167
+collar	NECKLACE	1961	168
+urupecedazo			169
+vender	SELL	1571	170
+desgranar	THRESH	285	171
+cola	TAIL	1220	172
+llamar	CALL	1084	173
+pudrirse	ROT	2907	174
+dejarponer	PUT	998	175
+nuevoahora			176
+pegar	HIT	1433	177
+cunado	BROTHER-IN-LAW	2314	178
+hermanamenor	YOUNGER SISTER	1761	178
+hermanomenor	YOUNGER BROTHER	1760	178
+bofe			179
+mandibula	JAW	798	184
+abrir	OPEN	1156	186
+tareche			187
+derivativesuffixwithreferencetobodyparts			198
+huevo	EGG	744	199
+plantadeplatano	BANANA TREE	1795	200
+fruta	FRUIT	1507	200
+chaquilloarbol			200
+mani	PEANUT	2364	200
+zumaquiarbol			200
+costillodecasa			201
+rollup			202
+techo	ROOF	769	203
+nadamas			204
+descansar	REST	168	205
+comida	FOOD	256	206
+pozo	WELL	954	207
+paraba			208
+agentnominalizersuffix			209
+creer	BELIEVE	1890	210
+hoydiaahora			211
+sacarcomprar			213
+zapayojoco			214
+haz			215
+pastparticiple			217
+monte	BUSH	1683	218
+pachiubapalmera			219
+tio	UNCLE	1327	220
+campanillowildturkey			221
+pueblo	VILLAGE	930	222
+bejuco			223
+loro	PARROT	882	224
+tigrecillo			225
+canoso			226
+ir	GO	695	227
+madre	MOTHER	1216	228
+hot	HOT	1286	229
+caliente	HOT	1286	229
+claro	CLEAR	989	229
+freir	FRY	991	229
+lena	FIREWOOD	10	229
+asar	ROAST (SOMETHING)	1962	229
+canoa	CANOE	1970	231
+boca	MOUTH	674	232
+picaflor	HUMMINGBIRD	1589	233
+pluralsuffixnounandpronoun			234
+jefejuez			235
+chocolate	CHOCOLATE	3873	236
+yuca	CASSAVA	925	237
+asomar			238
+afilado	SHARP	1396	239
+delgado	THIN (SLIM)	1400	239
+imperativesuffix			240
+possessiveaffix			241
+nutria	OTTER	15	242
+barba	BEARD	678	243
+avisar	ANNOUNCE	9	243
+barranco	RAVINE	1930	243
+primero	FIRST	728	244
+tumbar			245
+rio	RIVER	666	246
+pintado			247
+quiabo			249
+espinas	FISHBONE	3799	250
+pene	PENIS	1222	251
+cuidar			252
+salirllegar	GO OUT	1107	253
+cuerpo	BODY	1480	254
+vientre	BELLY	1251	256
+negativeprivativesuffix			257
+achiote	ACHIOTE	349	258
+castigar	PUNISH	3649	259
+jochicolorado			260
+martinpescadorave			261
+resina	RESIN	664	262
+bibosiarbol			263
+cascajo	GRAVEL	3028	264
+guerraenemigo			265
+orillabanda			266
+palometapez			267
+sayamajo			268
+majillopalmera			268
+madremama	MOTHER	1216	269
+alligator	ALLIGATOR	1581	270
+arboldesiringa			271
+morir	DIE	1494	272
+llevarcargarabrazar			273
+paujil	CURASSOW	315	274
+chonta	CHONTA PALM	440	275
+brujahechicero			276
+caituhilohechoencasa			277
+cerro	MOUNTAIN	639	278
+lagartocaiman			279
+muchomalodificil			280
+gredabarrocoloradopiedra			281
+tierra	EARTH (SOIL)	1228	281
+tierraarena			281
+mano	HAND	1277	282
+adjectivesuffix			283
+arma	WEAPONS	951	284
+dueno	OWNER	1036	285
+vaciar			286
+vacio	EMPTY	1624	287
+recoger	PICK UP	371	288
+causativesuffix			289
+mananaayer			290
+celar			291
+2dapersona	YOU	1213	292
+palabrahablarcantar			293
+dardecomer	FEED	739	294
+pancho			295
+arrancardesplumar			296
+tacuaraflauta			297
+ceniza	ASH	646	298
+seco	DRY	1398	299
+crecer	GROW	479	300
+hinchar	SWELL	1573	301
+gorgojo			302
+sombrero	HAT	771	303
+almendro			304
+lluviaaguacero	RAIN (PRECIPITATION)	658	305
+humedomojado	WET	1726	305
+aguado	WATERY	3545	305
+banar	BATHE	138	305
+agualluviario			305
+ala	WING	1257	306
+sobaco	ARMPIT	1886	306
+cuellopescuezo	NECK	1333	307
+garganta	THROAT	1346	307
+completivesuffix			309
+tiernochico			310
+platanopacay			311
+turiro			312
+defendertenermezquindad			313
+tia	AUNT	1272	314
+enfermedad	DISEASE	1986	315
+correctoverdadero	CORRECT (RIGHT)	1725	316
+pararpararse			317
+animaespiritucorazon			318
+geniocaracterconciencia			318
+hermano	BROTHER	1262	320
+empujar	PUSH	1452	321
+meterentrar			321
+pastopaja			322
+arbolconfrutoquesecomen			323
+ciempies	CENTIPEDE	1974	324
+with	WITH	1340	325
+medio	CENTER OR MIDDLE	3208	326
+enterrar	BURY	1719	327
+llorar	CRY	1839	328
+sedice			329
+augmentativesuffix			330
+rinon	KIDNEY	489	331
+amargo	BITTER	887	332
+golpear	STRIKE	353	333
+carpir			334
+blanco	WHITE	1335	335
+tuertogris			336
+uno	ONE	1493	338
+unladojuntoanteadelante			339
+bambu	BAMBOO	1927	340
+cayapobalsa			341
+acompanar	ACCOMPANY	1542	342
+desenganchar			343
+pasaratravesar			344
+extender	SPREAD OUT	38	345
+ligoso			347
+flecha	ARROW	977	348
+pescuezocuello	NECK	1333	349
+desatar	UNTIE	352	350
+iguana	IGUANA	1578	351
+puno	FIST	1473	352
+pelar	PEEL	275	353
+decirhacer			354
+venirllegar			354
+reventar			355
+blando	SOFT	1856	356
+nominalizingagentivesuffix			357
+mujerhembra	FEMALE	1551	359
+curucusiluciernaga			360
+transivitizingandinstrumentalsuffixmainlypronominal			361
+carnecuerpo	FLESH OR MEAT	2615	362
+esteaqui			363
+cortarquebrar			364
+juntaramontonaracarrear			365
+chapapearabochornar			366
+garza	HERON	758	367
+rallarraspar	GRATE (SOMETHING)	3114	369
+pascana			370
+gatear	CRAWL	96	371
+apretar	SQUEEZE	1414	372
+zurcirfrunzar			372
+tirarjalar	PULL	1455	372
+amarraratar	TIE	1917	372
+podrir	ROT	2907	373
+acostarecharse	LIE DOWN	215	374
+possessivesuffix			375
+mariposa	BUTTERFLY	1791	376
+pezpescado	FISH	227	377
+bueno	GOOD	1035	378
+cortar	CUT	1432	379
+fuerteacidoagrio			380
+gallinazosucha			381
+venanerviotendon			382
+sarna			383
+maduraramarillo			384
+chichilo			385
+venirandartirar			386
+llenarllenarse	FILL	2006	387
+yacamiave			388
+resbalosoresbalar			389
+hongo	MUSHROOM	641	390
+cortarserruchar			391
+calientecocinar			392
+rataraton	MUROID (MOUSE OR RAT)	2139	393
+monosilbador			394
+locativesuffix			395
+despues	AFTER	1685	396
+pato	DUCK	1360	397
+pierna	LEG	1297	398
+juntosambos			399
+picotada			400
+durofuerte			401
+silencio	SILENCE	3458	402
+higado	LIVER	1224	403
+casa	HOUSE	1252	404
+hormigacazadora			405
+anillo	RING	1374	406
+calabaceragrandeinsecto			407
+remarbatir			408
+clavararreglar			409
+papa	FATHER	1217	410
+cana	REED	659	411
+dormir	SLEEP	1585	412
+pavo	TURKEY	2386	413
+matarcazar			414
+jacuu			415
+cerrar	SHUT	1046	416
+esconderse	HIDE (ONESELF)	2485	417
+chaco			418
+fuego	FIRE	221	419
+apagar	EXTINGUISH	127	419
+quemar	BURN (SOMETHING)	141	419
+troncopierna			420
+piernafalda			420
+piernamuslo			420
+dar	GIVE	1447	421
+detrasatras	BEHIND	1686	421
+atrasdespues			421
+reflexivesuffix			422
+una	FINGERNAIL OR TOENAIL	1896	423
+cintura	WAIST	1681	424
+centro	CENTER	491	425
+raiz	ROOT	670	426
+terminar	FINISH	1766	427
+tronar			428
+quejido			429
+pisararanar			430
+3rapersona			431
+barriga	BELLY	1251	432
+encender	LIGHT (IGNITE)	737	433
+cortartrozar			434
+lorochico	PARROT	882	435
+ojo	EYE	1248	436
+motacu			437
+piedra	STONE	857	438
+lombriz	WORM	1219	439
+pesar	WEIGH	1098	440
+nietanieto	GRANDSON	1618	441
+sobrinosobrina	NEPHEW	1063	441
+hermanomayor	OLDER BROTHER	1759	441
+asi			442
+espuma	FOAM	1768	443
+luz	LIGHT (RADIATION)	630	444
+silbar	WHISTLE	1025	445
+tabaco	TOBACCO	974	446
+marfilpalmera			447
+caerse	TUMBLE (FALL DOWN)	2894	448
+sardina			449
+agua	WATER	948	451
+mezclar	MIX	2017	452
+chancodetropa			453
+pie	FOOT	1301	454
+sabanon			455
+chico	SMALL	1246	456
+paloma	DOVE	1853	457
+conejo	RABBIT	1136	458
+poner	PUT	998	459
+humo	SMOKE (EXHAUST)	778	461
+abejo			462
+algodon	COTTON	1850	463
+palizado			464
+huaracachiave			465
+toco			466
+autoridad	AUTHORITY	1637	467
+abejamiel			468
+rana	FROG	503	469
+sudorsudar	PERSPIRE OR SWEAT	2458	470
+mosca	FLY (INSECT)	1504	471
+nariz	NOSE	1221	472
+ahogar	DROWN	1904	473
+desnudarsacardestejar			474
+cera	WAX	3942	476
+orina	URINE	1142	477
+perdizchica			478
+soplar	BLOW (OF WIND)	175	479
+vestir	WEAR	976	480
+espigacogollo			481
+colorear			482
+plantarclavar			483
+ramagajo	BRANCH OR TWIG	3223	484
+banda			485
+espiga	SPIKE	1249	487
+pasttense			488
+coca	COCA	137	489
+cernerpunzar			490
+sancochar			491
+isla	ISLAND	622	492
+prender			493
+azulverde	BLUE OR GREEN	2382	494
+defecar	SHIT (DEFECATE)	676	495
+plato	PLATE	480	496
+barrigaintestinos			497
+cangrejo	CRAB	2348	498
+negro	BLACK	163	499
+unirjuntar	JOIN	1743	501
+noche	NIGHT	1233	502
+ensartarcosturar			503
+capibara	CAPYBARA	314	504
+barrer	SWEEP	230	180
+lavar	WASH	1453	181
+izquierdozurdo			182
+hincharse	SWELL	1573	188
+concha	SHELL	598	189
+arana	SPIDER	843	190
+maiz	MAIZE	506	191
+cicatriz	SCAR	497	192
+oler	SMELL	2124	193
+canasta	BASKET	1539	194
+echar	THROW	1456	195
+desiderative			197
+1_tree	TREE	906	
+2_tooth	TOOTH	1380	
+3_two	TWO	1498	
+4_liver	LIVER	1224	
+5_leaftofan			
+6_bone	BONE	1394	
+7_tongue	TONGUE	1205	
+8_hand	HAND	1277	
+9_night			
+10_skin	SKIN	763	
+11_fire	FIRE	221	
+12_knee	KNEE	1371	
+13_blood	BLOOD	946	
+14_breast	BREAST	1402	
+15_moonsun			
+16_you	THOU	1215	
+17_come	COME	1446	
+18_i	I	1209	
+19_flesh	FLESH	2259	
+20_fat	FAT (ORGANIC SUBSTANCE)	323	
+21_fingernail	FINGERNAIL	1258	
+22_footleg	FOOT OR LEG	2098	
+23_lipedge			
+24_cheek	CHEEK	1730	
+25_mouth	MOUTH	674	
+26_elbow	ELBOW	981	
+27_1stsgi			
+28_2ndsgyou			
+29_demonstrative			
+30_demonstrativeproximate			
+31_genitive			
+32_imperative			
+33_goingdowndownward			
+34_docoming			
+35_desiderative			
+36_negative	NOT	1240	
+37_causative			
+38_augmentative			
+39_dotrauxiliarytr			
+40_transitivizer			
+41_detransitivizerreflexive			
+42_ergative			
+43_previouseventsamesubject			
+44_comitativealongwith			
