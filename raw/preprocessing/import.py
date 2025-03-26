@@ -66,6 +66,7 @@ for ds in datasets:
         form_table[i] = [
             wl[item, 'id'],
             language_id,
+            parameter_id,
             concept_lookup[concept_id],
             wl[item, 'value'],
             wl[item, 'form'],
@@ -103,7 +104,7 @@ with open('../../etc/concepts.tsv', 'w', newline='', encoding='utf8') as csvfile
 with open('../../raw/raw.tsv', 'w', newline='', encoding='utf8') as csvfile:
     writer = csv.writer(csvfile, delimiter='\t')
     writer.writerow([
-        'ID', 'Form_ID', 'Language_ID', 'Parameter_ID', 'Value', 'Form', 'Segments', 'Comment',
+        'ID', 'Form_ID', 'Language_ID', 'Parameter_ID', 'Concept', 'Value', 'Form', 'Segments', 'Comment',
         'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes', 'Borrowing', 'Dataset'
         ])
 
