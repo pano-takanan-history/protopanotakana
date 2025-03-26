@@ -13,6 +13,7 @@ visited = []
 language_table = defaultdict()
 concept_table = defaultdict()
 form_table = defaultdict()
+concept_lookup = defaultdict()
 
 for ds in datasets:
     wl = Wordlist.from_cldf(
@@ -49,18 +50,23 @@ for ds in datasets:
 
         # Add concepts
         concept_id = wl[item, 'parameter_id'] + '_' + ds
+        gloss = wl[item, 'concepticon_gloss']
+
         if concept_id not in concept_table:
             concept_table[concept_id] = [
                 wl[item, 'concept'],
-                wl[item, 'concepticon_gloss'],
+                gloss,
                 wl[item, 'concepticon'],
                 wl[item, 'concept_proto_id']
                 ]
 
+            # Add Concepticon gloss in FormTable
+            concept_lookup[concept_id] = gloss if gloss != '' else wl[item, 'concept']
+
         form_table[i] = [
             wl[item, 'id'],
             language_id,
-            concept_id,
+            concept_lookup[concept_id],
             wl[item, 'value'],
             wl[item, 'form'],
             wl[item, 'tokens'],
@@ -73,7 +79,6 @@ for ds in datasets:
             wl[item, 'borrowing'],
             ds
         ]
-
 
 for item in concept_table:
     print(item, concept_table[item])
@@ -97,7 +102,10 @@ with open('../../etc/concepts.tsv', 'w', newline='', encoding='utf8') as csvfile
 
 with open('../../raw/raw.tsv', 'w', newline='', encoding='utf8') as csvfile:
     writer = csv.writer(csvfile, delimiter='\t')
-    writer.writerow(['ID', 'Form_ID', 'Language_ID', 'Parameter_ID', 'Value', 'Form', 'Segments', 'Comment', 'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes', 'Borrowing', 'Dataset'])
+    writer.writerow([
+        'ID', 'Form_ID', 'Language_ID', 'Parameter_ID', 'Value', 'Form', 'Segments', 'Comment',
+        'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes', 'Borrowing', 'Dataset'
+        ])
 
     for key, values in form_table.items():
         writer.writerow([key] + values)
