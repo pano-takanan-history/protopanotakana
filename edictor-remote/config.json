@@ -1,0 +1,48 @@
+{
+  "remote": {
+    "remoteprotopanotakana": {
+      "triples.py": {
+        "url":  "http://lingulist.de/pth/triples.py",
+        "data": {
+          "file": "protopanotakana",
+          "remote_dbase": "protopanotakana",
+          "columns": "DOCULECT|CONCEPT|VALUE|FORM|TOKENS|COGID|COGIDS|ALIGNMENT|PATTERNS|MORPHEMES|SUBGROUP|NOTE"
+        }
+      },
+      "update.py": {
+        "url": "http://lingulist.de/pth/updater.py",
+        "data": {
+          "file": "protopanotakana",
+          "remote_dbase": "protopanotakana"
+        }
+      },
+      "new_id.py": {
+        "url": "http://lingulist.de/pth/triples.py",
+        "data": {
+          "file": "protopanotakana",
+          "remote_dbase": "protopanotakana"
+        }
+      },
+      "modifications.py": {
+        "url": "http://lingulist.de/pth/triples.py",
+        "data": {
+          "file": "protopanotakana",
+          "remote_dbase": "protopanotakana"
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "url": "edictor.html",
+      "name": "Proto-Pano Takana (Remote)",
+      "data": {
+        "file": "remoteprotopanotakana",
+        "remote_dbase": "remoteprotopanotakana",
+        "async": "true",
+        "preview": 30,
+        "basics": "DOCULECT|CONCEPT|FORM|TOKENS|COGIDS|ALIGNMENT|NOTE"
+      }
+    }
+  ]
+}

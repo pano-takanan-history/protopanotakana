@@ -1,12 +1,23 @@
 import csv
 from collections import defaultdict
+from clldutils.misc import slug
 from lingpy import Wordlist
+
+
+def write_table(path, header, table):
+    with open(path, 'w', newline='', encoding='utf8') as csvfile:
+        writer = csv.writer(csvfile, delimiter='\t')
+        writer.writerow(header)
+        for key, values in table.items():
+            writer.writerow(values)
+
 
 datasets = [
     'blumpanotacana',
     'oliveiraprotopanoan',
     'girardprototakanan',
-    'valenzuelazariquieypanotakana'
+    'valenzuelazariquieypanotakana',
+    'girardprotopanotakanan'
     ]
 
 visited = []
@@ -27,7 +38,7 @@ for ds in datasets:
         namespace=(
             ('concept_name', 'concept'),
             ('language_id', 'doculect'),
-            ('language_glottocode', 'glottolog'),
+            ('language_glottocode', 'glottocode'),
             ('segments', 'tokens'),
             ('cognacy', 'cognacy'),
             ('concept_concepticon_id', 'concepticon'),
@@ -38,36 +49,47 @@ for ds in datasets:
 
     for i, item in enumerate(wl):
         # Add languages
-        checkup_concept = [wl[item, 'language_name'], ds]
-        language_id = wl[item, 'doculect'] + '_' + ds
-        if checkup_concept not in visited and wl[item, 'language_family'] == 'Pano-Tacanan':
-            visited.append(checkup_concept)
-            language_table[wl[item, 'language_name']] = [
-                language_id,
-                wl[item, 'glottolog'],
-                ds
+        glottocode = wl[item, 'glottocode']
+        lang_id = slug(wl[item, 'language_name'])
+        if glottocode not in ['chip1262', 'movi1243', 'mose1249', 'chim1313']:
+            if glottocode not in visited:
+                visited.append(glottocode)
+                language_table[glottocode] = [
+                    wl[item, 'language_name'],
+                    lang_id,
+                    glottocode,
+                    [ds]
                 ]
 
+            elif ds not in language_table[glottocode][3]:
+                 language_table[glottocode][3].append(ds)
+
         # Add concepts
-        concept_id = wl[item, 'parameter_id'] + '_' + ds
-        gloss = wl[item, 'concepticon_gloss']
+        gloss = slug(wl[item, 'concept'])
+        conc = wl[item, 'concepticon_gloss']
+        pid = wl[item, 'concept_proto_id'] + '_' + ds if wl[item, 'concept_proto_id'] else ''
+        checkup_id = wl[item, 'concept'] + '_' + ds
+        concept_id = conc if conc is not None else gloss
 
         if concept_id not in concept_table:
             concept_table[concept_id] = [
-                wl[item, 'concept'],
                 gloss,
+                wl[item, 'concept'].replace('*', ''),
+                conc,
                 wl[item, 'concepticon'],
-                wl[item, 'concept_proto_id']
-                ]
+                [pid]
+            ]
+            concept_lookup[checkup_id] = concept_id
 
-            # Add Concepticon gloss in FormTable
-            concept_lookup[concept_id] = gloss if gloss != '' else wl[item, 'concept']
+        elif pid not in concept_table[concept_id][4]:
+            concept_table[concept_id][4].append(pid)
+            
 
         form_table[i] = [
             wl[item, 'id'],
-            language_id,
-            parameter_id,
-            concept_lookup[concept_id],
+            lang_id,
+            concept_id,
+            conc,
             wl[item, 'value'],
             wl[item, 'form'],
             wl[item, 'tokens'],
@@ -81,32 +103,22 @@ for ds in datasets:
             ds
         ]
 
-for item in concept_table:
-    print(item, concept_table[item])
-
 language_table = dict(sorted(language_table.items(), key=lambda item: item[1][1]))
+for item in language_table:
+    language_table[item][3] = ', '.join(language_table[item][3])
 
-with open('../../etc/languages.tsv', 'w', newline='', encoding='utf8') as csvfile:
-    writer = csv.writer(csvfile, delimiter='\t')
-    writer.writerow(['Name', 'ID', 'Glottocode', 'Dataset'])
+header_langs = ['Name', 'ID', 'Glottocode', 'Dataset']
+write_table('../../etc/languages.tsv', header_langs, language_table)
 
-    for key, values in language_table.items():
-        writer.writerow([key] + values)
+concept_table = dict(sorted(concept_table.items(), key=lambda item: (item[1][2] is None, item[1][2])))
+for item in concept_table:
+    cleaned = [pid for pid in concept_table[item][4] if pid != '']
+    concept_table[item][4] = ', '.join(cleaned)
 
-concept_table = dict(sorted(concept_table.items(), key=lambda item: item[1][0]))
-with open('../../etc/concepts.tsv', 'w', newline='', encoding='utf8') as csvfile:
-    writer = csv.writer(csvfile, delimiter='\t')
-    writer.writerow(['Parameter_ID', 'Concept', 'Concepticon_Gloss', 'Concepticon_ID', 'Proto_ID'])
+header_concepts = ['ID', 'Concept', 'Concepticon_Gloss', 'Concepticon_ID', 'Proto_ID']
+write_table('../../etc/concepts.tsv', header_concepts, concept_table)
 
-    for key, values in concept_table.items():
-        writer.writerow([key] + values)
-
-with open('../../raw/raw.tsv', 'w', newline='', encoding='utf8') as csvfile:
-    writer = csv.writer(csvfile, delimiter='\t')
-    writer.writerow([
-        'ID', 'Form_ID', 'Language_ID', 'Parameter_ID', 'Concept', 'Value', 'Form', 'Segments', 'Comment',
-        'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes', 'Borrowing', 'Dataset'
-        ])
-
-    for key, values in form_table.items():
-        writer.writerow([key] + values)
+header_raw = ['Form_ID', 'Language_ID', 'Parameter_ID', 'Concept', 'Value', 'Form', 'Segments',
+            'Comment', 'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes', 'Borrowing', 'Dataset'
+            ]
+write_table('../../raw/raw.tsv', header_raw, form_table)
