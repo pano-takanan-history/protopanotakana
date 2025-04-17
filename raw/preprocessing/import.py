@@ -49,31 +49,32 @@ for ds in datasets:
 
     for i, item in enumerate(wl):
         # Add languages
+        replacement
         glottocode = wl[item, 'glottocode']
         lang_id = slug(wl[item, 'language_name'])
         if glottocode not in ['chip1262', 'movi1243', 'mose1249', 'chim1313']:
-            if glottocode not in visited:
-                visited.append(glottocode)
-                language_table[glottocode] = [
+
+            if lang_id not in visited:
+                visited.append(lang_id)
+                language_table[lang_id] = [
                     wl[item, 'language_name'],
                     lang_id,
                     glottocode,
                     [ds]
                 ]
 
-            elif ds not in language_table[glottocode][3]:
-                 language_table[glottocode][3].append(ds)
+            elif ds not in language_table[lang_id][3]:
+                 language_table[lang_id][3].append(ds)
 
         # Add concepts
-        gloss = slug(wl[item, 'concept'])
         conc = wl[item, 'concepticon_gloss']
         pid = wl[item, 'concept_proto_id'] + '_' + ds if wl[item, 'concept_proto_id'] else ''
         checkup_id = wl[item, 'concept'] + '_' + ds
-        concept_id = conc if conc is not None else gloss
+        concept_id = slug(conc if conc is not None else wl[item, 'concept'])
 
         if concept_id not in concept_table:
             concept_table[concept_id] = [
-                gloss,
+                concept_id,
                 wl[item, 'concept'].replace('*', ''),
                 conc,
                 wl[item, 'concepticon'],
@@ -83,13 +84,10 @@ for ds in datasets:
 
         elif pid not in concept_table[concept_id][4]:
             concept_table[concept_id][4].append(pid)
-            
 
         form_table[i] = [
-            wl[item, 'id'],
             lang_id,
             concept_id,
-            conc,
             wl[item, 'value'],
             wl[item, 'form'],
             wl[item, 'tokens'],
@@ -118,7 +116,7 @@ for item in concept_table:
 header_concepts = ['ID', 'Concept', 'Concepticon_Gloss', 'Concepticon_ID', 'Proto_ID']
 write_table('../../etc/concepts.tsv', header_concepts, concept_table)
 
-header_raw = ['Form_ID', 'Language_ID', 'Parameter_ID', 'Concept', 'Value', 'Form', 'Segments',
+header_raw = ['Doculect', 'Concept', 'Value', 'Form', 'Segments',
             'Comment', 'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes', 'Borrowing', 'Dataset'
             ]
-write_table('../../raw/raw.tsv', header_raw, form_table)
+# write_table('../../raw/raw.tsv', header_raw, form_table)

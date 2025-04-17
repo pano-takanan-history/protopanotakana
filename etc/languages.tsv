@@ -2,31 +2,47 @@ Name	ID	Glottocode	Dataset
 Amawaka	amawaka	amah1246	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
 Araona	araona	arao1248	blumpanotacana, girardprototakanan, valenzuelazariquieypanotakana
 Arasa	arasa	araz1236	girardprototakanan, valenzuelazariquieypanotakana
-Cavineña	cavinena	cavi1250	blumpanotacana, girardprototakanan, valenzuelazariquieypanotakana
-Chákobo	chakobo	chac1251	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
+Čama (Firestone)	camafirestone	esee1248	girardprototakanan
+Cavineña	cavinena	cavi1250	blumpanotacana, valenzuelazariquieypanotakana
+Chacobo	chacobo	chac1251	valenzuelazariquieypanotakana
+Chákobo	chakobo	chac1251	blumpanotacana, oliveiraprotopanoan
 Chama	chama	cham1314	valenzuelazariquieypanotakana
 Chanináwa	chaninawa	shan1283	oliveiraprotopanoan, valenzuelazariquieypanotakana
-Ese Ejja	eseejja	esee1248	blumpanotacana, girardprototakanan, valenzuelazariquieypanotakana
+Ese Ejja	eseejja	esee1248	blumpanotacana, valenzuelazariquieypanotakana
+Ese Ejja (Huarayo)	eseejjahuarayo	esee1248	blumpanotacana
+Ese?exa	eseexa	esee1248	girardprototakanan
 Iskonawa	iskonawa	isco1239	blumpanotacana
+Kakataibo	kakataibo	cash1251	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
 Kapanawa	kapanawa	capa1241	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
-Kashararí	kasharari	kaxa1239	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
-Kashibo	kashibo	cash1251	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
+Kashararí	kasharari	kaxa1239	blumpanotacana
+Kashibo	kashibo	cash1251	blumpanotacana
 Katukina	katukina	pano1254	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
+Kavineño	kavineno	cavi1250	girardprototakanan
+Kaxararí	kaxarari	kaxa1239	oliveiraprotopanoan, valenzuelazariquieypanotakana
 Kaxinawá	kaxinawa	cash1254	oliveiraprotopanoan, valenzuelazariquieypanotakana
 Korúbo	korubo	koru1247	oliveiraprotopanoan, valenzuelazariquieypanotakana
 Mabenaro	mabenaro	mabe1235	girardprototakanan, valenzuelazariquieypanotakana
 Marináwa	marinawa	mari1443	oliveiraprotopanoan, valenzuelazariquieypanotakana
+Maropa	maropa	reye1240	girardprototakanan
 Marúbo	marubo	maru1252	oliveiraprotopanoan, valenzuelazariquieypanotakana
 Matís	matis	mati1255	oliveiraprotopanoan, valenzuelazariquieypanotakana
-Matses	matses	mats1244	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
+Matses	matses	mats1244	blumpanotacana, valenzuelazariquieypanotakana
+Mayorúna	mayoruna	mats1244	oliveiraprotopanoan
 Poyanáwa	poyanawa	poya1241	oliveiraprotopanoan, valenzuelazariquieypanotakana
-Proto-Panoan	protopanoan		oliveiraprotopanoan, valenzuelazariquieypanotakana, girardprotopanotakanan
+Proto-Pano	protopano		valenzuelazariquieypanotakana
+Proto-Panoan	protopanoan		oliveiraprotopanoan, girardprotopanotakanan
 Proto-Pano-Takana	protopanotakana	pano1259	valenzuelazariquieypanotakana, girardprotopanotakanan
-ProtoTakana	prototakana	taca1255	girardprototakanan, girardprotopanotakanan
+ProtoTakana	prototakana	taca1255	girardprototakanan, valenzuelazariquieypanotakana, girardprotopanotakanan
+Reyesano	reyesano	reye1240	girardprototakanan, valenzuelazariquieypanotakana
+Sapibokona	sapibokona	reye1240	girardprototakanan, valenzuelazariquieypanotakana
+Shanenáwa	shanenawa	shan1283	oliveiraprotopanoan, valenzuelazariquieypanotakana
 Sharanawa	sharanawa	shar1245	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
 Shipibo-Konibo	shipibokonibo	ship1254	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
-Tacana	tacana	taca1256	blumpanotacana, girardprototakanan, valenzuelazariquieypanotakana
-Warayo	warayo	guar1292	valenzuelazariquieypanotakana
-Warisa	warisa	reye1240	girardprototakanan, valenzuelazariquieypanotakana
+Tacana	tacana	taca1256	blumpanotacana
+Tacanan	tacanan	taca1256	valenzuelazariquieypanotakana
+Takana	takana	taca1256	girardprototakanan
+Tiatinawa	tiatinawa	esee1248	girardprototakanan, valenzuelazariquieypanotakana
+Warayo	warayo	esee1248	girardprototakanan, valenzuelazariquieypanotakana
+Warisa	warisa	reye1240	girardprototakanan
 Yaminawa	yaminawa	yami1256	blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana
 Yawanawá	yawanawa	yawa1260	oliveiraprotopanoan, valenzuelazariquieypanotakana
