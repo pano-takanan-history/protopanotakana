@@ -49,57 +49,56 @@ for ds in datasets:
 
     for i, item in enumerate(wl):
         # Add languages
-        replacement
-        glottocode = wl[item, 'glottocode']
-        lang_id = slug(wl[item, 'language_name'])
+        glottocode = wl[item, 'glottocode'] if wl[item, 'glottocode'] else 'pano1256'
         if glottocode not in ['chip1262', 'movi1243', 'mose1249', 'chim1313']:
 
-            if lang_id not in visited:
-                visited.append(lang_id)
-                language_table[lang_id] = [
+            if glottocode not in visited:
+                visited.append(glottocode)
+                language_table[glottocode] = [
                     wl[item, 'language_name'],
-                    lang_id,
+                    slug(wl[item, 'language_name']),
                     glottocode,
                     [ds]
                 ]
 
-            elif ds not in language_table[lang_id][3]:
-                 language_table[lang_id][3].append(ds)
+            elif ds not in language_table[glottocode][3]:
+                language_table[glottocode][3].append(ds)
 
-        # Add concepts
-        conc = wl[item, 'concepticon_gloss']
-        pid = wl[item, 'concept_proto_id'] + '_' + ds if wl[item, 'concept_proto_id'] else ''
-        checkup_id = wl[item, 'concept'] + '_' + ds
-        concept_id = slug(conc if conc is not None else wl[item, 'concept'])
+            # Add concepts
+            conc = wl[item, 'concepticon_gloss']
+            pid = wl[item, 'concept_proto_id'] + '_' + ds if wl[item, 'concept_proto_id'] else ''
+            checkup_id = wl[item, 'concept'] + '_' + ds
+            concept_id = slug(conc if conc is not None else wl[item, 'concept'])
 
-        if concept_id not in concept_table:
-            concept_table[concept_id] = [
-                concept_id,
-                wl[item, 'concept'].replace('*', ''),
-                conc,
-                wl[item, 'concepticon'],
-                [pid]
-            ]
-            concept_lookup[checkup_id] = concept_id
+            if concept_id not in concept_table:
+                concept_table[concept_id] = [
+                    concept_id,
+                    wl[item, 'concept'].replace('*', ''),
+                    conc,
+                    wl[item, 'concepticon'],
+                    [pid]
+                ]
+                concept_lookup[checkup_id] = concept_id
 
-        elif pid not in concept_table[concept_id][4]:
-            concept_table[concept_id][4].append(pid)
+            elif pid not in concept_table[concept_id][4]:
+                concept_table[concept_id][4].append(pid)
 
-        form_table[i] = [
-            lang_id,
-            concept_id,
-            wl[item, 'value'],
-            wl[item, 'form'],
-            wl[item, 'tokens'],
-            wl[item, 'comment'],
-            wl[item, 'source'],
-            wl[item, 'cognacy'],
-            wl[item, 'partial_cognacy'],
-            wl[item, 'alignment'],
-            wl[item, 'morphemes'],
-            wl[item, 'borrowing'],
-            ds
-        ]
+            if wl[item, 'tokens']:
+                form_table[i] = [
+                    glottocode,
+                    concept_id,
+                    wl[item, 'value'],
+                    wl[item, 'form'],
+                    wl[item, 'tokens'],
+                    wl[item, 'comment'],
+                    wl[item, 'source'],
+                    wl[item, 'cognacy'],
+                    wl[item, 'partial_cognacy'],
+                    wl[item, 'alignment'] if wl[item, 'alignment'] else wl[item, 'tokens'],
+                    wl[item, 'morphemes'] if wl[item, 'morphemes'] else '',
+                    wl[item, 'borrowing'],
+                    ds
+                ]
 
 language_table = dict(sorted(language_table.items(), key=lambda item: item[1][1]))
 for item in language_table:
@@ -119,4 +118,5 @@ write_table('../../etc/concepts.tsv', header_concepts, concept_table)
 header_raw = ['Doculect', 'Concept', 'Value', 'Form', 'Segments',
             'Comment', 'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes', 'Borrowing', 'Dataset'
             ]
-# write_table('../../raw/raw.tsv', header_raw, form_table)
+
+write_table('../../raw/raw.tsv', header_raw, form_table)

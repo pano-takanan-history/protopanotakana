@@ -1,4 +1,5 @@
 import pathlib
+from collections import defaultdict
 import attr
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
@@ -58,36 +59,65 @@ class Dataset(BaseDataset):
         # add language
         languages = {}
         for language in self.languages:
+            if language["Glottocode"] in ['arao1248', 'araz1236', 'cavi1250', 'esee1248', 'taca1255', 'guar1292', 'reye1240']:
+                subgroup = 'Takana'
+            elif 'proto' in language["Name"]:
+                subgroup = 'Proto'
+            else:
+                subgroup = 'Pano'
             args.writer.add_language(
                     ID=language["ID"],
                     Name=language["Name"],
                     Glottocode=language["Glottocode"],
                     Dataset=language["Dataset"],
-                    SubGroup=language["SubGroup"]
+                    SubGroup=subgroup
                     )
-            languages[language["ID"]] = language["ID"]
+            languages[language["Glottocode"]] = language["ID"]
 
         args.log.info("added languages")
 
         errors = set()
         wl = Wordlist(str(self.raw_dir.joinpath("raw.tsv")))
 
-        N = {}
-        for idx, cogids, morphemes in wl.iter_rows("partial_cognacy", "morphemes"):
+        N = defaultdict()
+        M = defaultdict()
+        new_id = 1
+        new_id2 = 1
+        check = defaultdict()
+        check_cogid = defaultdict()
+        for idx, cogids, cogid, ds in wl.iter_rows("partial_cognacy", "cognacy", 'dataset'):
+            new_cogid = []
             new_cogids = []
-            if morphemes:
-                for cogid, morpheme in zip(cogids, morphemes):
-                    if not morpheme.startswith("_"):
-                        new_cogids += [cogid]
-            else:
-                new_cogids = [c for c in cogids if c]
+            if cogids:
+                # Set cogid
+                if (ds, cogids) not in check_cogid:
+                    check_cogid[(ds, cogids)] = new_id2
+                    new_id2 += 1
+                new_cogid = check_cogid[(ds, cogids)]
 
-            if new_cogids == []:
-                new_cogids = [c for c in cogids if c]
+                # Set cogids
+                cogids = cogids.split(' ')
+                for cid in cogids:
+                    if (ds, cid) not in check:
+                        check[(ds, cid)] = new_id
+                        new_id += 1
+                new_cogids = [check[(ds, cid)] for cid in cogids]
+            else:
+                if (ds, cogid) not in check:
+                    check[(ds, cogid)] = new_id
+                    new_id += 1
+                
+                if (ds, cogid) not in check_cogid:
+                    check_cogid[(ds, cogid)] = new_id2
+                    new_id2 += 1
+                new_cogid = check_cogid[(ds, cogid)]
+                new_cogids = [check[(ds, cogid)]]
 
             N[idx] = " ".join([str(x) for x in new_cogids])
+            M[idx] = new_cogid
+
         wl.add_entries("partial_cognacy", N, lambda x: x, override=True)
-        wl.renumber("partial_cognacy")  # creates numeric cogid
+        wl.add_entries("cognacy", M, lambda x: x, override=True)
 
         # add data
         for (
@@ -130,8 +160,9 @@ class Dataset(BaseDataset):
                 errors.add(("concept", concept))
                 print(concept)
             else:
+                # print(cognacy, partial_cognacy)
                 lexeme = args.writer.add_form_with_segments(
-                    Language_ID=language,
+                    Language_ID=languages[language],
                     Parameter_ID=concept,
                     Value=value.strip(),
                     Form=form.strip(),
@@ -140,8 +171,8 @@ class Dataset(BaseDataset):
                     Source=source,
                     Cognacy=cognacy,
                     Partial_Cognacy=partial_cognacy,
-                    Alignment=alignment,
-                    Morphemes=morphemes,
+                    Alignment=" ".join(alignment),
+                    Morphemes=" ".join(morphemes),
                     Borrowing=borrowing,
                     Dataset=dataset
                 )

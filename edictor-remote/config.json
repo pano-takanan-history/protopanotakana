@@ -6,7 +6,7 @@
         "data": {
           "file": "protopanotakana",
           "remote_dbase": "protopanotakana",
-          "columns": "DOCULECT|CONCEPT|VALUE|FORM|TOKENS|COGID|COGIDS|ALIGNMENT|PATTERNS|MORPHEMES|SUBGROUP|NOTE"
+          "columns": "DOCULECT|CONCEPT|VALUE|FORM|TOKENS|COGID|COGIDS|ALIGNMENT|PATTERNS|MORPHEMES|SUBGROUP|DATASET|NOTE"
         }
       },
       "update.py": {
@@ -41,7 +41,7 @@
         "remote_dbase": "remoteprotopanotakana",
         "async": "true",
         "preview": 30,
-        "basics": "DOCULECT|CONCEPT|FORM|TOKENS|COGIDS|ALIGNMENT|NOTE"
+        "basics": "DOCULECT|CONCEPT|FORM|TOKENS|COGID|COGIDS|ALIGNMENT|NOTE"
       }
     }
   ]

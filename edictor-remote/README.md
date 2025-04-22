@@ -10,4 +10,4 @@ Once you have installed EDICTOR3, simply run the `edictor server` command within
 
 ## Creating the SQLite for Upload
 
-`edictor wordlist --name=protopanotakana --sqlite --addon="language_subgroup:subgroup","form_partial_cognacy:cogids","alignment:alignment","morphemes:morphemes"`
+`edictor wordlist --name=protopanotakana --sqlite --addon="language_subgroup:subgroup","cognacy:cogid","partial_cognacy:cogids","alignment:alignment","dataset:dataset"`
