@@ -8,6 +8,9 @@ from pylexibank import Language, Lexeme, Concept
 from lingpy import Wordlist
 
 
+T = ['arao1248', 'araz1236', 'cavi1250', 'esee1248', 'taca1255', 'guar1292', 'reye1240', 'taca1256']
+
+
 @attr.s
 class CustomLanguage(Language):
     """Adding new columns to Lexeme."""
@@ -59,7 +62,7 @@ class Dataset(BaseDataset):
         # add language
         languages = {}
         for language in self.languages:
-            if language["Glottocode"] in ['arao1248', 'araz1236', 'cavi1250', 'esee1248', 'taca1255', 'guar1292', 'reye1240']:
+            if language["Glottocode"] in T:
                 subgroup = 'Takana'
             elif 'proto' in language["Name"]:
                 subgroup = 'Proto'
@@ -102,14 +105,16 @@ class Dataset(BaseDataset):
                         check[(ds, cid)] = new_id
                         new_id += 1
                 new_cogids = [check[(ds, cid)] for cid in cogids]
+
             else:
                 if (ds, cogid) not in check:
                     check[(ds, cogid)] = new_id
                     new_id += 1
-                
+
                 if (ds, cogid) not in check_cogid:
                     check_cogid[(ds, cogid)] = new_id2
                     new_id2 += 1
+
                 new_cogid = check_cogid[(ds, cogid)]
                 new_cogids = [check[(ds, cogid)]]
 
@@ -160,7 +165,6 @@ class Dataset(BaseDataset):
                 errors.add(("concept", concept))
                 print(concept)
             else:
-                # print(cognacy, partial_cognacy)
                 lexeme = args.writer.add_form_with_segments(
                     Language_ID=languages[language],
                     Parameter_ID=concept,
@@ -184,4 +188,3 @@ class Dataset(BaseDataset):
                     Alignment_Method="false",
                     Alignment_Source="expert"
                     )
-

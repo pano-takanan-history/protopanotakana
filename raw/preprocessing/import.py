@@ -8,7 +8,7 @@ def write_table(path, header, table):
     with open(path, 'w', newline='', encoding='utf8') as csvfile:
         writer = csv.writer(csvfile, delimiter='\t')
         writer.writerow(header)
-        for key, values in table.items():
+        for _, values in table.items():
             writer.writerow(values)
 
 
@@ -107,16 +107,16 @@ for item in language_table:
 header_langs = ['Name', 'ID', 'Glottocode', 'Dataset']
 write_table('../../etc/languages.tsv', header_langs, language_table)
 
-concept_table = dict(sorted(concept_table.items(), key=lambda item: (item[1][2] is None, item[1][2])))
-for item in concept_table:
-    cleaned = [pid for pid in concept_table[item][4] if pid != '']
-    concept_table[item][4] = ', '.join(cleaned)
+concepts = dict(sorted(concept_table.items(), key=lambda item: (item[1][2] is None, item[1][2])))
+for item in concepts:
+    cleaned = [pid for pid in concepts[item][4] if pid != '']
+    concepts[item][4] = ', '.join(cleaned)
 
 header_concepts = ['ID', 'Concept', 'Concepticon_Gloss', 'Concepticon_ID', 'Proto_ID']
-write_table('../../etc/concepts.tsv', header_concepts, concept_table)
+write_table('../../etc/concepts.tsv', header_concepts, concepts)
 
 header_raw = ['Doculect', 'Concept', 'Value', 'Form', 'Segments',
-            'Comment', 'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes', 'Borrowing', 'Dataset'
-            ]
+              'Comment', 'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes',
+              'Borrowing', 'Dataset']
 
 write_table('../../raw/raw.tsv', header_raw, form_table)
