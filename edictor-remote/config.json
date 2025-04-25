@@ -41,7 +41,7 @@
         "remote_dbase": "remoteprotopanotakana",
         "async": "true",
         "preview": 30,
-        "basics": "DOCULECT|CONCEPT|FORM|TOKENS|COGID|COGIDS|ALIGNMENT|NOTE"
+        "basics": "DOCULECT|CONCEPT|FORM|TOKENS|COGIDS|ALIGNMENT|SUBGROUP|DATASET|NOTE"
       }
     }
   ]
