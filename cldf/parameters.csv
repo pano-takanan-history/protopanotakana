@@ -5,6 +5,7 @@ achiote,achiote,349,ACHIOTE,"§227_oliveiraprotopanoan, 258_girardprototakanan, 
 adamsapple,adam's apple,802,ADAM'S APPLE,§457_oliveiraprotopanoan
 after,después,1685,AFTER,396_girardprototakanan
 afternoon,afternoon,1807,AFTERNOON,§497_oliveiraprotopanoan
+agouti,cutia (species of rodent),313,AGOUTI,§223_oliveiraprotopanoan
 alcoholfermenteddrink,alcohol (fermented drink),404,ALCOHOL (FERMENTED DRINK),
 all,all,98,ALL,
 alligator,alligator,1581,ALLIGATOR,270_girardprototakanan
@@ -27,6 +28,7 @@ authority,autoridad,1637,AUTHORITY,467_girardprototakanan
 axe,axe,677,AXE,§495_oliveiraprotopanoan
 baby,baby,1289,BABY,
 back,back,1291,BACK,"§160_oliveiraprotopanoan, 29_girardprototakanan"
+backpart,back part,2323,BACK (PART),§127_oliveiraprotopanoan
 bad,bad,1292,BAD,68_girardprotopanotakanan
 bamboo,bambú,1927,BAMBOO,340_girardprototakanan
 bananatree,planta de plátano,1795,BANANA TREE,200_girardprototakanan
@@ -41,6 +43,7 @@ beard,beard,678,BEARD,"§158_oliveiraprotopanoan, 243_girardprototakanan"
 because,because,1157,BECAUSE,
 becomeangry,become angry,2215,BECOME ANGRY,
 bee,bee,665,BEE,22_girardprototakanan
+beeswax,bee wax,1931,BEESWAX,§101_oliveiraprotopanoan
 behind,behind,1686,BEHIND,421_girardprototakanan
 believe,creer,1890,BELIEVE,210_girardprototakanan
 belly,belly,1251,BELLY,"256_girardprototakanan, 432_girardprototakanan"
@@ -62,6 +65,7 @@ blowgun,blowgun,432,BLOWGUN,§453_oliveiraprotopanoan
 blue,blue,837,BLUE,
 blueorgreen,"azul,verde",2382,BLUE OR GREEN,494_girardprototakanan
 body,body,1480,BODY,254_girardprototakanan
+boilofliquid,to boil,792,BOIL (OF LIQUID),§187_oliveiraprotopanoan
 boilsomething,boil (something),2492,BOIL (SOMETHING),
 bone,bone,1394,BONE,"§398_oliveiraprotopanoan, 96_girardprototakanan, 93_girardprotopanotakanan, 100_girardprotopanotakanan"
 bow,bow,994,BOW,§168_oliveiraprotopanoan
@@ -70,6 +74,7 @@ brain,brain,1583,BRAIN,
 branch,branch of tree,1531,BRANCH,§321_oliveiraprotopanoan
 branchortwig,"rama,gajo",3223,BRANCH OR TWIG,484_girardprototakanan
 brave,brave,3,BRAVE,§381_oliveiraprotopanoan
+braziliancedar,cedrela odorata,3929,BRAZILIAN CEDAR,§199_oliveiraprotopanoan
 breakdestroyorgetdestroyed,break (destroy or get destroyed),680,BREAK (DESTROY OR GET DESTROYED),§452_oliveiraprotopanoan
 breast,breast,1402,BREAST,6_girardprototakanan
 breastormilk,"breasts, milk",2129,BREAST OR MILK,§429_oliveiraprotopanoan
@@ -80,6 +85,7 @@ bring,bring,692,BRING,"53_girardprototakanan, 24_girardprotopanotakanan"
 brother,hermano,1262,BROTHER,320_girardprototakanan
 brotherinlaw,cuñado,2314,BROTHER-IN-LAW,178_girardprototakanan
 bunch,racimo,1966,BUNCH,142_girardprototakanan
+burn,to burn,2102,BURN,§135_oliveiraprotopanoan
 burnsomething,burn (something),141,BURN (SOMETHING),419_girardprototakanan
 burning,burning,1428,BURNING,
 bury,bury,1719,BURY,"§209a_oliveiraprotopanoan, 327_girardprototakanan"
@@ -87,6 +93,7 @@ bush,monte,1683,BUSH,218_girardprototakanan
 butterfly,butterfly,1791,BUTTERFLY,"376_girardprototakanan, 86_girardprotopanotakanan"
 buttocks,buttocks,834,BUTTOCKS,
 buy,buy,1869,BUY,
+caiman,caiman,2438,CAIMAN,§170_oliveiraprotopanoan
 calf,calf,1989,CALF,§487_oliveiraprotopanoan
 call,call,1084,CALL,"§151_oliveiraprotopanoan, 173_girardprototakanan"
 canoe,canoe,1970,CANOE,"§294_oliveiraprotopanoan, 231_girardprototakanan"
@@ -94,6 +101,7 @@ capybara,cabybara,314,CAPYBARA,"§3_oliveiraprotopanoan, 504_girardprototakanan"
 carry,carry,700,CARRY,"1_girardprototakanan, 147_girardprototakanan"
 cassava,cassava,925,CASSAVA,"§2_oliveiraprotopanoan, 237_girardprototakanan"
 cat,cat,1208,CAT,
+catch,to catch,702,CATCH,§87_oliveiraprotopanoan
 center,centro,491,CENTER,425_girardprototakanan
 centerormiddle,center or middle,3208,CENTER OR MIDDLE,326_girardprototakanan
 centipede,ciempiés,1974,CENTIPEDE,324_girardprototakanan
@@ -110,6 +118,7 @@ chilipepper,chili pepper,919,CHILI PEPPER,67_girardprototakanan
 chocolate,chocolate,3873,CHOCOLATE,236_girardprototakanan
 chontapalm,chonta,440,CHONTA PALM,275_girardprototakanan
 choose,choose,1750,CHOOSE,
+cicada,cicada,2353,CICADA,§112_oliveiraprotopanoan
 claw,claw,72,CLAW,§298_oliveiraprotopanoan
 clean,clean,704,CLEAN,
 clear,claro,989,CLEAR,229_girardprototakanan
@@ -137,11 +146,13 @@ cover,cover,761,COVER,§357_oliveiraprotopanoan
 crab,cangrejo,2348,CRAB,498_girardprototakanan
 crawl,to crawl,96,CRAWL,"§242_oliveiraprotopanoan, 371_girardprototakanan"
 crawlorcreep,crawl or creep,3456,CRAWL OR CREEP,
+cricket,grillo,2354,CRICKET,19_girardprototakanan
 crooked,crooked,297,CROOKED,
 cry,cry,1839,CRY,"§484_oliveiraprotopanoan, 328_girardprototakanan"
 curassow,curassow,315,CURASSOW,"§49_oliveiraprotopanoan, 274_girardprototakanan"
 cure,cure,499,CURE,
 cut,cut,1432,CUT,"§393_oliveiraprotopanoan, 379_girardprototakanan, 112_girardprotopanotakanan"
+cutwithscissors,to cut hair,2155,CUT (WITH SCISSORS),§229_oliveiraprotopanoan
 dance,dance,1879,DANCE,33_girardprotopanotakanan
 dark,dark,706,DARK,
 darkness,darkness,11,DARKNESS,
@@ -149,9 +160,11 @@ dawn,dawn,729,DAWN,
 daynotnight,day (not night),1225,DAY (NOT NIGHT),§272_oliveiraprotopanoan
 dead,dead,1625,DEAD,
 deaf,deaf,996,DEAF,§322_oliveiraprotopanoan
+deceive,to deceive,3230,DECEIVE,§316_oliveiraprotopanoan
 deep,deep,1593,DEEP,"§284_oliveiraprotopanoan, 140_girardprototakanan"
 deer,deer,1936,DEER,145_girardprototakanan
 demon,demon,1973,DEMON,
+desire,to desire,2117,DESIRE,§150_oliveiraprotopanoan
 dew,dew,1977,DEW,28_girardprototakanan
 die,die,1494,DIE,"§232_oliveiraprotopanoan, 272_girardprototakanan, 65_girardprotopanotakanan"
 dig,dig,1418,DIG,
@@ -163,6 +176,8 @@ dog,dog,2009,DOG,8_girardprotopanotakanan
 door,door,1567,DOOR,97_girardprotopanotakanan
 dove,paloma,1853,DOVE,457_girardprototakanan
 down,abajo,1326,DOWN,78_girardprototakanan
+drag,to drag,2030,DRAG,§278_oliveiraprotopanoan
+dream,dream,2374,DREAM,§256_oliveiraprotopanoan
 dreamsomething,dream (something),1920,DREAM (SOMETHING),
 drink,drink,1401,DRINK,161_girardprototakanan
 drown,ahogar,1904,DROWN,473_girardprototakanan
@@ -172,6 +187,8 @@ dry,dry,1398,DRY,299_girardprototakanan
 duck,duck,1360,DUCK,"§293_oliveiraprotopanoan, 397_girardprototakanan"
 dust,dust,2,DUST,§347_oliveiraprotopanoan
 ear,ear,1247,EAR,156_girardprototakanan
+earhole,hole of ear,3891,EARHOLE,§310_oliveiraprotopanoan
+earring,"ear ornament, earring",770,EARRING,§314_oliveiraprotopanoan
 earthsoil,earth (soil),1228,EARTH (SOIL),"281_girardprototakanan, 63_girardprotopanotakanan"
 earthworm,earthworm,2350,EARTHWORM,§286_oliveiraprotopanoan
 eat,eat,1336,EAT,§326_oliveiraprotopanoan
@@ -213,11 +230,13 @@ fingernail,fingernail,1258,FINGERNAIL,§238_oliveiraprotopanoan
 fingernailortoenail,uña,1896,FINGERNAIL OR TOENAIL,"423_girardprototakanan, 28_girardprotopanotakanan"
 finish,finish,1766,FINISH,"§182_oliveiraprotopanoan, 1_girardprototakanan, 427_girardprototakanan"
 fire,fire,221,FIRE,"§124_oliveiraprotopanoan, 419_girardprototakanan, 30_girardprotopanotakanan"
+firefly,firefly,206,FIREFLY,§190_oliveiraprotopanoan
 firewood,firewood,10,FIREWOOD,"§172_oliveiraprotopanoan, 229_girardprototakanan"
 first,first,728,FIRST,244_girardprototakanan
 fish,fish,227,FISH,"§496_oliveiraprotopanoan, 377_girardprototakanan"
 fishpoison,barbasco,348,FISH POISON,"4_girardprototakanan, 3_girardprotopanotakanan"
 fishbone,espinas,3799,FISHBONE,250_girardprototakanan
+fishhook,fishhook,1074,FISHHOOK,§248_oliveiraprotopanoan
 fist,puño,1473,FIST,352_girardprototakanan
 flat,flat,1633,FLAT,
 flee,flee,956,FLEE,
@@ -249,6 +268,7 @@ full,full,1429,FULL,
 fur,fur,580,FUR,§432_oliveiraprotopanoan
 garbage,basura,909,GARBAGE,76_girardprototakanan
 gather,gather,7,GATHER,§269_oliveiraprotopanoan
+genipa,genipa,3920,GENIPA,§259_oliveiraprotopanoan
 get,get,694,GET,21_girardprotopanotakanan
 getlost,get lost,423,GET LOST,
 gettired,get tired,1996,GET TIRED,
@@ -263,9 +283,11 @@ goout,go out,1107,GO OUT,253_girardprototakanan
 goupascend,go up (ascend),705,GO UP (ASCEND),"§18b_oliveiraprotopanoan, §218_oliveiraprotopanoan"
 good,good,1035,GOOD,"§383_oliveiraprotopanoan, 378_girardprototakanan"
 grain,grano,605,GRAIN,115_girardprototakanan
+grandfather,abuelo,1383,GRANDFATHER,33_girardprototakanan
 grandson,"nieta,nieto",1618,GRANDSON,441_girardprototakanan
 grasp,"to grasp,break",2021,GRASP,109_girardprotopanotakanan
 grass,grass,606,GRASS,§474_oliveiraprotopanoan
+grasshopper,grasshopper,607,GRASSHOPPER,§121_oliveiraprotopanoan
 gratesomething,"rallar,raspar",3114,GRATE (SOMETHING),369_girardprototakanan
 gravel,cascajo,3028,GRAVEL,264_girardprototakanan
 green,green,1425,GREEN,"82_girardprotopanotakanan, 115_girardprotopanotakanan"
@@ -273,17 +295,22 @@ grey,gray,153,GREY,56_girardprotopanotakanan
 grind,grind,1033,GRIND,§364_oliveiraprotopanoan
 groundnutpeanut,groundnut,595,GROUNDNUT (PEANUT),§439_oliveiraprotopanoan
 grow,grow,479,GROW,"§510_oliveiraprotopanoan, 300_girardprototakanan"
+guan,jacu (species of bird),437,GUAN,§149_oliveiraprotopanoan
 hair,hair,1040,HAIR,"§105_oliveiraprotopanoan, 91_girardprotopanotakanan"
 hairbody,hair (body),189,HAIR (BODY),§358_oliveiraprotopanoan
 hairhead,hair (head),2648,HAIR (HEAD),88_girardprototakanan
 half,half,816,HALF,
 hammock,hammock,2019,HAMMOCK,
 hand,hand,1277,HAND,"§239_oliveiraprotopanoan, 282_girardprototakanan, 70_girardprotopanotakanan"
+hangup,colgar,357,HANG UP,36_girardprototakanan
+happy,"feliz,alegre,contento",1495,HAPPY,57_girardprototakanan
 hard,hard,1884,HARD,§178_oliveiraprotopanoan
 hat,sombrero,771,HAT,303_girardprototakanan
 hawk,hawk,307,HAWK,
+he,he,1211,HE,§42_oliveiraprotopanoan
 heorsheorit,3rd person pronoun,262,HE OR SHE OR IT,45_girardprotopanotakanan
 head,head,1256,HEAD,"§108_oliveiraprotopanoan, 94_girardprototakanan"
+headgear,"headbelt, hat",2130,HEADGEAR,§209_oliveiraprotopanoan
 headwaters,"tip, headwaters of river",2672,HEADWATERS,§361_oliveiraprotopanoan
 hear,hear,1408,HEAR,"§147_oliveiraprotopanoan, §277_oliveiraprotopanoan"
 heart,heart,1223,HEART,§301_oliveiraprotopanoan
@@ -297,6 +324,7 @@ hideconceal,hide (conceal),602,HIDE (CONCEAL),§302_oliveiraprotopanoan
 hideoneself,esconderse,2485,HIDE (ONESELF),417_girardprototakanan
 highortall,high or tall,2790,HIGH OR TALL,
 hill,hill,614,HILL,"§202_oliveiraprotopanoan, 62_girardprotopanotakanan"
+hisorher,"his, her, of him, of her",2092,HIS OR HER,§54_oliveiraprotopanoan
 hit,hit,1433,HIT,"§459_oliveiraprotopanoan, 177_girardprototakanan"
 hole,hole,1667,HOLE,"§184_oliveiraprotopanoan, 54_girardprotopanotakanan"
 honey,honey,942,HONEY,
@@ -314,6 +342,7 @@ i,i,1209,I,"§11_oliveiraprotopanoan, 11_girardprotopanotakanan"
 iguana,iguana,1578,IGUANA,351_girardprototakanan
 in,"adentro,en",1460,IN,140_girardprototakanan
 increase,increase,1041,INCREASE,
+insect,insect,620,INSECT,§106_oliveiraprotopanoan
 inside,inside,1606,INSIDE,§261_oliveiraprotopanoan
 intestines,intestines,1991,INTESTINES,90_girardprotopanotakanan
 island,isla,622,ISLAND,492_girardprototakanan
@@ -334,6 +363,7 @@ laugh,laugh,1355,LAUGH,"§37_oliveiraprotopanoan, 90_girardprototakanan"
 lazy,lazy,1564,LAZY,
 leaf,leaf,628,LEAF,
 learn,to learn,504,LEARN,§35_oliveiraprotopanoan
+leatherorhide,"skin, leather",3326,LEATHER OR HIDE,§88_oliveiraprotopanoan
 leave,leave,1752,LEAVE,§133_oliveiraprotopanoan
 left,left,244,LEFT,
 leg,leg,1297,LEG,398_girardprototakanan
@@ -346,6 +376,7 @@ lightradiation,light (radiation),630,LIGHT (RADIATION),444_girardprototakanan
 lightweight,light (weight),1052,LIGHT (WEIGHT),
 lightning,lightning,1654,LIGHTNING,§167_oliveiraprotopanoan
 lip,lip,478,LIP,§157_oliveiraprotopanoan
+liquid,"liquid, water",58,LIQUID,§131_oliveiraprotopanoan
 liver,liver,1224,LIVER,"§438_oliveiraprotopanoan, 403_girardprototakanan, 104_girardprotopanotakanan"
 lizard,lizard,632,LIZARD,47_girardprototakanan
 long,long,1203,LONG,31_girardprototakanan
@@ -359,17 +390,24 @@ macaw,macaw,1630,MACAW,52_girardprotopanotakanan
 maize,maize,506,MAIZE,"§409_oliveiraprotopanoan, 191_girardprototakanan, 116_girardprotopanotakanan"
 make,"do,make",734,MAKE,1_girardprotopanotakanan
 makedry,to dry,2015,MAKE DRY,73_girardprotopanotakanan
+maleperson,man,2106,MALE PERSON,§77_oliveiraprotopanoan
 man,man,1554,MAN,135_girardprototakanan
 many,many,1198,MANY,§27_oliveiraprotopanoan
 marry,marry,203,MARRY,
 mat,mat,195,MAT,§335_oliveiraprotopanoan
+maternalauntmotherssister,maternal aunt,2693,MATERNAL AUNT (MOTHER'S SISTER),§189_oliveiraprotopanoan
+maternalunclemothersbrother,maternal uncle,2692,MATERNAL UNCLE (MOTHER'S BROTHER),§191_oliveiraprotopanoan
 meat,meat,634,MEAT,"§258_oliveiraprotopanoan, 78_girardprotopanotakanan"
 medicine,medicine,1372,MEDICINE,"§350_oliveiraprotopanoan, 154_girardprototakanan"
 meet,meet,1831,MEET,§241_oliveiraprotopanoan
 menstruate,menstruate,2827,MENSTRUATE,
+metal,metal,2244,METAL,§215_oliveiraprotopanoan
 mightyorpowerfulorstrong,mighty or powerful or strong,3188,MIGHTY OR POWERFUL OR STRONG,
 milk,milk,635,MILK,
+miritipalm,miriti palm,3811,MIRITI PALM,§93_oliveiraprotopanoan
+misssomebody,to feel longing,2328,MISS (SOMEBODY),§217_oliveiraprotopanoan
 mix,mix,2017,MIX,452_girardprototakanan
+molartooth,muela,1049,MOLAR TOOTH,1_girardprototakanan
 monkey,monkey,1350,MONKEY,38_girardprotopanotakanan
 moon,moon,1313,MOON,"§39_oliveiraprotopanoan, 37_girardprototakanan"
 morning,morning,1339,MORNING,
@@ -403,6 +441,7 @@ nostril,"nose hole, nostril",1178,NOSTRIL,§363_oliveiraprotopanoan
 not,not,1240,NOT,
 now,now,1376,NOW,§349_oliveiraprotopanoan
 oar,oar,3137,OAR,§483b_oliveiraprotopanoan
+obscure,obscuro,1764,OBSCURE,16_girardprototakanan
 odorsmell,smell,3704,ODOR (SMELL),"§482_oliveiraprotopanoan, §332_oliveiraprotopanoan"
 old,old,1229,OLD,"§413_oliveiraprotopanoan, 60_girardprototakanan, 114_girardprotopanotakanan"
 oldman,old man,406,OLD MAN,
@@ -422,6 +461,7 @@ pain,pain,1783,PAIN,
 pair,par,1888,PAIR,77_girardprototakanan
 palmofhand,palm of hand,1183,PALM OF HAND,
 palmtree,palmera,1181,PALM TREE,112_girardprototakanan
+parakeet,parakeet,886,PARAKEET,§329_oliveiraprotopanoan
 parrot,parrot,882,PARROT,"§67_oliveiraprotopanoan, 224_girardprototakanan, 435_girardprototakanan"
 partridge,perdiz,3681,PARTRIDGE,82_girardprototakanan
 passby,to pass by,558,PASS BY,§486_oliveiraprotopanoan
@@ -432,7 +472,9 @@ peel,peel,275,PEEL,"§425_oliveiraprotopanoan, 353_girardprototakanan"
 penis,penis,1222,PENIS,251_girardprototakanan
 person,person,683,PERSON,§303_oliveiraprotopanoan
 perspireorsweat,"sudor,sudar",2458,PERSPIRE OR SWEAT,470_girardprototakanan
+persuade,persuadir,3645,PERSUADE,1_girardprototakanan
 pickup,pick up,371,PICK UP,288_girardprototakanan
+piece,"piece, shard",594,PIECE,§179_oliveiraprotopanoan
 pig,pig,1337,PIG,
 pileup,pile up,1576,PILE UP,
 pinch,pinch,378,PINCH,
@@ -454,6 +496,7 @@ pus,pus,1808,PUS,§196_oliveiraprotopanoan
 push,push,1452,PUSH,321_girardprototakanan
 put,put,998,PUT,"73_girardprototakanan, 175_girardprototakanan, 459_girardprototakanan"
 rabbit,conejo,1136,RABBIT,458_girardprototakanan
+raft,balsa,1664,RAFT,65_girardprototakanan
 rainprecipitation,rain (precipitation),658,RAIN (PRECIPITATION),"§32_oliveiraprotopanoan, 305_girardprototakanan"
 rainbow,rainbow,1733,RAINBOW,§266_oliveiraprotopanoan
 rat,rat,1490,RAT,§435_oliveiraprotopanoan
@@ -469,6 +512,7 @@ resin,resina,664,RESIN,262_girardprototakanan
 rest,rest,168,REST,205_girardprototakanan
 rib,rib,801,RIB,
 right,right,1019,RIGHT,
+righthand,right hand,2183,RIGHT HAND,§240_oliveiraprotopanoan
 ring,ring,1374,RING,406_girardprototakanan
 ripe,ripe,178,RIPE,
 river,river,666,RIVER,"§317_oliveiraprotopanoan, 246_girardprototakanan"
@@ -489,6 +533,7 @@ same,"same, of the same way, also",200,SAME,§368_oliveiraprotopanoan
 sand,sand,671,SAND,§225_oliveiraprotopanoan
 say,say,1458,SAY,§500_oliveiraprotopanoan
 scar,cicatriz,497,SCAR,192_girardprototakanan
+scorpion,alacrán,1538,SCORPION,20_girardprototakanan
 scrape,scrape,1767,SCRAPE,134_girardprototakanan
 see,see,1409,SEE,"§142_oliveiraprotopanoan, 27_girardprototakanan"
 seed,seed,714,SEED,§136_oliveiraprotopanoan
@@ -512,10 +557,13 @@ short,short,1645,SHORT,
 shotgun,shotgun,3948,SHOTGUN,§460_oliveiraprotopanoan
 shoulder,shoulder,1482,SHOULDER,18_girardprototakanan
 shout,shout,715,SHOUT,100_girardprototakanan
+show,mostrar,1039,SHOW,27_girardprototakanan
+shrimp,shrimp,2349,SHRIMP,§219_oliveiraprotopanoan
 shut,shut,1046,SHUT,416_girardprototakanan
 sick,sick,1847,SICK,
 side,side,682,SIDE,
 silence,silencio,3458,SILENCE,402_girardprototakanan
+similar,parecido,1558,SIMILAR,27_girardprototakanan
 sing,sing,1261,SING,
 sit,sit,1416,SIT,§109_oliveiraprotopanoan
 sitdown,sit down,1649,SIT DOWN,
@@ -536,10 +584,12 @@ sneeze,sneeze,1621,SNEEZE,
 snore,snore,1983,SNORE,
 soft,soft,1856,SOFT,356_girardprototakanan
 some,some,1241,SOME,
+son,hijo,1620,SON,44_girardprototakanan
 sorcerer,sorcerer,823,SORCERER,§503_oliveiraprotopanoan
 soul,soul,811,SOUL,
 soup,"soup, broth",1547,SOUP,§85_oliveiraprotopanoan
 sour,sour,1906,SOUR,
+sowseeds,sembrar,748,SOW SEEDS,45_girardprototakanan
 speak,speak,1623,SPEAK,
 spider,spider,843,SPIDER,190_girardprototakanan
 spiderweb,spider web,1065,SPIDER WEB,§475_oliveiraprotopanoan
@@ -556,7 +606,10 @@ squirrel,squirrel,1628,SQUIRREL,"§169_oliveiraprotopanoan, 133_girardprototakan
 stand,stand,1442,STAND,"§273_oliveiraprotopanoan, 76_girardprotopanotakanan"
 star,star,1430,STAR,§489_oliveiraprotopanoan
 steal,steal,713,STEAL,"§508_oliveiraprotopanoan, 111_girardprototakanan"
+stepverb,to step,2065,STEP (VERB),§45_oliveiraprotopanoan
 stick,palo,1295,STICK,128_girardprototakanan
+stingray,stingray,1910,STINGRAY,§30_oliveiraprotopanoan
+stinking,stinking,42,STINKING,
 stomach,stomach,819,STOMACH,
 stone,stone,857,STONE,"§226_oliveiraprotopanoan, §400_oliveiraprotopanoan, 438_girardprototakanan"
 straight,straight,1404,STRAIGHT,
@@ -569,6 +622,7 @@ sugarcane,sugar cane,146,SUGAR CANE,"§404_oliveiraprotopanoan, 108_girardprotop
 summer,summer,1342,SUMMER,
 sun,sun,1343,SUN,"§62_oliveiraprotopanoan, 160_girardprototakanan, 16_girardprotopanotakanan"
 swallow,swallow,897,SWALLOW,"§405_oliveiraprotopanoan, 34_girardprotopanotakanan"
+sweatperspire,to sweat,126,SWEAT (PERSPIRE),§279_oliveiraprotopanoan
 sweep,to sweep,230,SWEEP,"§205_oliveiraprotopanoan, 180_girardprototakanan"
 sweet,sweet,717,SWEET,"§65_oliveiraprotopanoan, 71_girardprototakanan, 20_girardprotopanotakanan"
 sweetpotato,"sweet potato, yam",159,SWEET POTATO,
@@ -581,10 +635,12 @@ tattoo,tatú,68,TATTOO,117_girardprototakanan
 tearofeye,tear (of eye),1651,TEAR (OF EYE),§73_oliveiraprotopanoan
 tearshred,tear (shred),1735,TEAR (SHRED),
 tell,tell,1711,TELL,69_girardprotopanotakanan
+termite,termite,883,TERMITE,§255_oliveiraprotopanoan
 testicles,testicles,797,TESTICLES,
 there,there,1937,THERE,
 they,they,817,THEY,
 thick,thick,1244,THICK,§180_oliveiraprotopanoan
+thin,"thin, fine",2308,THIN,§84_oliveiraprotopanoan
 thinslim,delgado,1400,THIN (SLIM),239_girardprototakanan
 thing,thing,738,THING,3_girardprototakanan
 think,to think,2271,THINK,§387_oliveiraprotopanoan
@@ -598,6 +654,8 @@ throat,throat,1346,THROAT,307_girardprototakanan
 throw,throw,1456,THROW,"50_girardprototakanan, 195_girardprototakanan"
 thunder,thunder,1150,THUNDER,
 tie,tie,1917,TIE,"§270_oliveiraprotopanoan, 372_girardprototakanan, 89_girardprotopanotakanan"
+tinamou,tinamou,3921,TINAMOU,§194_oliveiraprotopanoan
+tipofobject,"tip, end point",2992,TIP (OF OBJECT),§155_oliveiraprotopanoan
 tobacco,tobacco,974,TOBACCO,"§374_oliveiraprotopanoan, 446_girardprototakanan"
 tomorrow,tomorrow,1329,TOMORROW,
 tongue,tongue,1205,TONGUE,"§46_oliveiraprotopanoan, 12_girardprototakanan, 46_girardprotopanotakanan"
@@ -616,6 +674,7 @@ tumblefalldown,caerse,2894,TUMBLE (FALL DOWN),448_girardprototakanan
 turkey,pavo,2386,TURKEY,413_girardprototakanan
 turnaround,turn around,1444,TURN AROUND,
 turtle,turtle,112,TURTLE,
+twistaround,"to twist, to turn, to move in circles",3199,TWIST (AROUND),§234_oliveiraprotopanoan
 two,two,1498,TWO,"§352_oliveiraprotopanoan, 61_girardprototakanan"
 uncle,tío,1327,UNCLE,"220_girardprototakanan, 55_girardprotopanotakanan"
 unripe,unripe,1958,UNRIPE,§430_oliveiraprotopanoan
@@ -654,6 +713,7 @@ wet,wet,1726,WET,"305_girardprototakanan, 29_girardprotopanotakanan"
 what,what,1236,WHAT,"§53_oliveiraprotopanoan, 3_girardprototakanan"
 when,when,1238,WHEN,
 where,where,1237,WHERE,
+whisper,to whisper,55,WHISPER,§64_oliveiraprotopanoan
 whistle,whistle,1025,WHISTLE,445_girardprototakanan
 white,white,1335,WHITE,"§306_oliveiraprotopanoan, 335_girardprototakanan, 49_girardprotopanotakanan"
 who,who,1235,WHO,"§115_oliveiraprotopanoan, 3_girardprototakanan"
@@ -665,6 +725,7 @@ with,"with, in possession of",1340,WITH,"§490_oliveiraprotopanoan, 325_girardpr
 woman,woman,962,WOMAN,"14_girardprototakanan, 5_girardprotopanotakanan"
 wood,wood,1803,WOOD,
 workactivity,work (activity),1086,WORK (ACTIVITY),
+world,mundo,965,WORLD,23_girardprototakanan
 worm,worm,1219,WORM,"104_girardprototakanan, 439_girardprototakanan, 98_girardprotopanotakanan"
 wound,wound,1109,WOUND,
 wrap,envolver,1113,WRAP,140_girardprototakanan
@@ -682,34 +743,110 @@ youngman,young man,76,YOUNG MAN,
 youngwoman,young woman,77,YOUNG WOMAN,§434_oliveiraprotopanoan
 youngerbrother,younger brother,1760,YOUNGER BROTHER,178_girardprototakanan
 youngersister,younger sister,1761,YOUNGER SISTER,178_girardprototakanan
+tomaketokill,"to make, to kill",,,§1_oliveiraprotopanoan
+cutiaspeciesofrodent,cutia (species of rodent),,,§223_oliveiraprotopanoan
+intransitivesuffixofconcordance,intransitive suffix of concordance,,,§6_oliveiraprotopanoan
+typeofvenom,type of venom,,,§7_oliveiraprotopanoan
 tapir,tapir,,,"§8_oliveiraprotopanoan, 24_girardprototakanan, 4_girardprotopanotakanan"
 womanwife,"woman, wife",,,§9a_oliveiraprotopanoan
 todevour,to devour,,,§10_oliveiraprotopanoan
 speciesofbird,species of bird,,,§271_oliveiraprotopanoan
 hotheat,"hot, heat",,,§17_oliveiraprotopanoan
+keepholdinginarms,keep holding in arms,,,§18a_oliveiraprotopanoan
+breedingdomesticanimal,"breeding, domestic animal",,,§19_oliveiraprotopanoan
+speciesofjaguar,species of jaguar,,,§21_oliveiraprotopanoan
+speciesoffishloricariidae,species of fish (Loricariidae),,,§22_oliveiraprotopanoan
 paintohurt,"pain, to hurt",,,§23_oliveiraprotopanoan
+japubirdoffamicteridae,japu (bird of fam. Icteridae),,,§24_oliveiraprotopanoan
+blackmonkey,black monkey,,,§25_oliveiraprotopanoan
+uruburei,urubu rei,,,§28_oliveiraprotopanoan
 speciesoftick,species of tick,,,§491_oliveiraprotopanoan
 freshwater,fresh water,,,§36_oliveiraprotopanoan
+speciesofheron,species of heron,,,§89_oliveiraprotopanoan
+opening,opening,,,§50_oliveiraprotopanoan
 thatmuch,that much,,,§51_oliveiraprotopanoan
+thirdpersonplural,third person plural,,,§52_oliveiraprotopanoan
 nightdark,"night, dark",,,§56_oliveiraprotopanoan
 speciesoffish,species of fish,,,§506_oliveiraprotopanoan
+speciesoffishpimelididae,species of fish (Pimelididae),,,§100_oliveiraprotopanoan
+tobringtosearch,"to bring, to search",,,§69_oliveiraprotopanoan
 comitative,comitative,,,§70_oliveiraprotopanoan
+toforgettolose,"to forget, to lose",,,§72_oliveiraprotopanoan
+foreheadface,"forehead, face",,,§75_oliveiraprotopanoan
+husbandman,"husband, man",,,§76_oliveiraprotopanoan
+speciesoftreephyllanthaceae,species of tree (Phyllanthaceae),,,§78_oliveiraprotopanoan
 speciesoffrog,species of frog,,,§83_oliveiraprotopanoan
+speciesofcobra,species of cobra,,,§333_oliveiraprotopanoan
 guava,guava,,,"§94_oliveiraprotopanoan, 83_girardprototakanan"
+pluralizer,pluralizer,,,§95_oliveiraprotopanoan
+speciesofpicapaupicidae,species of picapau (Picidae),,,§96_oliveiraprotopanoan
+typeofbox,type of box,,,§97_oliveiraprotopanoan
 speciesofpalm,species of palm,,,§442_oliveiraprotopanoan
 speciesoftree,species of tree,,,§411_oliveiraprotopanoan
+speciesoftreewithspecialuseofbark,species of tree with special use of bark,,,§103_oliveiraprotopanoan
+speciesofbee,species of bee,,,§104_oliveiraprotopanoan
+speciesofotter,species of otter,,,§107_oliveiraprotopanoan
+amber,amber,,,§114_oliveiraprotopanoan
+pokepierceinjectdrill,"poke, pierce, inject, drill",,,§117_oliveiraprotopanoan
+kneadhitstrike,"knead, hit, strike",,,§118_oliveiraprotopanoan
+speciesofmollusc,species of mollusc,,,§120_oliveiraprotopanoan
+martimpescardor,martim pescardor,,,§122_oliveiraprotopanoan
+speciesofdeer,species of deer,,,§123_oliveiraprotopanoan
+firepowder,fire powder,,,§125_oliveiraprotopanoan
+todrivefrombehind,to drive from behind,,,§126_oliveiraprotopanoan
+speciesofant,species of ant,,,§233_oliveiraprotopanoan
+classofant,class of ant,,,§143_oliveiraprotopanoan
+urinetourinate,"urine, to urinate",,,§144_oliveiraprotopanoan
+speciesoftreeanditsfruit,species of tree and it's fruit,,,§145_oliveiraprotopanoan
+treestick,"tree, stick",,,§146_oliveiraprotopanoan
+edgelips,"edge, lips",,,§148_oliveiraprotopanoan
+typeofbank,type of bank,,,§152_oliveiraprotopanoan
+todesigntopaint,"to design, to paint",,,§153_oliveiraprotopanoan
+tostringtogether,to string together,,,§156_oliveiraprotopanoan
 speciesofarara,species of arara,,,§166_oliveiraprotopanoan
 typeofbasket,type of basket,,,§448_oliveiraprotopanoan
+speciesofsnake,species of snake,,,§165_oliveiraprotopanoan
+backbodypartprefix,back (body-part prefix),,,§175_oliveiraprotopanoan
+bowlplate,"bowl, plate",,,§177_oliveiraprotopanoan
+typeofpot,type of pot,,,§181_oliveiraprotopanoan
+locativeablativesuffix,locative ablative suffix,,,§183_oliveiraprotopanoan
+smoke,smoke,,,§186_oliveiraprotopanoan
+ingestsoftfood,ingest soft food,,,§192_oliveiraprotopanoan
+speciesoffunghi,species of funghi,,,§195_oliveiraprotopanoan
+value,value,,,§197_oliveiraprotopanoan
+cujubim,cujubim,,,§200_oliveiraprotopanoan
+verbalcausativesuffix,verbal causative suffix,,,§201_oliveiraprotopanoan
+earth,earth,,,§207_oliveiraprotopanoan
+onearth,on earth,,,§208_oliveiraprotopanoan
 piranha,piranha,,,"§212_oliveiraprotopanoan, 64_girardprotopanotakanan"
 speciesofplant,species of plant,,,§385_oliveiraprotopanoan
+claydust,"clay, dust",,,§221_oliveiraprotopanoan
 speciesofgourd,species of gourd,,,§401_oliveiraprotopanoan
+atoppeak,"atop, peak",,,§228_oliveiraprotopanoan
+tohitoneshead,to hit (one's) head,,,§231_oliveiraprotopanoan
+towetwet,"to wet, wet",,,§236_oliveiraprotopanoan
+claypit,clay pit,,,§244_oliveiraprotopanoan
+pamonha,pamonha,,,§247_oliveiraprotopanoan
+poisonbitter,"poison, bitter",,,§249_oliveiraprotopanoan
 speciesofmonkey,species of monkey,,,§472_oliveiraprotopanoan
+speciesofmosquito,species of mosquito,,,§254_oliveiraprotopanoan
 toputinsidetodive,"to put inside, to dive",,,§260_oliveiraprotopanoan
 foreigner,foreigner,,,§265_oliveiraprotopanoan
+abandonedfield,abandoned field,,,§267_oliveiraprotopanoan
+jacamimspeciesofbord,jacamim (species of bord),,,§268_oliveiraprotopanoan
+breeze,breeze,,,§275_oliveiraprotopanoan
+centipedescorpion,"centipede, scorpion",,,§276_oliveiraprotopanoan
 unclear,unclear,,,§280_oliveiraprotopanoan
 togetbored,to get bored,,,§281_oliveiraprotopanoan
+speciesofsnail,species of snail,,,§287_oliveiraprotopanoan
 speciesofpig,species of pig,,,§304_oliveiraprotopanoan
+togetdrunkdrunk,"to get drunk, drunk",,,§308_oliveiraprotopanoan
+speciesofbamboo,species of bamboo,,,§311_oliveiraprotopanoan
 speciesofarmadillo,species of armadillo,,,§499_oliveiraprotopanoan
+newfreshraw,"new, fresh, raw",,,§320_oliveiraprotopanoan
+wingfeather,"wing, feather",,,§325_oliveiraprotopanoan
+speciesoftucan,species of tucan,,,§331_oliveiraprotopanoan
+smallbag,small bag,,,§334_oliveiraprotopanoan
 speciesoftubercole,species of tubercole,,,§339_oliveiraprotopanoan
 siblingoftheothersex,sibling of the other sex,,,§340_oliveiraprotopanoan
 intestinesbelly,"intestines, belly",,,§341_oliveiraprotopanoan
@@ -760,7 +897,34 @@ speciesofpepper,species of pepper,,,§504_oliveiraprotopanoan
 threadlinerope,"thread, line, rope",,,§507_oliveiraprotopanoan
 peoplehumanbody,"people, human body",,,§509_oliveiraprotopanoan
 womanoldwoman,"woman, old woman",,,§512_oliveiraprotopanoan
+quedarsetenerestar,"quedarse,tener,estar",,,1_girardprototakanan
+transitivizingsuffix,transitivizing suffix,,,2_girardprototakanan
+simpleinterrogante,simple interrogante,,,3_girardprototakanan
+conque,con qué?,,,3_girardprototakanan
+paraque,para qué?,,,3_girardprototakanan
+dequien,de quién,,,3_girardprototakanan
+interrogacion,interrogación,,,3_girardprototakanan
+chontaloro,chontaloro,,,7_girardprototakanan
+motacucillo,motacucillo,,,10_girardprototakanan
+palosanto,palo santo,,,13_girardprototakanan
+gualusa,gualusa,,,15_girardprototakanan
+creceragrandar,"crecer,agrandar",,,17_girardprototakanan
+ajoajo,ajoajo,,,32_girardprototakanan
+cedro,cedro,,,34_girardprototakanan
+desidia,desidia,,,38_girardprototakanan
+jochipintado,jochi pintado,,,42_girardprototakanan
+caricari,caricari,,,46_girardprototakanan
+acomodar,acomodar,,,49_girardprototakanan
+tostar,tostar,,,51_girardprototakanan
 ventear,ventear,,,52_girardprototakanan
+tambien,también,,,55_girardprototakanan
+rioarriba,río arriba,,,55_girardprototakanan
+buitrenegro,buitre negro,,,56_girardprototakanan
+garrapata,garrapata,,,58_girardprototakanan
+escarbar,escarbar,,,59_girardprototakanan
+osohormigueroosoperezoso,"oso hormiguero,oso perezoso",,,62_girardprototakanan
+palmareal,palma real,,,64_girardprototakanan
+cuquisa,cuquisa,,,66_girardprototakanan
 avispopeto,"avispo,peto",,,70_girardprototakanan
 marimono,marimono,,,74_girardprototakanan
 melero,melero,,,80_girardprototakanan

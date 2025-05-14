@@ -26,6 +26,7 @@ concept_table = defaultdict()
 form_table = defaultdict()
 concept_lookup = defaultdict()
 
+IDX = 0
 for ds in datasets:
     wl = Wordlist.from_cldf(
         'cldf-resources/' + ds + '/cldf/cldf-metadata.json',
@@ -84,7 +85,7 @@ for ds in datasets:
                 concept_table[concept_id][4].append(pid)
 
             if wl[item, 'tokens']:
-                form_table[i] = [
+                form_table[IDX] = [
                     glottocode,
                     concept_id,
                     wl[item, 'value'],
@@ -99,6 +100,7 @@ for ds in datasets:
                     wl[item, 'borrowing'],
                     ds
                 ]
+                IDX += 1
 
 language_table = dict(sorted(language_table.items(), key=lambda item: item[1][1]))
 for item in language_table:
