@@ -24,7 +24,7 @@ visited = []
 language_table = defaultdict()
 concept_table = defaultdict()
 form_table = defaultdict()
-concept_lookup = defaultdict()
+duplicates = defaultdict()
 
 IDX = 0
 for ds in datasets:
@@ -52,6 +52,7 @@ for ds in datasets:
         # Add languages
         glottocode = wl[item, 'glottocode'] if wl[item, 'glottocode'] else 'pano1256'
         if glottocode not in ['chip1262', 'movi1243', 'mose1249', 'chim1313']:
+            glottocode = 'cash1252' if wl[item, 'language_name'] == 'Kashibo' else glottocode
 
             if glottocode not in visited:
                 visited.append(glottocode)
@@ -69,38 +70,44 @@ for ds in datasets:
             conc = wl[item, 'concepticon_gloss']
             pid = wl[item, 'concept_proto_id'] + '_' + ds if wl[item, 'concept_proto_id'] else ''
             checkup_id = wl[item, 'concept'] + '_' + ds
-            concept_id = slug(conc if conc is not None else wl[item, 'concept'])
+            concept_id = conc if conc is not None else wl[item, 'concept']
+            concept_id = concept_id.lower().replace('*', '')
 
             if concept_id not in concept_table:
                 concept_table[concept_id] = [
+                    slug(wl[item, 'concept']),
                     concept_id,
-                    wl[item, 'concept'].replace('*', ''),
                     conc,
                     wl[item, 'concepticon'],
                     [pid]
                 ]
-                concept_lookup[checkup_id] = concept_id
 
             elif pid not in concept_table[concept_id][4]:
                 concept_table[concept_id][4].append(pid)
 
             if wl[item, 'tokens']:
-                form_table[IDX] = [
-                    glottocode,
-                    concept_id,
-                    wl[item, 'value'],
-                    wl[item, 'form'],
-                    wl[item, 'tokens'],
-                    wl[item, 'comment'],
-                    wl[item, 'source'],
-                    wl[item, 'cognacy'],
-                    wl[item, 'partial_cognacy'],
-                    wl[item, 'alignment'] if wl[item, 'alignment'] else wl[item, 'tokens'],
-                    wl[item, 'morphemes'] if wl[item, 'morphemes'] else '',
-                    wl[item, 'borrowing'],
-                    ds
-                ]
-                IDX += 1
+                segments = tuple(wl[item, 'tokens'])
+                if (glottocode, concept_id, segments) not in duplicates:
+                    duplicates[(glottocode, concept_id, segments)] = IDX
+                    form_table[IDX] = [
+                        glottocode,
+                        concept_id,
+                        wl[item, 'value'],
+                        wl[item, 'form'],
+                        wl[item, 'tokens'],
+                        wl[item, 'comment'],
+                        wl[item, 'source'],
+                        wl[item, 'cognacy'],
+                        wl[item, 'partial_cognacy'],
+                        wl[item, 'alignment'] if wl[item, 'alignment'] else wl[item, 'tokens'],
+                        wl[item, 'morphemes'] if wl[item, 'morphemes'] else '',
+                        wl[item, 'borrowing'],
+                        [ds]
+                    ]
+                    IDX += 1
+                else:
+                    form_table[duplicates[(glottocode, concept_id, segments)]][12].append(ds)
+
 
 language_table = dict(sorted(language_table.items(), key=lambda item: item[1][1]))
 for item in language_table:

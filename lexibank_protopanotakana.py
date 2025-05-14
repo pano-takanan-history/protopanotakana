@@ -55,7 +55,7 @@ class Dataset(BaseDataset):
                     Concepticon_Gloss=concept["Concepticon_Gloss"],
                     Proto_ID=concept["Proto_ID"]
                     )
-            concepts[concept["ID"]] = concept["ID"]
+            concepts[concept["Concept"]] = concept["ID"]
 
         args.log.info("added concepts")
 
@@ -167,7 +167,7 @@ class Dataset(BaseDataset):
             else:
                 lexeme = args.writer.add_form_with_segments(
                     Language_ID=languages[language],
-                    Parameter_ID=concept,
+                    Parameter_ID=concepts[concept],
                     Value=value.strip(),
                     Form=form.strip(),
                     Segments=tokens,
