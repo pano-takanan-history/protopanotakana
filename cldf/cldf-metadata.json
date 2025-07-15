@@ -11,13 +11,13 @@
         {
             "rdf:about": "https://github.com/pano-takanan-history/protopanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "cff26d0",
+            "dc:created": "42867d8",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.2.1",
             "dc:title": "Glottolog"
         },
         {
@@ -40,7 +40,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.3"
+            "dc:description": "3.13.5"
         },
         {
             "dc:title": "python-packages",
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 20479,
+            "dc:extent": 20567,
             "tableSchema": {
                 "columns": [
                     {
@@ -133,10 +133,6 @@
                     {
                         "datatype": "string",
                         "name": "Morphemes"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Borrowing"
                     },
                     {
                         "datatype": "string",
@@ -250,7 +246,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1136,
+            "dc:extent": 1116,
             "tableSchema": {
                 "columns": [
                     {
@@ -286,7 +282,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 20479,
+            "dc:extent": 20567,
             "tableSchema": {
                 "columns": [
                     {

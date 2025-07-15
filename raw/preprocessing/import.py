@@ -70,20 +70,22 @@ for ds in datasets:
             conc = wl[item, 'concepticon_gloss']
             pid = wl[item, 'concept_proto_id'] + '_' + ds if wl[item, 'concept_proto_id'] else ''
             checkup_id = wl[item, 'concept'] + '_' + ds
+            concept_id_old = slug(conc if conc is not None else wl[item, 'concept'])
             concept_id = conc if conc is not None else wl[item, 'concept']
             concept_id = concept_id.lower().replace('*', '')
 
             if concept_id not in concept_table:
                 concept_table[concept_id] = [
                     slug(wl[item, 'concept']),
+                    wl[item, 'concept'].replace('*', ''),
                     concept_id,
                     conc,
                     wl[item, 'concepticon'],
                     [pid]
                 ]
 
-            elif pid not in concept_table[concept_id][4]:
-                concept_table[concept_id][4].append(pid)
+            elif pid not in concept_table[concept_id][5]:
+                concept_table[concept_id][5].append(pid)
 
             if wl[item, 'tokens']:
                 segments = tuple(wl[item, 'tokens'])
@@ -109,23 +111,23 @@ for ds in datasets:
                     form_table[duplicates[(glottocode, concept_id, segments)]][12].append(ds)
 
 
-language_table = dict(sorted(language_table.items(), key=lambda item: item[1][1]))
-for item in language_table:
-    language_table[item][3] = ', '.join(language_table[item][3])
+# language_table = dict(sorted(language_table.items(), key=lambda item: item[1][1]))
+# for item in language_table:
+#     language_table[item][3] = ', '.join(language_table[item][3])
 
-header_langs = ['Name', 'ID', 'Glottocode', 'Dataset']
-write_table('../../etc/languages.tsv', header_langs, language_table)
+# header_langs = ['Name', 'ID', 'Glottocode', 'Dataset']
+# write_table('../../etc/languages.tsv', header_langs, language_table)
 
 concepts = dict(sorted(concept_table.items(), key=lambda item: (item[1][2] is None, item[1][2])))
 for item in concepts:
-    cleaned = [pid for pid in concepts[item][4] if pid != '']
-    concepts[item][4] = ', '.join(cleaned)
+    cleaned = [pid for pid in concepts[item][5] if pid != '']
+    concepts[item][5] = ', '.join(cleaned)
 
-header_concepts = ['ID', 'Concept', 'Concepticon_Gloss', 'Concepticon_ID', 'Proto_ID']
+header_concepts = ['ID', 'Concept', 'GlossNew', 'Concepticon_Gloss', 'Concepticon_ID', 'Proto_ID']
 write_table('../../etc/concepts.tsv', header_concepts, concepts)
 
-header_raw = ['Doculect', 'Concept', 'Value', 'Form', 'Segments',
-              'Comment', 'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes',
-              'Borrowing', 'Dataset']
+# header_raw = ['Doculect', 'Concept', 'Value', 'Form', 'Segments',
+#               'Comment', 'Source', 'Cognacy', 'Partial_Cognacy', 'Alignment', 'Morphemes',
+#               'Borrowing', 'Dataset']
 
-write_table('../../raw/raw.tsv', header_raw, form_table)
+# write_table('../../raw/raw.tsv', header_raw, form_table)
