@@ -116,7 +116,7 @@ ramagajo	rama,gajo	branch or twig	BRANCH OR TWIG	3223	484_girardprototakanan
 branchesthathangintotheriver	branches that hang into the river	branches that hang into the river			§450_oliveiraprotopanoan
 brave	brave	brave	BRAVE	3	§381_oliveiraprotopanoan
 cedrelaodorata	cedrela odorata	brazilian cedar	BRAZILIAN CEDAR	3929	§199_oliveiraprotopanoan
-breakdestroyorgetdestroyed	break (destroy or get destroyed)	break (destroy or get destroyed)	BREAK (DESTROY OR GET DESTROYED)	680	§452_oliveiraprotopanoan
+breakdestroyorgetdestroyed	break (destroy or get destroyed)	break (destroy or get destroyed)	BREAK (DESTROY OR GET DESTROYED)	680	§452_oliveiraprotopanoan, 109_girardprotopanotakanan
 breast	breast	breast	BREAST	1402	6_girardprototakanan
 breastsmilk	breasts, milk	breast or milk	BREAST OR MILK	2129	§429_oliveiraprotopanoan
 breathe	breathe	breathe	BREATHE	1407	§300_oliveiraprotopanoan
@@ -210,7 +210,6 @@ combverb	comb (verb)	comb (verb)	COMB (VERB)	2070
 come	come	come	COME	1446	
 comeback	come back	come back	COME BACK	581	
 comitative	comitative	comitative			§70_oliveiraprotopanoan
-comitativealongwith	COMITATIVE,ALONG WITH	comitative,along with			
 completivesuffix	completive suffix	completive suffix			309_girardprototakanan
 conque	con qué?	con qué?			3_girardprototakanan
 consumir	consumir	consume (drink or eat)	CONSUME (DRINK OR EAT)	2787	164_girardprototakanan
@@ -419,7 +418,6 @@ gorgojo	gorgojo	gorgojo			302_girardprototakanan
 grano	grano	grain	GRAIN	605	115_girardprototakanan
 grandfather	grandfather	grandfather	GRANDFATHER	1383	33_girardprototakanan
 grandchild	grandchild	grandchild	GRANDCHILD	1617	441_girardprototakanan
-tograspbreak	to grasp,break	grasp	GRASP	2021	109_girardprotopanotakanan
 grass	grass	grass	GRASS	606	§474_oliveiraprotopanoan
 grasshopper	grasshopper	grasshopper	GRASSHOPPER	607	§121_oliveiraprotopanoan
 rallarraspar	rallar,raspar	grate (something)	GRATE (SOMETHING)	3114	369_girardprototakanan
@@ -518,7 +516,7 @@ juntosambos	juntos,ambos	juntos,ambos			399_girardprototakanan
 mapajo	mapajo	kapok tree	KAPOK TREE	2499	92_girardprotopanotakanan
 keepholdinginarms	keep holding in arms	keep holding in arms			§18a_oliveiraprotopanoan
 kidney	kidney	kidney	KIDNEY	489	331_girardprototakanan
-kill	kill	kill	KILL	1417	§360_oliveiraprotopanoan
+kill	kill	kill	KILL	1417	§360_oliveiraprotopanoan, 414_girardprototakanan
 kneadhitstrike	knead, hit, strike	knead, hit, strike			§118_oliveiraprotopanoan
 knee	knee	knee	KNEE	1371	§354_oliveiraprotopanoan, §359_oliveiraprotopanoan, 37_girardprotopanotakanan
 kneel	kneel	kneel	KNEEL	66	
@@ -576,7 +574,6 @@ marry	marry	marry	MARRY	203
 martimpescardor	martim pescardor	martim pescardor			§122_oliveiraprotopanoan
 martinpescadorave	martin pescador (ave)	martin pescador (ave)			261_girardprototakanan
 mat	mat	mat	MAT	195	§335_oliveiraprotopanoan
-matarcazar	matar,cazar	matar,cazar			414_girardprototakanan
 maternalaunt	maternal aunt	maternal aunt (mother's sister)	MATERNAL AUNT (MOTHER'S SISTER)	2693	§189_oliveiraprotopanoan
 maternaluncle	maternal uncle	maternal uncle (mother's brother)	MATERNAL UNCLE (MOTHER'S BROTHER)	2692	§191_oliveiraprotopanoan
 mananaayer	mañana,ayer	mañana,ayer			290_girardprototakanan
