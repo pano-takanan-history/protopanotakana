@@ -73,7 +73,7 @@ class Dataset(BaseDataset):
         for concept in self.concepts:
             args.writer.add_concept(
                     ID=concept["ID"],
-                    Name=concept["GlossNew"],
+                    Name=concept["Concept"],
                     Concepticon_ID=concept["Concepticon_ID"],
                     Concepticon_Gloss=concept["Concepticon_Gloss"],
                     Proto_ID=concept["Proto_ID"]
@@ -132,11 +132,47 @@ class Dataset(BaseDataset):
         ):
             if '*' not in concept:
                 idv = (language, concept, "".join(tokens))
+                dataset = dataset.split(", ")
+                print(dataset)
+                print('---')
                 if idv not in lookup:
-                    lookup[idv] = [dataset]
-                else:
-                    lookup[idv].append(dataset)
+                    lookup[idv] = dataset
+                for item in dataset:
+                    if item not in lookup[idv]:
+                        lookup[idv].append(item)
 
+        # add data
+        for (
+            _,
+            concept,
+            language,
+            form,
+            value,
+            tokens,
+            cognacy,
+            partial_cognacy,
+            alignment,
+            morphemes,
+            comment,
+            dataset
+        ) in pb(
+            wl.iter_rows(
+                "concept",
+                "doculect",
+                "form",
+                "value",
+                "tokens",
+                "cogid",
+                "cogids",
+                "alignment",
+                "morphemes",
+                "note",
+                "dataset"
+            ),
+            desc="cldfify"
+        ):
+            idv = (language, concept, "".join(tokens))
+            if idv in lookup:
                 if language not in languages:
                     errors.add(("language", language))
                     print('Missing language:', language)
@@ -156,7 +192,7 @@ class Dataset(BaseDataset):
                         Partial_Cognacy=" ".join([str(x) for x in partial_cognacy]),
                         Alignment=" ".join(alignment),
                         Morphemes=" ".join(morphemes),
-                        Dataset=lookup[idv]
+                        Dataset=" ".join(lookup[idv])
                     )
 
                     args.writer.add_cognate(
@@ -166,3 +202,5 @@ class Dataset(BaseDataset):
                         Alignment_Method="false",
                         Alignment_Source="expert"
                         )
+
+                lookup.pop(idv)
