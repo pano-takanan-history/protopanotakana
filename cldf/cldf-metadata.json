@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/pano-takanan-history/protopanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "86f2659",
+            "dc:created": "da0ff7d",
             "dc:title": "Repository"
         },
         {
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 18787,
+            "dc:extent": 18708,
             "tableSchema": {
                 "columns": [
                     {
@@ -282,7 +282,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 18787,
+            "dc:extent": 18708,
             "tableSchema": {
                 "columns": [
                     {

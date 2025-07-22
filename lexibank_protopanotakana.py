@@ -1,7 +1,5 @@
 import pathlib
-from collections import defaultdict
 import attr
-from clldutils.misc import slug
 from edictor.wordlist import fetch_wordlist
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
@@ -36,7 +34,6 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
     concept_class = CustomConcept
-
 
     def cmd_download(self, _):
         """Download the most recent data from Edictor."""
@@ -99,7 +96,6 @@ class Dataset(BaseDataset):
         errors = set()
         wl = Wordlist(str(self.raw_dir.joinpath("raw.tsv")))
 
-        lookup = {}
         # add data
         for (
             _,
@@ -130,49 +126,8 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
+            # Remove tagged entries
             if '*' not in concept:
-                idv = (language, concept, "".join(tokens))
-                dataset = dataset.split(", ")
-                print(dataset)
-                print('---')
-                if idv not in lookup:
-                    lookup[idv] = dataset
-                for item in dataset:
-                    if item not in lookup[idv]:
-                        lookup[idv].append(item)
-
-        # add data
-        for (
-            _,
-            concept,
-            language,
-            form,
-            value,
-            tokens,
-            cognacy,
-            partial_cognacy,
-            alignment,
-            morphemes,
-            comment,
-            dataset
-        ) in pb(
-            wl.iter_rows(
-                "concept",
-                "doculect",
-                "form",
-                "value",
-                "tokens",
-                "cogid",
-                "cogids",
-                "alignment",
-                "morphemes",
-                "note",
-                "dataset"
-            ),
-            desc="cldfify"
-        ):
-            idv = (language, concept, "".join(tokens))
-            if idv in lookup:
                 if language not in languages:
                     errors.add(("language", language))
                     print('Missing language:', language)
@@ -192,7 +147,7 @@ class Dataset(BaseDataset):
                         Partial_Cognacy=" ".join([str(x) for x in partial_cognacy]),
                         Alignment=" ".join(alignment),
                         Morphemes=" ".join(morphemes),
-                        Dataset=" ".join(lookup[idv])
+                        Dataset=dataset
                     )
 
                     args.writer.add_cognate(
@@ -202,5 +157,3 @@ class Dataset(BaseDataset):
                         Alignment_Method="false",
                         Alignment_Source="expert"
                         )
-
-                lookup.pop(idv)
