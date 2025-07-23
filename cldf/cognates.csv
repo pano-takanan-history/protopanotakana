@@ -64,7 +64,7 @@ eseejja-oldman-1-1,eseejja-oldman-1,e-dexa-tii,60,false,expert,,d e x a + t i - 
 eseejja-orphan-1-1,eseejja-orphan-1,nae'ma,62,false,expert,,n a e + m a,false,expert
 eseejja-orphan-2-1,eseejja-orphan-2,či'ma,63,false,expert,,tʃ i + m a,false,expert
 eseejja-orphan-3-1,eseejja-orphan-3,e-či-mano,64,false,expert,,tʃ i + m a n o,false,expert
-eseejja-1stsgi-1-1,eseejja-1stsgi-1,e,65,false,expert,,- e - -,false,expert
+eseejja-1stsgi-1-1,eseejja-1stsgi-1,e,65,false,expert,,- e ( - - ),false,expert
 eseejja-thou-1-1,eseejja-thou-1,mi,66,false,expert,,m i,false,expert
 eseejja-we-1-1,eseejja-we-1,ekʷana,67,false,expert,,kʷ a n a,false,expert
 eseejja-you-1-1,eseejja-you-1,mikiana,68,false,expert,,m i + !kj/kʷ a n a,false,expert
@@ -82,7 +82,7 @@ eseejja-vulture-2-1,eseejja-vulture-2,ɓaɓaʔai,78,false,expert,,ɓ a ɓ a ( ʔ
 eseejja-parrot-1-1,eseejja-parrot-1,ičako,80,false,expert,,( i ) tʃ a k o,false,expert
 eseejja-speciesofowl-1-1,eseejja-speciesofowl-1,ɓio-ɓio,81,false,expert,,ɓ i o + ɓ i o,false,expert
 eseejja-speciesofowl-2-1,eseejja-speciesofowl-2,pexe-pexe,82,false,expert,,p e x e + p e x e,false,expert
-eseejja-dog-1-1,eseejja-dog-1,iɲaewa,83,false,expert,,- i ɲ a ( - - ) + - e w a,false,expert
+eseejja-dog-1-1,eseejja-dog-1,iɲaewa,83,false,expert,,- i ɲ a ( - - - - - ) + - e w a,false,expert
 eseejja-cat-1-1,eseejja-cat-1,miči,84,false,expert,,m i tʃ i,false,expert
 eseejja-fish-1-1,eseejja-fish-1,hai,85,false,expert,,h a i,false,expert
 eseejja-deer-1-1,eseejja-deer-1,ɗokʷe-i,86,false,expert,,ɗ o kʷ e ( - - ) + i,false,expert
@@ -550,7 +550,7 @@ eseejja-nest-2-1,eseejja-nest-2,e-'xa,521,false,expert,,x a,false,expert
 eseejja-hawk-1-1,eseejja-hawk-1,wipa,522,false,expert,,w i p a,false,expert
 eseejja-vulture-3-1,eseejja-vulture-3,ba'bo sewawa,523,false,expert,,b a b o ( - - - ) + s e w a w a,false,expert
 eseejja-parrot-2-1,eseejja-parrot-2,čako,80,false,expert,,( - ) tʃ a k o,false,expert
-eseejja-dog-2-1,eseejja-dog-2,iɲa wewa,83,false,expert,,- i ɲ a ( - - ) + w e w a,false,expert
+eseejja-dog-2-1,eseejja-dog-2,iɲa wewa,83,false,expert,,- i ɲ a ( - - - - - ) + w e w a,false,expert
 eseejja-cat-2-1,eseejja-cat-2,misi,524,false,expert,,m i ( - ) s ( - ) i ( - - - ),false,expert
 eseejja-fish-2-1,eseejja-fish-2,na'o,525,false,expert,,n a o,false,expert
 eseejja-deer-2-1,eseejja-deer-2,dokwei,526,false,expert,,d o kʷ e ( - i ),false,expert
@@ -842,7 +842,7 @@ kashibo-youngersister-1-1,kashibo-youngersister-1,ũči,756,false,expert,,- !ũ/
 kashibo-oldman-1-1,kashibo-oldman-1,ṣ̌ɨni,355,false,expert,,ʂ ɨ n i,false,expert
 kashibo-relatives-1-1,kashibo-relatives-1,aĩc̷i,757,false,expert,,a.!ĩ/i ts i,false,expert
 kashibo-relatives-2-1,kashibo-relatives-2,kaiβo,758,false,expert,,k a i β o,false,expert
-kashibo-1stsgi-1-1,kashibo-1stsgi-1,ʔɨ-,65,false,expert,,ʔ ɨ - -,false,expert
+kashibo-1stsgi-1-1,kashibo-1stsgi-1,ʔɨ-,65,false,expert,,ʔ ɨ ( - - ),false,expert
 kashibo-thou-1-1,kashibo-thou-1,mii,66,false,expert,,m i,false,expert
 kashibo-we-1-1,kashibo-we-1,no-,759,false,expert,,n o -,false,expert
 kashibo-you-1-1,kashibo-you-1,mic̷o,760,false,expert,,m i + ts o,false,expert
@@ -885,7 +885,7 @@ kashibo-beard-1-1,kashibo-beard-1,kʷɨni,795,false,expert,,kʷ ɨ + ( - ) n i,f
 kashibo-hairbody-1-1,kashibo-hairbody-1,rani,796,false,expert,,r a n i,false,expert
 kashibo-rib-1-1,kashibo-rib-1,pu'tu,798,false,expert,,p u t u,false,expert
 kashibo-hornanatomy-1-1,kashibo-hornanatomy-1,ma'tuṣ̌ka,799,false,expert,,m a + t u ʂ + k a,false,expert
-kashibo-tail-1-1,kashibo-tail-1,ina,800,false,expert,,- i n a,false,expert
+kashibo-tail-1-1,kashibo-tail-1,ina,800,false,expert,,- i n a ( - - - - - ),false,expert
 kashibo-back-1-1,kashibo-back-1,kaṣ̌o,801,false,expert,,k a + ʂ o,false,expert
 kashibo-head-1-1,kashibo-head-1,maṣ̌'ka,802,false,expert,,m a + ʂ k a,false,expert
 kashibo-head-2-1,kashibo-head-2,mapuṣ̌oo,803,false,expert,,m a + p u + ʂ o - - o ( - ),false,expert
@@ -1255,7 +1255,7 @@ katukina-oldman-1-1,katukina-oldman-1,šɨni-ra,1149,false,expert,,ʂ ɨ n i + r
 katukina-oldwoman-1-1,katukina-oldwoman-1,yoša-βo,1150,false,expert,,j o ʂ a + β o,false,expert
 katukina-orphan-1-1,katukina-orphan-1,papa-ʔoma,1151,false,expert,,p a p a + ʔ o + m a,false,expert
 katukina-relatives-1-1,katukina-relatives-1,hawɨ-βo,1152,false,expert,,h a w ɨ + β o,false,expert
-katukina-1stsgi-1-1,katukina-1stsgi-1,ɨ̃,65,false,expert,,- ɨ ∼ -,false,expert
+katukina-1stsgi-1-1,katukina-1stsgi-1,ɨ̃,65,false,expert,,- ɨ ( ∼ - ),false,expert
 katukina-thou-1-1,katukina-thou-1,mĩ,66,false,expert,,m !ĩ/i,false,expert
 katukina-we-1-1,katukina-we-1,nokɨ,1153,false,expert,,n o - + k ɨ,false,expert
 katukina-you-1-1,katukina-you-1,matõ,1154,false,expert,,m a t o ∼,false,expert
@@ -1294,7 +1294,7 @@ katukina-beard-1-1,katukina-beard-1,kɨni,795,false,expert,,k ɨ + ( - ) n i,fal
 katukina-hairbody-1-1,katukina-hairbody-1,rani,796,false,expert,,r a n i,false,expert
 katukina-rib-1-1,katukina-rib-1,piči šao,1170,false,expert,,p i ʃ i + ʂ a - - o ( - ),false,expert
 katukina-hornanatomy-1-1,katukina-hornanatomy-1,mãčoĩ,1171,false,expert,,m a + ( ∼ ) ʃ o ( !ĩ/i ),false,expert
-katukina-tail-1-1,katukina-tail-1,ina,800,false,expert,,- i n a,false,expert
+katukina-tail-1-1,katukina-tail-1,ina,800,false,expert,,- i n a ( - - - - - ),false,expert
 katukina-back-1-1,katukina-back-1,pɨmana,1172,false,expert,,p ɨ + m a + n a,false,expert
 katukina-head-1-1,katukina-head-1,mapo,1173,false,expert,,m a + p o,false,expert
 katukina-brain-1-1,katukina-brain-1,mapo rɨso,1174,false,expert,,m a + p o + r ɨ s o,false,expert
@@ -1814,7 +1814,7 @@ shipibokonibo-stomach-2-1,shipibokonibo-stomach-2,no-,1523,false,expert,,n o,fal
 shipibokonibo-buttocks-1-1,shipibokonibo-buttocks-1,čiṣ̌o,1199,false,expert,,tʃ i + ʂ o,false,expert
 shipibokonibo-testicles-1-1,shipibokonibo-testicles-1,hoβoṣ̌ko,1526,false,expert,,h o β o + ʂ k o,false,expert
 shipibokonibo-penis-1-1,shipibokonibo-penis-1,βoši,1527,false,expert,,β o ʃ - i,false,expert
-shipibokonibo-penis-2-1,shipibokonibo-penis-2,hina,800,false,expert,,h i n a,false,expert
+shipibokonibo-penis-2-1,shipibokonibo-penis-2,hina,800,false,expert,,h i n a ( - - - - - ),false,expert
 shipibokonibo-sneeze-1-1,shipibokonibo-sneeze-1,hatišaniti,1529,false,expert,,h a t i ʃ a n i + t i,false,expert
 shipibokonibo-spit-1-1,shipibokonibo-spit-1,mičoti,1530,false,expert,,m i tʃ o + t i,false,expert
 shipibokonibo-spit-2-1,shipibokonibo-spit-2,tošβaati,1531,false,expert,,t o ʃ β a ( - ) + a t i,false,expert
@@ -2754,7 +2754,7 @@ amawaka-lift-1-1,amawaka-lift-1,zánanquín,329,false,expert,,( s !á/a ) n a n,
 amawaka-maize-1-1,amawaka-maize-1,xúqui,243,false,expert,,ʂ ɨ k i ( - - ),false,expert
 amawaka-nest-1-1,amawaka-nest-1,náha,764,false,expert,,n !á/a ʔ a,false,expert
 amawaka-copulate-1-1,amawaka-copulate-1,háqui,2177,false,expert,,ʔ á/a k i,false,expert
-amawaka-piss-1-1,amawaka-piss-1,jínzonhí,2178,false,expert,,h í/i n - + s o n,false,expert
+amawaka-piss-1-1,amawaka-piss-1,jínzonhí,2178,false,expert,,h í/i n - ( - - - - - ) + s o n,false,expert
 amawaka-potato-1-1,amawaka-potato-1,chonví,2179,false,expert,,tʃ o n β í/i,false,expert
 amawaka-potato-2-1,amawaka-potato-2,póva,2180,false,expert,,p ó/o β a,false,expert
 amawaka-liemislead-1-1,amawaka-liemislead-1,hóntzahí,2181,false,expert,,ʔ ó/o n ts a,false,expert
@@ -2889,7 +2889,7 @@ amawaka-father-1-1,amawaka-father-1,húpa,1810,false,expert,,( - - ) ʔ ɨ p a,f
 amawaka-rope-1-1,amawaka-rope-1,nínxo,2259,false,expert,,n !í/i ( n ) ʂ o,false,expert
 amawaka-rope-2-1,amawaka-rope-2,nishí,927,false,expert,,n i ʃ !í/i,false,expert
 amawaka-worm-1-1,amawaka-worm-1,xúna,1492,false,expert,,ʂ ɨ n a,false,expert
-amawaka-tail-1-1,amawaka-tail-1,jína,800,false,expert,,h !í/i n a,false,expert
+amawaka-tail-1-1,amawaka-tail-1,jína,800,false,expert,,h !í/i n a ( - - - - - ),false,expert
 amawaka-nose-1-1,amawaka-nose-1,rúquin,812,false,expert,,r ɨ + k i n,false,expert
 amawaka-penis-1-1,amawaka-penis-1,vóxqui,1527,false,expert,,β ó/o ʂ k i,false,expert
 amawaka-heart-1-1,amawaka-heart-1,jóvintí,2260,false,expert,,h !ó/o β i n + t í/i,false,expert
@@ -3131,7 +3131,7 @@ amawaka-dew-1-1,amawaka-dew-1,nívii,725,false,expert,,n !í/i β i ( - i ),fals
 amawaka-snore-1-1,amawaka-snore-1,núanhí,1208,false,expert,,n ɨ a n,false,expert
 amawaka-gettired-1-1,amawaka-gettired-1,hóxacatátznáhi,2394,false,expert,,ʔ ó/o ʂ a k a + t á/a ts - n á/a ʔ + i,false,expert
 amawaka-bend-1-1,amawaka-bend-1,vúquiquín,2165,false,expert,,β ɨ k i,false,expert
-amawaka-dog-1-1,amawaka-dog-1,hinán,2395,false,expert,,ʔ i n !á/a ( n - ),false,expert
+amawaka-dog-1-1,amawaka-dog-1,hinán,2395,false,expert,,ʔ i n !á/a ( n - - - - ),false,expert
 amawaka-dog-2-1,amawaka-dog-2,hinó,2396,false,expert,,ʔ i n !ó/o ( - - - ),false,expert
 amawaka-godowndescend-1-1,amawaka-godowndescend-1,hípaahí,2397,false,expert,,ʔ í/i + p a,false,expert
 amawaka-mix-1-1,amawaka-mix-1,józiquín,2398,false,expert,,h ó/o s i,false,expert
@@ -3325,8 +3325,8 @@ kapanawa-townorvillage-1-1,kapanawa-townorvillage-1,jema,1639,false,expert,,h ɨ
 kapanawa-relatives-1-1,kapanawa-relatives-1,jená,2496,false,expert,,h ɨ n a,false,expert
 kapanawa-water-1-1,kapanawa-water-1,jene,1447,false,expert,,h ɨ n ɨ,false,expert
 kapanawa-how-1-1,kapanawa-how-1,jenques,2497,false,expert,,h ɨ n.k ɨ s,false,expert
-kapanawa-tail-1-1,kapanawa-tail-1,jina,800,false,expert,,h i n a,false,expert
-kapanawa-penis-1-1,kapanawa-penis-1,jina,800,false,expert,,h i n a,false,expert
+kapanawa-tail-1-1,kapanawa-tail-1,jina,800,false,expert,,h i n a ( - - - - - ),false,expert
+kapanawa-penis-1-1,kapanawa-penis-1,jina,800,false,expert,,h i n a ( - - - - - ),false,expert
 kapanawa-penis-2-1,kapanawa-penis-2,boshi,1527,false,expert,,β o ʃ - i,false,expert
 kapanawa-frog-1-1,kapanawa-frog-1,jiri,2286,false,expert,,h i r i,false,expert
 kapanawa-frog-2-1,kapanawa-frog-2,tinjahihcashan,2498,false,expert,,t i n a ʔ i ʔ k a ʃ a n,false,expert
@@ -4370,7 +4370,7 @@ sharanawa-hornanatomy-1-1,sharanawa-hornanatomy-1,masho,1171,false,expert,,m a +
 sharanawa-house-1-1,sharanawa-house-1,pushu,1921,false,expert,,p ɨ ʃ ɨ,false,expert
 sharanawa-hunt-1-1,sharanawa-hunt-1,nii cai,3160,false,expert,,n i ( - i ) + k a i,false,expert
 sharanawa-husband-1-1,sharanawa-husband-1,funu,749,false,expert,,β ɨ n ɨ,false,expert
-sharanawa-1stsgi-1-1,sharanawa-1stsgi-1,un,65,false,expert,,- ɨ n -,false,expert
+sharanawa-1stsgi-1-1,sharanawa-1stsgi-1,un,65,false,expert,,- ɨ ( n - ),false,expert
 sharanawa-join-1-1,sharanawa-join-1,ichahuai,3161,false,expert,,- i tʃ a + w a - i,false,expert
 sharanawa-join-2-1,sharanawa-join-2,topi,1337,false,expert,,t u p i,false,expert
 sharanawa-jump-1-1,sharanawa-jump-1,fiashiqui,3162,false,expert,,β i a ʃ i + k i,false,expert
@@ -4540,7 +4540,7 @@ sharanawa-swallow-1-1,sharanawa-swallow-1,shuai,3257,false,expert,,( - ) ʃ ɨ -
 sharanawa-sweetpotatoyam-1-1,sharanawa-sweetpotatoyam-1,cari,921,false,expert,,k a r i ( - - ),false,expert
 sharanawa-swim-1-1,sharanawa-swim-1,nashi,1215,false,expert,,n a ʃ i,false,expert
 sharanawa-swim-2-1,sharanawa-swim-2,topiqui,3258,false,expert,,t u ( - ) p i + k i,false,expert
-sharanawa-tail-1-1,sharanawa-tail-1,ina,800,false,expert,,- i n a,false,expert
+sharanawa-tail-1-1,sharanawa-tail-1,ina,800,false,expert,,- i n a ( - - - - - ),false,expert
 sharanawa-tail-2-1,sharanawa-tail-2,tayanti,3259,false,expert,,t a j a n t i,false,expert
 sharanawa-tearshred-1-1,sharanawa-tearshred-1,fashnui,3260,false,expert,,β a ʃ n ɨ i,false,expert
 sharanawa-they-1-1,sharanawa-they-1,ato,761,false,expert,,- a t u,false,expert
@@ -5263,7 +5263,7 @@ iskonawa-hornanatomy-1-1,iskonawa-hornanatomy-1,mahon,1171,false,expert,,m a + (
 iskonawa-hot-1-1,iskonawa-hot-1,hana,1403,false,expert,,h a n a,false,expert
 iskonawa-house-1-1,iskonawa-house-1,kahe panpihiko,3640,false,expert,,k a h ɨ + p a n p i h i k o,false,expert
 iskonawa-husband-1-1,iskonawa-husband-1,bene,749,false,expert,,β ɨ n ɨ,false,expert
-iskonawa-1stsgi-1-1,iskonawa-1stsgi-1,ea,1480,false,expert,,- ɨ - - + a,false,expert
+iskonawa-1stsgi-1-1,iskonawa-1stsgi-1,ea,1480,false,expert,,- ɨ ( - - ) + a,false,expert
 iskonawa-kidney-1-1,iskonawa-kidney-1,kaonhko,3641,false,expert,,k a - o ( n h ) k o,false,expert
 iskonawa-kill-1-1,iskonawa-kill-1,mare,3642,false,expert,,m a ɾ ɨ,false,expert
 iskonawa-knowsomething-1-1,iskonawa-knowsomething-1,onain,2300,false,expert,,- o n ai n,false,expert
@@ -5411,7 +5411,7 @@ iskonawa-sun-1-1,iskonawa-sun-1,bari,13,false,expert,,β a ɾ i ( - - ),false,ex
 iskonawa-swallow-1-1,iskonawa-swallow-1,hea,874,false,expert,,h ɨ a,false,expert
 iskonawa-sweetpotatoyam-1-1,iskonawa-sweetpotatoyam-1,nuin mera,3723,false,expert,,n u i n + m ɨ ɾ a,false,expert
 iskonawa-swim-1-1,iskonawa-swim-1,tonpi,3724,false,expert,,t o ( n ) p i,false,expert
-iskonawa-tail-1-1,iskonawa-tail-1,ina,800,false,expert,,- i n a,false,expert
+iskonawa-tail-1-1,iskonawa-tail-1,ina,800,false,expert,,- i n a ( - - - - - ),false,expert
 iskonawa-tearofeye-1-1,iskonawa-tearofeye-1,bero ene,1411,false,expert,,β ɨ + ɾ o + - ɨ n ɨ,false,expert
 iskonawa-tell-1-1,iskonawa-tell-1,yoi,3725,false,expert,,j o ( - ) + i,false,expert
 iskonawa-testicles-1-1,iskonawa-testicles-1,ebo,1200,false,expert,,- ɨ β o,false,expert
@@ -5498,7 +5498,7 @@ kashibo-forest-2-1,kashibo-forest-2,ni,717,false,expert,,n i ( - - ),false,exper
 kashibo-becomeangry-1-1,kashibo-becomeangry-1,nishti,3763,false,expert,,n i ʃ + t i,false,expert
 kashibo-workactivity-1-1,kashibo-workactivity-1,ñu mëëti,3764,false,expert,,ɲ ɯ + m ɨ ɨ + t i,false,expert
 kashibo-dead-1-1,kashibo-dead-1,nukë,3765,false,expert,,n ɯ k ɨ,false,expert
-kashibo-die-1-1,kashibo-die-1,ñuti,3766,false,expert,,( - ) - - ɲ ɯ + t i,false,expert
+kashibo-die-1-1,kashibo-die-1,ñuti,3766,false,expert,,( - ) - - ( ɲ ɯ ) + t i,false,expert
 kashibo-pain-1-1,kashibo-pain-1,paë,2090,false,expert,,p a - ɨ ( - - ),false,expert
 kashibo-slip-2-1,kashibo-slip-2,pakë́ti,3767,false,expert,,p a k ɨ + t i,false,expert
 kashibo-feather-2-1,kashibo-feather-2,pëi,918,false,expert,,p ɨ + - i,false,expert
@@ -5531,7 +5531,7 @@ matses-there-2-1,matses-there-2,u,2794,false,expert,,u,false,expert
 matses-true-1-1,matses-true-1,abimbo,3783,false,expert,,a b i m b o,false,expert
 matses-highortall-1-1,matses-highortall-1,abuc,2995,false,expert,,a b u + k,false,expert
 matses-river-1-1,matses-river-1,acte,2728,false,expert,,a k + t e,false,expert
-matses-youngwoman-1-1,matses-youngwoman-1,"*woman, wife",1137,false,expert,,- a - i n - - - + b a kʷ ɨ,false,expert
+matses-youngwoman-1-1,matses-youngwoman-1,"*woman, wife",1137,false,expert,,- a - i n - ( - - ) + b a kʷ ɨ,false,expert
 matses-youngwoman-2-1,matses-youngwoman-2,"*woman, wife",3784,false,expert,,tʃ a + m p i,false,expert
 matses-youngman-1-1,matses-youngman-1,bacuë,46,false,expert,,b a kʷ ɨ,false,expert
 matses-morning-1-1,matses-morning-1,badiadaʂ,2989,false,expert,,b a d i ( a d ) + a ʂ,false,expert
@@ -5892,7 +5892,7 @@ araona-vagina-1-1,araona-vagina-1,jótsecua,4026,false,expert,,h o ts e kʷ a,fa
 araona-sharpensomething-1-1,araona-sharpensomething-1,lacua,3947,false,expert,,l a kʷ a,false,expert
 araona-hideconceal-1-1,araona-hideconceal-1,lobo,4027,false,expert,,l o b o,false,expert
 araona-stone-1-1,araona-stone-1,majana,4028,false,expert,,m a h a n a,false,expert
-araona-die-1-1,araona-die-1,mano,188,false,expert,,( - ) m a n o,false,expert
+araona-die-1-1,araona-die-1,mano,188,false,expert,,( - ) m a ( n o ),false,expert
 araona-river-1-1,araona-river-1,mano,4029,false,expert,,m a n o,false,expert
 araona-negation-1-1,araona-negation-1,mi,702,false,expert,,m i ( - ),false,expert
 araona-there-1-1,araona-there-1,mo,4030,false,expert,,m o -,false,expert
@@ -6029,7 +6029,7 @@ cavinena-stomach-1-1,cavinena-stomach-1,dumijiti,4125,false,expert,,d u m i h i 
 cavinena-belt-1-1,cavinena-belt-1,dure,4126,false,expert,,d u r e,false,expert
 cavinena-all-1-1,cavinena-all-1,dutya,4127,false,expert,,d u tʲ a,false,expert
 cavinena-lazy-1-1,cavinena-lazy-1,dyai,4128,false,expert,,dʲ ai,false,expert
-cavinena-1stsgi-1-1,cavinena-1stsgi-1,e,65,false,expert,,- e - -,false,expert
+cavinena-1stsgi-1-1,cavinena-1stsgi-1,e,65,false,expert,,- e ( - - ),false,expert
 cavinena-house-1-1,cavinena-house-1,tare,4129,false,expert,,t a r e,false,expert
 cavinena-food-1-1,cavinena-food-1,earaki,4130,false,expert,,a r a + k i,false,expert
 cavinena-cooksomething-1-1,cavinena-cooksomething-1,earaki a,4131,false,expert,,e a r a k i + a,false,expert
@@ -6079,7 +6079,7 @@ cavinena-help-2-1,cavinena-help-2,tsawa,487,false,expert,,( - - ) ts a w a,false
 cavinena-shake-1-1,cavinena-shake-1,itata,4170,false,expert,,( i ) t a t a,false,expert
 cavinena-shake-2-1,cavinena-shake-2,wisha,4171,false,expert,,w i ʃ a,false,expert
 cavinena-push-1-1,cavinena-push-1,itusha,4172,false,expert,,i t u ʃ a,false,expert
-cavinena-tail-1-1,cavinena-tail-1,iwa,118,false,expert,,( i ) w a ( - - ),false,expert
+cavinena-tail-1-1,cavinena-tail-1,iwa,118,false,expert,,- i w a ( - - - - - ),false,expert
 cavinena-waitfor-1-1,cavinena-waitfor-1,iwa,3934,false,expert,,i w a,false,expert
 cavinena-put-1-1,cavinena-put-1,iya,330,false,expert,,i j a,false,expert
 cavinena-leave-1-1,cavinena-leave-1,iya,4174,false,expert,,i j a,false,expert
@@ -6891,7 +6891,7 @@ chakobo-lake-1-1,chakobo-lake-1,ianë,716,false,expert,,( - ) i a n ( ɨ ),false
 chakobo-few-1-1,chakobo-few-1,ichariama,4738,false,expert,,- i tʃ a + r i a + m a,false,expert
 chakobo-heavy-1-1,chakobo-heavy-1,ihuë,1052,false,expert,,( - - ) - i w ɨ ( - ),false,expert
 chakobo-shiver-1-1,chakobo-shiver-1,imahaina,4739,false,expert,,i m a,false,expert
-chakobo-dog-1-1,chakobo-dog-1,inaca,2395,false,expert,,- i n a ( k a ),false,expert
+chakobo-dog-1-1,chakobo-dog-1,inaca,2395,false,expert,,- i n a ( k a - - - ),false,expert
 chakobo-goupascend-1-1,chakobo-goupascend-1,inahaina,4740,false,expert,,- i n a,false,expert
 chakobo-sell-1-1,chakobo-sell-1,iniahaina,1324,false,expert,,- i n !ia/a -,false,expert
 chakobo-say-1-1,chakobo-say-1,iqui,3220,false,expert,,i k i,false,expert
@@ -6935,8 +6935,8 @@ chakobo-when-1-1,chakobo-when-1,jënino,4760,false,expert,,h ɨ n i + n o,false,
 chakobo-enter-1-1,chakobo-enter-1,jicohaina,1316,false,expert,,h i k o,false,expert
 chakobo-burnsomething-1-1,chakobo-burnsomething-1,jiisahaina,4761,false,expert,,h i ( - - ) + ( - - ) i s a,false,expert
 chakobo-relatives-1-1,chakobo-relatives-1,jimi,797,false,expert,,h i m i ( - ),false,expert
-chakobo-tail-1-1,chakobo-tail-1,jina,800,false,expert,,h i n a,false,expert
-chakobo-penis-1-1,chakobo-penis-1,jina,800,false,expert,,h i n a,false,expert
+chakobo-tail-1-1,chakobo-tail-1,jina,800,false,expert,,h i n a ( - - - - - ),false,expert
+chakobo-penis-1-1,chakobo-penis-1,jina,800,false,expert,,h i n a ( - - - - - ),false,expert
 chakobo-see-1-1,chakobo-see-1,jis-haina,2503,false,expert,,h i s,false,expert
 chakobo-piss-1-1,chakobo-piss-1,jisohaina,846,false,expert,,( h ) i ( - ) s o -,false,expert
 chakobo-flower-1-1,chakobo-flower-1,joa,919,false,expert,,h o ( - ) a,false,expert
@@ -7556,7 +7556,7 @@ kasharari-smokeexhaust-1-1,kasharari-smokeexhaust-1,kwaˈi,735,false,expert,,!k�
 kasharari-snake-1-1,kasharari-snake-1,tʃuˈlu,5096,false,expert,,tʃ u l u,false,expert
 kasharari-stone-1-1,kasharari-stone-1,ʂaˈʂu,3877,false,expert,,ʂ a ʂ u,false,expert
 kasharari-sweet-1-1,kasharari-sweet-1,βwaˈta,1036,false,expert,,β a t a,false,expert
-kasharari-tail-1-1,kasharari-tail-1,tʃiˈna,800,false,expert,,tʃ i n a,false,expert
+kasharari-tail-1-1,kasharari-tail-1,tʃiˈna,800,false,expert,,tʃ i n a ( - - - - - ),false,expert
 kasharari-tearofeye-1-1,kasharari-tearofeye-1,bɨwˈmi,5097,false,expert,,!b/β ɨ + w m i,false,expert
 kasharari-upperlegthigh-1-1,kasharari-upperlegthigh-1,kiˈʃi,147,false,expert,,k i ʃ i,false,expert
 kasharari-they-1-1,kasharari-they-1,hatu,761,false,expert,,h a t u,false,expert
@@ -7717,26 +7717,26 @@ yawanawa-tapir-1-1,yawanawa-tapir-1,aua,5125,false,expert,,- a w a ( - ) - -,fal
 korubo-tapir-1-1,korubo-tapir-1,awat,5125,false,expert,,- a w a ( - ) t -,false,expert
 matis-tapir-1-1,matis-tapir-1,awad,5125,false,expert,,- a w a ( - ) d -,false,expert
 matses-tapir-1-1,matses-tapir-1,awad,5125,false,expert,,- a w a ( - ) d -,false,expert
-protopanoan-womanwife-1-1,protopanoan-womanwife-1,ʔawi[n],5126,false,expert,,ʔ a w i rⁿ - - -,false,expert
-shipibokonibo-womanwife-1-1,shipibokonibo-womanwife-1,aˈwĩ,5126,false,expert,,- a w i ∼ - - -,false,expert
-kapanawa-womanwife-1-1,kapanawa-womanwife-1,ʔaˈwin,5126,false,expert,,ʔ a w i n - - -,false,expert
-marubo-womanwife-1-1,marubo-womanwife-1,"*woman, wife",5126,false,expert,,- a - i ∼ - - -,false,expert
-marubo-womanwife-2-1,marubo-womanwife-2,aˈĩvɞ,5126,false,expert,,- a - i ∼ - v ɞ,false,expert
-chakobo-womanwife-1-1,chakobo-womanwife-1,ʔaˈwini,5126,false,expert,,ʔ a w i n i - -,false,expert
-yaminawa-womanwife-1-1,yaminawa-womanwife-1,aɸĩ,5126,false,expert,,- a ɸ i ∼ - - -,false,expert
-chaninawa-womanwife-1-1,chaninawa-womanwife-1,awin,5126,false,expert,,- a w i n - - -,false,expert
-poyanawa-womanwife-1-1,poyanawa-womanwife-1,awĩ,5126,false,expert,,- a w i ∼ - - -,false,expert
-amawaka-womanwife-1-1,amawaka-womanwife-1,ʔaín,5126,false,expert,,ʔ a - !í/i n - - -,false,expert
-amawaka-womanwife-2-1,amawaka-womanwife-2,ãĩ,5126,false,expert,,- !ã/a - i ∼ - - -,false,expert
-kaxinawa-womanwife-1-1,kaxinawa-womanwife-1,ãĩ,5126,false,expert,,- !ã/a - i ∼ - - -,false,expert
-marinawa-womanwife-1-1,marinawa-womanwife-1,ˈãwĩ,5126,false,expert,,- !ã/a w i ∼ - - -,false,expert
-yawanawa-womanwife-1-1,yawanawa-womanwife-1,auin,5126,false,expert,,- a w i n - - -,false,expert
-korubo-womanwife-1-1,korubo-womanwife-1,awin,5126,false,expert,,- a w i n - - -,false,expert
-matis-womanwife-1-1,matis-womanwife-1,awin,5126,false,expert,,- a w i n - - -,false,expert
-matses-womanwife-1-1,matses-womanwife-1,awin,5126,false,expert,,- a w i n - - -,false,expert
-protopanoan-womanwife-2-1,protopanoan-womanwife-2,ʔawĩβo,5127,false,expert,,ʔ a w ĩ/i - - β o,false,expert
+protopanoan-womanwife-1-1,protopanoan-womanwife-1,ʔawi[n],5126,false,expert,,ʔ a w i rⁿ - ( - - ),false,expert
+shipibokonibo-womanwife-1-1,shipibokonibo-womanwife-1,aˈwĩ,5126,false,expert,,- a w i ∼ - ( - - ),false,expert
+kapanawa-womanwife-1-1,kapanawa-womanwife-1,ʔaˈwin,5126,false,expert,,ʔ a w i n - ( - - ),false,expert
+marubo-womanwife-1-1,marubo-womanwife-1,"*woman, wife",5126,false,expert,,- a - i ∼ - ( - - ),false,expert
+marubo-womanwife-2-1,marubo-womanwife-2,aˈĩvɞ,5126,false,expert,,- a - i ∼ - ( v ɞ ),false,expert
+chakobo-womanwife-1-1,chakobo-womanwife-1,ʔaˈwini,5126,false,expert,,ʔ a w i n i ( - - ),false,expert
+yaminawa-womanwife-1-1,yaminawa-womanwife-1,aɸĩ,5126,false,expert,,- a ɸ i ∼ - ( - - ),false,expert
+chaninawa-womanwife-1-1,chaninawa-womanwife-1,awin,5126,false,expert,,- a w i n - ( - - ),false,expert
+poyanawa-womanwife-1-1,poyanawa-womanwife-1,awĩ,5126,false,expert,,- a w i ∼ - ( - - ),false,expert
+amawaka-womanwife-1-1,amawaka-womanwife-1,ʔaín,5126,false,expert,,ʔ a - !í/i n - ( - - ),false,expert
+amawaka-womanwife-2-1,amawaka-womanwife-2,ãĩ,5126,false,expert,,- !ã/a - i ∼ - ( - - ),false,expert
+kaxinawa-womanwife-1-1,kaxinawa-womanwife-1,ãĩ,5126,false,expert,,- !ã/a - i ∼ - ( - - ),false,expert
+marinawa-womanwife-1-1,marinawa-womanwife-1,ˈãwĩ,5126,false,expert,,- !ã/a w i ∼ - ( - - ),false,expert
+yawanawa-womanwife-1-1,yawanawa-womanwife-1,auin,5126,false,expert,,- a w i n - ( - - ),false,expert
+korubo-womanwife-1-1,korubo-womanwife-1,awin,5126,false,expert,,- a w i n - ( - - ),false,expert
+matis-womanwife-1-1,matis-womanwife-1,awin,5126,false,expert,,- a w i n - ( - - ),false,expert
+matses-womanwife-1-1,matses-womanwife-1,awin,5126,false,expert,,- a w i n - ( - - ),false,expert
+protopanoan-womanwife-2-1,protopanoan-womanwife-2,ʔawĩβo,5127,false,expert,,ʔ a w ĩ/i - - ( β o ),false,expert
 shipibokonibo-womanwife-2-1,shipibokonibo-womanwife-2,ʔaˈĩβo,5127,false,expert,,ʔ a - ĩ/i - - β o,false,expert
-marinawa-womanwife-2-1,marinawa-womanwife-2,"*woman, wife",5127,false,expert,,- !ã/a - ĩ/i - - ɸ o,false,expert
+marinawa-womanwife-2-1,marinawa-womanwife-2,"*woman, wife",5127,false,expert,,- !ã/a - ĩ/i - - ( ɸ o ),false,expert
 protopanoan-todevour-1-1,protopanoan-todevour-1,ʔaya-,5128,false,expert,,ʔ a j a ( - - - ),false,expert
 kashibo-todevour-1-1,kashibo-todevour-1,ʔee-,5128,false,expert,,ʔ e - e ( - - - ),false,expert
 kashibo-todevour-2-1,kashibo-todevour-2,ʔe-ti,5128,false,expert,,ʔ e - - ( - - - ) + t i - - - ),false,expert
@@ -7754,7 +7754,7 @@ sharanawa-todevour-1-1,sharanawa-todevour-1,aya-i,5128,false,expert,,- a j a ( -
 korubo-todevour-1-1,korubo-todevour-1,ak-,5130,false,expert,,- a k - ( - - - ),false,expert
 matis-todevour-1-1,matis-todevour-1,ak-kin,5131,false,expert,,- a k - ( - - - ) + k i n ),false,expert
 matses-todevour-1-1,matses-todevour-1,ak,5132,false,expert,,- a k - ( - - - ),false,expert
-amawaka-1stsgi-1-1,amawaka-1stsgi-1,ɨ-,5133,false,expert,,- ɨ - -,false,expert
+amawaka-1stsgi-1-1,amawaka-1stsgi-1,ɨ-,5133,false,expert,,- ɨ ( - - ),false,expert
 protopanoan-big-2-1,protopanoan-big-2,ʔɨwa,5134,false,expert,,( - - - ) ʔ ɨ w a ( - - ),false,expert
 kashibo-big-4-1,kashibo-big-4,ʔĩɔ,5134,false,expert,,( - - - ) ʔ !ĩ/i - ɔ ( - - ),false,expert
 kashibo-big-5-1,kashibo-big-5,-on,5135,false,expert,,( - - - - - o ) - - - - ( - - - n - - - - - - - - ),false,expert
@@ -10718,10 +10718,10 @@ amawaka-tohitoneshead-1-1,amawaka-tohitoneshead-1,matas-,5493,false,expert,,m a 
 kaxinawa-tohitoneshead-1-1,kaxinawa-tohitoneshead-1,matas_ak,5493,false,expert,,m a t a s ( + - a - k - ),false,expert
 korubo-tohitoneshead-1-1,korubo-tohitoneshead-1,matɨʃ-ante,5493,false,expert,,m a t ɨ ʃ ( + - a n t e ),false,expert
 matses-tohitoneshead-1-1,matses-tohitoneshead-1,maˈtas,5493,false,expert,,m a t a s ( - - - - - - ),false,expert
-protopanoan-die-1-1,protopanoan-die-1,mawa-,5496,false,expert,,( - ) m a w a,false,expert
-shipibokonibo-die-1-1,shipibokonibo-die-1,mawa-,5496,false,expert,,( - ) m a w a,false,expert
-kapanawa-die-2-1,kapanawa-die-2,mawa-,5496,false,expert,,( - ) m a w a,false,expert
-kaxinawa-die-1-1,kaxinawa-die-1,mawa-,5496,false,expert,,( - ) m a w a,false,expert
+protopanoan-die-1-1,protopanoan-die-1,mawa-,5496,false,expert,,( - ) m a ( w a ),false,expert
+shipibokonibo-die-1-1,shipibokonibo-die-1,mawa-,5496,false,expert,,( - ) m a ( w a ),false,expert
+kapanawa-die-2-1,kapanawa-die-2,mawa-,5496,false,expert,,( - ) m a ( w a ),false,expert
+kaxinawa-die-1-1,kaxinawa-die-1,mawa-,5496,false,expert,,( - ) m a ( w a ),false,expert
 protopanoan-speciesofant-3-1,protopanoan-speciesofant-3,mawis,5497,false,expert,,m a w i s ( - ),false,expert
 kashibo-speciesofant-3-1,kashibo-speciesofant-3,maís,5497,false,expert,,m a - !í/i s ( - ),false,expert
 kashibo-speciesofant-4-1,kashibo-speciesofant-4,maɨ́́s,5497,false,expert,,m a - !ɨ́/ɨ s ( - ),false,expert
@@ -11173,7 +11173,7 @@ kasharari-daynotnight-2-1,kasharari-daynotnight-2,lɨˈtɨ[ləˈtə],5561,false,
 amawaka-daynotnight-3-1,amawaka-daynotnight-3,nɨtɨ́́_I,5561,false,expert,,n ɨ t !ɨ́/ɨ ( - ),false,expert
 korubo-daynotnight-1-1,korubo-daynotnight-1,nɨtɨn,5561,false,expert,,n ɨ t ɨ ( n ),false,expert
 matis-daynotnight-1-1,matis-daynotnight-1,nɨtɨn,5561,false,expert,,n ɨ t ɨ ( n ),false,expert
-protopanoan-stand-1-1,protopanoan-stand-1,niCc-,5562,false,expert,,n i tʳ - ( - - - ),false,expert
+protopanoan-stand-1-1,protopanoan-stand-1,niCc-,5562,false,expert,,n i t - ( - - - ),false,expert
 kashibo-stand-4-1,kashibo-stand-4,nits-,5563,false,expert,,n i ts - ( - - - - ),false,expert
 kashibo-stand-5-1,kashibo-stand-5,niɾú-ti,5564,false,expert,,n i ɾ !ú/u ( + t i - ),false,expert
 shipibokonibo-stand-4-1,shipibokonibo-stand-4,nií-,5562,false,expert,,n i - !í/i ( - - - ),false,expert
@@ -12054,7 +12054,7 @@ marinawa-vein-1-1,marinawa-vein-1,pono,5666,false,expert,,p o n o ( - ),false,ex
 korubo-vein-1-1,korubo-vein-1,punu,5666,false,expert,,p u n u ( - ),false,expert
 matis-vein-1-1,matis-vein-1,punu,5666,false,expert,,p u n u ( - ),false,expert
 matses-vein-1-1,matses-vein-1,punu,5666,false,expert,,p u n u ( - ),false,expert
-protopanoan-speciesofowl-1-1,protopanoan-speciesofowl-1,popo,5667,false,expert,,p o p o ( - ),false,expert
+protopanoan-speciesofowl-1-1,protopanoan-speciesofowl-1,popo,5667,false,expert,,p u p u ( - ),false,expert
 marubo-speciesofowl-1-1,marubo-speciesofowl-1,pupu,5667,false,expert,,p u p u ( - ),false,expert
 chakobo-speciesofowl-2-1,chakobo-speciesofowl-2,popo,5667,false,expert,,p o p o ( - ),false,expert
 kasharari-speciesofowl-1-1,kasharari-speciesofowl-1,ˈpupu,5667,false,expert,,p u p u ( - ),false,expert
@@ -13441,21 +13441,21 @@ shipibokonibo-branchesthathangintotheriver-1-1,shipibokonibo-branchesthathangint
 kapanawa-branchesthathangintotheriver-1-1,kapanawa-branchesthathangintotheriver-1,taʂa,5836,false,expert,,t a ʂ a,false,expert
 amawaka-branchesthathangintotheriver-1-1,amawaka-branchesthathangintotheriver-1,taxa,5836,false,expert,,t a x a,false,expert
 kaxinawa-branchesthathangintotheriver-1-1,kaxinawa-branchesthathangintotheriver-1,taxa,5836,false,expert,,t a x a,false,expert
-protopanoan-reedbamboousedformakingarrows-1-1,protopanoan-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a -,false,expert
-kashibo-reedbamboousedformakingarrows-1-1,kashibo-reedbamboousedformakingarrows-1,tɔɔ,5837,false,expert,,( - - - - ) t ɔ - ɔ -,false,expert
+protopanoan-reedbamboousedformakingarrows-1-1,protopanoan-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a ( - ),false,expert
+kashibo-reedbamboousedformakingarrows-1-1,kashibo-reedbamboousedformakingarrows-1,tɔɔ,5837,false,expert,,( - - - - ) t ɔ - ɔ ( - ),false,expert
 kashibo-reedbamboousedformakingarrows-2-1,kashibo-reedbamboousedformakingarrows-2,to,5838,false,expert,,( - - - - ) t o - - -,false,expert
-shipibokonibo-reedbamboousedformakingarrows-1-1,shipibokonibo-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a -,false,expert
-kapanawa-reedbamboousedformakingarrows-1-1,kapanawa-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a -,false,expert
-marubo-arrow-2-1,marubo-arrow-2,ˈtawa,5837,false,expert,,( - - - - ) t a w a -,false,expert
-chakobo-reedbamboousedformakingarrows-1-1,chakobo-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a -,false,expert
-sharanawa-reedbamboousedformakingarrows-1-1,sharanawa-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a -,false,expert
-sharanawa-reedbamboousedformakingarrows-2-1,sharanawa-reedbamboousedformakingarrows-2,tawan,5837,false,expert,,( - - - - ) t a w a n,false,expert
-amawaka-reedbamboousedformakingarrows-1-1,amawaka-reedbamboousedformakingarrows-1,táá_I,5837,false,expert,,( - - - - ) t !á/a - !á/a -,false,expert
-kaxinawa-reedbamboousedformakingarrows-1-1,kaxinawa-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a -,false,expert
-marinawa-reedbamboousedformakingarrows-1-1,marinawa-reedbamboousedformakingarrows-1,ɸakátáwa,5837,false,expert,,( ɸ a k !á/a ) t !á/a w a -,false,expert
-korubo-reedbamboousedformakingarrows-1-1,korubo-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a -,false,expert
-matis-reedbamboousedformakingarrows-1-1,matis-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a -,false,expert
-matses-reedbamboousedformakingarrows-1-1,matses-reedbamboousedformakingarrows-1,taua,5837,false,expert,,( - - - - ) t a w a -,false,expert
+shipibokonibo-reedbamboousedformakingarrows-1-1,shipibokonibo-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a ( - ),false,expert
+kapanawa-reedbamboousedformakingarrows-1-1,kapanawa-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a ( - ),false,expert
+marubo-arrow-2-1,marubo-arrow-2,ˈtawa,5837,false,expert,,( - - - - ) t a w a ( - ),false,expert
+chakobo-reedbamboousedformakingarrows-1-1,chakobo-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a ( - ),false,expert
+sharanawa-reedbamboousedformakingarrows-1-1,sharanawa-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a ( - ),false,expert
+sharanawa-reedbamboousedformakingarrows-2-1,sharanawa-reedbamboousedformakingarrows-2,tawan,5837,false,expert,,( - - - - ) t a w a ( n ),false,expert
+amawaka-reedbamboousedformakingarrows-1-1,amawaka-reedbamboousedformakingarrows-1,táá_I,5837,false,expert,,( - - - - ) t !á/a - !á/a ( - ),false,expert
+kaxinawa-reedbamboousedformakingarrows-1-1,kaxinawa-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a ( - ),false,expert
+marinawa-reedbamboousedformakingarrows-1-1,marinawa-reedbamboousedformakingarrows-1,ɸakátáwa,5837,false,expert,,( ɸ a k !á/a ) t !á/a w a ( - ),false,expert
+korubo-reedbamboousedformakingarrows-1-1,korubo-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a ( - ),false,expert
+matis-reedbamboousedformakingarrows-1-1,matis-reedbamboousedformakingarrows-1,tawa,5837,false,expert,,( - - - - ) t a w a ( - ),false,expert
+matses-reedbamboousedformakingarrows-1-1,matses-reedbamboousedformakingarrows-1,taua,5837,false,expert,,( - - - - ) t a w a ( - ),false,expert
 protopanoan-breakdestroyorgetdestroyed-1-1,protopanoan-breakdestroyorgetdestroyed-1,tɨʔk[ɨ]-,5839,false,expert,,t ɨ ʔ k !ɨ/a -,false,expert
 kashibo-breakdestroyorgetdestroyed-4-1,kashibo-breakdestroyorgetdestroyed-4,tɨkɨ-́́,5839,false,expert,,t ɨ - k !ɨ́/ɨ -,false,expert
 shipibokonibo-breakdestroyorgetdestroyed-2-1,shipibokonibo-breakdestroyorgetdestroyed-2,tɨkɨ,5839,false,expert,,t ɨ - k ɨ -,false,expert
@@ -14989,10 +14989,10 @@ prototakana-godowndescend-1-1,prototakana-godowndescend-1,bute,6126,false,expert
 tacana-godowndescend-1-1,tacana-godowndescend-1,bute,6126,false,expert,,- - - - - b u t e -,false,expert
 cavinena-godowndescend-1-1,cavinena-godowndescend-1,bote-,6126,false,expert,,- - - - - b o t e -,false,expert
 cavinena-godowndescend-2-1,cavinena-godowndescend-2,botya-,6127,false,expert,,( - - - - - ) b o t j ( - - a - ),false,expert
-prototakana-nephew-1-1,prototakana-nephew-1,bu,6128,false,expert,,b u - - -,false,expert
-tacana-nephew-1-1,tacana-nephew-1,bu-i,6128,false,expert,,b u - i -,false,expert
-cavinena-nephew-1-1,cavinena-nephew-1,e-bo-ke,6128,false,expert,,( e + b o - - - + k e ),false,expert
-eseejja-nephew-1-1,eseejja-nephew-1,bo-e,6128,false,expert,,b o - e -,false,expert
+prototakana-nephew-1-1,prototakana-nephew-1,bu,6128,false,expert,,b u -,false,expert
+tacana-nephew-1-1,tacana-nephew-1,bu-i,6128,false,expert,,b u i,false,expert
+cavinena-nephew-1-1,cavinena-nephew-1,e-bo-ke,6128,false,expert,,( e + b o - + k e ),false,expert
+eseejja-nephew-1-1,eseejja-nephew-1,bo-e,6128,false,expert,,b o e,false,expert
 prototakana-melero-1-1,prototakana-melero-1,buka,6129,false,expert,,b u k a,false,expert
 tacana-melero-1-1,tacana-melero-1,buha,6129,false,expert,,b u h a,false,expert
 cavinena-melero-1-1,cavinena-melero-1,boka,6129,false,expert,,b o k a,false,expert
@@ -15727,10 +15727,10 @@ prototakana-tothreshthecorn-1-1,prototakana-tothreshthecorn-1,iřuřu,6308,false
 tacana-tothreshthecorn-1-1,tacana-tothreshthecorn-1,iruru-a-,6308,false,expert,,i r u r u ( + a - - - ),false,expert
 cavinena-tothreshthecorn-1-1,cavinena-tothreshthecorn-1,iroro-,6309,false,expert,,i r o r o ( - - - - - ),false,expert
 cavinena-tothreshthecorn-2-1,cavinena-tothreshthecorn-2,iruru-a-ki,6308,false,expert,,i r u r u ( + a + k i ),false,expert
-prototakana-tail-1-1,prototakana-tail-1,iwa,6310,false,expert,,( - - - - ) i w a ( - - - ),false,expert
+prototakana-tail-1-1,prototakana-tail-1,iwa,6310,false,expert,,- i w a ( - - - - - ),false,expert
 eseejja-tail-3-1,eseejja-tail-3,ewaʔo,6310,false,expert,,( - - - - ) e w a ( ʔ o - ),false,expert
 eseejja-tail-4-1,eseejja-tail-4,ewaʔyo,6310,false,expert,,( - - - - ) e w a ( ʔ j o ),false,expert
-eseejja-tail-5-1,eseejja-tail-5,iña-ewa,6310,false,expert,,( i ɲ a + ) e w a ( - - - ),false,expert
+eseejja-tail-5-1,eseejja-tail-5,iña-ewa,6310,false,expert,,- i ɲ a ( - - - - - ) + ) e w a ( - - - ),false,expert
 prototakana-call-1-1,prototakana-call-1,iwara,6311,false,expert,,i w a r a,false,expert
 tacana-call-1-1,tacana-call-1,iwa-,6311,false,expert,,i w a - -,false,expert
 cavinena-call-1-1,cavinena-call-1,iwara-,6311,false,expert,,i w a r a,false,expert
@@ -16318,12 +16318,12 @@ cavinena-alligator-1-1,cavinena-alligator-1,mama-mama,6430,false,expert,,m a m a
 prototakana-arboldesiringa-1-1,prototakana-arboldesiringa-1,mani,6431,false,expert,,m a n i,false,expert
 tacana-arboldesiringa-1-1,tacana-arboldesiringa-1,mani,6431,false,expert,,m a n i,false,expert
 cavinena-arboldesiringa-1-1,cavinena-arboldesiringa-1,mani,6431,false,expert,,m a n i,false,expert
-prototakana-die-1-1,prototakana-die-1,manu,6432,false,expert,,( - ) m a n u,false,expert
-tacana-die-1-1,tacana-die-1,manu-,6432,false,expert,,( - ) m a n u,false,expert
-warisa-die-1-1,warisa-die-1,manu,6432,false,expert,,( - ) m a n u,false,expert
-cavinena-die-2-1,cavinena-die-2,e-mano-no,6432,false,expert,,( e + ( - ) m a n o + n o - - - - - - - - ),false,expert
-eseejja-die-1-1,eseejja-die-1,mano-,6432,false,expert,,( - ) m a n o,false,expert
-arasa-die-1-1,arasa-die-1,emanU,6432,false,expert,,( e ) m a n !U/o,false,expert
+prototakana-die-1-1,prototakana-die-1,manu,6432,false,expert,,( - ) m a ( n u ),false,expert
+tacana-die-1-1,tacana-die-1,manu-,6432,false,expert,,( - ) m a ( n u ),false,expert
+warisa-die-1-1,warisa-die-1,manu,6432,false,expert,,( - ) m a ( n u ),false,expert
+cavinena-die-2-1,cavinena-die-2,e-mano-no,6432,false,expert,,( e + ( - ) m a ( n o ) + n o - - - - - - - - ),false,expert
+eseejja-die-1-1,eseejja-die-1,mano-,6432,false,expert,,( - ) m a ( n o ),false,expert
+arasa-die-1-1,arasa-die-1,emanU,6432,false,expert,,( e ) m a ( n !U/o ),false,expert
 prototakana-llevarcargarabrazar-1-1,prototakana-llevarcargarabrazar-1,mapa-,6435,false,expert,,( - - - - - - - - ) m a p a ( - - - - - ),false,expert
 tacana-llevarcargarabrazar-1-1,tacana-llevarcargarabrazar-1,y-anana_mapa-i,6435,false,expert,,( j + a n a n a + ) m a p a ( + i - - - ),false,expert
 cavinena-llevarcargarabrazar-1-1,cavinena-llevarcargarabrazar-1,mapa-,6435,false,expert,,( - - - - - - - - ) m a p a ( - - - - - ),false,expert
@@ -17316,7 +17316,7 @@ cavinena-duck-3-1,cavinena-duck-3,hohe,6738,false,expert,,( - - - - ) h o h e ( 
 cavinena-duck-4-1,cavinena-duck-4,hohe_kata-sawa,6738,false,expert,,( - - - - ) h o h e ( + k a t a + s a w a ),false,expert
 cavinena-duck-5-1,cavinena-duck-5,epo-hohe,6738,false,expert,,( e p o + ) h o h e ( - - - - - - - - - - ),false,expert
 eseejja-duck-3-1,eseejja-duck-3,xóxe,6738,false,expert,,( - - - - ) x !ó/o x e ( - - - - - - - - - - ),false,expert
-prototakana-leg-1-1,prototakana-leg-1,ta-,6739,false,expert,,( - - - - ) t ( - ) a ( - - - - - ),false,expert
+prototakana-leg-1-1,prototakana-leg-1,ta-,6739,false,expert,,t a - -,false,expert
 tacana-leg-2-1,tacana-leg-2,e-ta-buce,6739,false,expert,,( - - e + ) t ( - ) a ( + b u ʈʂ e ),false,expert
 tacana-leg-3-1,tacana-leg-3,e-ta-hasi,6739,false,expert,,( - - e + ) t ( - ) a ( + h a s i ),false,expert
 tacana-leg-4-1,tacana-leg-4,ta-ra-,6739,false,expert,,( - - - - ) t ( - ) a ( + r a - - ),false,expert
@@ -17392,10 +17392,10 @@ warisa-father-1-1,warisa-father-1,ki-tata,6763,false,expert,,( k i + ) t a t a (
 araona-father-2-1,araona-father-2,tatadi,6763,false,expert,,( - - - ) t a t a ( - d i - - - - - - ),false,expert
 cavinena-father-2-1,cavinena-father-2,e-tata-haeanoke,6763,false,expert,,( - e + ) t a t a ( + h a j a n o k e ),false,expert
 eseejja-father-3-1,eseejja-father-3,tata,6763,false,expert,,( - - - ) t a t a ( - - - - - - - - - ),false,expert
-prototakana-reedbamboousedformakingarrows-2-1,prototakana-reedbamboousedformakingarrows-2,ta,6764,false,expert,,( - - - - ) t a - - -,false,expert
-tacana-reedbamboousedformakingarrows-2-1,tacana-reedbamboousedformakingarrows-2,ta,6764,false,expert,,( - - - - ) t a - - -,false,expert
-tacana-reedbamboousedformakingarrows-3-1,tacana-reedbamboousedformakingarrows-3,tawa_midha,6764,false,expert,,( - - - - ) t a w a - + m i ð a ),false,expert
-tacana-reedbamboousedformakingarrows-4-1,tacana-reedbamboousedformakingarrows-4,e-tawa-i,6764,false,expert,,( e + ) t a ( - w a + i - - - ),false,expert
+prototakana-reedbamboousedformakingarrows-2-1,prototakana-reedbamboousedformakingarrows-2,ta,6764,false,expert,,( - - - - ) t a w a ( - ),false,expert
+tacana-reedbamboousedformakingarrows-2-1,tacana-reedbamboousedformakingarrows-2,ta,6764,false,expert,,( - - - - ) t a - - ( - ),false,expert
+tacana-reedbamboousedformakingarrows-3-1,tacana-reedbamboousedformakingarrows-3,tawa_midha,6764,false,expert,,( - - - - ) t a w a ( - ) + m i ð a ),false,expert
+tacana-reedbamboousedformakingarrows-4-1,tacana-reedbamboousedformakingarrows-4,e-tawa-i,6764,false,expert,,( e + ( - - - - ) t a w a ( - ) + i - - - ),false,expert
 eseejja-reedbamboousedformakingarrows-2-1,eseejja-reedbamboousedformakingarrows-2,e-ka,6764,false,expert,,( e + ) k a ( - - - - - - - - ),false,expert
 eseejja-reedbamboousedformakingarrows-3-1,eseejja-reedbamboousedformakingarrows-3,e-ka-ná,6764,false,expert,,( e + ) k a ( + n á/a - - - - - ),false,expert
 prototakana-sleep-1-1,prototakana-sleep-1,tawi,6765,false,expert,,( - - - ) t a w i ( - - - - - - ),false,expert
@@ -17778,11 +17778,11 @@ eseejja-put-4-1,eseejja-put-4,wana-dobe-a-,6918,false,expert,,( - - - - - ) w a 
 eseejja-put-5-1,eseejja-put-5,wana-oke-a-,6918,false,expert,,( - - - - - ) w a n a ( + o k e + a - ),false,expert
 eseejja-put-6-1,eseejja-put-6,wana-sowa-,6918,false,expert,,( - - - - - ) w a n a ( + s o w a - - ),false,expert
 eseejja-put-7-1,eseejja-put-7,baʔe-wana-sowa-,6918,false,expert,,( b a ʔ e + ) w a n a ( + s o w a - - ),false,expert
-prototakana-woman-2-1,prototakana-woman-2,wane,6919,false,expert,,- - w a n e - -,false,expert
-tacana-woman-3-1,tacana-woman-3,e-wane,6919,false,expert,,( - e + - - w a n e - -,false,expert
-warisa-woman-2-1,warisa-woman-2,-wane,6919,false,expert,,- - w a n e - -,false,expert
-cavinena-woman-1-1,cavinena-woman-1,wane,6919,false,expert,,- - w a n e - -,false,expert
-eseejja-woman-4-1,eseejja-woman-4,wana-,6919,false,expert,,- - w a n a - -,false,expert
+prototakana-woman-2-1,prototakana-woman-2,wane,6919,false,expert,,- - w a n e ( - - ),false,expert
+tacana-woman-3-1,tacana-woman-3,e-wane,6919,false,expert,,( - e + - - w a n e ( - - ),false,expert
+warisa-woman-2-1,warisa-woman-2,-wane,6919,false,expert,,- - w a n e ( - - ),false,expert
+cavinena-woman-1-1,cavinena-woman-1,wane,6919,false,expert,,- - w a n e ( - - ),false,expert
+eseejja-woman-4-1,eseejja-woman-4,wana-,6919,false,expert,,- - w a n a ( - - ),false,expert
 prototakana-smokeexhaust-1-1,prototakana-smokeexhaust-1,wani,6921,false,expert,,( - - - - ) w ( - ) a n i ( - - - - - - - - - - ),false,expert
 tacana-smokeexhaust-2-1,tacana-smokeexhaust-2,wani-ba-ke,6921,false,expert,,( - - - - ) w ( - ) a n i ( + b a + k e - - - - ),false,expert
 tacana-smokeexhaust-3-1,tacana-smokeexhaust-3,wani-da,6921,false,expert,,( - - - - ) w ( - ) a n i ( + d a - - - - - - - ),false,expert
@@ -18213,9 +18213,9 @@ kasharari-come-1-1,kasharari-come-1,bɨ-,7060,false,expert,,b ɨ - -,false,exper
 yaminawa-come-2-1,yaminawa-come-2,ɸɨ-,7060,false,expert,,ɸ ɨ - -,false,expert
 chaninawa-come-1-1,chaninawa-come-1,ɸɨ-,7060,false,expert,,ɸ ɨ - -,false,expert
 sharanawa-come-3-1,sharanawa-come-3,ɸɨ-,7060,false,expert,,ɸ ɨ - -,false,expert
-shipibokonibo-1stsgi-1-1,shipibokonibo-1stsgi-1,ʔɨ,7061,false,expert,,ʔ ɨ - -,false,expert
-kapanawa-1stsgi-2-1,kapanawa-1stsgi-2,ʔɨ,7061,false,expert,,ʔ ɨ - -,false,expert
-chakobo-1stsgi-1-1,chakobo-1stsgi-1,ɨ,7061,false,expert,,- ɨ - -,false,expert
+shipibokonibo-1stsgi-1-1,shipibokonibo-1stsgi-1,ʔɨ,7061,false,expert,,ʔ ɨ ( - - ),false,expert
+kapanawa-1stsgi-2-1,kapanawa-1stsgi-2,ʔɨ,7061,false,expert,,ʔ ɨ ( - - ),false,expert
+chakobo-1stsgi-1-1,chakobo-1stsgi-1,ɨ,7061,false,expert,,- ɨ ( - - ),false,expert
 protopanotakana-flesh-1-1,protopanotakana-flesh-1,Nami,7062,false,expert,,r a m i ( - ),false,expert
 protopanotakana-fatorganicsubstance-1-1,protopanotakana-fatorganicsubstance-1,ʂɨNi,7063,false,expert,,( - ) ʂ ɨ !N/r i,false,expert
 protopanoan-fatorganicsubstance-2-1,protopanoan-fatorganicsubstance-2,ʂɨni,7063,false,expert,,( - ) ʂ ɨ n i,false,expert
@@ -18295,8 +18295,8 @@ yawanawa-come-1-1,yawanawa-come-1,βɨ-,7060,false,expert,,β ɨ - -,false,exper
 korubo-come-1-1,korubo-come-1,βɨ-,7060,false,expert,,β ɨ - -,false,expert
 matis-come-1-1,matis-come-1,βɨ-,7060,false,expert,,β ɨ - -,false,expert
 matses-come-2-1,matses-come-2,bɨ-,7060,false,expert,,b ɨ - -,false,expert
-kaxinawa-1stsgi-1-1,kaxinawa-1stsgi-1,ɨ,7061,false,expert,,- ɨ - -,false,expert
-marinawa-1stsgi-1-1,marinawa-1stsgi-1,ɨ,7061,false,expert,,- ɨ - -,false,expert
+kaxinawa-1stsgi-1-1,kaxinawa-1stsgi-1,ɨ,7061,false,expert,,- ɨ ( - - ),false,expert
+marinawa-1stsgi-1-1,marinawa-1stsgi-1,ɨ,7061,false,expert,,- ɨ ( - - ),false,expert
 poyanawa-flesh-2-1,poyanawa-flesh-2,nãbi,7062,false,expert,,n a !∼b/m i ( - ),false,expert
 amawaka-flesh-3-1,amawaka-flesh-3,nami,7062,false,expert,,n a m i ( - ),false,expert
 katukina-fatorganicsubstance-2-1,katukina-fatorganicsubstance-2,ʃɨni,7063,false,expert,,( - ) ʃ ɨ n i,false,expert
@@ -18329,7 +18329,7 @@ warayo-two-1-1,warayo-two-1,beabué,7046,false,expert,,- - b e - a ( b u !é/e -
 chama-two-1-1,chama-two-1,béka,7046,false,expert,,- - b !é/e k a ( - - - - ),false,expert
 warayo-liver-1-1,warayo-liver-1,e-takwe,7047,false,expert,,( e + ) t a kʷ e,false,expert
 arasa-liver-2-1,arasa-liver-2,etákua,7047,false,expert,,( e - ) t !á/a kʷ a,false,expert
-protopanoan-leaftofan-2-1,protopanoan-leaftofan-2,pei,7048,false,expert,,p e - i,false,expert
+prototakana-leaftofan-1-1,prototakana-leaftofan-1,pei,7048,false,expert,,p e - i,false,expert
 cavinena-leaftofan-1-1,cavinena-leaftofan-1,pei-,7048,false,expert,,p e - i,false,expert
 eseejja-leaftofan-1-1,eseejja-leaftofan-1,e-pexi,7048,false,expert,,( e + p e x i,false,expert
 warayo-leaftofan-1-1,warayo-leaftofan-1,pio-,7048,false,expert,,p i - o,false,expert
@@ -18355,9 +18355,9 @@ cavinena-thou-2-1,cavinena-thou-2,mi-kwana,7059,false,expert,,m i ( + kʷ a n a 
 eseejja-thou-2-1,eseejja-thou-2,mi-a,7059,false,expert,,m i ( + - a - - ),false,expert
 arasa-thou-1-1,arasa-thou-1,mikia,7059,false,expert,,m i ( - k i - a ),false,expert
 prototakana-come-1-1,prototakana-come-1,be-,7060,false,expert,,b e - -,false,expert
-prototakana-1stsgi-1-1,prototakana-1stsgi-1,e,7061,false,expert,,- e ( - - - ),false,expert
-tacana-1stsgi-1-1,tacana-1stsgi-1,e-ma,7061,false,expert,,- e m a,false,expert
-eseejja-1stsgi-2-1,eseejja-1stsgi-2,ea,7061,false,expert,,- e - a,false,expert
+prototakana-1stsgi-1-1,prototakana-1stsgi-1,e,7061,false,expert,,- e ( - - ),false,expert
+tacana-1stsgi-1-1,tacana-1stsgi-1,e-ma,7061,false,expert,,- e ( m a ),false,expert
+eseejja-1stsgi-2-1,eseejja-1stsgi-2,ea,7061,false,expert,,- e ( - a ),false,expert
 warayo-flesh-1-1,warayo-flesh-1,eyami,7062,false,expert,,e + j a m i ( - ),false,expert
 arasa-fatorganicsubstance-1-1,arasa-fatorganicsubstance-1,ésey,7063,false,expert,,( !é/e ) s e - !j/i,false,expert
 warisa-fingernail-1-1,warisa-fingernail-1,emetichi,7064,false,expert,,e + m e + - t i tʃ i ( - ),false,expert
@@ -18378,7 +18378,7 @@ warayo-mouth-1-1,warayo-mouth-1,e-kwasa,7068,false,expert,,( e + ( - ) kʷ a s a
 eseejja-elbow-2-1,eseejja-elbow-2,e-bašo,7069,false,expert,,e + - b a ʃ - o - - -,false,expert
 warayo-elbow-1-1,warayo-elbow-1,e-bašo,7069,false,expert,,e + - b a ʃ - o - - -,false,expert
 arasa-elbow-1-1,arasa-elbow-1,ebaša,7069,false,expert,,e b a ʃ - a - - -,false,expert
-yaminawa-1stsgi-1-1,yaminawa-1stsgi-1,ɨ̃,7070,false,expert,,- !ɨ̃/ɨ - -,false,expert
+yaminawa-1stsgi-1-1,yaminawa-1stsgi-1,ɨ̃,7070,false,expert,,- !ɨ̃/ɨ ( - - ),false,expert
 protopanotakana-2ndsgyou-1-1,protopanotakana-2ndsgyou-1,mi,7071,false,expert,,m i ( - - - - - ),false,expert
 protopanoan-2ndsgyou-1-1,protopanoan-2ndsgyou-1,mi,7071,false,expert,,m i ( - - - - - ),false,expert
 kashibo-2ndsgyou-1-1,kashibo-2ndsgyou-1,mii,7071,false,expert,,m i ( - - i - - ),false,expert
@@ -18403,7 +18403,7 @@ shipibokonibo-genitive-1-1,shipibokonibo-genitive-1,-n,7074,false,expert,,- - ( 
 yaminawa-genitive-1-1,yaminawa-genitive-1,-na,7074,false,expert,,- - ( - ) n ( a ),false,expert
 kashibo-imperativesuffix-1-1,kashibo-imperativesuffix-1,-ɨ,7075,false,expert,,- ɨ -,false,expert
 kashibo-godowndescend-2-1,kashibo-godowndescend-2,-but,7076,false,expert,,- - - - - b u t - -,false,expert
-protopanotakana-desiderative-1-1,protopanotakana-desiderative-1,-katsa,7078,false,expert,,k a,false,expert
+protopanotakana-desiderative-1-1,protopanotakana-desiderative-1,-katsa,7078,false,expert,,k a - - ( - - - ),false,expert
 protopanoan-desiderative-1-1,protopanoan-desiderative-1,-katsa,7078,false,expert,,k a ts a ( - - - ),false,expert
 kashibo-desiderative-1-1,kashibo-desiderative-1,-kas,7078,false,expert,,k a s - ( - - - ),false,expert
 shipibokonibo-desiderative-1-1,shipibokonibo-desiderative-1,-kas,7078,false,expert,,k a s - ( - - - ),false,expert
@@ -18472,9 +18472,9 @@ amawaka-previouseventsamesubject-1-1,amawaka-previouseventsamesubject-1,=çon,70
 kaxinawa-previouseventsamesubject-1-1,kaxinawa-previouseventsamesubject-1,=ʂun,7086,false,expert,,( - ) ʂ u n,false,expert
 matis-previouseventsamesubject-1-1,matis-previouseventsamesubject-1,=ʂun,7086,false,expert,,( - ) ʂ u n,false,expert
 matses-previouseventsamesubject-1-1,matses-previouseventsamesubject-1,=ʂun,7086,false,expert,,( - ) ʂ u n,false,expert
-warisa-1stsgi-1-1,warisa-1stsgi-1,e-me,7070,false,expert,,- e - - + m e ),false,expert
-araona-1stsgi-1-1,araona-1stsgi-1,ema,7070,false,expert,,- e m a,false,expert
-cavinena-1stsgi-2-1,cavinena-1stsgi-2,e-ra,7070,false,expert,,- e r a,false,expert
+warisa-1stsgi-1-1,warisa-1stsgi-1,e-me,7070,false,expert,,- e ( - - ) + m e ),false,expert
+araona-1stsgi-1-1,araona-1stsgi-1,ema,7070,false,expert,,- e ( m a ),false,expert
+cavinena-1stsgi-2-1,cavinena-1stsgi-2,e-ra,7070,false,expert,,- e ( r a ),false,expert
 tacana-2ndsgyou-1-1,tacana-2ndsgyou-1,mi-ke,7071,false,expert,,m i ( + k e - - ),false,expert
 warisa-2ndsgyou-1-1,warisa-2ndsgyou-1,mibe,7071,false,expert,,m i ( b - e - - ),false,expert
 araona-2ndsgyou-1-1,araona-2ndsgyou-1,mitya,7071,false,expert,,m i ( t j a - - ),false,expert
@@ -18522,14 +18522,14 @@ protopanotakana-big-1-1,protopanotakana-big-1,**ʔaNi,7089,false,expert,,ʔ a r 
 prototakana-big-1-1,prototakana-big-1,*ari,7089,false,expert,,- a r i ( - - - - - ),false,expert
 protopanoan-fishpoison-2-1,protopanoan-fishpoison-2,*ʔaš̥a-n-,7090,false,expert,,ʔ a ʃ a - + n,false,expert
 protopanotakana-tapir-1-1,protopanotakana-tapir-1,**ʔawada,7091,false,expert,,ʔ a w a ( - ) d a,false,expert
-protopanotakana-woman-1-1,protopanotakana-woman-1,**ʔawen{i/ɨ},7092,false,expert,,ʔ a w e n !iɨ/i - -,false,expert
+protopanotakana-woman-1-1,protopanotakana-woman-1,**ʔawen{i/ɨ},7092,false,expert,,ʔ a w e n !iɨ/i ( - - ),false,expert
 protopanotakana-porcupine-1-1,protopanotakana-porcupine-1,**ʔija,7093,false,expert,,- ʔ i j a - - -,false,expert
 protopanotakana-warm-1-1,protopanotakana-warm-1,**ʔij{i/ɨ}-,7094,false,expert,,ʔ i tʃ i - - ( - - - ),false,expert
 protopanotakana-give-1-1,protopanotakana-give-1,**ʔina-n-,7096,false,expert,,ʔ i n a - + n,false,expert
 protopanotakana-suffer-1-1,protopanotakana-suffer-1,**ʔidu-,7097,false,expert,,ʔ i d u,false,expert
 prototakana-suffer-1-1,prototakana-suffer-1,*idu-,7097,false,expert,,- i d u,false,expert
-protopanotakana-1stsgi-1-1,protopanotakana-1stsgi-1,**ʔɨ,7098,false,expert,,ʔ ɨ - -,false,expert
-protopanoan-1stsgi-1-1,protopanoan-1stsgi-1,*ʔɨ,7098,false,expert,,ʔ ɨ - -,false,expert
+protopanotakana-1stsgi-1-1,protopanotakana-1stsgi-1,**ʔɨ,7098,false,expert,,ʔ ɨ ( - - ),false,expert
+protopanoan-1stsgi-1-1,protopanoan-1stsgi-1,*ʔɨ,7098,false,expert,,ʔ ɨ ( - - ),false,expert
 protopanotakana-mother-1-1,protopanotakana-mother-1,**ʔɨgʷa,7099,false,expert,,ʔ ɨ gʷ a ( - - ),false,expert
 protopanoan-mother-1-1,protopanoan-mother-1,*ʔɨwa,7099,false,expert,,ʔ ɨ w a ( - - ),false,expert
 protopanotakana-big-2-1,protopanotakana-big-2,**ʔɨwa,7100,false,expert,,( - - - ) ʔ ɨ w a ( - - ),false,expert
@@ -18583,7 +18583,7 @@ protopanotakana-tongue-1-1,protopanotakana-tongue-1,**hana,7133,false,expert,,h 
 protopanotakana-tree-1-1,protopanotakana-tree-1,**hegʷi,7134,false,expert,,h i gʷ i ( - - ),false,expert
 prototakana-tree-1-1,prototakana-tree-1,*akwi,7134,false,expert,,a kʷ i - -,false,expert
 protopanotakana-white-1-1,protopanotakana-white-1,**huẓu,7136,false,expert,,( - - - ) h u ʂ u ( - - ),false,expert
-prototakana-white-2-1,prototakana-white-2,*uze/u,7136,false,expert,,( - - - ) - u z !eu/e ( - - ),false,expert
+prototakana-white-2-1,prototakana-white-2,*uze/u,7136,false,expert,,( - - - ) - u z !eu/u ( - - ),false,expert
 protopanotakana-pineapple-1-1,protopanotakana-pineapple-1,**kama-kama,7138,false,expert,,k a n,false,expert
 protopanotakana-speciesofarara-1-1,protopanotakana-speciesofarara-1,**kaNa,7139,false,expert,,k a r a ( - - ),false,expert
 protopanotakana-hole-1-1,protopanotakana-hole-1,**keni,7141,false,expert,,k e n i,false,expert
@@ -18603,7 +18603,7 @@ protopanotakana-earthsoil-1-1,protopanotakana-earthsoil-1,**mai-,7150,false,expe
 protopanotakana-piranha-1-1,protopanotakana-piranha-1,**makɨ,7151,false,expert,,m a k ɨ,false,expert
 protopanoan-piranha-1-1,protopanoan-piranha-1,*makɨ,7151,false,expert,,m a k ɨ,false,expert
 prototakana-piranha-1-1,prototakana-piranha-1,*make,7151,false,expert,,m a k e,false,expert
-protopanotakana-die-1-1,protopanotakana-die-1,**ma-,7152,false,expert,,( - ) m a - -,false,expert
+protopanotakana-die-1-1,protopanotakana-die-1,**ma-,7152,false,expert,,( - ) m a ( - - ),false,expert
 protopanotakana-choppermortar-1-1,protopanotakana-choppermortar-1,**manVkanV,7153,false,expert,,( - ) m a k a ( - - ),false,expert
 protopanoan-choppermortar-1-1,protopanoan-choppermortar-1,*ma̹kaNV,7153,false,expert,,( - ) m a k a ( !N/n !V/i ),false,expert
 prototakana-choppermortar-1-1,prototakana-choppermortar-1,*a-maka,7153,false,expert,,a + ( - ) m a k a ( - - ),false,expert
@@ -18628,8 +18628,8 @@ protopanoan-green-1-1,protopanoan-green-1,*paṣ̌a,7169,false,expert,,p a ʃ a,
 protopanotakana-toucan-1-1,protopanotakana-toucan-1,**piza,7170,false,expert,,p i s a,false,expert
 protopanotakana-arrow-1-1,protopanotakana-arrow-1,pisa,7171,false,expert,,p i s a,false,expert
 protopanotakana-speciesofowl-1-1,protopanotakana-speciesofowl-1,**pupu,7172,false,expert,,p u p u,false,expert
-prototakana-siblingoftheothersex-1-1,prototakana-siblingoftheothersex-1,*bu4-,7175,false,expert,,b u - - -,false,expert
-protopanotakana-tie-1-1,protopanotakana-tie-1,**ri…,7176,false,expert,,r i s a ( - - - ),false,expert
+prototakana-siblingoftheothersex-1-1,prototakana-siblingoftheothersex-1,*bu4-,7175,false,expert,,b u -,false,expert
+protopanotakana-tie-1-1,protopanotakana-tie-1,**ri…,7176,false,expert,,ɽ i s a ( - - - ),false,expert
 prototakana-intestinesbelly-2-1,prototakana-intestinesbelly-2,*c̣a1-,7177,false,expert,,ʈʂ a,false,expert
 protopanotakana-mapajo-1-1,protopanotakana-mapajo-1,**ṣapu,7179,false,expert,,ʈʂ a p u,false,expert
 prototakana-mapajo-1-1,prototakana-mapajo-1,*c̣apu,7179,false,expert,,ʈʂ a p u,false,expert
@@ -18648,16 +18648,16 @@ protopanotakana-cheek-1-1,protopanotakana-cheek-1,**tamu,7192,false,expert,,t a 
 protopanotakana-roll-1-1,protopanotakana-roll-1,**tara-n-,7193,false,expert,,t a r a - + n,false,expert
 protopanoan-roll-1-1,protopanoan-roll-1,*tará̹-,7193,false,expert,,t a r a -,false,expert
 protopanotakana-paddlerow-1-1,protopanotakana-paddlerow-1,**taru-n-,7194,false,expert,,t a r u ( - ) + n,false,expert
-protopanotakana-reedbamboousedformakingarrows-1-1,protopanotakana-reedbamboousedformakingarrows-1,**tawa,7195,false,expert,,( - - - - ) t a w a -,false,expert
+protopanotakana-reedbamboousedformakingarrows-1-1,protopanotakana-reedbamboousedformakingarrows-1,**tawa,7195,false,expert,,( - - - - ) t a w a ( - ),false,expert
 protopanotakana-breakdestroyorgetdestroyed-1-1,protopanotakana-breakdestroyorgetdestroyed-1,**tɨkV,7196,false,expert,,t ɨ - k a -,false,expert
 protopanotakana-belly-1-1,protopanotakana-belly-1,**tu2-,7198,false,expert,,t u ( - - - - ),false,expert
 protopanotakana-ghostspirit-1-1,protopanotakana-ghostspirit-1,**yuṣi,7200,false,expert,,- j u - ʃ i - ( - - ),false,expert
 protopanotakana-old-1-1,protopanotakana-old-1,**ẓɨNi,7201,false,expert,,z ɨ r i,false,expert
-protopanotakana-maize-1-1,protopanotakana-maize-1,ʃ i k e,7203,false,expert,,ʃ ɨ k e ( - - ),false,expert
+protopanotakana-maize-1-1,protopanotakana-maize-1,ʃ i k e,7203,false,expert,,ʃ i k e ( - - ),false,expert
 protopanotakana-fishpoison-1-1,protopanotakana-fishpoison-1,*ʔaš̥a-n-,0,false,expert,,ʔ a ʈʂ a n,false,expert
 shipibokonibo-authority-1-1,shipibokonibo-authority-1,ɽanati,0,false,expert,,ɽ a ( - ) n a ( - - ) + t i,false,expert
 protopanoan-authority-1-1,protopanoan-authority-1,ɽara,0,false,expert,,ɽ a ( - ) r a ( - - ),false,expert
-protopanotakana-authority-1-1,protopanotakana-authority-1,waɽa,0,false,expert,,w a ( - ) ɽ a ( - - ),false,expert
+protopanotakana-authority-1-1,protopanotakana-authority-1,waɽa,0,false,expert,,ɽ a ( - ) ɽ a ( - - ),false,expert
 protopanotakana-drunk-1-1,protopanotakana-drunk-1,patse,0,false,expert,,p a ʈʂ e ( - - ),false,expert
 shipibokonibo-branchoftree-3-1,shipibokonibo-branchoftree-3,saʔa-ti,0,false,expert,,s a ʔ a + t i,false,expert
 shipibokonibo-pain-2-1,shipibokonibo-pain-2,nɨnɨ,0,false,expert,,n ɨ n ɨ,false,expert
@@ -18672,7 +18672,7 @@ shipibokonibo-sowseeds-1-1,shipibokonibo-sowseeds-1,βana,0,false,expert,,β a n
 shipibokonibo-tocount-1-1,shipibokonibo-tocount-1,topo,0,false,expert,,t o p o + n t i,false,expert
 shipibokonibo-call-2-1,shipibokonibo-call-2,ɽana,0,false,expert,,- ɽ a n a,false,expert
 shipibokonibo-earthsoil-2-1,shipibokonibo-earthsoil-2,oɽa,0,false,expert,,o ɽ a,false,expert
-protopanotakana-heavy-1-1,protopanotakana-heavy-1,β i kʷ e,0,false,expert,,( - - ) β i kʷ ɨ ( - ),false,expert
+protopanotakana-heavy-1-1,protopanotakana-heavy-1,β i kʷ e,0,false,expert,,( - - ) β i gʷ ɨ ( - ),false,expert
 protopanotakana-louse-1-1,protopanotakana-louse-1,β i a,0,false,expert,,β i - a ( - - ),false,expert
 shipibokonibo-palosanto-1-1,shipibokonibo-palosanto-1,n a n ɨ,0,false,expert,,( - - ) n a n ɨ,false,expert
 matses-pain-1-1,matses-pain-1,nënë,0,false,expert,,n ɨ n ɨ,false,expert
@@ -18689,7 +18689,7 @@ prototakana-cheek-1-1,prototakana-cheek-1,tamu,0,false,expert,,t a m u,false,exp
 prototakana-come-2-1,prototakana-come-2,po,0,false,expert,,p u,false,expert
 protopanotakana-go-2-1,protopanotakana-go-2,p u,0,false,expert,,p u,false,expert
 prototakana-cut-2-1,prototakana-cut-2,h e kʷ i,0,false,expert,,h i kʷ i ( - - ),false,expert
-kashibo-dog-3-1,kashibo-dog-3,'inun,0,false,expert,,ʔ i n u n,false,expert
+kashibo-dog-3-1,kashibo-dog-3,'inun,0,false,expert,,ʔ i n u ( n - - - - ),false,expert
 kashibo-current-1-1,kashibo-current-1,bai,0,false,expert,,b a i,false,expert
 matis-river-2-1,matis-river-2,waka,0,false,expert,,w a k a,false,expert
 protopanoan-river-2-1,protopanoan-river-2,waka,0,false,expert,,w a k a,false,expert
@@ -18705,5 +18705,5 @@ cavinena-snake-6-1,cavinena-snake-6,surround,0,false,expert,,d u n u,false,exper
 kashibo-gettinginfected-1-1,kashibo-gettinginfected-1,'isin 'iruti,0,false,expert,,ʔ i r u,false,expert
 protopanoan-go-2-1,protopanoan-go-2,pu,0,false,expert,,p u,false,expert
 protopanoan-grandchild-1-1,protopanoan-grandchild-1,β a β a,0,false,expert,,β a β a,false,expert
-protopanoan-jump-1-1,protopanoan-jump-1,tʃ i r i,0,false,expert,,( - - - ) tʃ i r i -,false,expert
+protopanoan-jump-1-1,protopanoan-jump-1,tʃ i r i,0,false,expert,,( - - - ) tʃ i rⁿ i -,false,expert
 protopanoan-pain-1-1,protopanoan-pain-1,n ɨ r ɨ,0,false,expert,,n ɨ n ɨ,false,expert

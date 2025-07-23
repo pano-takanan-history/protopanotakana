@@ -64,7 +64,7 @@ eseejja-oldman-1,,eseejja,oldman,e-dexa-tii,e-dexa-tii,d e x a + t i i,None,,60,
 eseejja-orphan-1,,eseejja,orphan,nae'ma,nae'ma,n a e + m a,None,,62,,,,56 64,n a e + m a,,blumpanotacana
 eseejja-orphan-2,,eseejja,orphan,či'ma,či'ma,tʃ i + m a,None,,63,,,,65 64,tʃ i + m a,,blumpanotacana
 eseejja-orphan-3,,eseejja,orphan,e-či-mano,e-či-mano,tʃ i + m a n o,None,,64,,,,65 66,tʃ i + m a n o,,blumpanotacana
-eseejja-1stsgi-1,,eseejja,1stsgi,e,e,e,None,,65,,,,6657,- e - -,,blumpanotacana
+eseejja-1stsgi-1,,eseejja,1stsgi,e,e,e,None,,65,,,,6657,- e ( - - ),,blumpanotacana
 eseejja-thou-1,,eseejja,thou,mi,mi,m i,None,,66,,,,68,m i,,blumpanotacana
 eseejja-we-1,,eseejja,we,ekʷana,ekʷana,kʷ a n a,None,,67,,,,69,kʷ a n a,,blumpanotacana
 eseejja-you-1,,eseejja,you,mikiana,mikiana,m i + !kj/kʷ a n a,None,,68,,,,68 69,m i + !kj/kʷ a n a,,blumpanotacana
@@ -82,7 +82,7 @@ eseejja-vulture-2,,eseejja,vulture,ɓaɓaʔai,ɓaɓaʔai,ɓ a ɓ a ʔ a i,None,,
 eseejja-parrot-1,,eseejja,parrot,ičako,ičako,i tʃ a k o,None,,80,,,,83,( i ) tʃ a k o,,blumpanotacana
 eseejja-speciesofowl-1,,eseejja,speciesofowl,ɓio-ɓio,ɓio-ɓio,ɓ i o + ɓ i o,None,,81,,,,11 84,ɓ i o + ɓ i o,,blumpanotacana
 eseejja-speciesofowl-2,,eseejja,speciesofowl,pexe-pexe,pexe-pexe,p e x e + p e x e,None,,82,,,,85 86,p e x e + p e x e,,blumpanotacana
-eseejja-dog-1,,eseejja,dog,iɲaewa,iɲaewa,i ɲ a + e w a,None,,83,,,,837 88,- i ɲ a ( - - ) + - e w a,,blumpanotacana
+eseejja-dog-1,,eseejja,dog,iɲaewa,iɲaewa,i ɲ a + e w a,None,,83,,,,837 88,- i ɲ a ( - - - - - ) + - e w a,,blumpanotacana
 eseejja-cat-1,,eseejja,cat,miči,miči,m i tʃ i,None,,84,,,,89,m i tʃ i,,blumpanotacana
 eseejja-fish-1,,eseejja,fish,hai,hai,h a i,None,,85,,,,90,h a i,,blumpanotacana girardprototakanan
 eseejja-deer-1,,eseejja,deer,ɗokʷe-i,ɗokʷe-i,ɗ o kʷ e + i,None,,86,,,,91 92,ɗ o kʷ e ( - - ) + i,,blumpanotacana
@@ -550,7 +550,7 @@ eseejja-nest-2,,eseejja,nest,e-'xa,e-'xa,x a,None,,521,,,,196,x a,,blumpanotacan
 eseejja-hawk-1,,eseejja,hawk,wipa,wipa,w i p a,None,,522,,,,579,w i p a,,blumpanotacana
 eseejja-vulture-3,,eseejja,vulture,ba'bo sewawa,ba'bo sewawa,b a b o + s e w a w a,None,,523,,,,81 580,b a b o ( - - - ) + s e w a w a,,blumpanotacana
 eseejja-parrot-2,,eseejja,parrot,čako,čako,tʃ a k o,None,,80,,,,83,( - ) tʃ a k o,,blumpanotacana
-eseejja-dog-2,,eseejja,dog,iɲa wewa,iɲa wewa,i ɲ a + w e w a,None,,83,,,,837 88,- i ɲ a ( - - ) + w e w a,,blumpanotacana
+eseejja-dog-2,,eseejja,dog,iɲa wewa,iɲa wewa,i ɲ a + w e w a,None,,83,,,,837 88,- i ɲ a ( - - - - - ) + w e w a,,blumpanotacana
 eseejja-cat-2,,eseejja,cat,misi,misi,m i s i,None,,524,,,,581,m i ( - ) s ( - ) i ( - - - ),,blumpanotacana
 eseejja-fish-2,,eseejja,fish,na'o,na'o,n a o,None,,525,,,,582,n a o,,blumpanotacana
 eseejja-deer-2,,eseejja,deer,dokwei,dokwei,d o kʷ e i,None,,526,,,,91,d o kʷ e ( - i ),,blumpanotacana girardprototakanan
@@ -842,7 +842,7 @@ kashibo-youngersister-1,,kashibo,youngersister,ũči,ũči,!ũ/u tʃ i,None,,756
 kashibo-oldman-1,,kashibo,oldman,ṣ̌ɨni,ṣ̌ɨni,ʂ ɨ n i,None,,355,,,,61,ʂ ɨ n i,,blumpanotacana
 kashibo-relatives-1,,kashibo,relatives,aĩc̷i,aĩc̷i,a !ĩ/i ts i,None,,757,,,,789,a.!ĩ/i ts i,,blumpanotacana
 kashibo-relatives-2,,kashibo,relatives,kaiβo,kaiβo,k a i β o,None,,758,,,,790,k a i β o,,blumpanotacana oliveiraprotopanoan
-kashibo-1stsgi-1,,kashibo,1stsgi,ʔɨ-,ʔɨ-,ʔ ɨ,None,,65,,,,6657,ʔ ɨ - -,,blumpanotacana
+kashibo-1stsgi-1,,kashibo,1stsgi,ʔɨ-,ʔɨ-,ʔ ɨ,None,,65,,,,6657,ʔ ɨ ( - - ),,blumpanotacana
 kashibo-thou-1,,kashibo,thou,mii,mii,m i,None,,66,,,,68,m i,,blumpanotacana
 kashibo-we-1,,kashibo,we,no-,no-,n o,None,,759,,,,791,n o -,,blumpanotacana oliveiraprotopanoan
 kashibo-you-1,,kashibo,you,mic̷o,mic̷o,m i + ts o,None,,760,,,,68 792,m i + ts o,,blumpanotacana
@@ -885,7 +885,7 @@ kashibo-beard-1,,kashibo,beard,kʷɨni,kʷɨni,kʷ ɨ + n i,None,,795,,,,121 830
 kashibo-hairbody-1,,kashibo,hairbody,rani,rani,r a n i,None,,796,,,,831,r a n i,,blumpanotacana oliveiraprotopanoan
 kashibo-rib-1,,kashibo,rib,pu'tu,pu'tu,p u t u,None,,798,,,,833,p u t u,,blumpanotacana
 kashibo-hornanatomy-1,,kashibo,hornanatomy,ma'tuṣ̌ka,ma'tuṣ̌ka,m a + t u ʂ + k a,None,,799,,,,834 835 836,m a + t u ʂ + k a,,blumpanotacana
-kashibo-tail-1,,kashibo,tail,ina,ina,i n a,None,,800,,,,837,- i n a,,blumpanotacana oliveiraprotopanoan
+kashibo-tail-1,,kashibo,tail,ina,ina,i n a,None,,800,,,,837,- i n a ( - - - - - ),,blumpanotacana oliveiraprotopanoan
 kashibo-back-1,,kashibo,back,kaṣ̌o,kaṣ̌o,k a + ʂ o,None,,801,,,,838 839,k a + ʂ o,,blumpanotacana oliveiraprotopanoan
 kashibo-head-1,,kashibo,head,maṣ̌'ka,maṣ̌'ka,m a + ʂ k a,None,,802,,,,834 840,m a + ʂ k a,,blumpanotacana
 kashibo-head-2,,kashibo,head,mapuṣ̌oo,mapuṣ̌oo,m a + p u + ʂ o o,None,,803,,,,834 841 125,m a + p u + ʂ o - - o ( - ),,blumpanotacana
@@ -1255,7 +1255,7 @@ katukina-oldman-1,,katukina,oldman,šɨni-ra,šɨni-ra,ʂ ɨ n i + r a,None,,114
 katukina-oldwoman-1,,katukina,oldwoman,yoša-βo,yoša-βo,j o ʂ a + β o,None,,1150,,,,5538 785,j o ʂ a + β o,,blumpanotacana
 katukina-orphan-1,,katukina,orphan,papa-ʔoma,papa-ʔoma,p a p a + ʔ o + m a,None,,1151,,,,783 1190 912,p a p a + ʔ o + m a,,blumpanotacana
 katukina-relatives-1,,katukina,relatives,hawɨ-βo,hawɨ-βo,h a w ɨ + β o,None,,1152,,,,1191 1192,h a w ɨ + β o,,blumpanotacana
-katukina-1stsgi-1,,katukina,1stsgi,ɨ̃,ɨ̃,ɨ ∼,None,,65,,,,6657,- ɨ ∼ -,,blumpanotacana
+katukina-1stsgi-1,,katukina,1stsgi,ɨ̃,ɨ̃,ɨ ∼,None,,65,,,,6657,- ɨ ( ∼ - ),,blumpanotacana
 katukina-thou-1,,katukina,thou,mĩ,mĩ,m !ĩ/i,None,,66,,,,68,m !ĩ/i,,blumpanotacana
 katukina-we-1,,katukina,we,nokɨ,nokɨ,n o + k ɨ,None,,1153,,,,791 1193,n o - + k ɨ,,blumpanotacana
 katukina-you-1,,katukina,you,matõ,matõ,m a t o ∼,None,,1154,,,,1194,m a t o ∼,,blumpanotacana
@@ -1294,7 +1294,7 @@ katukina-beard-1,,katukina,beard,kɨni,kɨni,k ɨ + n i,None,,795,,,,121 830,k �
 katukina-hairbody-1,,katukina,hairbody,rani,rani,r a n i,None,,796,,,,831,r a n i,,blumpanotacana
 katukina-rib-1,,katukina,rib,piči šao,piči šao,p i ʃ i + ʂ a o,None,,1170,,,,1213 125,p i ʃ i + ʂ a - - o ( - ),,blumpanotacana
 katukina-hornanatomy-1,,katukina,hornanatomy,mãčoĩ,mãčoĩ,m a + ∼ ʃ o !ĩ/i,None,,1171,,,,834 1214,m a + ( ∼ ) ʃ o ( !ĩ/i ),,blumpanotacana
-katukina-tail-1,,katukina,tail,ina,ina,i n a,None,,800,,,,837,- i n a,,blumpanotacana
+katukina-tail-1,,katukina,tail,ina,ina,i n a,None,,800,,,,837,- i n a ( - - - - - ),,blumpanotacana
 katukina-back-1,,katukina,back,pɨmana,pɨmana,p ɨ + m a + n a,None,,1172,,,,857 834 1215,p ɨ + m a + n a,,blumpanotacana
 katukina-head-1,,katukina,head,mapo,mapo,m a + p o,None,,1173,,,,834 841,m a + p o,,blumpanotacana
 katukina-brain-1,,katukina,brain,mapo rɨso,mapo rɨso,m a + p o + r ɨ s o,None,,1174,,,,834 841 1216,m a + p o + r ɨ s o,,blumpanotacana
@@ -1814,7 +1814,7 @@ shipibokonibo-stomach-2,,shipibokonibo,stomach,no-,no-,n o,None,,1523,,,,1534,n 
 shipibokonibo-buttocks-1,,shipibokonibo,buttocks,čiṣ̌o,čiṣ̌o,tʃ i + ʂ o,None,,1199,,,,1236 1237,tʃ i + ʂ o,,blumpanotacana
 shipibokonibo-testicles-1,,shipibokonibo,testicles,hoβoṣ̌ko,hoβoṣ̌ko,h o β o + ʂ k o,None,,1526,,,,1238 1537,h o β o + ʂ k o,,blumpanotacana
 shipibokonibo-penis-1,,shipibokonibo,penis,βoši,βoši,β o ʃ i,None,,1527,,,,1538,β o ʃ - i,,blumpanotacana
-shipibokonibo-penis-2,,shipibokonibo,penis,hina,hina,h i n a,None,,800,,,,837,h i n a,,blumpanotacana
+shipibokonibo-penis-2,,shipibokonibo,penis,hina,hina,h i n a,None,,800,,,,837,h i n a ( - - - - - ),,blumpanotacana
 shipibokonibo-sneeze-1,,shipibokonibo,sneeze,hatišaniti,hatišaniti,h a t i ʃ a n i + t i,None,,1529,,,,1539 767,h a t i ʃ a n i + t i,,blumpanotacana
 shipibokonibo-spit-1,,shipibokonibo,spit,mičoti,mičoti,m i tʃ o + t i,None,,1530,,,,1244 767,m i tʃ o + t i,,blumpanotacana
 shipibokonibo-spit-2,,shipibokonibo,spit,tošβaati,tošβaati,t o ʃ β a + a t i,None,,1531,,,,1540 1541,t o ʃ β a ( - ) + a t i,,blumpanotacana
@@ -2754,7 +2754,7 @@ amawaka-lift-1,,amawaka,lift,zánanquín,zánanquín,s !á/a n a n,None,,329,,,,
 amawaka-maize-1,,amawaka,maize,xúqui,xúqui,ʂ ɨ k i,None,,243,,,,5365,ʂ ɨ k i ( - - ),,blumpanotacana
 amawaka-nest-1,,amawaka,nest,náha,náha,n !á/a ʔ a,None,,764,,,,796,n !á/a ʔ a,,blumpanotacana
 amawaka-copulate-1,,amawaka,copulate,háqui,háqui,ʔ á/a k i,None,,2177,,,,2064,ʔ á/a k i,,blumpanotacana
-amawaka-piss-1,,amawaka,piss,jínzonhí,jínzonhí,h í/i n + s o n,None,,2178,,,,837 2065,h í/i n - + s o n,,blumpanotacana
+amawaka-piss-1,,amawaka,piss,jínzonhí,jínzonhí,h í/i n + s o n,None,,2178,,,,837 2065,h í/i n - ( - - - - - ) + s o n,,blumpanotacana
 amawaka-potato-1,,amawaka,potato,"chonví, póva",chonví,tʃ o n β í/i,None,,2179,,,,2066,tʃ o n β í/i,,blumpanotacana
 amawaka-potato-2,,amawaka,potato,"chonví, póva",póva,p ó/o β a,None,,2180,,,,2067,p ó/o β a,,blumpanotacana
 amawaka-liemislead-1,,amawaka,liemislead,hóntzahí,hóntzahí,ʔ ó/o n ts a,None,,2181,,,,2068,ʔ ó/o n ts a,,blumpanotacana
@@ -2889,7 +2889,7 @@ amawaka-father-1,,amawaka,father,húpa,húpa,ʔ ɨ p a,None,,1810,,,,1759,( - - 
 amawaka-rope-1,,amawaka,rope,"nínxo, nishí",nínxo,n !í/i n ʂ o,None,,2259,,,,2137,n !í/i ( n ) ʂ o,,blumpanotacana
 amawaka-rope-2,,amawaka,rope,"nínxo, nishí",nishí,n i ʃ !í/i,None,,927,,,,974,n i ʃ !í/i,,blumpanotacana
 amawaka-worm-1,,amawaka,worm,xúna,xúna,ʂ ɨ n a,None,,1492,,,,5368,ʂ ɨ n a,,blumpanotacana
-amawaka-tail-1,,amawaka,tail,jína,jína,h !í/i n a,None,,800,,,,837,h !í/i n a,,blumpanotacana
+amawaka-tail-1,,amawaka,tail,jína,jína,h !í/i n a,None,,800,,,,837,h !í/i n a ( - - - - - ),,blumpanotacana
 amawaka-nose-1,,amawaka,nose,rúquin,rúquin,r ɨ + k i n,None,,812,,,,594 850,r ɨ + k i n,,blumpanotacana
 amawaka-penis-1,,amawaka,penis,vóxqui,vóxqui,β ó/o ʂ k i,None,,1527,,,,1538,β ó/o ʂ k i,,blumpanotacana
 amawaka-heart-1,,amawaka,heart,jóvintí,jóvintí,h !ó/o β i n + t í/i,None,,2260,,,,2050 860,h !ó/o β i n + t í/i,,blumpanotacana
@@ -3131,7 +3131,7 @@ amawaka-dew-1,,amawaka,dew,nívii,nívii,n !í/i β i i,None,,725,,,,753,n !í/i
 amawaka-snore-1,,amawaka,snore,núanhí,núanhí,n ɨ a n,None,,1208,,,,1246,n ɨ a n,,blumpanotacana
 amawaka-gettired-1,,amawaka,gettired,hóxacatátznáhi,hóxacatátznáhi,ʔ ó/o ʂ a k a + t á/a ts n á/a ʔ + i,None,,2394,,,,2245 2246 1241,ʔ ó/o ʂ a k a + t á/a ts - n á/a ʔ + i,,blumpanotacana
 amawaka-bend-1,,amawaka,bend,vúquiquín,vúquiquín,β ɨ k i,None,,2165,,,,1667,β ɨ k i,,blumpanotacana
-amawaka-dog-1,,amawaka,dog,"hinán, hinó",hinán,ʔ i n !á/a n,None,,2395,,,,837,ʔ i n !á/a ( n - ),,blumpanotacana
+amawaka-dog-1,,amawaka,dog,"hinán, hinó",hinán,ʔ i n !á/a n,None,,2395,,,,837,ʔ i n !á/a ( n - - - - ),,blumpanotacana
 amawaka-dog-2,,amawaka,dog,"hinán, hinó",hinó,ʔ i n !ó/o,None,,2396,,,,6682,ʔ i n !ó/o ( - - - ),,blumpanotacana
 amawaka-godowndescend-1,,amawaka,godowndescend,hípaahí,hípaahí,ʔ í/i + p a,None,,2397,,,,1011 2249,ʔ í/i + p a,,blumpanotacana
 amawaka-mix-1,,amawaka,mix,józiquín,józiquín,h ó/o s i,None,,2398,,,,2250,h ó/o s i,,blumpanotacana
@@ -3308,7 +3308,7 @@ kapanawa-black-1,,kapanawa,black,"huiso, tahshini",huiso,w i s o,None,,2073,,,,1
 kapanawa-black-2,,kapanawa,black,"huiso, tahshini",tahshini,t a ʔ ʃ i n i,None,,2489,,,,2320,t a ʔ ʃ i n i,,blumpanotacana
 kapanawa-flee-1,,kapanawa,flee,jabati,jabati,h a β a + t i,None,,1627,,,,1607 767,h a β a + t i,,blumpanotacana
 kapanawa-what-1,,kapanawa,what,jahua,jahua,h a w a,None,,2109,,,,2014,h a w a,,blumpanotacana oliveiraprotopanoan
-kapanawa-1stsgi-1,,kapanawa,1stsgi,jahue,jahue,h a w ɨ,None,,1323,,,,6657,h a w ɨ,,blumpanotacana
+kapanawa-1stsgi-1,,kapanawa,1stsgi,jahue,jahue,h a w ɨ,None,,1323,,,,2775,h a w ɨ,,blumpanotacana
 kapanawa-thing-1,,kapanawa,thing,jahuequibo,jahuequibo,h a w ɨ + k i β o,None,,2490,,,,1191 2321,h a w ɨ + k i β o,,blumpanotacana
 kapanawa-come-1,,kapanawa,come,jahui,jahui,h a w i,None,,2491,,,,2322,h a w i,,blumpanotacana
 kapanawa-tongue-1,,kapanawa,tongue,jana,jana,h a n a,None,,134,,,,144,h a n a,,blumpanotacana oliveiraprotopanoan valenzuelazariquieypanotakana
@@ -3325,8 +3325,8 @@ kapanawa-townorvillage-1,,kapanawa,townorvillage,jema,jema,h ɨ m a,None,,1639,,
 kapanawa-relatives-1,,kapanawa,relatives,jená,jená,h ɨ n a,None,,2496,,,,2326,h ɨ n a,,blumpanotacana
 kapanawa-water-1,,kapanawa,water,jene,jene,h ɨ n ɨ,None,,1447,,,,1444,h ɨ n ɨ,,blumpanotacana
 kapanawa-how-1,,kapanawa,how,jenques,jenques,h ɨ n k ɨ s,None,,2497,,,,2327,h ɨ n.k ɨ s,,blumpanotacana
-kapanawa-tail-1,,kapanawa,tail,jina,jina,h i n a,None,,800,,,,837,h i n a,,blumpanotacana oliveiraprotopanoan
-kapanawa-penis-1,,kapanawa,penis,"jina, boshi",jina,h i n a,None,,800,,,,837,h i n a,,blumpanotacana
+kapanawa-tail-1,,kapanawa,tail,jina,jina,h i n a,None,,800,,,,837,h i n a ( - - - - - ),,blumpanotacana oliveiraprotopanoan
+kapanawa-penis-1,,kapanawa,penis,"jina, boshi",jina,h i n a,None,,800,,,,837,h i n a ( - - - - - ),,blumpanotacana
 kapanawa-penis-2,,kapanawa,penis,"jina, boshi",boshi,β o ʃ i,None,,1527,,,,1538,β o ʃ - i,,blumpanotacana
 kapanawa-frog-1,,kapanawa,frog,"jiri, tinjahihcashan",jiri,h i r i,None,,2286,,,,2057,h i r i,,blumpanotacana
 kapanawa-frog-2,,kapanawa,frog,"jiri, tinjahihcashan",tinjahihcashan,t i n a ʔ i ʔ k a ʃ a n,None,,2498,,,,2328,t i n a ʔ i ʔ k a ʃ a n,,blumpanotacana
@@ -4370,7 +4370,7 @@ sharanawa-hornanatomy-1,,sharanawa,hornanatomy,masho,masho,m a + ʃ u,None,,1171
 sharanawa-house-1,,sharanawa,house,pushu,pushu,p ɨ ʃ ɨ,None,,1921,,,,1856,p ɨ ʃ ɨ,,blumpanotacana
 sharanawa-hunt-1,,sharanawa,hunt,nii cai,nii cai,n i i + k a i,None,,3160,,,,744 2910,n i ( - i ) + k a i,,blumpanotacana
 sharanawa-husband-1,,sharanawa,husband,funu,funu,β ɨ n ɨ,None,,749,,,,775,β ɨ n ɨ,,blumpanotacana
-sharanawa-1stsgi-1,,sharanawa,1stsgi,un,un,ɨ n,None,,65,,,,6657,- ɨ n -,,blumpanotacana
+sharanawa-1stsgi-1,,sharanawa,1stsgi,un,un,ɨ n,None,,65,,,,6657,- ɨ ( n - ),,blumpanotacana
 sharanawa-join-1,,sharanawa,join,ichahuai,ichahuai,i tʃ a + w a i,None,,3161,,,,1069 378,- i tʃ a + w a - i,,blumpanotacana
 sharanawa-join-2,,sharanawa,join,topi,topi,t u p i,None,,1337,,,,1373,t u p i,,blumpanotacana
 sharanawa-jump-1,,sharanawa,jump,fiashiqui,fiashiqui,β i a ʃ i + k i,None,,3162,,,,2911 881,β i a ʃ i + k i,,blumpanotacana
@@ -4540,7 +4540,7 @@ sharanawa-swallow-1,,sharanawa,swallow,shuai,shuai,ʃ ɨ a + i,None,,3257,,,,536
 sharanawa-sweetpotatoyam-1,,sharanawa,sweetpotatoyam,cari,cari,k a r i,None,,921,,,,968,k a r i ( - - ),,blumpanotacana
 sharanawa-swim-1,,sharanawa,swim,nashi,nashi,n a ʃ i,None,,1215,,,,895,n a ʃ i,,blumpanotacana
 sharanawa-swim-2,,sharanawa,swim,topiqui,topiqui,t u p i + k i,None,,3258,,,,1900 881,t u ( - ) p i + k i,,blumpanotacana
-sharanawa-tail-1,,sharanawa,tail,ina,ina,i n a,None,,800,,,,837,- i n a,,blumpanotacana oliveiraprotopanoan
+sharanawa-tail-1,,sharanawa,tail,ina,ina,i n a,None,,800,,,,837,- i n a ( - - - - - ),,blumpanotacana oliveiraprotopanoan
 sharanawa-tail-2,,sharanawa,tail,tayanti,tayanti,t a j a n t i,None,,3259,,,,2979,t a j a n t i,,blumpanotacana
 sharanawa-tearshred-1,,sharanawa,tearshred,fashnui,fashnui,β a ʃ n ɨ i,None,,3260,,,,2980,β a ʃ n ɨ i,,blumpanotacana
 sharanawa-they-1,,sharanawa,they,ato,ato,a t u,None,,761,,,,793,- a t u,,blumpanotacana
@@ -5263,7 +5263,7 @@ iskonawa-hornanatomy-1,,iskonawa,hornanatomy,mahon,mahon,m a + h o n,None,,1171,
 iskonawa-hot-1,,iskonawa,hot,hana,hana,h a n a,None,,1403,,,,1437,h a n a,,blumpanotacana
 iskonawa-house-1,,iskonawa,house,kahe panpihiko,kahe panpihiko,k a h ɨ + p a n p i h i k o,None,,3640,,,,3314 3315,k a h ɨ + p a n p i h i k o,,blumpanotacana
 iskonawa-husband-1,,iskonawa,husband,bene,bene,β ɨ n ɨ,None,,749,,,,775,β ɨ n ɨ,,blumpanotacana
-iskonawa-1stsgi-1,,iskonawa,1stsgi,ea,ea,ɨ + a,None,,1480,,,,6657,- ɨ - - + a,,blumpanotacana
+iskonawa-1stsgi-1,,iskonawa,1stsgi,ea,ea,ɨ + a,None,,1480,,,,6657,- ɨ ( - - ) + a,,blumpanotacana
 iskonawa-kidney-1,,iskonawa,kidney,kaonhko,kaonhko,k a o n h k o,None,,3641,,,,3316,k a - o ( n h ) k o,,blumpanotacana
 iskonawa-kill-1,,iskonawa,kill,mare,mare,m a ɾ ɨ,None,,3642,,,,3317,m a ɾ ɨ,,blumpanotacana
 iskonawa-knowsomething-1,,iskonawa,knowsomething,onain,onain,o n ai n,None,,2300,,,,1131,- o n ai n,,blumpanotacana
@@ -5411,7 +5411,7 @@ iskonawa-sun-1,,iskonawa,sun,bari,bari,β a ɾ i,None,,13,,,,15,β a ɾ i ( - - 
 iskonawa-swallow-1,,iskonawa,swallow,hea,hea,h ɨ a,None,,874,,,,920,h ɨ a,,blumpanotacana
 iskonawa-sweetpotatoyam-1,,iskonawa,sweetpotatoyam,nuin mera,nuin mera,n u i n + m ɨ ɾ a,None,,3723,,,,3399 3400,n u i n + m ɨ ɾ a,,blumpanotacana
 iskonawa-swim-1,,iskonawa,swim,tonpi,tonpi,t o n p i,None,,3724,,,,1900,t o ( n ) p i,,blumpanotacana
-iskonawa-tail-1,,iskonawa,tail,ina,ina,i n a,None,,800,,,,837,- i n a,,blumpanotacana
+iskonawa-tail-1,,iskonawa,tail,ina,ina,i n a,None,,800,,,,837,- i n a ( - - - - - ),,blumpanotacana
 iskonawa-tearofeye-1,,iskonawa,tearofeye,bero ene,bero ene,β ɨ + ɾ o + ɨ n ɨ,None,,1411,,,,141 846 1444,β ɨ + ɾ o + - ɨ n ɨ,,blumpanotacana
 iskonawa-tell-1,,iskonawa,tell,yoi,yoi,j o + i,None,,3725,,,,2209 1241,j o ( - ) + i,,blumpanotacana
 iskonawa-testicles-1,,iskonawa,testicles,ebo,ebo,ɨ β o,None,,1200,,,,1238,- ɨ β o,,blumpanotacana
@@ -5498,7 +5498,7 @@ kashibo-forest-2,,kashibo,forest,ni,ni,n i,None,,717,,,,744,n i ( - - ),,blumpan
 kashibo-becomeangry-1,,kashibo,becomeangry,nishti,nishti,n i ʃ + t i,None,,3763,,,,3430 767,n i ʃ + t i,,blumpanotacana
 kashibo-workactivity-1,,kashibo,workactivity,ñu mëëti,ñu mëëti,ɲ ɯ + m ɨ ɨ + t i,None,,3764,,,,3431 3432 767,ɲ ɯ + m ɨ ɨ + t i,,blumpanotacana
 kashibo-dead-1,,kashibo,dead,nukë,nukë,n ɯ k ɨ,None,,3765,,,,3433,n ɯ k ɨ,,blumpanotacana
-kashibo-die-1,,kashibo,die,ñuti,ñuti,ɲ ɯ + t i,None,,3766,,,,6019 767,( - ) - - ɲ ɯ + t i,,blumpanotacana
+kashibo-die-1,,kashibo,die,ñuti,ñuti,ɲ ɯ + t i,None,,3766,,,,6019 767,( - ) - - ( ɲ ɯ ) + t i,,blumpanotacana
 kashibo-pain-1,,kashibo,pain,paë,paë,p a ɨ,None,,2090,,,,6179,p a - ɨ ( - - ),,blumpanotacana
 kashibo-slip-2,,kashibo,slip,pakë́ti,pakë́ti,p a k ɨ + t i,None,,3767,,,,3435 767,p a k ɨ + t i,,blumpanotacana
 kashibo-feather-2,,kashibo,feather,pëi,pëi,p ɨ + i,None,,918,,,,857 965,p ɨ + - i,,blumpanotacana
@@ -5531,7 +5531,7 @@ matses-there-2,,matses,there,"a, u",u,u,None,,2794,,,,2580,u,,blumpanotacana
 matses-true-1,,matses,true,abimbo,abimbo,a b i m b o,None,,3783,,,,3447,a b i m b o,,blumpanotacana
 matses-highortall-1,,matses,highortall,abuc,abuc,a b u + k,None,,2995,,,,2545 2776,a b u + k,,blumpanotacana
 matses-river-1,,matses,river,acte,acte,a k + t e,None,,2728,,,,2516 2515,a k + t e,,blumpanotacana
-matses-youngwoman-1,,matses,youngwoman,"ain bacuë, champi","*woman, wife",a i n + b a kʷ ɨ,None,,1137,,,,4713 49,- a - i n - - - + b a kʷ ɨ,,blumpanotacana
+matses-youngwoman-1,,matses,youngwoman,"ain bacuë, champi","*woman, wife",a i n + b a kʷ ɨ,None,,1137,,,,4713 49,- a - i n - ( - - ) + b a kʷ ɨ,,blumpanotacana
 matses-youngwoman-2,,matses,youngwoman,"ain bacuë, champi","*woman, wife",tʃ a + m p i,None,,3784,,,,3448 2508,tʃ a + m p i,,blumpanotacana
 matses-youngman-1,,matses,youngman,bacuë,bacuë,b a kʷ ɨ,None,,46,,,,49,b a kʷ ɨ,,blumpanotacana
 matses-morning-1,,matses,morning,badiadaʂ,badiadaʂ,b a d i a d + a ʂ,None,,2989,,,,15 2770,b a d i ( a d ) + a ʂ,,blumpanotacana
@@ -5892,7 +5892,7 @@ araona-vagina-1,,araona,vagina,jótsecua,jótsecua,h o ts e kʷ a,None,,4026,,,,
 araona-sharpensomething-1,,araona,sharpensomething,lacua,lacua,l a kʷ a,None,,3947,,,,3597,l a kʷ a,,blumpanotacana
 araona-hideconceal-1,,araona,hideconceal,lobo,lobo,l o b o,None,,4027,,,,3674,l o b o,,blumpanotacana
 araona-stone-1,,araona,stone,majana,majana,m a h a n a,None,,4028,,,,3675,m a h a n a,,blumpanotacana
-araona-die-1,,araona,die,mano,mano,m a n o,None,,188,,,,6019,( - ) m a n o,,blumpanotacana
+araona-die-1,,araona,die,mano,mano,m a n o,None,,188,,,,6019,( - ) m a ( n o ),,blumpanotacana
 araona-river-1,,araona,river,mano,mano,m a n o,None,,4029,,,,3676,m a n o,,blumpanotacana
 araona-negation-1,,araona,negation,mi,mi,m i,None,,702,,,,732,m i ( - ),,blumpanotacana
 araona-there-1,,araona,there,mo,mo,m o,None,,4030,,,,3677,m o -,,blumpanotacana
@@ -6029,7 +6029,7 @@ cavinena-stomach-1,,cavinena,stomach,dumijiti,dumijiti,d u m i h i t i,None,,412
 cavinena-belt-1,,cavinena,belt,dure,dure,d u r e,None,,4126,,,,3763,d u r e,,blumpanotacana
 cavinena-all-1,,cavinena,all,dutya,dutya,d u tʲ a,None,,4127,,,,3764,d u tʲ a,,blumpanotacana
 cavinena-lazy-1,,cavinena,lazy,dyai,dyai,dʲ ai,None,,4128,,,,3765,dʲ ai,,blumpanotacana
-cavinena-1stsgi-1,,cavinena,1stsgi,e,e,e,None,,65,,,,6657,- e - -,,blumpanotacana
+cavinena-1stsgi-1,,cavinena,1stsgi,e,e,e,None,,65,,,,6657,- e ( - - ),,blumpanotacana
 cavinena-house-1,,cavinena,house,tare,tare,t a r e,None,,4129,,,,3766,t a r e,,blumpanotacana
 cavinena-food-1,,cavinena,food,earaki,earaki,a r a + k i,None,,4130,,,,3732 3767,a r a + k i,,blumpanotacana
 cavinena-cooksomething-1,,cavinena,cooksomething,"earaki a, jina",earaki a,e a r a k i + a,None,,4131,,,,3768 669,e a r a k i + a,,blumpanotacana
@@ -6079,7 +6079,7 @@ cavinena-help-2,,cavinena,help,"ishusha, tsawa",tsawa,ts a w a,None,,487,,,,546,
 cavinena-shake-1,,cavinena,shake,"itata, wisha",itata,i t a t a,None,,4170,,,,2961,( i ) t a t a,,blumpanotacana
 cavinena-shake-2,,cavinena,shake,"itata, wisha",wisha,w i ʃ a,None,,4171,,,,3812,w i ʃ a,,blumpanotacana
 cavinena-push-1,,cavinena,push,itusha,itusha,i t u ʃ a,None,,4172,,,,3813,i t u ʃ a,,blumpanotacana
-cavinena-tail-1,,cavinena,tail,iwa,iwa,i w a,None,,118,,,,837,( i ) w a ( - - ),,blumpanotacana girardprototakanan
+cavinena-tail-1,,cavinena,tail,iwa,iwa,i w a,None,,118,,,,837,- i w a ( - - - - - ),,blumpanotacana girardprototakanan
 cavinena-waitfor-1,,cavinena,waitfor,iwa,iwa,i w a,None,,3934,,,,3581,i w a,,blumpanotacana
 cavinena-put-1,,cavinena,put,iya,iya,i j a,None,,330,,,,369,i j a,,blumpanotacana girardprototakanan
 cavinena-leave-1,,cavinena,leave,"iya, jaka, shana",iya,i j a,None,,4174,,,,3815,i j a,,blumpanotacana
@@ -6203,7 +6203,7 @@ cavinena-gather-3,,cavinena,gather,"mepe, rada, sika",sika,s i k a,None,,334,,,,
 cavinena-workactivity-1,,cavinena,workactivity,mere,mere,m e r e,None,,4272,,,,3916,m e r e,,blumpanotacana
 cavinena-claw-1,,cavinena,claw,meshuru,meshuru,m e + ʃ u r u,None,,4273,,,,154 3917,m e + ʃ u r u,,blumpanotacana
 cavinena-tomorrow-1,,cavinena,tomorrow,metajudya,metajudya,m e t a + h u dʲ a,None,,4274,,,,6639 3918,- - m e t a ( - - ) + h u dʲ a,,blumpanotacana
-cavinena-ring-1,,cavinena,ring,metara,metara,m e + t a r a,None,,4275,,,,154 3919,m e + t a r a,,blumpanotacana
+cavinena-ring-1,,cavinena,ring,metara,metara,m e + t a r a,None,,4275,,,,154 1892,m e + t a r a,,blumpanotacana
 cavinena-hand-1,,cavinena,hand,metuku,metuku,m e + t u k u,None,,4060,,,,154 3702,m e + t u k u,,blumpanotacana
 cavinena-thou-1,,cavinena,thou,mi,mi,m i,None,,66,,,,68,m i,,blumpanotacana
 cavinena-hit-1,,cavinena,hit,miri,miri,m i r i,None,,4276,,,,3920,m i r i,,blumpanotacana
@@ -6576,7 +6576,7 @@ tacana-no-1,,tacana,no,mahue,mahue,m a w e,None,,3941,,,,3589,m a w e,,blumpanot
 tacana-kill-1,,tacana,kill,manu-a-me,manu-a-me,m a n u + a + m e,None,,4539,,,,3573 669 4184,m a n u + a + m e,,blumpanotacana
 tacana-year-1,,tacana,year,mara,mara,m a ɾ a,None,,4265,,,,3909,m a ɾ a,,blumpanotacana
 tacana-thread-1,,tacana,thread,masi,masi,m a s i,None,,231,,,,255,m a s i,,blumpanotacana
-tacana-ring-1,,tacana,ring,metara,metara,m e + t a ɾ a,None,,4275,,,,154 3919,m e + t a ɾ a,,blumpanotacana
+tacana-ring-1,,tacana,ring,metara,metara,m e + t a ɾ a,None,,4275,,,,154 1892,m e + t a ɾ a,,blumpanotacana
 tacana-shoot-1,,tacana,shoot,"metse nuru, puju-ju",metse nuru,m e ts e + n u ɾ u,None,,4540,,,,4185 4186,m e ts e + n u ɾ u,,blumpanotacana
 tacana-shoot-2,,tacana,shoot,"metse nuru, puju-ju",puju-ju,p u h u + h u,None,,4541,,,,4187 4188,p u h u + h u,,blumpanotacana
 tacana-besilent-1,,tacana,besilent,mi-tana,mi-tana,m i + t a n a,None,,4542,,,,4189 4190,m i + t a n a,,blumpanotacana
@@ -6891,7 +6891,7 @@ chakobo-lake-1,,chakobo,lake,ianë,ianë,i a n ɨ,None,,716,,,,743,( - ) i a n (
 chakobo-few-1,,chakobo,few,ichariama,ichariama,i tʃ a + r i a + m a,None,,4738,,,,1069 4371 912,- i tʃ a + r i a + m a,,blumpanotacana
 chakobo-heavy-1,,chakobo,heavy,ihuë,ihuë,i w ɨ,None,,1052,,,,4752,( - - ) - i w ɨ ( - ),,blumpanotacana
 chakobo-shiver-1,,chakobo,shiver,imahaina,imahaina,i m a,None,,4739,,,,4372,i m a,,blumpanotacana
-chakobo-dog-1,,chakobo,dog,inaca,inaca,i n a k a,None,,2395,,,,837,- i n a ( k a ),,blumpanotacana
+chakobo-dog-1,,chakobo,dog,inaca,inaca,i n a k a,None,,2395,,,,837,- i n a ( k a - - - ),,blumpanotacana
 chakobo-goupascend-1,,chakobo,goupascend,inahaina,inahaina,i n a,None,,4740,,,,1372,- i n a,,blumpanotacana
 chakobo-sell-1,,chakobo,sell,iniahaina,iniahaina,i n !ia/a,None,,1324,,,,1029,- i n !ia/a -,,blumpanotacana
 chakobo-say-1,,chakobo,say,iqui,iqui,i k i,None,,3220,,,,2956,i k i,,blumpanotacana
@@ -6935,8 +6935,8 @@ chakobo-when-1,,chakobo,when,jënino,jënino,h ɨ n i + n o,None,,4760,,,,61 439
 chakobo-enter-1,,chakobo,enter,jicohaina,jicohaina,h i k o,None,,1316,,,,1353,h i k o,,blumpanotacana
 chakobo-burnsomething-1,,chakobo,burnsomething,jiisahaina,jiisahaina,h i + i s a,None,,4761,,,,35 2504,h i ( - - ) + ( - - ) i s a,,blumpanotacana
 chakobo-relatives-1,,chakobo,relatives,jimi,jimi,h i m i,None,,797,,,,832,h i m i ( - ),,blumpanotacana
-chakobo-tail-1,,chakobo,tail,jina,jina,h i n a,None,,800,,,,837,h i n a,,blumpanotacana oliveiraprotopanoan
-chakobo-penis-1,,chakobo,penis,jina,jina,h i n a,None,,800,,,,837,h i n a,,blumpanotacana
+chakobo-tail-1,,chakobo,tail,jina,jina,h i n a,None,,800,,,,837,h i n a ( - - - - - ),,blumpanotacana oliveiraprotopanoan
+chakobo-penis-1,,chakobo,penis,jina,jina,h i n a,None,,800,,,,837,h i n a ( - - - - - ),,blumpanotacana
 chakobo-see-1,,chakobo,see,jis-haina,jis-haina,h i s,None,,2503,,,,1090,h i s,,blumpanotacana
 chakobo-piss-1,,chakobo,piss,jisohaina,jisohaina,h i s o,None,,846,,,,892,( h ) i ( - ) s o -,,blumpanotacana
 chakobo-flower-1,,chakobo,flower,joa,joa,h o a,None,,919,,,,966,h o ( - ) a,,blumpanotacana oliveiraprotopanoan
@@ -7556,7 +7556,7 @@ kasharari-smokeexhaust-1,,kasharari,smokeexhaust,"kwaˈi, kwaˈni",kwaˈi,!kʷ/k
 kasharari-snake-1,,kasharari,snake,tʃuˈlu,tʃuˈlu,tʃ u l u,None,,5096,,,,4689,tʃ u l u,,blumpanotacana oliveiraprotopanoan
 kasharari-stone-1,,kasharari,stone,ʂaˈʂu,ʂaˈʂu,ʂ a ʂ u,None,,3877,,,,3521,ʂ a ʂ u,,blumpanotacana oliveiraprotopanoan
 kasharari-sweet-1,,kasharari,sweet,βwaˈta,βwaˈta,β a t a,None,,1036,,,,1086,β a t a,,blumpanotacana oliveiraprotopanoan
-kasharari-tail-1,,kasharari,tail,tʃiˈna,tʃiˈna,tʃ i n a,None,,800,,,,837,tʃ i n a,,blumpanotacana oliveiraprotopanoan
+kasharari-tail-1,,kasharari,tail,tʃiˈna,tʃiˈna,tʃ i n a,None,,800,,,,837,tʃ i n a ( - - - - - ),,blumpanotacana oliveiraprotopanoan
 kasharari-tearofeye-1,,kasharari,tearofeye,bɨwˈmi,bɨwˈmi,!b/β ɨ + w m i,None,,5097,,,,141 4690,!b/β ɨ + w m i,,blumpanotacana
 kasharari-upperlegthigh-1,,kasharari,upperlegthigh,kiˈʃi,kiˈʃi,k i ʃ i,None,,147,,,,159,k i ʃ i,,blumpanotacana oliveiraprotopanoan
 kasharari-they-1,,kasharari,they,hatu,hatu,h a t u,None,,761,,,,793,h a t u,,blumpanotacana
@@ -7717,26 +7717,26 @@ yawanawa-tapir-1,,yawanawa,tapir,aua,aua,a w a,None,,5125,,,,4712,- a w a ( - ) 
 korubo-tapir-1,,korubo,tapir,awat,awat,a w a t,None,,5125,,,,4712,- a w a ( - ) t -,,oliveiraprotopanoan
 matis-tapir-1,,matis,tapir,awad,awad,a w a d,None,,5125,,,,4712,- a w a ( - ) d -,,oliveiraprotopanoan
 matses-tapir-1,,matses,tapir,awad,awad,a w a d,None,,5125,,,,4712,- a w a ( - ) d -,,oliveiraprotopanoan
-protopanoan-womanwife-1,,protopanoan,womanwife,ʔawi[n],ʔawi[n],ʔ a w i rⁿ,None,,5126,,,,4713,ʔ a w i rⁿ - - -,,oliveiraprotopanoan
-shipibokonibo-womanwife-1,,shipibokonibo,womanwife,aˈwĩ,aˈwĩ,a w i ∼,None,,5126,,,,4713,- a w i ∼ - - -,,oliveiraprotopanoan
-kapanawa-womanwife-1,,kapanawa,womanwife,ʔaˈwin,ʔaˈwin,ʔ a w i n,None,,5126,,,,4713,ʔ a w i n - - -,,oliveiraprotopanoan
-marubo-womanwife-1,,marubo,womanwife,aĩ,"*woman, wife",a i ∼,None,,5126,,,,4713,- a - i ∼ - - -,,oliveiraprotopanoan
-marubo-womanwife-2,,marubo,womanwife,aˈĩvɞ,aˈĩvɞ,a i ∼ v ɞ,None,,5126,,,,4713,- a - i ∼ - v ɞ,,oliveiraprotopanoan
-chakobo-womanwife-1,,chakobo,womanwife,ʔaˈwini,ʔaˈwini,ʔ a w i n i,"(ver etimologias 3, 386,  498",,5126,,,,4713,ʔ a w i n i - -,,oliveiraprotopanoan
-yaminawa-womanwife-1,,yaminawa,womanwife,aɸĩ,aɸĩ,a ɸ i ∼,None,,5126,,,,4713,- a ɸ i ∼ - - -,,oliveiraprotopanoan
-chaninawa-womanwife-1,,chaninawa,womanwife,awin,awin,a w i n,None,,5126,,,,4713,- a w i n - - -,,oliveiraprotopanoan
-poyanawa-womanwife-1,,poyanawa,womanwife,awĩ,awĩ,a w i ∼,None,,5126,,,,4713,- a w i ∼ - - -,,oliveiraprotopanoan
-amawaka-womanwife-1,,amawaka,womanwife,ʔaín,ʔaín,ʔ a !í/i n,None,,5126,,,,4713,ʔ a - !í/i n - - -,,oliveiraprotopanoan
-amawaka-womanwife-2,,amawaka,womanwife,ãĩ,ãĩ,!ã/a i ∼,None,,5126,,,,4713,- !ã/a - i ∼ - - -,,oliveiraprotopanoan
-kaxinawa-womanwife-1,,kaxinawa,womanwife,ãĩ,ãĩ,!ã/a i ∼,None,,5126,,,,4713,- !ã/a - i ∼ - - -,,oliveiraprotopanoan
-marinawa-womanwife-1,,marinawa,womanwife,ˈãwĩ,ˈãwĩ,!ã/a w i ∼,None,,5126,,,,4713,- !ã/a w i ∼ - - -,,oliveiraprotopanoan
-yawanawa-womanwife-1,,yawanawa,womanwife,auin,auin,a w i n,None,,5126,,,,4713,- a w i n - - -,,oliveiraprotopanoan
-korubo-womanwife-1,,korubo,womanwife,awin,awin,a w i n,None,,5126,,,,4713,- a w i n - - -,,oliveiraprotopanoan
-matis-womanwife-1,,matis,womanwife,awin,awin,a w i n,None,,5126,,,,4713,- a w i n - - -,,oliveiraprotopanoan
-matses-womanwife-1,,matses,womanwife,awin,awin,a w i n,None,,5126,,,,4713,- a w i n - - -,,oliveiraprotopanoan
-protopanoan-womanwife-2,,protopanoan,womanwife,ʔawĩβo,ʔawĩβo,ʔ a w ĩ/i β o,None,,5127,,,,4713,ʔ a w ĩ/i - - β o,,oliveiraprotopanoan
+protopanoan-womanwife-1,,protopanoan,womanwife,ʔawi[n],ʔawi[n],ʔ a w i rⁿ,None,,5126,,,,4713,ʔ a w i rⁿ - ( - - ),,oliveiraprotopanoan
+shipibokonibo-womanwife-1,,shipibokonibo,womanwife,aˈwĩ,aˈwĩ,a w i ∼,None,,5126,,,,4713,- a w i ∼ - ( - - ),,oliveiraprotopanoan
+kapanawa-womanwife-1,,kapanawa,womanwife,ʔaˈwin,ʔaˈwin,ʔ a w i n,None,,5126,,,,4713,ʔ a w i n - ( - - ),,oliveiraprotopanoan
+marubo-womanwife-1,,marubo,womanwife,aĩ,"*woman, wife",a i ∼,None,,5126,,,,4713,- a - i ∼ - ( - - ),,oliveiraprotopanoan
+marubo-womanwife-2,,marubo,womanwife,aˈĩvɞ,aˈĩvɞ,a i ∼ v ɞ,None,,5126,,,,4713,- a - i ∼ - ( v ɞ ),,oliveiraprotopanoan
+chakobo-womanwife-1,,chakobo,womanwife,ʔaˈwini,ʔaˈwini,ʔ a w i n i,"(ver etimologias 3, 386,  498",,5126,,,,4713,ʔ a w i n i ( - - ),,oliveiraprotopanoan
+yaminawa-womanwife-1,,yaminawa,womanwife,aɸĩ,aɸĩ,a ɸ i ∼,None,,5126,,,,4713,- a ɸ i ∼ - ( - - ),,oliveiraprotopanoan
+chaninawa-womanwife-1,,chaninawa,womanwife,awin,awin,a w i n,None,,5126,,,,4713,- a w i n - ( - - ),,oliveiraprotopanoan
+poyanawa-womanwife-1,,poyanawa,womanwife,awĩ,awĩ,a w i ∼,None,,5126,,,,4713,- a w i ∼ - ( - - ),,oliveiraprotopanoan
+amawaka-womanwife-1,,amawaka,womanwife,ʔaín,ʔaín,ʔ a !í/i n,None,,5126,,,,4713,ʔ a - !í/i n - ( - - ),,oliveiraprotopanoan
+amawaka-womanwife-2,,amawaka,womanwife,ãĩ,ãĩ,!ã/a i ∼,None,,5126,,,,4713,- !ã/a - i ∼ - ( - - ),,oliveiraprotopanoan
+kaxinawa-womanwife-1,,kaxinawa,womanwife,ãĩ,ãĩ,!ã/a i ∼,None,,5126,,,,4713,- !ã/a - i ∼ - ( - - ),,oliveiraprotopanoan
+marinawa-womanwife-1,,marinawa,womanwife,ˈãwĩ,ˈãwĩ,!ã/a w i ∼,None,,5126,,,,4713,- !ã/a w i ∼ - ( - - ),,oliveiraprotopanoan
+yawanawa-womanwife-1,,yawanawa,womanwife,auin,auin,a w i n,None,,5126,,,,4713,- a w i n - ( - - ),,oliveiraprotopanoan
+korubo-womanwife-1,,korubo,womanwife,awin,awin,a w i n,None,,5126,,,,4713,- a w i n - ( - - ),,oliveiraprotopanoan
+matis-womanwife-1,,matis,womanwife,awin,awin,a w i n,None,,5126,,,,4713,- a w i n - ( - - ),,oliveiraprotopanoan
+matses-womanwife-1,,matses,womanwife,awin,awin,a w i n,None,,5126,,,,4713,- a w i n - ( - - ),,oliveiraprotopanoan
+protopanoan-womanwife-2,,protopanoan,womanwife,ʔawĩβo,ʔawĩβo,ʔ a w ĩ/i β o,None,,5127,,,,4713,ʔ a w ĩ/i - - ( β o ),,oliveiraprotopanoan
 shipibokonibo-womanwife-2,,shipibokonibo,womanwife,ʔaˈĩβo,ʔaˈĩβo,ʔ a ĩ/i β o,None,,5127,,,,1107,ʔ a - ĩ/i - - β o,,oliveiraprotopanoan
-marinawa-womanwife-2,,marinawa,womanwife,ãĩɸo,"*woman, wife",!ã/a ĩ/i ɸ o,None,,5127,,,,4713,- !ã/a - ĩ/i - - ɸ o,,oliveiraprotopanoan
+marinawa-womanwife-2,,marinawa,womanwife,ãĩɸo,"*woman, wife",!ã/a ĩ/i ɸ o,None,,5127,,,,4713,- !ã/a - ĩ/i - - ( ɸ o ),,oliveiraprotopanoan
 protopanoan-todevour-1,,protopanoan,todevour,ʔaya-,ʔaya-,ʔ a j a,None,,5128,,,,4715,ʔ a j a ( - - - ),,oliveiraprotopanoan
 kashibo-todevour-1,,kashibo,todevour,ʔee-,ʔee-,ʔ e e,None,,5128,,,,4715,ʔ e - e ( - - - ),,oliveiraprotopanoan
 kashibo-todevour-2,,kashibo,todevour,ʔe-ti,ʔe-ti,ʔ e + t i,None,,5128,,,,4715,ʔ e - - ( - - - ) + t i - - - ),,oliveiraprotopanoan
@@ -7754,7 +7754,7 @@ sharanawa-todevour-1,,sharanawa,todevour,aya-i,aya-i,a j a + i,None,,5128,,,,471
 korubo-todevour-1,,korubo,todevour,ak-,ak-,a k,None,,5130,,,,4715,- a k - ( - - - ),,oliveiraprotopanoan
 matis-todevour-1,,matis,todevour,ak-kin,ak-kin,a k + k i n,None,,5131,,,,4715,- a k - ( - - - ) + k i n ),,oliveiraprotopanoan
 matses-todevour-1,,matses,todevour,ak,ak,a k,None,,5132,,,,4715,- a k - ( - - - ),,oliveiraprotopanoan
-amawaka-1stsgi-1,,amawaka,1stsgi,ɨ-,ɨ-,ɨ,None,,5133,,,,6657,- ɨ - -,,oliveiraprotopanoan
+amawaka-1stsgi-1,,amawaka,1stsgi,ɨ-,ɨ-,ɨ,None,,5133,,,,6657,- ɨ ( - - ),,oliveiraprotopanoan
 protopanoan-big-2,,protopanoan,big,ʔɨwa,ʔɨwa,ʔ ɨ w a,None,,5134,,,,4721,( - - - ) ʔ ɨ w a ( - - ),,oliveiraprotopanoan
 kashibo-big-4,,kashibo,big,ʔĩɔ,ʔĩɔ,ʔ !ĩ/i ɔ,None,,5134,,,,4721,( - - - ) ʔ !ĩ/i - ɔ ( - - ),,oliveiraprotopanoan
 kashibo-big-5,,kashibo,big,-on,-on,o n,None,,5135,,,,4722,( - - - - - o ) - - - - ( - - - n - - - - - - - - ),,oliveiraprotopanoan
@@ -10718,10 +10718,10 @@ amawaka-tohitoneshead-1,,amawaka,tohitoneshead,matas-,matas-,m a t a s,II,,5493,
 kaxinawa-tohitoneshead-1,,kaxinawa,tohitoneshead,matas_ak,matas_ak,m a t a s + a k,None,,5493,,,,5080,m a t a s ( + - a - k - ),,oliveiraprotopanoan
 korubo-tohitoneshead-1,,korubo,tohitoneshead,matɨʃ-ante,matɨʃ-ante,m a t ɨ ʃ + a n t e,None,,5493,,,,5080,m a t ɨ ʃ ( + - a n t e ),,oliveiraprotopanoan
 matses-tohitoneshead-1,,matses,tohitoneshead,maˈtas,maˈtas,m a t a s,None,,5493,,,,5080,m a t a s ( - - - - - - ),,oliveiraprotopanoan
-protopanoan-die-1,,protopanoan,die,mawa-,mawa-,m a w a,None,,5496,,,,6019,( - ) m a w a,,oliveiraprotopanoan
-shipibokonibo-die-1,,shipibokonibo,die,mawa-,mawa-,m a w a,None,,5496,,,,6019,( - ) m a w a,,oliveiraprotopanoan
-kapanawa-die-2,,kapanawa,die,mawa-,mawa-,m a w a,None,,5496,,,,6019,( - ) m a w a,,oliveiraprotopanoan
-kaxinawa-die-1,,kaxinawa,die,mawa-,mawa-,m a w a,None,,5496,,,,6019,( - ) m a w a,,oliveiraprotopanoan
+protopanoan-die-1,,protopanoan,die,mawa-,mawa-,m a w a,None,,5496,,,,6019,( - ) m a ( w a ),,oliveiraprotopanoan
+shipibokonibo-die-1,,shipibokonibo,die,mawa-,mawa-,m a w a,None,,5496,,,,6019,( - ) m a ( w a ),,oliveiraprotopanoan
+kapanawa-die-2,,kapanawa,die,mawa-,mawa-,m a w a,None,,5496,,,,6019,( - ) m a ( w a ),,oliveiraprotopanoan
+kaxinawa-die-1,,kaxinawa,die,mawa-,mawa-,m a w a,None,,5496,,,,6019,( - ) m a ( w a ),,oliveiraprotopanoan
 protopanoan-speciesofant-3,,protopanoan,speciesofant,mawis,mawis,m a w i s,None,,5497,,,,5084,m a w i s ( - ),,oliveiraprotopanoan
 kashibo-speciesofant-3,,kashibo,speciesofant,maís,maís,m a !í/i s,None,,5497,,,,5084,m a - !í/i s ( - ),,oliveiraprotopanoan
 kashibo-speciesofant-4,,kashibo,speciesofant,maɨ́́s,maɨ́́s,m a !ɨ́/ɨ s,None,,5497,,,,5084,m a - !ɨ́/ɨ s ( - ),,oliveiraprotopanoan
@@ -11173,7 +11173,7 @@ kasharari-daynotnight-2,,kasharari,daynotnight,lɨˈtɨ[ləˈtə],lɨˈtɨ[ləˈ
 amawaka-daynotnight-3,,amawaka,daynotnight,nɨtɨ́́_I,nɨtɨ́́_I,n ɨ t !ɨ́/ɨ,None,,5561,,,,5148,n ɨ t !ɨ́/ɨ ( - ),,oliveiraprotopanoan
 korubo-daynotnight-1,,korubo,daynotnight,nɨtɨn,nɨtɨn,n ɨ t ɨ n,None,,5561,,,,5148,n ɨ t ɨ ( n ),,oliveiraprotopanoan
 matis-daynotnight-1,,matis,daynotnight,nɨtɨn,nɨtɨn,n ɨ t ɨ n,None,,5561,,,,5148,n ɨ t ɨ ( n ),,oliveiraprotopanoan
-protopanoan-stand-1,,protopanoan,stand,niCc-,niCc-,n i tʳ,None,,5562,,,,5149,n i tʳ - ( - - - ),,oliveiraprotopanoan
+protopanoan-stand-1,,protopanoan,stand,niCc-,niCc-,n i t,None,,5562,,,,5149,n i t - ( - - - ),,oliveiraprotopanoan
 kashibo-stand-4,,kashibo,stand,nits-,nits-,n i ts,None,,5563,,,,5150,n i ts - ( - - - - ),,oliveiraprotopanoan
 kashibo-stand-5,,kashibo,stand,niɾú-ti,niɾú-ti,n i ɾ !ú/u + t i,None,,5564,,,,5151,n i ɾ !ú/u ( + t i - ),,oliveiraprotopanoan
 shipibokonibo-stand-4,,shipibokonibo,stand,nií-,nií-,n i !í/i,None,,5562,,,,5149,n i - !í/i ( - - - ),,oliveiraprotopanoan
@@ -12054,7 +12054,7 @@ marinawa-vein-1,,marinawa,vein,pono,pono,p o n o,None,,5666,,,,5253,p o n o ( - 
 korubo-vein-1,,korubo,vein,punu,punu,p u n u,None,,5666,,,,5253,p u n u ( - ),,oliveiraprotopanoan
 matis-vein-1,,matis,vein,punu,punu,p u n u,None,,5666,,,,5253,p u n u ( - ),,oliveiraprotopanoan
 matses-vein-1,,matses,vein,punu,punu,p u n u,None,,5666,,,,5253,p u n u ( - ),,oliveiraprotopanoan
-protopanoan-speciesofowl-1,,protopanoan,speciesofowl,popo,popo,p o p o,None,,5667,,,,5254,p o p o ( - ),,oliveiraprotopanoan
+protopanoan-speciesofowl-1,,protopanoan,speciesofowl,popo,popo,p u p u,None,,5667,,,,5254,p u p u ( - ),,new
 marubo-speciesofowl-1,,marubo,speciesofowl,pupu,pupu,p u p u,None,,5667,,,,5254,p u p u ( - ),,oliveiraprotopanoan
 chakobo-speciesofowl-2,,chakobo,speciesofowl,popo,popo,p o p o,None,,5667,,,,5254,p o p o ( - ),,oliveiraprotopanoan
 kasharari-speciesofowl-1,,kasharari,speciesofowl,ˈpupu,ˈpupu,p u p u,None,,5667,,,,5254,p u p u ( - ),,oliveiraprotopanoan
@@ -13441,21 +13441,21 @@ shipibokonibo-branchesthathangintotheriver-1,,shipibokonibo,branchesthathanginto
 kapanawa-branchesthathangintotheriver-1,,kapanawa,branchesthathangintotheriver,taʂa,taʂa,t a ʂ a,None,,5836,,,,5423,t a ʂ a,,oliveiraprotopanoan
 amawaka-branchesthathangintotheriver-1,,amawaka,branchesthathangintotheriver,taxa,taxa,t a x a,II,,5836,,,,5423,t a x a,,oliveiraprotopanoan
 kaxinawa-branchesthathangintotheriver-1,,kaxinawa,branchesthathangintotheriver,taxa,taxa,t a x a,None,,5836,,,,5423,t a x a,,oliveiraprotopanoan
-protopanoan-reedbamboousedformakingarrows-1,,protopanoan,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a -,,oliveiraprotopanoan
-kashibo-reedbamboousedformakingarrows-1,,kashibo,reedbamboousedformakingarrows,tɔɔ,tɔɔ,t ɔ ɔ,None,,5837,,,,5424,( - - - - ) t ɔ - ɔ -,,oliveiraprotopanoan
+protopanoan-reedbamboousedformakingarrows-1,,protopanoan,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a ( - ),,oliveiraprotopanoan
+kashibo-reedbamboousedformakingarrows-1,,kashibo,reedbamboousedformakingarrows,tɔɔ,tɔɔ,t ɔ ɔ,None,,5837,,,,5424,( - - - - ) t ɔ - ɔ ( - ),,oliveiraprotopanoan
 kashibo-reedbamboousedformakingarrows-2,,kashibo,reedbamboousedformakingarrows,to,to,t o,None,,5838,,,,5425,( - - - - ) t o - - -,,oliveiraprotopanoan
-shipibokonibo-reedbamboousedformakingarrows-1,,shipibokonibo,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a -,,oliveiraprotopanoan
-kapanawa-reedbamboousedformakingarrows-1,,kapanawa,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a -,,oliveiraprotopanoan
-marubo-arrow-2,,marubo,arrow,ˈtawa,ˈtawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a -,,oliveiraprotopanoan
-chakobo-reedbamboousedformakingarrows-1,,chakobo,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a -,,oliveiraprotopanoan
-sharanawa-reedbamboousedformakingarrows-1,,sharanawa,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a -,,oliveiraprotopanoan
-sharanawa-reedbamboousedformakingarrows-2,,sharanawa,reedbamboousedformakingarrows,tawan,tawan,t a w a n,None,,5837,,,,5424,( - - - - ) t a w a n,,oliveiraprotopanoan
-amawaka-reedbamboousedformakingarrows-1,,amawaka,reedbamboousedformakingarrows,táá_I,táá_I,t !á/a !á/a,None,,5837,,,,5424,( - - - - ) t !á/a - !á/a -,,oliveiraprotopanoan
-kaxinawa-reedbamboousedformakingarrows-1,,kaxinawa,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a -,,oliveiraprotopanoan
-marinawa-reedbamboousedformakingarrows-1,,marinawa,reedbamboousedformakingarrows,ɸakátáwa,ɸakátáwa,ɸ a k !á/a t !á/a w a,None,,5837,,,,5424,( ɸ a k !á/a ) t !á/a w a -,,oliveiraprotopanoan
-korubo-reedbamboousedformakingarrows-1,,korubo,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a -,,oliveiraprotopanoan
-matis-reedbamboousedformakingarrows-1,,matis,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a -,,oliveiraprotopanoan
-matses-reedbamboousedformakingarrows-1,,matses,reedbamboousedformakingarrows,taua,taua,t a w a,None,,5837,,,,5424,( - - - - ) t a w a -,,oliveiraprotopanoan
+shipibokonibo-reedbamboousedformakingarrows-1,,shipibokonibo,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a ( - ),,oliveiraprotopanoan
+kapanawa-reedbamboousedformakingarrows-1,,kapanawa,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a ( - ),,oliveiraprotopanoan
+marubo-arrow-2,,marubo,arrow,ˈtawa,ˈtawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a ( - ),,oliveiraprotopanoan
+chakobo-reedbamboousedformakingarrows-1,,chakobo,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a ( - ),,oliveiraprotopanoan
+sharanawa-reedbamboousedformakingarrows-1,,sharanawa,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a ( - ),,oliveiraprotopanoan
+sharanawa-reedbamboousedformakingarrows-2,,sharanawa,reedbamboousedformakingarrows,tawan,tawan,t a w a n,None,,5837,,,,5424,( - - - - ) t a w a ( n ),,oliveiraprotopanoan
+amawaka-reedbamboousedformakingarrows-1,,amawaka,reedbamboousedformakingarrows,táá_I,táá_I,t !á/a !á/a,None,,5837,,,,5424,( - - - - ) t !á/a - !á/a ( - ),,oliveiraprotopanoan
+kaxinawa-reedbamboousedformakingarrows-1,,kaxinawa,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a ( - ),,oliveiraprotopanoan
+marinawa-reedbamboousedformakingarrows-1,,marinawa,reedbamboousedformakingarrows,ɸakátáwa,ɸakátáwa,ɸ a k !á/a t !á/a w a,None,,5837,,,,5424,( ɸ a k !á/a ) t !á/a w a ( - ),,oliveiraprotopanoan
+korubo-reedbamboousedformakingarrows-1,,korubo,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a ( - ),,oliveiraprotopanoan
+matis-reedbamboousedformakingarrows-1,,matis,reedbamboousedformakingarrows,tawa,tawa,t a w a,None,,5837,,,,5424,( - - - - ) t a w a ( - ),,oliveiraprotopanoan
+matses-reedbamboousedformakingarrows-1,,matses,reedbamboousedformakingarrows,taua,taua,t a w a,None,,5837,,,,5424,( - - - - ) t a w a ( - ),,oliveiraprotopanoan
 protopanoan-breakdestroyorgetdestroyed-1,,protopanoan,breakdestroyorgetdestroyed,tɨʔk[ɨ]-,tɨʔk[ɨ]-,t ɨ ʔ k !ɨ/a,None,,5839,,,,5426,t ɨ ʔ k !ɨ/a -,,oliveiraprotopanoan
 kashibo-breakdestroyorgetdestroyed-4,,kashibo,breakdestroyorgetdestroyed,tɨkɨ-́́,tɨkɨ-́́,t ɨ k !ɨ́/ɨ,None,,5839,,,,5426,t ɨ - k !ɨ́/ɨ -,,oliveiraprotopanoan
 shipibokonibo-breakdestroyorgetdestroyed-2,,shipibokonibo,breakdestroyorgetdestroyed,tɨkɨ,tɨkɨ,t ɨ k ɨ,None,,5839,,,,5426,t ɨ - k ɨ -,,oliveiraprotopanoan
@@ -14989,10 +14989,10 @@ prototakana-godowndescend-1,,prototakana,godowndescend,bute,bute,b u t e,None,,6
 tacana-godowndescend-1,,tacana,godowndescend,bute,bute,b u t e,None,,6126,,,,5713,- - - - - b u t e -,,girardprototakanan
 cavinena-godowndescend-1,,cavinena,godowndescend,bote-,bote-,b o t e,None,,6126,,,,5713,- - - - - b o t e -,,girardprototakanan
 cavinena-godowndescend-2,,cavinena,godowndescend,botya-,botya-,b o t j a,None,,6127,,,,5714,( - - - - - ) b o t j ( - - a - ),,girardprototakanan
-prototakana-nephew-1,,prototakana,nephew,bu,bu,b u,None,,6128,,,,5251,b u - - -,,girardprototakanan
-tacana-nephew-1,,tacana,nephew,bu-i,bu-i,b u i,None,,6128,,,,5251,b u - i -,,girardprototakanan
-cavinena-nephew-1,,cavinena,nephew,e-bo-ke,e-bo-ke,e + b o + k e,None,,6128,,,,4726 5251 4739,( e + b o - - - + k e ),,girardprototakanan
-eseejja-nephew-1,,eseejja,nephew,bo-e,bo-e,b o e,None,,6128,,,,5251,b o - e -,,girardprototakanan
+prototakana-nephew-1,,prototakana,nephew,bu,bu,b u,None,,6128,,,,4128,b u -,,girardprototakanan
+tacana-nephew-1,,tacana,nephew,bu-i,bu-i,b u i,None,,6128,,,,4128,b u i,,girardprototakanan
+cavinena-nephew-1,,cavinena,nephew,e-bo-ke,e-bo-ke,e + b o + k e,None,,6128,,,,4726 4128 4739,( e + b o - + k e ),,girardprototakanan
+eseejja-nephew-1,,eseejja,nephew,bo-e,bo-e,b o e,None,,6128,,,,4128,b o e,,girardprototakanan
 prototakana-melero-1,,prototakana,melero,buka,buka,b u k a,None,,6129,,,,5716,b u k a,,girardprototakanan
 tacana-melero-1,,tacana,melero,buha,buha,b u h a,None,,6129,,,,5716,b u h a,,girardprototakanan
 cavinena-melero-1,,cavinena,melero,boka,boka,b o k a,None,,6129,,,,5716,b o k a,,girardprototakanan
@@ -15727,10 +15727,10 @@ prototakana-tothreshthecorn-1,,prototakana,tothreshthecorn,iřuřu,iřuřu,i ɽ 
 tacana-tothreshthecorn-1,,tacana,tothreshthecorn,iruru-a-,iruru-a-,i r u r u + a,None,,6308,,,,5895,i r u r u ( + a - - - ),,girardprototakanan
 cavinena-tothreshthecorn-1,,cavinena,tothreshthecorn,iroro-,iroro-,i r o r o,None,,6309,,,,5896,i r o r o ( - - - - - ),,girardprototakanan
 cavinena-tothreshthecorn-2,,cavinena,tothreshthecorn,iruru-a-ki,iruru-a-ki,i r u r u + a + k i,None,,6308,,,,5895,i r u r u ( + a + k i ),,girardprototakanan
-prototakana-tail-1,,prototakana,tail,iwa,iwa,i w a,There is uncertainty regarding the protoform on the ID in the source,,6310,,,,837,( - - - - ) i w a ( - - - ),,girardprototakanan
+prototakana-tail-1,,prototakana,tail,iwa,iwa,i w a,There is uncertainty regarding the protoform on the ID in the source,,6310,,,,837,- i w a ( - - - - - ),,girardprototakanan
 eseejja-tail-3,,eseejja,tail,ewaʔo,ewaʔo,e w a ʔ o,None,,6310,,,,5897,( - - - - ) e w a ( ʔ o - ),,girardprototakanan
 eseejja-tail-4,,eseejja,tail,ewaʔyo,ewaʔyo,e w a ʔ j o,None,,6310,,,,5897,( - - - - ) e w a ( ʔ j o ),,girardprototakanan
-eseejja-tail-5,,eseejja,tail,iña-ewa,iña-ewa,i ɲ a + e w a,None,,6310,,,,837 88,( i ɲ a + ) e w a ( - - - ),,girardprototakanan
+eseejja-tail-5,,eseejja,tail,iña-ewa,iña-ewa,i ɲ a + e w a,None,,6310,,,,837 88,- i ɲ a ( - - - - - ) + ) e w a ( - - - ),,girardprototakanan
 prototakana-call-1,,prototakana,call,iwara,iwara,i w a r a,None,,6311,,,,5898,i w a r a,,girardprototakanan
 tacana-call-1,,tacana,call,iwa-,iwa-,i w a,None,,6311,,,,5898,i w a - -,,girardprototakanan
 cavinena-call-1,,cavinena,call,iwara-,iwara-,i w a r a,None,,6311,,,,5898,i w a r a,,girardprototakanan
@@ -16318,12 +16318,12 @@ cavinena-alligator-1,,cavinena,alligator,mama-mama,mama-mama,m a m a + m a m a,N
 prototakana-arboldesiringa-1,,prototakana,arboldesiringa,mani,mani,m a n i,None,,6431,,,,6018,m a n i,,girardprototakanan
 tacana-arboldesiringa-1,,tacana,arboldesiringa,mani,mani,m a n i,None,,6431,,,,6018,m a n i,,girardprototakanan
 cavinena-arboldesiringa-1,,cavinena,arboldesiringa,mani,mani,m a n i,None,,6431,,,,6018,m a n i,,girardprototakanan
-prototakana-die-1,,prototakana,die,manu,manu,m a n u,*ma1?,,6432,,,,6019,( - ) m a n u,,girardprototakanan
-tacana-die-1,,tacana,die,manu-,manu-,m a n u,None,,6432,,,,6019,( - ) m a n u,,girardprototakanan
-warisa-die-1,,warisa,die,manu,manu,m a n u,None,,6432,,,,6019,( - ) m a n u,,girardprototakanan
-cavinena-die-2,,cavinena,die,e-mano-no,e-mano-no,e + m a n o + n o,cognate?,,6432,,,,3590 6019 3679,( e + ( - ) m a n o + n o - - - - - - - - ),,girardprototakanan
-eseejja-die-1,,eseejja,die,mano-,mano-,m a n o,None,,6432,,,,6019,( - ) m a n o,,girardprototakanan
-arasa-die-1,,arasa,die,eman{u/o},emanU,e m a n !U/o,None,,6432,,,,6019,( e ) m a n !U/o,,girardprototakanan
+prototakana-die-1,,prototakana,die,manu,manu,m a n u,*ma1?,,6432,,,,6019,( - ) m a ( n u ),,girardprototakanan
+tacana-die-1,,tacana,die,manu-,manu-,m a n u,None,,6432,,,,6019,( - ) m a ( n u ),,girardprototakanan
+warisa-die-1,,warisa,die,manu,manu,m a n u,None,,6432,,,,6019,( - ) m a ( n u ),,girardprototakanan
+cavinena-die-2,,cavinena,die,e-mano-no,e-mano-no,e + m a n o + n o,cognate?,,6432,,,,3590 6019 3679,( e + ( - ) m a ( n o ) + n o - - - - - - - - ),,girardprototakanan
+eseejja-die-1,,eseejja,die,mano-,mano-,m a n o,None,,6432,,,,6019,( - ) m a ( n o ),,girardprototakanan
+arasa-die-1,,arasa,die,eman{u/o},emanU,e m a n !U/o,None,,6432,,,,6019,( e ) m a ( n !U/o ),,girardprototakanan
 prototakana-llevarcargarabrazar-1,,prototakana,llevarcargarabrazar,mapa-,mapa-,m a p a,None,,6435,,,,6022,( - - - - - - - - ) m a p a ( - - - - - ),,girardprototakanan
 tacana-llevarcargarabrazar-1,,tacana,llevarcargarabrazar,y-anana mapa-(h)i,y-anana_mapa-i,j + a n a n a + m a p a + i,None,,6435,,,,6022,( j + a n a n a + ) m a p a ( + i - - - ),,girardprototakanan
 cavinena-llevarcargarabrazar-1,,cavinena,llevarcargarabrazar,mapa-,mapa-,m a p a,None,,6435,,,,6022,( - - - - - - - - ) m a p a ( - - - - - ),,girardprototakanan
@@ -17316,7 +17316,7 @@ cavinena-duck-3,,cavinena,duck,hohe,hohe,h o h e,None,,6738,,,,6325,( - - - - ) 
 cavinena-duck-4,,cavinena,duck,hohe kata-sawa,hohe_kata-sawa,h o h e + k a t a + s a w a,None,,6738,,,,6325,( - - - - ) h o h e ( + k a t a + s a w a ),,girardprototakanan
 cavinena-duck-5,,cavinena,duck,epo-hohe,epo-hohe,e p o + h o h e,None,,6738,,,,6325,( e p o + ) h o h e ( - - - - - - - - - - ),,girardprototakanan
 eseejja-duck-3,,eseejja,duck,xóxe,xóxe,x !ó/o x e,irregular reflexes,,6738,,,,6325,( - - - - ) x !ó/o x e ( - - - - - - - - - - ),,girardprototakanan
-prototakana-leg-1,,prototakana,leg,ta-,ta-,t a,None,,6739,,,,6326,( - - - - ) t ( - ) a ( - - - - - ),,girardprototakanan
+prototakana-leg-1,,prototakana,leg,ta-,ta-,t a,None,,6739,,,,866,t a - -,,girardprototakanan
 tacana-leg-2,,tacana,leg,e-ta-buce,e-ta-buce,e + t a + b u ʈʂ e,None,,6739,,,,6326,( - - e + ) t ( - ) a ( + b u ʈʂ e ),,girardprototakanan
 tacana-leg-3,,tacana,leg,e-ta-hasi,e-ta-hasi,e + t a + h a s i,None,,6739,,,,6326,( - - e + ) t ( - ) a ( + h a s i ),,girardprototakanan
 tacana-leg-4,,tacana,leg,ta-ra-,ta-ra-,t a + r a,None,,6739,,,,6326,( - - - - ) t ( - ) a ( + r a - - ),,girardprototakanan
@@ -17392,10 +17392,10 @@ warisa-father-1,,warisa,father,ki-tata,ki-tata,k i + t a t a,None,,6763,,,,6350,
 araona-father-2,,araona,father,tatadi,tatadi,t a t a d i,None,,6763,,,,6350,( - - - ) t a t a ( - d i - - - - - - ),,girardprototakanan
 cavinena-father-2,,cavinena,father,e-tata-haeanoke,e-tata-haeanoke,e + t a t a + h a j a n o k e,None,,6763,,,,6350,( - e + ) t a t a ( + h a j a n o k e ),,girardprototakanan
 eseejja-father-3,,eseejja,father,tata,tata,t a t a,None,,6763,,,,6350,( - - - ) t a t a ( - - - - - - - - - ),,girardprototakanan
-prototakana-reedbamboousedformakingarrows-2,,prototakana,reedbamboousedformakingarrows,ta(wa),ta,t a,None,,6764,,,,5424,( - - - - ) t a - - -,,girardprototakanan
-tacana-reedbamboousedformakingarrows-2,,tacana,reedbamboousedformakingarrows,ta(wa),ta,t a,Form was inferred. There was none on the original source.,,6764,,,,5424,( - - - - ) t a - - -,,girardprototakanan
-tacana-reedbamboousedformakingarrows-3,,tacana,reedbamboousedformakingarrows,tawa midha,tawa_midha,t a w a + m i ð a,None,,6764,,,,5424,( - - - - ) t a w a - + m i ð a ),,girardprototakanan
-tacana-reedbamboousedformakingarrows-4,,tacana,reedbamboousedformakingarrows,e-tawa-(h)i,e-tawa-i,e + t a w a + i,None,,6764,,,,6351,( e + ) t a ( - w a + i - - - ),,girardprototakanan
+prototakana-reedbamboousedformakingarrows-2,,prototakana,reedbamboousedformakingarrows,ta(wa),ta,t a w a,Added second syllable,,6764,,,,5424,( - - - - ) t a w a ( - ),,New
+tacana-reedbamboousedformakingarrows-2,,tacana,reedbamboousedformakingarrows,ta(wa),ta,t a,Form was inferred. There was none on the original source.,,6764,,,,5424,( - - - - ) t a - - ( - ),,girardprototakanan
+tacana-reedbamboousedformakingarrows-3,,tacana,reedbamboousedformakingarrows,tawa midha,tawa_midha,t a w a + m i ð a,None,,6764,,,,5424,( - - - - ) t a w a ( - ) + m i ð a ),,girardprototakanan
+tacana-reedbamboousedformakingarrows-4,,tacana,reedbamboousedformakingarrows,e-tawa-(h)i,e-tawa-i,e + t a w a + i,None,,6764,,,,4093 5424,( e + ( - - - - ) t a w a ( - ) + i - - - ),,girardprototakanan
 eseejja-reedbamboousedformakingarrows-2,,eseejja,reedbamboousedformakingarrows,e-ka,e-ka,e + k a,None,,6764,,,,6351,( e + ) k a ( - - - - - - - - ),,girardprototakanan
 eseejja-reedbamboousedformakingarrows-3,,eseejja,reedbamboousedformakingarrows,e-ka-ná,e-ka-ná,e + k a + n á/a,None,,6764,,,,6351,( e + ) k a ( + n á/a - - - - - ),,girardprototakanan
 prototakana-sleep-1,,prototakana,sleep,tawi,tawi,t a w i,None,,6765,,,,6352,( - - - ) t a w i ( - - - - - - ),,girardprototakanan
@@ -17778,11 +17778,11 @@ eseejja-put-4,,eseejja,put,wana-dobe-a-,wana-dobe-a-,w a n a + d o b e + a,None,
 eseejja-put-5,,eseejja,put,wana-oke-a-,wana-oke-a-,w a n a + o k e + a,None,,6918,,,,6505,( - - - - - ) w a n a ( + o k e + a - ),,girardprototakanan
 eseejja-put-6,,eseejja,put,wana-sowa-,wana-sowa-,w a n a + s o w a,None,,6918,,,,6505,( - - - - - ) w a n a ( + s o w a - - ),,girardprototakanan
 eseejja-put-7,,eseejja,put,baʔe-wana-sowa-,baʔe-wana-sowa-,b a ʔ e + w a n a + s o w a,None,,6918,,,,6505,( b a ʔ e + ) w a n a ( + s o w a - - ),,girardprototakanan
-prototakana-woman-2,,prototakana,woman,wane,wane,w a n e,cf. *awe,,6919,,,,4713,- - w a n e - -,,girardprototakanan
-tacana-woman-3,,tacana,woman,e-wane,e-wane,e + w a n e,None,,6919,,,,2217 4713,( - e + - - w a n e - -,,girardprototakanan
-warisa-woman-2,,warisa,woman,-wane,-wane,w a n e,None,,6919,,,,4713,- - w a n e - -,,girardprototakanan
-cavinena-woman-1,,cavinena,woman,wane,wane,w a n e,None,,6919,,,,4713,- - w a n e - -,,girardprototakanan
-eseejja-woman-4,,eseejja,woman,wana-(ti-),wana-,w a n a,None,,6919,,,,4713,- - w a n a - -,,girardprototakanan
+prototakana-woman-2,,prototakana,woman,wane,wane,w a n e,cf. *awe,,6919,,,,4713,- - w a n e ( - - ),,girardprototakanan
+tacana-woman-3,,tacana,woman,e-wane,e-wane,e + w a n e,None,,6919,,,,2217 4713,( - e + - - w a n e ( - - ),,girardprototakanan
+warisa-woman-2,,warisa,woman,-wane,-wane,w a n e,None,,6919,,,,4713,- - w a n e ( - - ),,girardprototakanan
+cavinena-woman-1,,cavinena,woman,wane,wane,w a n e,None,,6919,,,,4713,- - w a n e ( - - ),,girardprototakanan
+eseejja-woman-4,,eseejja,woman,wana-(ti-),wana-,w a n a,None,,6919,,,,4713,- - w a n a ( - - ),,girardprototakanan
 prototakana-smokeexhaust-1,,prototakana,smokeexhaust,wani,wani,w a n i,None,,6921,,,,6508,( - - - - ) w ( - ) a n i ( - - - - - - - - - - ),,girardprototakanan
 tacana-smokeexhaust-2,,tacana,smokeexhaust,wani-ba-ke,wani-ba-ke,w a n i + b a + k e,None,,6921,,,,6508,( - - - - ) w ( - ) a n i ( + b a + k e - - - - ),,girardprototakanan
 tacana-smokeexhaust-3,,tacana,smokeexhaust,wani-da,wani-da,w a n i + d a,None,,6921,,,,6508,( - - - - ) w ( - ) a n i ( + d a - - - - - - - ),,girardprototakanan
@@ -18213,9 +18213,9 @@ kasharari-come-1,,kasharari,come,bɨ-,bɨ-,b ɨ,None,,7060,,,,1019,b ɨ - -,,val
 yaminawa-come-2,,yaminawa,come,ɸɨ-,ɸɨ-,ɸ ɨ,None,,7060,,,,1019,ɸ ɨ - -,,valenzuelazariquieypanotakana
 chaninawa-come-1,,chaninawa,come,ɸɨ-,ɸɨ-,ɸ ɨ,None,,7060,,,,1019,ɸ ɨ - -,,valenzuelazariquieypanotakana
 sharanawa-come-3,,sharanawa,come,ɸɨ-,ɸɨ-,ɸ ɨ,None,,7060,,,,1019,ɸ ɨ - -,,valenzuelazariquieypanotakana
-shipibokonibo-1stsgi-1,,shipibokonibo,1stsgi,ʔɨ,ʔɨ,ʔ ɨ,None,,7061,,,,6657,ʔ ɨ - -,,oliveiraprotopanoan valenzuelazariquieypanotakana
-kapanawa-1stsgi-2,,kapanawa,1stsgi,ʔɨ,ʔɨ,ʔ ɨ,None,,7061,,,,6657,ʔ ɨ - -,,oliveiraprotopanoan valenzuelazariquieypanotakana
-chakobo-1stsgi-1,,chakobo,1stsgi,ɨ,ɨ,ɨ,None,,7061,,,,6657,- ɨ - -,,blumpanotacana oliveiraprotopanoan valenzuelazariquieypanotakana
+shipibokonibo-1stsgi-1,,shipibokonibo,1stsgi,ʔɨ,ʔɨ,ʔ ɨ,None,,7061,,,,6657,ʔ ɨ ( - - ),,oliveiraprotopanoan valenzuelazariquieypanotakana
+kapanawa-1stsgi-2,,kapanawa,1stsgi,ʔɨ,ʔɨ,ʔ ɨ,None,,7061,,,,6657,ʔ ɨ ( - - ),,oliveiraprotopanoan valenzuelazariquieypanotakana
+chakobo-1stsgi-1,,chakobo,1stsgi,ɨ,ɨ,ɨ,None,,7061,,,,6657,- ɨ ( - - ),,blumpanotacana oliveiraprotopanoan valenzuelazariquieypanotakana
 protopanotakana-flesh-1,,protopanotakana,flesh,Nami,Nami,r a m i,Originalyl by V&Z,,7062,,,,5132,r a m i ( - ),,New
 protopanotakana-fatorganicsubstance-1,,protopanotakana,fatorganicsubstance,ʂɨNi,ʂɨNi,ʂ ɨ !N/r i,None,,7063,,,,6650,( - ) ʂ ɨ !N/r i,,valenzuelazariquieypanotakana
 protopanoan-fatorganicsubstance-2,,protopanoan,fatorganicsubstance,ʂɨni,ʂɨni,ʂ ɨ n i,None,,7063,,,,6650,( - ) ʂ ɨ n i,,valenzuelazariquieypanotakana
@@ -18295,8 +18295,8 @@ yawanawa-come-1,,yawanawa,come,βɨ-,βɨ-,β ɨ,None,,7060,,,,1019,β ɨ - -,,v
 korubo-come-1,,korubo,come,βɨ-,βɨ-,β ɨ,None,,7060,,,,1019,β ɨ - -,,valenzuelazariquieypanotakana
 matis-come-1,,matis,come,βɨ-,βɨ-,β ɨ,None,,7060,,,,1019,β ɨ - -,,valenzuelazariquieypanotakana
 matses-come-2,,matses,come,bɨ-,bɨ-,b ɨ,None,,7060,,,,1019,b ɨ - -,,valenzuelazariquieypanotakana
-kaxinawa-1stsgi-1,,kaxinawa,1stsgi,ɨ,ɨ,ɨ,None,,7061,,,,6657,- ɨ - -,,oliveiraprotopanoan valenzuelazariquieypanotakana
-marinawa-1stsgi-1,,marinawa,1stsgi,ɨ,ɨ,ɨ,None,,7061,,,,6657,- ɨ - -,,oliveiraprotopanoan valenzuelazariquieypanotakana
+kaxinawa-1stsgi-1,,kaxinawa,1stsgi,ɨ,ɨ,ɨ,None,,7061,,,,6657,- ɨ ( - - ),,oliveiraprotopanoan valenzuelazariquieypanotakana
+marinawa-1stsgi-1,,marinawa,1stsgi,ɨ,ɨ,ɨ,None,,7061,,,,6657,- ɨ ( - - ),,oliveiraprotopanoan valenzuelazariquieypanotakana
 poyanawa-flesh-2,,poyanawa,flesh,nãbi,nãbi,n a !∼b/m i,None,,7062,,,,5132,n a !∼b/m i ( - ),,valenzuelazariquieypanotakana
 amawaka-flesh-3,,amawaka,flesh,nami,nami,n a m i,None,,7062,,,,5132,n a m i ( - ),,valenzuelazariquieypanotakana
 katukina-fatorganicsubstance-2,,katukina,fatorganicsubstance,ʃɨni,ʃɨni,ʃ ɨ n i,None,,7063,,,,6650,( - ) ʃ ɨ n i,,valenzuelazariquieypanotakana
@@ -18329,7 +18329,7 @@ warayo-two-1,,warayo,two,beabué,beabué,b e a b u !é/e,None,,7046,,,,2192,- - 
 chama-two-1,,chama,two,béka,béka,b !é/e k a,None,,7046,,,,2192,- - b !é/e k a ( - - - - ),,valenzuelazariquieypanotakana
 warayo-liver-1,,warayo,liver,e-takwe,e-takwe,e + t a kʷ e,None,,7047,,,,6634,( e + ) t a kʷ e,,valenzuelazariquieypanotakana
 arasa-liver-2,,arasa,liver,etákua,etákua,e t !á/a kʷ a,None,,7047,,,,6634,( e - ) t !á/a kʷ a,,valenzuelazariquieypanotakana
-protopanoan-leaftofan-2,,protopanoan,leaftofan,pei,pei,p e i,None,,7048,,,,6635,p e - i,,valenzuelazariquieypanotakana
+prototakana-leaftofan-1,,prototakana,leaftofan,pei,pei,p e i,None,,7048,,,,6635,p e - i,,valenzuelazariquieypanotakana
 cavinena-leaftofan-1,,cavinena,leaftofan,pei-,pei-,p e i,None,,7048,,,,6635,p e - i,,valenzuelazariquieypanotakana
 eseejja-leaftofan-1,,eseejja,leaftofan,e-pexi,e-pexi,e + p e x i,None,,7048,,,,2481 6635,( e + p e x i,,valenzuelazariquieypanotakana
 warayo-leaftofan-1,,warayo,leaftofan,pio-,pio-,p i o,None,,7048,,,,6635,p i - o,,valenzuelazariquieypanotakana
@@ -18355,9 +18355,9 @@ cavinena-thou-2,,cavinena,thou,mi-kwana,mi-kwana,m i + kʷ a n a,None,,7059,,,,6
 eseejja-thou-2,,eseejja,thou,mi-a,mi-a,m i + a,None,,7059,,,,6646,m i ( + - a - - ),,valenzuelazariquieypanotakana
 arasa-thou-1,,arasa,thou,mikia,mikia,m i k i a,None,,7059,,,,6646,m i ( - k i - a ),,valenzuelazariquieypanotakana
 prototakana-come-1,,prototakana,come,be-,be-,b e,'bring',,7060,,,,1019,b e - -,,valenzuelazariquieypanotakana
-prototakana-1stsgi-1,,prototakana,1stsgi,e,e,e,None,,7061,,,,6657,- e ( - - - ),,valenzuelazariquieypanotakana
-tacana-1stsgi-1,,tacana,1stsgi,e-ma,e-ma,e m a,None,,7061,,,,6657,- e m a,,valenzuelazariquieypanotakana
-eseejja-1stsgi-2,,eseejja,1stsgi,"ea,eyaya",ea,e a,None,,7061,,,,6657,- e - a,,valenzuelazariquieypanotakana
+prototakana-1stsgi-1,,prototakana,1stsgi,e,e,e,None,,7061,,,,6657,- e ( - - ),,valenzuelazariquieypanotakana
+tacana-1stsgi-1,,tacana,1stsgi,e-ma,e-ma,e m a,None,,7061,,,,6657,- e ( m a ),,valenzuelazariquieypanotakana
+eseejja-1stsgi-2,,eseejja,1stsgi,"ea,eyaya",ea,e a,None,,7061,,,,6657,- e ( - a ),,valenzuelazariquieypanotakana
 warayo-flesh-1,,warayo,flesh,eyami,eyami,e + j a m i,None,,7062,,,,2077 5132,e + j a m i ( - ),,valenzuelazariquieypanotakana
 arasa-fatorganicsubstance-1,,arasa,fatorganicsubstance,ésey,ésey,!é/e s e !j/i,None,,7063,,,,6650,( !é/e ) s e - !j/i,,valenzuelazariquieypanotakana
 warisa-fingernail-1,,warisa,fingernail,"-/emechuja,emetichi",emetichi,e + m e + t i tʃ i,"'fingers','nails'",,7064,,,,3095 154 863,e + m e + - t i tʃ i ( - ),,valenzuelazariquieypanotakana
@@ -18378,7 +18378,7 @@ warayo-mouth-1,,warayo,mouth,e-kwasa,e-kwasa,e + kʷ a s a,None,,7068,,,,1182 33
 eseejja-elbow-2,,eseejja,elbow,e-bašo,e-bašo,e + b a ʃ o,None,,7069,,,,87 6656,e + - b a ʃ - o - - -,,valenzuelazariquieypanotakana
 warayo-elbow-1,,warayo,elbow,e-bašo,e-bašo,e + b a ʃ o,None,,7069,,,,87 6656,e + - b a ʃ - o - - -,,valenzuelazariquieypanotakana
 arasa-elbow-1,,arasa,elbow,ebaša,ebaša,e b a ʃ a,None,,7069,,,,6656,e b a ʃ - a - - -,,valenzuelazariquieypanotakana
-yaminawa-1stsgi-1,,yaminawa,1stsgi,ɨ̃,ɨ̃,!ɨ̃/ɨ,None,,7070,,,,6657,- !ɨ̃/ɨ - -,,valenzuelazariquieypanotakana
+yaminawa-1stsgi-1,,yaminawa,1stsgi,ɨ̃,ɨ̃,!ɨ̃/ɨ,None,,7070,,,,6657,- !ɨ̃/ɨ ( - - ),,valenzuelazariquieypanotakana
 protopanotakana-2ndsgyou-1,,protopanotakana,2ndsgyou,mi,mi,m i,None,,7071,,,,6658,m i ( - - - - - ),,valenzuelazariquieypanotakana
 protopanoan-2ndsgyou-1,,protopanoan,2ndsgyou,mi,mi,m i,None,,7071,,,,6658,m i ( - - - - - ),,valenzuelazariquieypanotakana
 kashibo-2ndsgyou-1,,kashibo,2ndsgyou,mii,mii,m i i,None,,7071,,,,6658,m i ( - - i - - ),,valenzuelazariquieypanotakana
@@ -18403,7 +18403,7 @@ shipibokonibo-genitive-1,,shipibokonibo,genitive,-n,-n,n,None,,7074,,,,6661,- - 
 yaminawa-genitive-1,,yaminawa,genitive,"-na,-fɨna",-na,n a,None,,7074,,,,6661,- - ( - ) n ( a ),,valenzuelazariquieypanotakana
 kashibo-imperativesuffix-1,,kashibo,imperativesuffix,-ɨ,-ɨ,ɨ,None,,7075,,,,5477,- ɨ -,,valenzuelazariquieypanotakana
 kashibo-godowndescend-2,,kashibo,godowndescend,-but,-but,b u t,None,,7076,,,,5713,- - - - - b u t - -,,valenzuelazariquieypanotakana
-protopanotakana-desiderative-1,,protopanotakana,desiderative,-katsa,-katsa,k a,Originally by Girard and V&Z,,7078,,,,6665,k a,,New
+protopanotakana-desiderative-1,,protopanotakana,desiderative,-katsa,-katsa,k a,Originally by Girard and V&Z,,7078,,,,6665,k a - - ( - - - ),,New
 protopanoan-desiderative-1,,protopanoan,desiderative,-katsa,-katsa,k a ts a,None,,7078,,,,6665,k a ts a ( - - - ),,valenzuelazariquieypanotakana
 kashibo-desiderative-1,,kashibo,desiderative,"-kas,-katsi",-kas,k a s,None,,7078,,,,6665,k a s - ( - - - ),,valenzuelazariquieypanotakana
 shipibokonibo-desiderative-1,,shipibokonibo,desiderative,-kas,-kas,k a s,None,,7078,,,,6665,k a s - ( - - - ),,valenzuelazariquieypanotakana
@@ -18472,9 +18472,9 @@ amawaka-previouseventsamesubject-1,,amawaka,previouseventsamesubject,=çon,=çon
 kaxinawa-previouseventsamesubject-1,,kaxinawa,previouseventsamesubject,=ʂun,=ʂun,ʂ u n,None,,7086,,,,6673,( - ) ʂ u n,,valenzuelazariquieypanotakana
 matis-previouseventsamesubject-1,,matis,previouseventsamesubject,=ʂun,=ʂun,ʂ u n,None,,7086,,,,6673,( - ) ʂ u n,,valenzuelazariquieypanotakana
 matses-previouseventsamesubject-1,,matses,previouseventsamesubject,=ʂun,=ʂun,ʂ u n,None,,7086,,,,6673,( - ) ʂ u n,,valenzuelazariquieypanotakana
-warisa-1stsgi-1,,warisa,1stsgi,e-me/éme,e-me,e + m e,None,,7070,,,,6657,- e - - + m e ),,valenzuelazariquieypanotakana
-araona-1stsgi-1,,araona,1stsgi,"ema,yama",ema,e m a,None,,7070,,,,6657,- e m a,,valenzuelazariquieypanotakana
-cavinena-1stsgi-2,,cavinena,1stsgi,e-ra,e-ra,e r a,None,,7070,,,,6657,- e r a,,valenzuelazariquieypanotakana
+warisa-1stsgi-1,,warisa,1stsgi,e-me/éme,e-me,e + m e,None,,7070,,,,6657,- e ( - - ) + m e ),,valenzuelazariquieypanotakana
+araona-1stsgi-1,,araona,1stsgi,"ema,yama",ema,e m a,None,,7070,,,,6657,- e ( m a ),,valenzuelazariquieypanotakana
+cavinena-1stsgi-2,,cavinena,1stsgi,e-ra,e-ra,e r a,None,,7070,,,,6657,- e ( r a ),,valenzuelazariquieypanotakana
 tacana-2ndsgyou-1,,tacana,2ndsgyou,mi-ke,mi-ke,m i + k e,None,,7071,,,,6658,m i ( + k e - - ),,valenzuelazariquieypanotakana
 warisa-2ndsgyou-1,,warisa,2ndsgyou,mibe/mive,mibe,m i b e,None,,7071,,,,6658,m i ( b - e - - ),,valenzuelazariquieypanotakana
 araona-2ndsgyou-1,,araona,2ndsgyou,mitya,mitya,m i t j a,None,,7071,,,,6658,m i ( t j a - - ),,valenzuelazariquieypanotakana
@@ -18522,14 +18522,14 @@ protopanotakana-big-1,,protopanotakana,big,**ʔaNi,**ʔaNi,ʔ a r i,Originally p
 prototakana-big-1,,prototakana,big,*ari,*ari,a r i,None,,7089,,,,4708,- a r i ( - - - - - ),,girardprotopanotakanan
 protopanoan-fishpoison-2,,protopanoan,fishpoison,"*ʔaš̥a-n-, *ʔaš̥a",*ʔaš̥a-n-,ʔ a ʃ a + n,None,,7090,,,,4711,ʔ a ʃ a - + n,,girardprotopanotakanan
 protopanotakana-tapir-1,,protopanotakana,tapir,**ʔawada,**ʔawada,ʔ a w a d a,None,,7091,,,,4712,ʔ a w a ( - ) d a,,girardprotopanotakanan
-protopanotakana-woman-1,,protopanotakana,woman,**ʔawen{i/ɨ},**ʔawen{i/ɨ},ʔ a w e n !iɨ/i,None,,7092,,,,4713,ʔ a w e n !iɨ/i - -,,girardprotopanotakanan
+protopanotakana-woman-1,,protopanotakana,woman,**ʔawen{i/ɨ},**ʔawen{i/ɨ},ʔ a w e n !iɨ/i,None,,7092,,,,4713,ʔ a w e n !iɨ/i ( - - ),,girardprotopanotakanan
 protopanotakana-porcupine-1,,protopanotakana,porcupine,**ʔija,**ʔija,ʔ i j a,None,,7093,,,,5852,- ʔ i j a - - -,,girardprotopanotakanan
 protopanotakana-warm-1,,protopanotakana,warm,**ʔij{i/ɨ}-,**ʔij{i/ɨ}-,ʔ i tʃ i,None,,7094,,,,4731,ʔ i tʃ i - - ( - - - ),,new
 protopanotakana-give-1,,protopanotakana,give,**ʔina-n-,**ʔina-n-,ʔ i n a + n,None,,7096,,,,4737,ʔ i n a - + n,,girardprotopanotakanan
 protopanotakana-suffer-1,,protopanotakana,suffer,**ʔidu-,**ʔidu-,ʔ i d u,None,,7097,,,,6684,ʔ i d u,,girardprotopanotakanan
 prototakana-suffer-1,,prototakana,suffer,*idu-,*idu-,i d u,None,,7097,,,,6684,- i d u,,girardprotopanotakanan
-protopanotakana-1stsgi-1,,protopanotakana,1stsgi,**ʔɨ,**ʔɨ,ʔ ɨ,None,,7098,,,,6657,ʔ ɨ - -,,valenzuelazariquieypanotakana girardprotopanotakanan
-protopanoan-1stsgi-1,,protopanoan,1stsgi,*ʔɨ,*ʔɨ,ʔ ɨ,None,,7098,,,,6657,ʔ ɨ - -,,oliveiraprotopanoan valenzuelazariquieypanotakana girardprotopanotakanan
+protopanotakana-1stsgi-1,,protopanotakana,1stsgi,**ʔɨ,**ʔɨ,ʔ ɨ,None,,7098,,,,6657,ʔ ɨ ( - - ),,valenzuelazariquieypanotakana girardprotopanotakanan
+protopanoan-1stsgi-1,,protopanoan,1stsgi,*ʔɨ,*ʔɨ,ʔ ɨ,None,,7098,,,,6657,ʔ ɨ ( - - ),,oliveiraprotopanoan valenzuelazariquieypanotakana girardprotopanotakanan
 protopanotakana-mother-1,,protopanotakana,mother,**ʔɨgʷa,**ʔɨgʷa,ʔ ɨ gʷ a,None,,7099,,,,2479,ʔ ɨ gʷ a ( - - ),,girardprotopanotakanan
 protopanoan-mother-1,,protopanoan,mother,*ʔɨwa,*ʔɨwa,ʔ ɨ w a,None,,7099,,,,2479,ʔ ɨ w a ( - - ),,girardprotopanotakanan
 protopanotakana-big-2,,protopanotakana,big,**ʔɨwa,**ʔɨwa,ʔ ɨ w a,None,,7100,,,,4721,( - - - ) ʔ ɨ w a ( - - ),,girardprotopanotakanan
@@ -18583,7 +18583,7 @@ protopanotakana-tongue-1,,protopanotakana,tongue,**hana,**hana,h a n a,None,,713
 protopanotakana-tree-1,,protopanotakana,tree,**hegʷi,**hegʷi,h i gʷ i,Originally by Girard,,7134,,,,12,h i gʷ i ( - - ),,new
 prototakana-tree-1,,prototakana,tree,*akwi,*akwi,a kʷ i,None,,7134,,,,286,a kʷ i - -,,girardprotopanotakanan
 protopanotakana-white-1,,protopanotakana,white,**huẓu,**huẓu,h u ʂ u,Originally by Girad,,7136,,,,5200,( - - - ) h u ʂ u ( - - ),,new
-prototakana-white-2,,prototakana,white,*uze/u,*uze/u,u z !eu/e,"Found only in Ese and War. The Čamic forms, if not loans from the Panoan, would apper to come from a pT *uze/u",,7136,,,,5200,( - - - ) - u z !eu/e ( - - ),,girardprotopanotakanan
+prototakana-white-2,,prototakana,white,*uze/u,*uze/u,u z !eu/u,"Found only in Ese and War. The Čamic forms, if not loans from the Panoan, would apper to come from a pT *uze/u",,7136,,,,5200,( - - - ) - u z !eu/u ( - - ),,girardprotopanotakanan
 protopanotakana-pineapple-1,,protopanotakana,pineapple,**kama-kama,**kama-kama,k a n,Possibly duplicated?,,7138,,,,4959,k a n,,New
 protopanotakana-speciesofarara-1,,protopanotakana,speciesofarara,**kaNa,**kaNa,k a r a,Originally by Girard,,7139,,,,4965,k a r a ( - - ),,New
 protopanotakana-hole-1,,protopanotakana,hole,**keni,**keni,k e n i,None,,7141,,,,4998,k e n i,,girardprotopanotakanan
@@ -18603,7 +18603,7 @@ protopanotakana-earthsoil-1,,protopanotakana,earthsoil,**mai-,**mai-,m a ʂ i,Un
 protopanotakana-piranha-1,,protopanotakana,piranha,**makɨ,**makɨ,m a k ɨ,None,,7151,,,,5045,m a k ɨ,,girardprotopanotakanan
 protopanoan-piranha-1,,protopanoan,piranha,*makɨ,*makɨ,m a k ɨ,None,,7151,,,,5045,m a k ɨ,,oliveiraprotopanoan girardprotopanotakanan
 prototakana-piranha-1,,prototakana,piranha,*make,*make,m a k e,None,,7151,,,,5045,m a k e,,girardprotopanotakanan
-protopanotakana-die-1,,protopanotakana,die,"**ma-,**manu-",**ma-,m a,None,,7152,,,,6019,( - ) m a - -,,girardprotopanotakanan
+protopanotakana-die-1,,protopanotakana,die,"**ma-,**manu-",**ma-,m a,None,,7152,,,,6019,( - ) m a ( - - ),,girardprotopanotakanan
 protopanotakana-choppermortar-1,,protopanotakana,choppermortar,**manVkanV,**manVkanV,m a k a,None,,7153,,,,5543,( - ) m a k a ( - - ),,girardprotopanotakanan
 protopanoan-choppermortar-1,,protopanoan,choppermortar,*ma̹kaNV,*ma̹kaNV,m a k a !N/n !V/i,None,,7153,,,,5543,( - ) m a k a ( !N/n !V/i ),,girardprotopanotakanan
 prototakana-choppermortar-1,,prototakana,choppermortar,*a-maka,*a-maka,a + m a k a,also cf. Kav,,7153,,,,1998 5543,a + ( - ) m a k a ( - - ),,girardprotopanotakanan
@@ -18628,8 +18628,8 @@ protopanoan-green-1,,protopanoan,green,*paṣ̌a,*paṣ̌a,p a ʃ a,None,,7169,,
 protopanotakana-toucan-1,,protopanotakana,toucan,**piza,**piza,p i s a,None,,7170,,,,5241,p i s a,,new
 protopanotakana-arrow-1,,protopanotakana,arrow,**pi…,pisa,p i s a,None,,7171,,,,5238,p i s a,,new
 protopanotakana-speciesofowl-1,,protopanotakana,speciesofowl,**pupu,**pupu,p u p u,None,,7172,,,,5254,p u p u,,girardprotopanotakanan
-prototakana-siblingoftheothersex-1,,prototakana,siblingoftheothersex,"*bu4-,*bui/e",*bu4-,b u,None,,7175,,,,5251,b u - - -,,girardprotopanotakanan
-protopanotakana-tie-1,,protopanotakana,tie,"**ri…,*ris…",**ri…,r i s a,None,,7176,,,,5146,r i s a ( - - - ),,girardprotopanotakanan
+prototakana-siblingoftheothersex-1,,prototakana,siblingoftheothersex,"*bu4-,*bui/e",*bu4-,b u,None,,7175,,,,4128,b u -,,girardprotopanotakanan
+protopanotakana-tie-1,,protopanotakana,tie,"**ri…,*ris…",**ri…,ɽ i s a,None,,7176,,,,5146,ɽ i s a ( - - - ),,girardprotopanotakanan
 prototakana-intestinesbelly-2,,prototakana,intestinesbelly,*c̣a1-,*c̣a1-,ʈʂ a,None,,7177,,,,6764,ʈʂ a,,girardprotopanotakanan
 protopanotakana-mapajo-1,,protopanotakana,mapajo,**ṣapu,**ṣapu,ʈʂ a p u,doubtless related to item 90 above,,7179,,,,5355,ʈʂ a p u,,girardprotopanotakanan
 prototakana-mapajo-1,,prototakana,mapajo,*c̣apu,*c̣apu,ʈʂ a p u,None,,7179,,,,5355,ʈʂ a p u,,girardprotopanotakanan
@@ -18648,16 +18648,16 @@ protopanotakana-cheek-1,,protopanotakana,cheek,**tamu,**tamu,t a m u,None,,7192,
 protopanotakana-roll-1,,protopanotakana,roll,**tara-n-,**tara-n-,t a r a + n,None,,7193,,,,1892,t a r a - + n,,girardprotopanotakanan
 protopanoan-roll-1,,protopanoan,roll,*tará̹-,*tará̹-,t a r a,None,,7193,,,,1892,t a r a -,,girardprotopanotakanan
 protopanotakana-paddlerow-1,,protopanotakana,paddlerow,**taru-n-,**taru-n-,t a r u + n,None,,7194,,,,6346,t a r u ( - ) + n,,girardprotopanotakanan
-protopanotakana-reedbamboousedformakingarrows-1,,protopanotakana,reedbamboousedformakingarrows,**tawa,**tawa,t a w a,None,,7195,,,,5424,( - - - - ) t a w a -,,girardprotopanotakanan
+protopanotakana-reedbamboousedformakingarrows-1,,protopanotakana,reedbamboousedformakingarrows,**tawa,**tawa,t a w a,None,,7195,,,,5424,( - - - - ) t a w a ( - ),,girardprotopanotakanan
 protopanotakana-breakdestroyorgetdestroyed-1,,protopanotakana,breakdestroyorgetdestroyed,**tɨ(ʔ)k(ʷ)V,**tɨkV,t ɨ k a,Oiginally by Girard,,7196,,,,5426,t ɨ - k a -,,New
 protopanotakana-belly-1,,protopanotakana,belly,**tu2-,**tu2-,t u,None,,7198,,,,5454,t u ( - - - - ),,girardprotopanotakanan
 protopanotakana-ghostspirit-1,,protopanotakana,ghostspirit,**yuṣi,**yuṣi,j u ʃ i,"This is the only correspondance of pP *y and pT *d, despite the fact that pP *y is a fairly common phoneme. These forms may not be original but rather from the Spanish Dios (?)",,7200,,,,5537,- j u - ʃ i - ( - - ),,girardprotopanotakanan
 protopanotakana-old-1,,protopanotakana,old,"**ẓɨNi,**ẓiNi",**ẓɨNi,z ɨ r i,Originally by Girard,,7201,,,,5371,z ɨ r i,,New
-protopanotakana-maize-1,,protopanotakana,maize,"**žikɨ,**žɨki",ʃ i k e,ʃ ɨ k e,Arawak loan suspected by Girard,,7203,,,,5365,ʃ ɨ k e ( - - ),,new
+protopanotakana-maize-1,,protopanotakana,maize,"**žikɨ,**žɨki",ʃ i k e,ʃ i k e,Arawak loan suspected by Girard,,7203,,,,5365,ʃ i k e ( - - ),,new
 protopanotakana-fishpoison-1,,protopanotakana,fishpoison,*ʔaš̥a-n-,*ʔaš̥a-n-,ʔ a ʈʂ a n,"fricative is unclear, so is final nasal",,0,,,,4711,ʔ a ʈʂ a n,,new
 shipibokonibo-authority-1,,shipibokonibo,authority,ɽanati,ɽanati,ɽ a n a + t i,'command',,0,,,,6517 6791,ɽ a ( - ) n a ( - - ) + t i,,cogrefpred
 protopanoan-authority-1,,protopanoan,authority,ɽara,ɽara,ɽ a r a,check Northern,,0,,,,6517,ɽ a ( - ) r a ( - - ),,new
-protopanotakana-authority-1,,protopanotakana,authority,waɽa,waɽa,w a ɽ a,None,,0,,,,6517,w a ( - ) ɽ a ( - - ),,new
+protopanotakana-authority-1,,protopanotakana,authority,waɽa,waɽa,ɽ a ɽ a,None,,0,,,,6517,ɽ a ( - ) ɽ a ( - - ),,new
 protopanotakana-drunk-1,,protopanotakana,drunk,patse,patse,p a ʈʂ e,double check affricate from Proto-Takana for retroflex,,0,,,,6179,p a ʈʂ e ( - - ),,new
 shipibokonibo-branchoftree-3,,shipibokonibo,branchoftree,saʔa-ti,saʔa-ti,s a ʔ a + t i,'divide into branches',,0,,,,6569 6794,s a ʔ a + t i,,new
 shipibokonibo-pain-2,,shipibokonibo,pain,nɨnɨ,nɨnɨ,n ɨ n ɨ,"pain, to suffer",,0,,,,6138,n ɨ n ɨ,,cogrefpred
@@ -18672,7 +18672,7 @@ shipibokonibo-sowseeds-1,,shipibokonibo,sowseeds,βana,βana,β a n a,None,,0,,,
 shipibokonibo-tocount-1,,shipibokonibo,tocount,topo,topo,t o p o + n t i,pesar,,0,,,,6442 3159,t o p o + n t i,,cogrefpred
 shipibokonibo-call-2,,shipibokonibo,call,ɽana,ɽana,ɽ a n a,None,,0,,,,5898,- ɽ a n a,,cogrefpred
 shipibokonibo-earthsoil-2,,shipibokonibo,earthsoil,oɽa,oɽa,o ɽ a,'cultivated field',,0,,,,6477,o ɽ a,,cogrefpred
-protopanotakana-heavy-1,,protopanotakana,heavy,β i kʷ e,β i kʷ e,β i kʷ ɨ,None,,0,,,,4752,( - - ) β i kʷ ɨ ( - ),,new
+protopanotakana-heavy-1,,protopanotakana,heavy,β i kʷ e,β i kʷ e,β i gʷ ɨ,None,,0,,,,4752,( - - ) β i gʷ ɨ ( - ),,new
 protopanotakana-louse-1,,protopanotakana,louse,β i a,β i a,β i a,None,,0,,,,4725,β i - a ( - - ),,new
 shipibokonibo-palosanto-1,,shipibokonibo,palosanto,n a n ɨ,n a n ɨ,n a n ɨ,huito (ceremonial tree),,0,,,,5579,( - - ) n a n ɨ,,cogrefpred
 matses-pain-1,,matses,pain,nënë,nënë,n ɨ n ɨ,'painful',,0,,,,6138,n ɨ n ɨ,,new
@@ -18689,7 +18689,7 @@ prototakana-cheek-1,,prototakana,cheek,tamu,tamu,t a m u,None,,0,,,,5409,t a m u
 prototakana-come-2,,prototakana,come,po,po,p u,None,,0,,,,311,p u,,new
 protopanotakana-go-2,,protopanotakana,go,p u,p u,p u,None,,0,,,,311,p u,,new
 prototakana-cut-2,,prototakana,cut,h e kʷ i,h e kʷ i,h i kʷ i,None,,0,,,,12,h i kʷ i ( - - ),,new
-kashibo-dog-3,,kashibo,dog,'inun,'inun,ʔ i n u n,None,,0,,,,837,ʔ i n u n,,New
+kashibo-dog-3,,kashibo,dog,'inun,'inun,ʔ i n u n,None,,0,,,,837,ʔ i n u ( n - - - - ),,New
 kashibo-current-1,,kashibo,current,bai,bai,b a i,None,,0,,,,5620,b a i,,New
 matis-river-2,,matis,river,waka,waka,w a k a,None,,0,,,,4769,w a k a,,New
 protopanoan-river-2,,protopanoan,river,waka,waka,w a k a,None,,0,,,,4769,w a k a,,New
@@ -18705,5 +18705,5 @@ cavinena-snake-6,,cavinena,snake,surround,surround,d u n u,None,,0,,,,5322,d u n
 kashibo-gettinginfected-1,,kashibo,gettinginfected,'isin 'iruti,'isin 'iruti,ʔ i r u,None,,0,,,,6684,ʔ i r u,,New
 protopanoan-go-2,,protopanoan,go,pu,pu,p u,,,0,,,,311,p u,,new
 protopanoan-grandchild-1,,protopanoan,grandchild,β a β a,β a β a,β a β a,,,0,,,,5638,β a β a,,new
-protopanoan-jump-1,,protopanoan,jump,tʃ i r i,tʃ i r i,tʃ i r i,Unclear if holds up,,0,,,,1903,( - - - ) tʃ i r i -,,New
+protopanoan-jump-1,,protopanoan,jump,tʃ i r i,tʃ i r i,tʃ i rⁿ i,Unclear if holds up,,0,,,,1903,( - - - ) tʃ i rⁿ i -,,New
 protopanoan-pain-1,,protopanoan,pain,n ɨ r ɨ,n ɨ r ɨ,n ɨ n ɨ,,,0,,,,6138,n ɨ n ɨ,,new

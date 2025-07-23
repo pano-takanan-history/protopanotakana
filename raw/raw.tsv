@@ -65,7 +65,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 64	orphan	eseejja	nae'ma	nae'ma	n a e + m a	62	56 64	n a e + m a		None	blumpanotacana
 65	orphan	eseejja	či'ma	či'ma	tʃ i + m a	63	65 64	tʃ i + m a		None	blumpanotacana
 66	orphan	eseejja	e-či-mano	e-či-mano	tʃ i + m a n o	64	65 66	tʃ i + m a n o		None	blumpanotacana
-67	1st sg 'i'	eseejja	e	e	e	65	6657	- e - -		None	blumpanotacana
+67	1st sg 'i'	eseejja	e	e	e	65	6657	- e ( - - )		None	blumpanotacana
 68	thou	eseejja	mi	mi	m i	66	68	m i		None	blumpanotacana
 69	we	eseejja	ekʷana	ekʷana	kʷ a n a	67	69	kʷ a n a		None	blumpanotacana
 70	you	eseejja	mikiana	mikiana	m i + !kj/kʷ a n a	68	68 69	m i + !kj/kʷ a n a		None	blumpanotacana
@@ -83,7 +83,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 82	parrot	eseejja	ičako	ičako	i tʃ a k o	80	83	( i ) tʃ a k o		None	blumpanotacana
 83	species of owl	eseejja	ɓio-ɓio	ɓio-ɓio	ɓ i o + ɓ i o	81	11 84	ɓ i o + ɓ i o		None	blumpanotacana
 84	species of owl	eseejja	pexe-pexe	pexe-pexe	p e x e + p e x e	82	85 86	p e x e + p e x e		None	blumpanotacana
-85	dog	eseejja	iɲaewa	iɲaewa	i ɲ a + e w a	83	837 88	- i ɲ a ( - - ) + - e w a		None	blumpanotacana
+85	dog	eseejja	iɲaewa	iɲaewa	i ɲ a + e w a	83	837 88	- i ɲ a ( - - - - - ) + - e w a		None	blumpanotacana
 86	cat	eseejja	miči	miči	m i tʃ i	84	89	m i tʃ i		None	blumpanotacana
 87	fish	eseejja	hai	hai	h a i	85	90	h a i		None	blumpanotacana girardprototakanan
 88	deer	eseejja	ɗokʷe-i	ɗokʷe-i	ɗ o kʷ e + i	86	91 92	ɗ o kʷ e ( - - ) + i		None	blumpanotacana
@@ -556,7 +556,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 555	hawk	eseejja	wipa	wipa	w i p a	522	579	w i p a		None	blumpanotacana
 556	vulture	eseejja	ba'bo sewawa	ba'bo sewawa	b a b o + s e w a w a	523	81 580	b a b o ( - - - ) + s e w a w a		None	blumpanotacana
 557	parrot	eseejja	čako	čako	tʃ a k o	80	83	( - ) tʃ a k o		None	blumpanotacana
-558	dog	eseejja	iɲa wewa	iɲa wewa	i ɲ a + w e w a	83	837 88	- i ɲ a ( - - ) + w e w a		None	blumpanotacana
+558	dog	eseejja	iɲa wewa	iɲa wewa	i ɲ a + w e w a	83	837 88	- i ɲ a ( - - - - - ) + w e w a		None	blumpanotacana
 559	cat	eseejja	misi	misi	m i s i	524	581	m i ( - ) s ( - ) i ( - - - )		None	blumpanotacana
 560	fish	eseejja	na'o	na'o	n a o	525	582	n a o		None	blumpanotacana
 561	deer	eseejja	dokwei	dokwei	d o kʷ e i	526	91	d o kʷ e ( - i )		None	blumpanotacana girardprototakanan
@@ -850,7 +850,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 849	old man	kashibo	ṣ̌ɨni	ṣ̌ɨni	ʂ ɨ n i	355	61	ʂ ɨ n i		None	blumpanotacana
 850	relatives	kashibo	aĩc̷i	aĩc̷i	a !ĩ/i ts i	757	789	a.!ĩ/i ts i		None	blumpanotacana
 851	relatives	kashibo	kaiβo	kaiβo	k a i β o	758	790	k a i β o		None	blumpanotacana oliveiraprotopanoan
-852	1st sg 'i'	kashibo	ʔɨ-	ʔɨ-	ʔ ɨ	65	6657	ʔ ɨ - -		None	blumpanotacana
+852	1st sg 'i'	kashibo	ʔɨ-	ʔɨ-	ʔ ɨ	65	6657	ʔ ɨ ( - - )		None	blumpanotacana
 853	thou	kashibo	mii	mii	m i	66	68	m i		None	blumpanotacana
 854	we	kashibo	no-	no-	n o	759	791	n o -		None	blumpanotacana oliveiraprotopanoan
 855	you	kashibo	mic̷o	mic̷o	m i + ts o	760	68 792	m i + ts o		None	blumpanotacana
@@ -893,7 +893,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 892	hair (body)	kashibo	rani	rani	r a n i	796	831	r a n i		None	blumpanotacana oliveiraprotopanoan
 893	rib	kashibo	pu'tu	pu'tu	p u t u	798	833	p u t u		None	blumpanotacana
 894	horn (anatomy)	kashibo	ma'tuṣ̌ka	ma'tuṣ̌ka	m a + t u ʂ + k a	799	834 835 836	m a + t u ʂ + k a		None	blumpanotacana
-895	tail	kashibo	ina	ina	i n a	800	837	- i n a		None	blumpanotacana oliveiraprotopanoan
+895	tail	kashibo	ina	ina	i n a	800	837	- i n a ( - - - - - )		None	blumpanotacana oliveiraprotopanoan
 896	back	kashibo	kaṣ̌o	kaṣ̌o	k a + ʂ o	801	838 839	k a + ʂ o		None	blumpanotacana oliveiraprotopanoan
 897	head	kashibo	maṣ̌'ka	maṣ̌'ka	m a + ʂ k a	802	834 840	m a + ʂ k a		None	blumpanotacana
 898	head	kashibo	mapuṣ̌oo	mapuṣ̌oo	m a + p u + ʂ o o	803	834 841 125	m a + p u + ʂ o - - o ( - )		None	blumpanotacana
@@ -1264,7 +1264,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 1263	old woman	katukina	yoša-βo	yoša-βo	j o ʂ a + β o	1150	5538 785	j o ʂ a + β o		None	blumpanotacana
 1264	orphan	katukina	papa-ʔoma	papa-ʔoma	p a p a + ʔ o + m a	1151	783 1190 912	p a p a + ʔ o + m a		None	blumpanotacana
 1265	relatives	katukina	hawɨ-βo	hawɨ-βo	h a w ɨ + β o	1152	1191 1192	h a w ɨ + β o		None	blumpanotacana
-1266	1st sg 'i'	katukina	ɨ̃	ɨ̃	ɨ ∼	65	6657	- ɨ ∼ -		None	blumpanotacana
+1266	1st sg 'i'	katukina	ɨ̃	ɨ̃	ɨ ∼	65	6657	- ɨ ( ∼ - )		None	blumpanotacana
 1267	thou	katukina	mĩ	mĩ	m !ĩ/i	66	68	m !ĩ/i		None	blumpanotacana
 1268	we	katukina	nokɨ	nokɨ	n o + k ɨ	1153	791 1193	n o - + k ɨ		None	blumpanotacana
 1269	you	katukina	matõ	matõ	m a t o ∼	1154	1194	m a t o ∼		None	blumpanotacana
@@ -1303,7 +1303,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 1302	hair (body)	katukina	rani	rani	r a n i	796	831	r a n i		None	blumpanotacana
 1303	rib	katukina	piči šao	piči šao	p i ʃ i + ʂ a o	1170	1213 125	p i ʃ i + ʂ a - - o ( - )		None	blumpanotacana
 1304	horn (anatomy)	katukina	mãčoĩ	mãčoĩ	m a + ∼ ʃ o !ĩ/i	1171	834 1214	m a + ( ∼ ) ʃ o ( !ĩ/i )		None	blumpanotacana
-1305	tail	katukina	ina	ina	i n a	800	837	- i n a		None	blumpanotacana
+1305	tail	katukina	ina	ina	i n a	800	837	- i n a ( - - - - - )		None	blumpanotacana
 1306	back	katukina	pɨmana	pɨmana	p ɨ + m a + n a	1172	857 834 1215	p ɨ + m a + n a		None	blumpanotacana
 1307	head	katukina	mapo	mapo	m a + p o	1173	834 841	m a + p o		None	blumpanotacana
 1308	brain	katukina	mapo rɨso	mapo rɨso	m a + p o + r ɨ s o	1174	834 841 1216	m a + p o + r ɨ s o		None	blumpanotacana
@@ -1824,7 +1824,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 1823	buttocks	shipibokonibo	čiṣ̌o	čiṣ̌o	tʃ i + ʂ o	1199	1236 1237	tʃ i + ʂ o		None	blumpanotacana
 1824	testicles	shipibokonibo	hoβoṣ̌ko	hoβoṣ̌ko	h o β o + ʂ k o	1526	1238 1537	h o β o + ʂ k o		None	blumpanotacana
 1825	penis	shipibokonibo	βoši	βoši	β o ʃ i	1527	1538	β o ʃ - i		None	blumpanotacana
-1826	penis	shipibokonibo	hina	hina	h i n a	800	837	h i n a		None	blumpanotacana
+1826	penis	shipibokonibo	hina	hina	h i n a	800	837	h i n a ( - - - - - )		None	blumpanotacana
 1827	sneeze	shipibokonibo	hatišaniti	hatišaniti	h a t i ʃ a n i + t i	1529	1539 767	h a t i ʃ a n i + t i		None	blumpanotacana
 1828	spit	shipibokonibo	mičoti	mičoti	m i tʃ o + t i	1530	1244 767	m i tʃ o + t i		None	blumpanotacana
 1829	spit	shipibokonibo	tošβaati	tošβaati	t o ʃ β a + a t i	1531	1540 1541	t o ʃ β a ( - ) + a t i		None	blumpanotacana
@@ -2765,7 +2765,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 2764	maize	amawaka	xúqui	xúqui	ʂ ɨ k i	243	5365	ʂ ɨ k i ( - - )		None	blumpanotacana
 2765	nest	amawaka	náha	náha	n !á/a ʔ a	764	796	n !á/a ʔ a		None	blumpanotacana
 2766	copulate	amawaka	háqui	háqui	ʔ á/a k i	2177	2064	ʔ á/a k i		None	blumpanotacana
-2767	piss	amawaka	jínzonhí	jínzonhí	h í/i n + s o n	2178	837 2065	h í/i n - + s o n		None	blumpanotacana
+2767	piss	amawaka	jínzonhí	jínzonhí	h í/i n + s o n	2178	837 2065	h í/i n - ( - - - - - ) + s o n		None	blumpanotacana
 2768	potato	amawaka	chonví	chonví, póva	tʃ o n β í/i	2179	2066	tʃ o n β í/i		None	blumpanotacana
 2769	potato	amawaka	póva	chonví, póva	p ó/o β a	2180	2067	p ó/o β a		None	blumpanotacana
 2770	lie (mislead)	amawaka	hóntzahí	hóntzahí	ʔ ó/o n ts a	2181	2068	ʔ ó/o n ts a		None	blumpanotacana
@@ -2900,7 +2900,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 2899	rope	amawaka	nínxo	nínxo, nishí	n !í/i n ʂ o	2259	2137	n !í/i ( n ) ʂ o		None	blumpanotacana
 2900	rope	amawaka	nishí	nínxo, nishí	n i ʃ !í/i	927	974	n i ʃ !í/i		None	blumpanotacana
 2901	worm	amawaka	xúna	xúna	ʂ ɨ n a	1492	5368	ʂ ɨ n a		None	blumpanotacana
-2902	tail	amawaka	jína	jína	h !í/i n a	800	837	h !í/i n a		None	blumpanotacana
+2902	tail	amawaka	jína	jína	h !í/i n a	800	837	h !í/i n a ( - - - - - )		None	blumpanotacana
 2903	nose	amawaka	rúquin	rúquin	r ɨ + k i n	812	594 850	r ɨ + k i n		None	blumpanotacana
 2904	penis	amawaka	vóxqui	vóxqui	β ó/o ʂ k i	1527	1538	β ó/o ʂ k i		None	blumpanotacana
 2905	heart	amawaka	jóvintí	jóvintí	h !ó/o β i n + t í/i	2260	2050 860	h !ó/o β i n + t í/i		None	blumpanotacana
@@ -3142,7 +3142,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 3141	snore	amawaka	núanhí	núanhí	n ɨ a n	1208	1246	n ɨ a n		None	blumpanotacana
 3142	get tired	amawaka	hóxacatátznáhi	hóxacatátznáhi	ʔ ó/o ʂ a k a + t á/a ts n á/a ʔ + i	2394	2245 2246 1241	ʔ ó/o ʂ a k a + t á/a ts - n á/a ʔ + i		None	blumpanotacana
 3143	bend	amawaka	vúquiquín	vúquiquín	β ɨ k i	2165	1667	β ɨ k i		None	blumpanotacana
-3144	dog	amawaka	hinán	hinán, hinó	ʔ i n !á/a n	2395	837	ʔ i n !á/a ( n - )		None	blumpanotacana
+3144	dog	amawaka	hinán	hinán, hinó	ʔ i n !á/a n	2395	837	ʔ i n !á/a ( n - - - - )		None	blumpanotacana
 3145	dog	amawaka	hinó	hinán, hinó	ʔ i n !ó/o	2396	6682	ʔ i n !ó/o ( - - - )		None	blumpanotacana
 3146	go down (descend)	amawaka	hípaahí	hípaahí	ʔ í/i + p a	2397	1011 2249	ʔ í/i + p a		None	blumpanotacana
 3147	mix	amawaka	józiquín	józiquín	h ó/o s i	2398	2250	h ó/o s i		None	blumpanotacana
@@ -3319,7 +3319,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 3318	black	kapanawa	tahshini	huiso, tahshini	t a ʔ ʃ i n i	2489	2320	t a ʔ ʃ i n i		None	blumpanotacana
 3319	flee	kapanawa	jabati	jabati	h a β a + t i	1627	1607 767	h a β a + t i		None	blumpanotacana
 3320	what	kapanawa	jahua	jahua	h a w a	2109	2014	h a w a		None	blumpanotacana oliveiraprotopanoan
-3321	1st sg 'i'	kapanawa	jahue	jahue	h a w ɨ	1323	6657	h a w ɨ		None	blumpanotacana
+3321	1st sg 'i'	kapanawa	jahue	jahue	h a w ɨ	1323	2775	h a w ɨ		None	blumpanotacana
 3322	thing	kapanawa	jahuequibo	jahuequibo	h a w ɨ + k i β o	2490	1191 2321	h a w ɨ + k i β o		None	blumpanotacana
 3323	come	kapanawa	jahui	jahui	h a w i	2491	2322	h a w i		None	blumpanotacana
 3324	tongue	kapanawa	jana	jana	h a n a	134	144	h a n a		None	blumpanotacana oliveiraprotopanoan valenzuelazariquieypanotakana
@@ -3336,8 +3336,8 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 3335	relatives	kapanawa	jená	jená	h ɨ n a	2496	2326	h ɨ n a		None	blumpanotacana
 3336	water	kapanawa	jene	jene	h ɨ n ɨ	1447	1444	h ɨ n ɨ		None	blumpanotacana
 3337	how	kapanawa	jenques	jenques	h ɨ n k ɨ s	2497	2327	h ɨ n.k ɨ s		None	blumpanotacana
-3338	tail	kapanawa	jina	jina	h i n a	800	837	h i n a		None	blumpanotacana oliveiraprotopanoan
-3339	penis	kapanawa	jina	jina, boshi	h i n a	800	837	h i n a		None	blumpanotacana
+3338	tail	kapanawa	jina	jina	h i n a	800	837	h i n a ( - - - - - )		None	blumpanotacana oliveiraprotopanoan
+3339	penis	kapanawa	jina	jina, boshi	h i n a	800	837	h i n a ( - - - - - )		None	blumpanotacana
 3340	penis	kapanawa	boshi	jina, boshi	β o ʃ i	1527	1538	β o ʃ - i		None	blumpanotacana
 3341	frog	kapanawa	jiri	jiri, tinjahihcashan	h i r i	2286	2057	h i r i		None	blumpanotacana
 3342	frog	kapanawa	tinjahihcashan	jiri, tinjahihcashan	t i n a ʔ i ʔ k a ʃ a n	2498	2328	t i n a ʔ i ʔ k a ʃ a n		None	blumpanotacana
@@ -4381,7 +4381,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 4380	house	sharanawa	pushu	pushu	p ɨ ʃ ɨ	1921	1856	p ɨ ʃ ɨ		None	blumpanotacana
 4381	hunt	sharanawa	nii cai	nii cai	n i i + k a i	3160	744 2910	n i ( - i ) + k a i		None	blumpanotacana
 4382	husband	sharanawa	funu	funu	β ɨ n ɨ	749	775	β ɨ n ɨ		None	blumpanotacana
-4383	1st sg 'i'	sharanawa	un	un	ɨ n	65	6657	- ɨ n -		None	blumpanotacana
+4383	1st sg 'i'	sharanawa	un	un	ɨ n	65	6657	- ɨ ( n - )		None	blumpanotacana
 4384	join	sharanawa	ichahuai	ichahuai	i tʃ a + w a i	3161	1069 378	- i tʃ a + w a - i		None	blumpanotacana
 4385	join	sharanawa	topi	topi	t u p i	1337	1373	t u p i		None	blumpanotacana
 4386	jump	sharanawa	fiashiqui	fiashiqui	β i a ʃ i + k i	3162	2911 881	β i a ʃ i + k i		None	blumpanotacana
@@ -4551,7 +4551,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 4550	sweet potato	sharanawa	cari	cari	k a r i	921	968	k a r i ( - - )		None	blumpanotacana
 4551	swim	sharanawa	nashi	nashi	n a ʃ i	1215	895	n a ʃ i		None	blumpanotacana
 4552	swim	sharanawa	topiqui	topiqui	t u p i + k i	3258	1900 881	t u ( - ) p i + k i		None	blumpanotacana
-4553	tail	sharanawa	ina	ina	i n a	800	837	- i n a		None	blumpanotacana oliveiraprotopanoan
+4553	tail	sharanawa	ina	ina	i n a	800	837	- i n a ( - - - - - )		None	blumpanotacana oliveiraprotopanoan
 4554	tail	sharanawa	tayanti	tayanti	t a j a n t i	3259	2979	t a j a n t i		None	blumpanotacana
 4555	tear (shred)	sharanawa	fashnui	fashnui	β a ʃ n ɨ i	3260	2980	β a ʃ n ɨ i		None	blumpanotacana
 4556	they	sharanawa	ato	ato	a t u	761	793	- a t u		None	blumpanotacana
@@ -5276,7 +5276,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 5275	hot	iskonawa	hana	hana	h a n a	1403	1437	h a n a		None	blumpanotacana
 5276	house	iskonawa	kahe panpihiko	kahe panpihiko	k a h ɨ + p a n p i h i k o	3640	3314 3315	k a h ɨ + p a n p i h i k o		None	blumpanotacana
 5277	husband	iskonawa	bene	bene	β ɨ n ɨ	749	775	β ɨ n ɨ		None	blumpanotacana
-5278	1st sg 'i'	iskonawa	ea	ea	ɨ + a	1480	6657	- ɨ - - + a		None	blumpanotacana
+5278	1st sg 'i'	iskonawa	ea	ea	ɨ + a	1480	6657	- ɨ ( - - ) + a		None	blumpanotacana
 5279	kidney	iskonawa	kaonhko	kaonhko	k a o n h k o	3641	3316	k a - o ( n h ) k o		None	blumpanotacana
 5280	kill	iskonawa	mare	mare	m a ɾ ɨ	3642	3317	m a ɾ ɨ		None	blumpanotacana
 5281	know (something)	iskonawa	onain	onain	o n ai n	2300	1131	- o n ai n		None	blumpanotacana
@@ -5424,7 +5424,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 5423	swallow	iskonawa	hea	hea	h ɨ a	874	920	h ɨ a		None	blumpanotacana
 5424	sweet potato	iskonawa	nuin mera	nuin mera	n u i n + m ɨ ɾ a	3723	3399 3400	n u i n + m ɨ ɾ a		None	blumpanotacana
 5425	swim	iskonawa	tonpi	tonpi	t o n p i	3724	1900	t o ( n ) p i		None	blumpanotacana
-5426	tail	iskonawa	ina	ina	i n a	800	837	- i n a		None	blumpanotacana
+5426	tail	iskonawa	ina	ina	i n a	800	837	- i n a ( - - - - - )		None	blumpanotacana
 5427	tear (of eye)	iskonawa	bero ene	bero ene	β ɨ + ɾ o + ɨ n ɨ	1411	141 846 1444	β ɨ + ɾ o + - ɨ n ɨ		None	blumpanotacana
 5428	tell	iskonawa	yoi	yoi	j o + i	3725	2209 1241	j o ( - ) + i		None	blumpanotacana
 5429	testicles	iskonawa	ebo	ebo	ɨ β o	1200	1238	- ɨ β o		None	blumpanotacana
@@ -5511,7 +5511,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 5510	become angry	kashibo	nishti	nishti	n i ʃ + t i	3763	3430 767	n i ʃ + t i		None	blumpanotacana
 5511	work (activity)	kashibo	ñu mëëti	ñu mëëti	ɲ ɯ + m ɨ ɨ + t i	3764	3431 3432 767	ɲ ɯ + m ɨ ɨ + t i		None	blumpanotacana
 5512	dead	kashibo	nukë	nukë	n ɯ k ɨ	3765	3433	n ɯ k ɨ		None	blumpanotacana
-5513	die	kashibo	ñuti	ñuti	ɲ ɯ + t i	3766	6019 767	( - ) - - ɲ ɯ + t i		None	blumpanotacana
+5513	die	kashibo	ñuti	ñuti	ɲ ɯ + t i	3766	6019 767	( - ) - - ( ɲ ɯ ) + t i		None	blumpanotacana
 5514	pain	kashibo	paë	paë	p a ɨ	2090	6179	p a - ɨ ( - - )		None	blumpanotacana
 5515	slip	kashibo	pakë́ti	pakë́ti	p a k ɨ + t i	3767	3435 767	p a k ɨ + t i		None	blumpanotacana
 5516	feather	kashibo	pëi	pëi	p ɨ + i	918	857 965	p ɨ + - i		None	blumpanotacana
@@ -5544,7 +5544,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 5543	true	matses	abimbo	abimbo	a b i m b o	3783	3447	a b i m b o		None	blumpanotacana
 5544	high or tall	matses	abuc	abuc	a b u + k	2995	2545 2776	a b u + k		None	blumpanotacana
 5545	river	matses	acte	acte	a k + t e	2728	2516 2515	a k + t e		None	blumpanotacana
-5546	young woman	matses	*woman, wife	ain bacuë, champi	a i n + b a kʷ ɨ	1137	4713 49	- a - i n - - - + b a kʷ ɨ		None	blumpanotacana
+5546	young woman	matses	*woman, wife	ain bacuë, champi	a i n + b a kʷ ɨ	1137	4713 49	- a - i n - ( - - ) + b a kʷ ɨ		None	blumpanotacana
 5547	young woman	matses	*woman, wife	ain bacuë, champi	tʃ a + m p i	3784	3448 2508	tʃ a + m p i		None	blumpanotacana
 5548	young man	matses	bacuë	bacuë	b a kʷ ɨ	46	49	b a kʷ ɨ		None	blumpanotacana
 5549	morning	matses	badiadaʂ	badiadaʂ	b a d i a d + a ʂ	2989	15 2770	b a d i ( a d ) + a ʂ		None	blumpanotacana
@@ -5906,7 +5906,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 5905	sharpen (something)	araona	lacua	lacua	l a kʷ a	3947	3597	l a kʷ a		None	blumpanotacana
 5906	hide (conceal)	araona	lobo	lobo	l o b o	4027	3674	l o b o		None	blumpanotacana
 5907	stone	araona	majana	majana	m a h a n a	4028	3675	m a h a n a		None	blumpanotacana
-5908	die	araona	mano	mano	m a n o	188	6019	( - ) m a n o		None	blumpanotacana
+5908	die	araona	mano	mano	m a n o	188	6019	( - ) m a ( n o )		None	blumpanotacana
 5909	river	araona	mano	mano	m a n o	4029	3676	m a n o		None	blumpanotacana
 5910	negation	araona	mi	mi	m i	702	732	m i ( - )		None	blumpanotacana
 5911	there	araona	mo	mo	m o	4030	3677	m o -		None	blumpanotacana
@@ -6043,7 +6043,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 6042	belt	cavinena	dure	dure	d u r e	4126	3763	d u r e		None	blumpanotacana
 6043	all	cavinena	dutya	dutya	d u tʲ a	4127	3764	d u tʲ a		None	blumpanotacana
 6044	lazy	cavinena	dyai	dyai	dʲ ai	4128	3765	dʲ ai		None	blumpanotacana
-6045	1st sg 'i'	cavinena	e	e	e	65	6657	- e - -		None	blumpanotacana
+6045	1st sg 'i'	cavinena	e	e	e	65	6657	- e ( - - )		None	blumpanotacana
 6046	house	cavinena	tare	tare	t a r e	4129	3766	t a r e		None	blumpanotacana
 6047	food	cavinena	earaki	earaki	a r a + k i	4130	3732 3767	a r a + k i		None	blumpanotacana
 6048	cook (something)	cavinena	earaki a	earaki a, jina	e a r a k i + a	4131	3768 669	e a r a k i + a		None	blumpanotacana
@@ -6094,7 +6094,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 6093	shake	cavinena	itata	itata, wisha	i t a t a	4170	2961	( i ) t a t a		None	blumpanotacana
 6094	shake	cavinena	wisha	itata, wisha	w i ʃ a	4171	3812	w i ʃ a		None	blumpanotacana
 6095	push	cavinena	itusha	itusha	i t u ʃ a	4172	3813	i t u ʃ a		None	blumpanotacana
-6096	tail	cavinena	iwa	iwa	i w a	118	837	( i ) w a ( - - )		None	blumpanotacana girardprototakanan
+6096	tail	cavinena	iwa	iwa	i w a	118	837	- i w a ( - - - - - )		None	blumpanotacana girardprototakanan
 6097	wait (for)	cavinena	iwa	iwa	i w a	3934	3581	i w a		None	blumpanotacana
 6098	put	cavinena	iya	iya	i j a	330	369	i j a		None	blumpanotacana girardprototakanan
 6099	leave	cavinena	iya	iya, jaka, shana	i j a	4174	3815	i j a		None	blumpanotacana
@@ -6218,7 +6218,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 6217	work (activity)	cavinena	mere	mere	m e r e	4272	3916	m e r e		None	blumpanotacana
 6218	claw	cavinena	meshuru	meshuru	m e + ʃ u r u	4273	154 3917	m e + ʃ u r u		None	blumpanotacana
 6219	tomorrow	cavinena	metajudya	metajudya	m e t a + h u dʲ a	4274	6639 3918	- - m e t a ( - - ) + h u dʲ a		None	blumpanotacana
-6220	ring	cavinena	metara	metara	m e + t a r a	4275	154 3919	m e + t a r a		None	blumpanotacana
+6220	ring	cavinena	metara	metara	m e + t a r a	4275	154 1892	m e + t a r a		None	blumpanotacana
 6221	hand	cavinena	metuku	metuku	m e + t u k u	4060	154 3702	m e + t u k u		None	blumpanotacana
 6222	thou	cavinena	mi	mi	m i	66	68	m i		None	blumpanotacana
 6223	hit	cavinena	miri	miri	m i r i	4276	3920	m i r i		None	blumpanotacana
@@ -6593,7 +6593,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 6592	kill	tacana	manu-a-me	manu-a-me	m a n u + a + m e	4539	3573 669 4184	m a n u + a + m e		None	blumpanotacana
 6593	year	tacana	mara	mara	m a ɾ a	4265	3909	m a ɾ a		None	blumpanotacana
 6594	thread	tacana	masi	masi	m a s i	231	255	m a s i		None	blumpanotacana
-6595	ring	tacana	metara	metara	m e + t a ɾ a	4275	154 3919	m e + t a ɾ a		None	blumpanotacana
+6595	ring	tacana	metara	metara	m e + t a ɾ a	4275	154 1892	m e + t a ɾ a		None	blumpanotacana
 6596	shoot	tacana	metse nuru	metse nuru, puju-ju	m e ts e + n u ɾ u	4540	4185 4186	m e ts e + n u ɾ u		None	blumpanotacana
 6597	shoot	tacana	puju-ju	metse nuru, puju-ju	p u h u + h u	4541	4187 4188	p u h u + h u		None	blumpanotacana
 6598	be silent	tacana	mi-tana	mi-tana	m i + t a n a	4542	4189 4190	m i + t a n a		None	blumpanotacana
@@ -6908,7 +6908,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 6907	few	chakobo	ichariama	ichariama	i tʃ a + r i a + m a	4738	1069 4371 912	- i tʃ a + r i a + m a		None	blumpanotacana
 6908	heavy	chakobo	ihuë	ihuë	i w ɨ	1052	4752	( - - ) - i w ɨ ( - )		None	blumpanotacana
 6909	shiver	chakobo	imahaina	imahaina	i m a	4739	4372	i m a		None	blumpanotacana
-6910	dog	chakobo	inaca	inaca	i n a k a	2395	837	- i n a ( k a )		None	blumpanotacana
+6910	dog	chakobo	inaca	inaca	i n a k a	2395	837	- i n a ( k a - - - )		None	blumpanotacana
 6911	go up (ascend)	chakobo	inahaina	inahaina	i n a	4740	1372	- i n a		None	blumpanotacana
 6912	sell	chakobo	iniahaina	iniahaina	i n !ia/a	1324	1029	- i n !ia/a -		None	blumpanotacana
 6913	say	chakobo	iqui	iqui	i k i	3220	2956	i k i		None	blumpanotacana
@@ -6952,8 +6952,8 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 6951	enter	chakobo	jicohaina	jicohaina	h i k o	1316	1353	h i k o		None	blumpanotacana
 6952	burn (something)	chakobo	jiisahaina	jiisahaina	h i + i s a	4761	35 2504	h i ( - - ) + ( - - ) i s a		None	blumpanotacana
 6953	relatives	chakobo	jimi	jimi	h i m i	797	832	h i m i ( - )		None	blumpanotacana
-6954	tail	chakobo	jina	jina	h i n a	800	837	h i n a		None	blumpanotacana oliveiraprotopanoan
-6955	penis	chakobo	jina	jina	h i n a	800	837	h i n a		None	blumpanotacana
+6954	tail	chakobo	jina	jina	h i n a	800	837	h i n a ( - - - - - )		None	blumpanotacana oliveiraprotopanoan
+6955	penis	chakobo	jina	jina	h i n a	800	837	h i n a ( - - - - - )		None	blumpanotacana
 6956	see	chakobo	jis-haina	jis-haina	h i s	2503	1090	h i s		None	blumpanotacana
 6957	piss	chakobo	jisohaina	jisohaina	h i s o	846	892	( h ) i ( - ) s o -		None	blumpanotacana
 6958	flower	chakobo	joa	joa	h o a	919	966	h o ( - ) a		None	blumpanotacana oliveiraprotopanoan
@@ -7575,7 +7575,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 7574	snake	kasharari	tʃuˈlu	tʃuˈlu	tʃ u l u	5096	4689	tʃ u l u		None	blumpanotacana oliveiraprotopanoan
 7575	stone	kasharari	ʂaˈʂu	ʂaˈʂu	ʂ a ʂ u	3877	3521	ʂ a ʂ u		None	blumpanotacana oliveiraprotopanoan
 7576	sweet	kasharari	βwaˈta	βwaˈta	β a t a	1036	1086	β a t a		None	blumpanotacana oliveiraprotopanoan
-7577	tail	kasharari	tʃiˈna	tʃiˈna	tʃ i n a	800	837	tʃ i n a		None	blumpanotacana oliveiraprotopanoan
+7577	tail	kasharari	tʃiˈna	tʃiˈna	tʃ i n a	800	837	tʃ i n a ( - - - - - )		None	blumpanotacana oliveiraprotopanoan
 7578	tear (of eye)	kasharari	bɨwˈmi	bɨwˈmi	!b/β ɨ + w m i	5097	141 4690	!b/β ɨ + w m i		None	blumpanotacana
 7579	upper leg (thigh)	kasharari	kiˈʃi	kiˈʃi	k i ʃ i	147	159	k i ʃ i		None	blumpanotacana oliveiraprotopanoan
 7580	they	kasharari	hatu	hatu	h a t u	761	793	h a t u		None	blumpanotacana
@@ -7736,26 +7736,26 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 7735	tapir	korubo	awat	awat	a w a t	5125	4712	- a w a ( - ) t -		None	oliveiraprotopanoan
 7736	tapir	matis	awad	awad	a w a d	5125	4712	- a w a ( - ) d -		None	oliveiraprotopanoan
 7737	tapir	matses	awad	awad	a w a d	5125	4712	- a w a ( - ) d -		None	oliveiraprotopanoan
-7738	woman, wife	protopanoan	ʔawi[n]	ʔawi[n]	ʔ a w i rⁿ	5126	4713	ʔ a w i rⁿ - - -		None	oliveiraprotopanoan
-7739	woman, wife	shipibokonibo	aˈwĩ	aˈwĩ	a w i ∼	5126	4713	- a w i ∼ - - -		None	oliveiraprotopanoan
-7740	woman, wife	kapanawa	ʔaˈwin	ʔaˈwin	ʔ a w i n	5126	4713	ʔ a w i n - - -		None	oliveiraprotopanoan
-7741	woman, wife	marubo	*woman, wife	aĩ	a i ∼	5126	4713	- a - i ∼ - - -		None	oliveiraprotopanoan
-7742	woman, wife	marubo	aˈĩvɞ	aˈĩvɞ	a i ∼ v ɞ	5126	4713	- a - i ∼ - v ɞ		None	oliveiraprotopanoan
-7743	woman, wife	chakobo	ʔaˈwini	ʔaˈwini	ʔ a w i n i	5126	4713	ʔ a w i n i - -		(ver etimologias 3, 386,  498	oliveiraprotopanoan
-7744	woman, wife	yaminawa	aɸĩ	aɸĩ	a ɸ i ∼	5126	4713	- a ɸ i ∼ - - -		None	oliveiraprotopanoan
-7745	woman, wife	chaninawa	awin	awin	a w i n	5126	4713	- a w i n - - -		None	oliveiraprotopanoan
-7746	woman, wife	poyanawa	awĩ	awĩ	a w i ∼	5126	4713	- a w i ∼ - - -		None	oliveiraprotopanoan
-7747	woman, wife	amawaka	ʔaín	ʔaín	ʔ a !í/i n	5126	4713	ʔ a - !í/i n - - -		None	oliveiraprotopanoan
-7748	woman, wife	amawaka	ãĩ	ãĩ	!ã/a i ∼	5126	4713	- !ã/a - i ∼ - - -		None	oliveiraprotopanoan
-7749	woman, wife	kaxinawa	ãĩ	ãĩ	!ã/a i ∼	5126	4713	- !ã/a - i ∼ - - -		None	oliveiraprotopanoan
-7750	woman, wife	marinawa	ˈãwĩ	ˈãwĩ	!ã/a w i ∼	5126	4713	- !ã/a w i ∼ - - -		None	oliveiraprotopanoan
-7751	woman, wife	yawanawa	auin	auin	a w i n	5126	4713	- a w i n - - -		None	oliveiraprotopanoan
-7752	woman, wife	korubo	awin	awin	a w i n	5126	4713	- a w i n - - -		None	oliveiraprotopanoan
-7753	woman, wife	matis	awin	awin	a w i n	5126	4713	- a w i n - - -		None	oliveiraprotopanoan
-7754	woman, wife	matses	awin	awin	a w i n	5126	4713	- a w i n - - -		None	oliveiraprotopanoan
-7755	woman, wife	protopanoan	ʔawĩβo	ʔawĩβo	ʔ a w ĩ/i β o	5127	4713	ʔ a w ĩ/i - - β o		None	oliveiraprotopanoan
+7738	woman, wife	protopanoan	ʔawi[n]	ʔawi[n]	ʔ a w i rⁿ	5126	4713	ʔ a w i rⁿ - ( - - )		None	oliveiraprotopanoan
+7739	woman, wife	shipibokonibo	aˈwĩ	aˈwĩ	a w i ∼	5126	4713	- a w i ∼ - ( - - )		None	oliveiraprotopanoan
+7740	woman, wife	kapanawa	ʔaˈwin	ʔaˈwin	ʔ a w i n	5126	4713	ʔ a w i n - ( - - )		None	oliveiraprotopanoan
+7741	woman, wife	marubo	*woman, wife	aĩ	a i ∼	5126	4713	- a - i ∼ - ( - - )		None	oliveiraprotopanoan
+7742	woman, wife	marubo	aˈĩvɞ	aˈĩvɞ	a i ∼ v ɞ	5126	4713	- a - i ∼ - ( v ɞ )		None	oliveiraprotopanoan
+7743	woman, wife	chakobo	ʔaˈwini	ʔaˈwini	ʔ a w i n i	5126	4713	ʔ a w i n i ( - - )		(ver etimologias 3, 386,  498	oliveiraprotopanoan
+7744	woman, wife	yaminawa	aɸĩ	aɸĩ	a ɸ i ∼	5126	4713	- a ɸ i ∼ - ( - - )		None	oliveiraprotopanoan
+7745	woman, wife	chaninawa	awin	awin	a w i n	5126	4713	- a w i n - ( - - )		None	oliveiraprotopanoan
+7746	woman, wife	poyanawa	awĩ	awĩ	a w i ∼	5126	4713	- a w i ∼ - ( - - )		None	oliveiraprotopanoan
+7747	woman, wife	amawaka	ʔaín	ʔaín	ʔ a !í/i n	5126	4713	ʔ a - !í/i n - ( - - )		None	oliveiraprotopanoan
+7748	woman, wife	amawaka	ãĩ	ãĩ	!ã/a i ∼	5126	4713	- !ã/a - i ∼ - ( - - )		None	oliveiraprotopanoan
+7749	woman, wife	kaxinawa	ãĩ	ãĩ	!ã/a i ∼	5126	4713	- !ã/a - i ∼ - ( - - )		None	oliveiraprotopanoan
+7750	woman, wife	marinawa	ˈãwĩ	ˈãwĩ	!ã/a w i ∼	5126	4713	- !ã/a w i ∼ - ( - - )		None	oliveiraprotopanoan
+7751	woman, wife	yawanawa	auin	auin	a w i n	5126	4713	- a w i n - ( - - )		None	oliveiraprotopanoan
+7752	woman, wife	korubo	awin	awin	a w i n	5126	4713	- a w i n - ( - - )		None	oliveiraprotopanoan
+7753	woman, wife	matis	awin	awin	a w i n	5126	4713	- a w i n - ( - - )		None	oliveiraprotopanoan
+7754	woman, wife	matses	awin	awin	a w i n	5126	4713	- a w i n - ( - - )		None	oliveiraprotopanoan
+7755	woman, wife	protopanoan	ʔawĩβo	ʔawĩβo	ʔ a w ĩ/i β o	5127	4713	ʔ a w ĩ/i - - ( β o )		None	oliveiraprotopanoan
 7756	woman, wife	shipibokonibo	ʔaˈĩβo	ʔaˈĩβo	ʔ a ĩ/i β o	5127	1107	ʔ a - ĩ/i - - β o		None	oliveiraprotopanoan
-7757	woman, wife	marinawa	*woman, wife	ãĩɸo	!ã/a ĩ/i ɸ o	5127	4713	- !ã/a - ĩ/i - - ɸ o		None	oliveiraprotopanoan
+7757	woman, wife	marinawa	*woman, wife	ãĩɸo	!ã/a ĩ/i ɸ o	5127	4713	- !ã/a - ĩ/i - - ( ɸ o )		None	oliveiraprotopanoan
 7758	to devour	protopanoan	ʔaya-	ʔaya-	ʔ a j a	5128	4715	ʔ a j a ( - - - )		None	oliveiraprotopanoan
 7759	to devour	kashibo	ʔee-	ʔee-	ʔ e e	5128	4715	ʔ e - e ( - - - )		None	oliveiraprotopanoan
 7760	to devour	kashibo	ʔe-ti	ʔe-ti	ʔ e + t i	5128	4715	ʔ e - - ( - - - ) + t i - - - )		None	oliveiraprotopanoan
@@ -7773,7 +7773,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 7772	to devour	korubo	ak-	ak-	a k	5130	4715	- a k - ( - - - )		None	oliveiraprotopanoan
 7773	to devour	matis	ak-kin	ak-kin	a k + k i n	5131	4715	- a k - ( - - - ) + k i n )		None	oliveiraprotopanoan
 7774	to devour	matses	ak	ak	a k	5132	4715	- a k - ( - - - )		None	oliveiraprotopanoan
-7775	1st sg 'i'	amawaka	ɨ-	ɨ-	ɨ	5133	6657	- ɨ - -		None	oliveiraprotopanoan
+7775	1st sg 'i'	amawaka	ɨ-	ɨ-	ɨ	5133	6657	- ɨ ( - - )		None	oliveiraprotopanoan
 7776	big	protopanoan	ʔɨwa	ʔɨwa	ʔ ɨ w a	5134	4721	( - - - ) ʔ ɨ w a ( - - )		None	oliveiraprotopanoan
 7777	big	kashibo	ʔĩɔ	ʔĩɔ	ʔ !ĩ/i ɔ	5134	4721	( - - - ) ʔ !ĩ/i - ɔ ( - - )		None	oliveiraprotopanoan
 7778	big	kashibo	-on	-on	o n	5135	4722	( - - - - - o ) - - - - ( - - - n - - - - - - - - )		None	oliveiraprotopanoan
@@ -10740,10 +10740,10 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 10739	to hit (one's) head	kaxinawa	matas_ak	matas_ak	m a t a s + a k	5493	5080	m a t a s ( + - a - k - )		None	oliveiraprotopanoan
 10740	to hit (one's) head	korubo	matɨʃ-ante	matɨʃ-ante	m a t ɨ ʃ + a n t e	5493	5080	m a t ɨ ʃ ( + - a n t e )		None	oliveiraprotopanoan
 10741	to hit (one's) head	matses	maˈtas	maˈtas	m a t a s	5493	5080	m a t a s ( - - - - - - )		None	oliveiraprotopanoan
-10742	die	protopanoan	mawa-	mawa-	m a w a	5496	6019	( - ) m a w a		None	oliveiraprotopanoan
-10743	die	shipibokonibo	mawa-	mawa-	m a w a	5496	6019	( - ) m a w a		None	oliveiraprotopanoan
-10744	die	kapanawa	mawa-	mawa-	m a w a	5496	6019	( - ) m a w a		None	oliveiraprotopanoan
-10745	die	kaxinawa	mawa-	mawa-	m a w a	5496	6019	( - ) m a w a		None	oliveiraprotopanoan
+10742	die	protopanoan	mawa-	mawa-	m a w a	5496	6019	( - ) m a ( w a )		None	oliveiraprotopanoan
+10743	die	shipibokonibo	mawa-	mawa-	m a w a	5496	6019	( - ) m a ( w a )		None	oliveiraprotopanoan
+10744	die	kapanawa	mawa-	mawa-	m a w a	5496	6019	( - ) m a ( w a )		None	oliveiraprotopanoan
+10745	die	kaxinawa	mawa-	mawa-	m a w a	5496	6019	( - ) m a ( w a )		None	oliveiraprotopanoan
 10746	species of ant	protopanoan	mawis	mawis	m a w i s	5497	5084	m a w i s ( - )		None	oliveiraprotopanoan
 10747	species of ant	kashibo	maís	maís	m a !í/i s	5497	5084	m a - !í/i s ( - )		None	oliveiraprotopanoan
 10748	species of ant	kashibo	maɨ́́s	maɨ́́s	m a !ɨ́/ɨ s	5497	5084	m a - !ɨ́/ɨ s ( - )		None	oliveiraprotopanoan
@@ -11195,7 +11195,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 11194	day (not night)	amawaka	nɨtɨ́́_I	nɨtɨ́́_I	n ɨ t !ɨ́/ɨ	5561	5148	n ɨ t !ɨ́/ɨ ( - )		None	oliveiraprotopanoan
 11195	day (not night)	korubo	nɨtɨn	nɨtɨn	n ɨ t ɨ n	5561	5148	n ɨ t ɨ ( n )		None	oliveiraprotopanoan
 11196	day (not night)	matis	nɨtɨn	nɨtɨn	n ɨ t ɨ n	5561	5148	n ɨ t ɨ ( n )		None	oliveiraprotopanoan
-11197	stand	protopanoan	niCc-	niCc-	n i tʳ	5562	5149	n i tʳ - ( - - - )		None	oliveiraprotopanoan
+11197	stand	protopanoan	niCc-	niCc-	n i t	5562	5149	n i t - ( - - - )		None	oliveiraprotopanoan
 11198	stand	kashibo	nits-	nits-	n i ts	5563	5150	n i ts - ( - - - - )		None	oliveiraprotopanoan
 11199	stand	kashibo	niɾú-ti	niɾú-ti	n i ɾ !ú/u + t i	5564	5151	n i ɾ !ú/u ( + t i - )		None	oliveiraprotopanoan
 11200	stand	shipibokonibo	nií-	nií-	n i !í/i	5562	5149	n i - !í/i ( - - - )		None	oliveiraprotopanoan
@@ -12076,7 +12076,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 12075	vein	korubo	punu	punu	p u n u	5666	5253	p u n u ( - )		None	oliveiraprotopanoan
 12076	vein	matis	punu	punu	p u n u	5666	5253	p u n u ( - )		None	oliveiraprotopanoan
 12077	vein	matses	punu	punu	p u n u	5666	5253	p u n u ( - )		None	oliveiraprotopanoan
-12078	species of owl	protopanoan	popo	popo	p o p o	5667	5254	p o p o ( - )		None	oliveiraprotopanoan
+12078	species of owl	protopanoan	popo	popo	p u p u	5667	5254	p u p u ( - )		None	new
 12079	species of owl	marubo	pupu	pupu	p u p u	5667	5254	p u p u ( - )		None	oliveiraprotopanoan
 12080	species of owl	chakobo	popo	popo	p o p o	5667	5254	p o p o ( - )		None	oliveiraprotopanoan
 12081	species of owl	kasharari	ˈpupu	ˈpupu	p u p u	5667	5254	p u p u ( - )		None	oliveiraprotopanoan
@@ -13470,21 +13470,21 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 13469	branches that hang into the river	kapanawa	taʂa	taʂa	t a ʂ a	5836	5423	t a ʂ a		None	oliveiraprotopanoan
 13470	branches that hang into the river	amawaka	taxa	taxa	t a x a	5836	5423	t a x a		II	oliveiraprotopanoan
 13471	branches that hang into the river	kaxinawa	taxa	taxa	t a x a	5836	5423	t a x a		None	oliveiraprotopanoan
-13472	reed, bamboo used for making arrows	protopanoan	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a -		None	oliveiraprotopanoan
-13473	reed, bamboo used for making arrows	kashibo	tɔɔ	tɔɔ	t ɔ ɔ	5837	5424	( - - - - ) t ɔ - ɔ -		None	oliveiraprotopanoan
+13472	reed, bamboo used for making arrows	protopanoan	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a ( - )		None	oliveiraprotopanoan
+13473	reed, bamboo used for making arrows	kashibo	tɔɔ	tɔɔ	t ɔ ɔ	5837	5424	( - - - - ) t ɔ - ɔ ( - )		None	oliveiraprotopanoan
 13474	reed, bamboo used for making arrows	kashibo	to	to	t o	5838	5425	( - - - - ) t o - - -		None	oliveiraprotopanoan
-13475	reed, bamboo used for making arrows	shipibokonibo	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a -		None	oliveiraprotopanoan
-13476	reed, bamboo used for making arrows	kapanawa	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a -		None	oliveiraprotopanoan
-13477	arrow	marubo	ˈtawa	ˈtawa	t a w a	5837	5424	( - - - - ) t a w a -		None	oliveiraprotopanoan
-13478	reed, bamboo used for making arrows	chakobo	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a -		None	oliveiraprotopanoan
-13479	reed, bamboo used for making arrows	sharanawa	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a -		None	oliveiraprotopanoan
-13480	reed, bamboo used for making arrows	sharanawa	tawan	tawan	t a w a n	5837	5424	( - - - - ) t a w a n		None	oliveiraprotopanoan
-13481	reed, bamboo used for making arrows	amawaka	táá_I	táá_I	t !á/a !á/a	5837	5424	( - - - - ) t !á/a - !á/a -		None	oliveiraprotopanoan
-13482	reed, bamboo used for making arrows	kaxinawa	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a -		None	oliveiraprotopanoan
-13483	reed, bamboo used for making arrows	marinawa	ɸakátáwa	ɸakátáwa	ɸ a k !á/a t !á/a w a	5837	5424	( ɸ a k !á/a ) t !á/a w a -		None	oliveiraprotopanoan
-13484	reed, bamboo used for making arrows	korubo	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a -		None	oliveiraprotopanoan
-13485	reed, bamboo used for making arrows	matis	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a -		None	oliveiraprotopanoan
-13486	reed, bamboo used for making arrows	matses	taua	taua	t a w a	5837	5424	( - - - - ) t a w a -		None	oliveiraprotopanoan
+13475	reed, bamboo used for making arrows	shipibokonibo	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a ( - )		None	oliveiraprotopanoan
+13476	reed, bamboo used for making arrows	kapanawa	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a ( - )		None	oliveiraprotopanoan
+13477	arrow	marubo	ˈtawa	ˈtawa	t a w a	5837	5424	( - - - - ) t a w a ( - )		None	oliveiraprotopanoan
+13478	reed, bamboo used for making arrows	chakobo	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a ( - )		None	oliveiraprotopanoan
+13479	reed, bamboo used for making arrows	sharanawa	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a ( - )		None	oliveiraprotopanoan
+13480	reed, bamboo used for making arrows	sharanawa	tawan	tawan	t a w a n	5837	5424	( - - - - ) t a w a ( n )		None	oliveiraprotopanoan
+13481	reed, bamboo used for making arrows	amawaka	táá_I	táá_I	t !á/a !á/a	5837	5424	( - - - - ) t !á/a - !á/a ( - )		None	oliveiraprotopanoan
+13482	reed, bamboo used for making arrows	kaxinawa	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a ( - )		None	oliveiraprotopanoan
+13483	reed, bamboo used for making arrows	marinawa	ɸakátáwa	ɸakátáwa	ɸ a k !á/a t !á/a w a	5837	5424	( ɸ a k !á/a ) t !á/a w a ( - )		None	oliveiraprotopanoan
+13484	reed, bamboo used for making arrows	korubo	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a ( - )		None	oliveiraprotopanoan
+13485	reed, bamboo used for making arrows	matis	tawa	tawa	t a w a	5837	5424	( - - - - ) t a w a ( - )		None	oliveiraprotopanoan
+13486	reed, bamboo used for making arrows	matses	taua	taua	t a w a	5837	5424	( - - - - ) t a w a ( - )		None	oliveiraprotopanoan
 13487	break (destroy or get destroyed)	protopanoan	tɨʔk[ɨ]-	tɨʔk[ɨ]-	t ɨ ʔ k !ɨ/a	5839	5426	t ɨ ʔ k !ɨ/a -		None	oliveiraprotopanoan
 13488	break (destroy or get destroyed)	kashibo	tɨkɨ-́́	tɨkɨ-́́	t ɨ k !ɨ́/ɨ	5839	5426	t ɨ - k !ɨ́/ɨ -		None	oliveiraprotopanoan
 13489	break (destroy or get destroyed)	shipibokonibo	tɨkɨ	tɨkɨ	t ɨ k ɨ	5839	5426	t ɨ - k ɨ -		None	oliveiraprotopanoan
@@ -15040,10 +15040,10 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 15039	*go down (descend)	warisa	anibuteni	anibuteni	a n i + b u t e + n i	6126	3906 5713 3907	a n i + - - - - - b u t e - + n i		None	girardprototakanan
 15040	go down (descend)	cavinena	bote-	bote-	b o t e	6126	5713	- - - - - b o t e -		None	girardprototakanan
 15041	go down (descend)	cavinena	botya-	botya-	b o t j a	6127	5714	( - - - - - ) b o t j ( - - a - )		None	girardprototakanan
-15042	nephew	prototakana	bu	bu	b u	6128	5251	b u - - -		None	girardprototakanan
-15043	nephew	tacana	bu-i	bu-i	b u i	6128	5251	b u - i -		None	girardprototakanan
-15044	nephew	cavinena	e-bo-ke	e-bo-ke	e + b o + k e	6128	4726 5251 4739	( e + b o - - - + k e )		None	girardprototakanan
-15045	nephew	eseejja	bo-e	bo-e	b o e	6128	5251	b o - e -		None	girardprototakanan
+15042	nephew	prototakana	bu	bu	b u	6128	4128	b u -		None	girardprototakanan
+15043	nephew	tacana	bu-i	bu-i	b u i	6128	4128	b u i		None	girardprototakanan
+15044	nephew	cavinena	e-bo-ke	e-bo-ke	e + b o + k e	6128	4726 4128 4739	( e + b o - + k e )		None	girardprototakanan
+15045	nephew	eseejja	bo-e	bo-e	b o e	6128	4128	b o e		None	girardprototakanan
 15046	melero	prototakana	buka	buka	b u k a	6129	5716	b u k a		None	girardprototakanan
 15047	melero	tacana	buha	buha	b u h a	6129	5716	b u h a		None	girardprototakanan
 15048	melero	cavinena	boka	boka	b o k a	6129	5716	b o k a		None	girardprototakanan
@@ -15793,10 +15793,10 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 15792	to thresh the corn	tacana	iruru-a-	iruru-a-	i r u r u + a	6308	5895	i r u r u ( + a - - - )		None	girardprototakanan
 15793	to thresh the corn	cavinena	iroro-	iroro-	i r o r o	6309	5896	i r o r o ( - - - - - )		None	girardprototakanan
 15794	to thresh the corn	cavinena	iruru-a-ki	iruru-a-ki	i r u r u + a + k i	6308	5895	i r u r u ( + a + k i )		None	girardprototakanan
-15795	tail	prototakana	iwa	iwa	i w a	6310	837	( - - - - ) i w a ( - - - )		There is uncertainty regarding the protoform on the ID in the source	girardprototakanan
+15795	tail	prototakana	iwa	iwa	i w a	6310	837	- i w a ( - - - - - )		There is uncertainty regarding the protoform on the ID in the source	girardprototakanan
 15796	tail	eseejja	ewaʔo	ewaʔo	e w a ʔ o	6310	5897	( - - - - ) e w a ( ʔ o - )		None	girardprototakanan
 15797	tail	eseejja	ewaʔyo	ewaʔyo	e w a ʔ j o	6310	5897	( - - - - ) e w a ( ʔ j o )		None	girardprototakanan
-15798	tail	eseejja	iña-ewa	iña-ewa	i ɲ a + e w a	6310	837 88	( i ɲ a + ) e w a ( - - - )		None	girardprototakanan
+15798	tail	eseejja	iña-ewa	iña-ewa	i ɲ a + e w a	6310	837 88	- i ɲ a ( - - - - - ) + ) e w a ( - - - )		None	girardprototakanan
 15799	call	prototakana	iwara	iwara	i w a r a	6311	5898	i w a r a		None	girardprototakanan
 15800	call	tacana	iwa-	iwa-	i w a	6311	5898	i w a - -		None	girardprototakanan
 15801	call	cavinena	iwara-	iwara-	i w a r a	6311	5898	i w a r a		None	girardprototakanan
@@ -16386,12 +16386,12 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 16385	árbol de siringa	prototakana	mani	mani	m a n i	6431	6018	m a n i		None	girardprototakanan
 16386	árbol de siringa	tacana	mani	mani	m a n i	6431	6018	m a n i		None	girardprototakanan
 16387	árbol de siringa	cavinena	mani	mani	m a n i	6431	6018	m a n i		None	girardprototakanan
-16388	die	prototakana	manu	manu	m a n u	6432	6019	( - ) m a n u		*ma1?	girardprototakanan
-16389	die	tacana	manu-	manu-	m a n u	6432	6019	( - ) m a n u		None	girardprototakanan
-16390	die	warisa	manu	manu	m a n u	6432	6019	( - ) m a n u		None	girardprototakanan
-16391	die	cavinena	e-mano-no	e-mano-no	e + m a n o + n o	6432	3590 6019 3679	( e + ( - ) m a n o + n o - - - - - - - - )		cognate?	girardprototakanan
-16392	die	eseejja	mano-	mano-	m a n o	6432	6019	( - ) m a n o		None	girardprototakanan
-16393	die	arasa	emanU	eman{u/o}	e m a n !U/o	6432	6019	( e ) m a n !U/o		None	girardprototakanan
+16388	die	prototakana	manu	manu	m a n u	6432	6019	( - ) m a ( n u )		*ma1?	girardprototakanan
+16389	die	tacana	manu-	manu-	m a n u	6432	6019	( - ) m a ( n u )		None	girardprototakanan
+16390	die	warisa	manu	manu	m a n u	6432	6019	( - ) m a ( n u )		None	girardprototakanan
+16391	die	cavinena	e-mano-no	e-mano-no	e + m a n o + n o	6432	3590 6019 3679	( e + ( - ) m a ( n o ) + n o - - - - - - - - )		cognate?	girardprototakanan
+16392	die	eseejja	mano-	mano-	m a n o	6432	6019	( - ) m a ( n o )		None	girardprototakanan
+16393	die	arasa	emanU	eman{u/o}	e m a n !U/o	6432	6019	( e ) m a ( n !U/o )		None	girardprototakanan
 16394	llevar,cargar,abrazar	prototakana	mapa-	mapa-	m a p a	6435	6022	( - - - - - - - - ) m a p a ( - - - - - )		None	girardprototakanan
 16395	llevar,cargar,abrazar	tacana	y-anana_mapa-i	y-anana mapa-(h)i	j + a n a n a + m a p a + i	6435	6022	( j + a n a n a + ) m a p a ( + i - - - )		None	girardprototakanan
 16396	llevar,cargar,abrazar	cavinena	mapa-	mapa-	m a p a	6435	6022	( - - - - - - - - ) m a p a ( - - - - - )		None	girardprototakanan
@@ -17389,7 +17389,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 17388	duck	cavinena	hohe_kata-sawa	hohe kata-sawa	h o h e + k a t a + s a w a	6738	6325	( - - - - ) h o h e ( + k a t a + s a w a )		None	girardprototakanan
 17389	duck	cavinena	epo-hohe	epo-hohe	e p o + h o h e	6738	6325	( e p o + ) h o h e ( - - - - - - - - - - )		None	girardprototakanan
 17390	duck	eseejja	xóxe	xóxe	x !ó/o x e	6738	6325	( - - - - ) x !ó/o x e ( - - - - - - - - - - )		irregular reflexes	girardprototakanan
-17391	leg	prototakana	ta-	ta-	t a	6739	6326	( - - - - ) t ( - ) a ( - - - - - )		None	girardprototakanan
+17391	leg	prototakana	ta-	ta-	t a	6739	866	t a - -		None	girardprototakanan
 17392	leg	tacana	e-ta-buce	e-ta-buce	e + t a + b u ʈʂ e	6739	6326	( - - e + ) t ( - ) a ( + b u ʈʂ e )		None	girardprototakanan
 17393	leg	tacana	e-ta-hasi	e-ta-hasi	e + t a + h a s i	6739	6326	( - - e + ) t ( - ) a ( + h a s i )		None	girardprototakanan
 17394	leg	tacana	ta-ra-	ta-ra-	t a + r a	6739	6326	( - - - - ) t ( - ) a ( + r a - - )		None	girardprototakanan
@@ -17465,10 +17465,10 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 17464	father	araona	tatadi	tatadi	t a t a d i	6763	6350	( - - - ) t a t a ( - d i - - - - - - )		None	girardprototakanan
 17465	father	cavinena	e-tata-haeanoke	e-tata-haeanoke	e + t a t a + h a j a n o k e	6763	6350	( - e + ) t a t a ( + h a j a n o k e )		None	girardprototakanan
 17466	father	eseejja	tata	tata	t a t a	6763	6350	( - - - ) t a t a ( - - - - - - - - - )		None	girardprototakanan
-17467	reed, bamboo used for making arrows	prototakana	ta	ta(wa)	t a	6764	5424	( - - - - ) t a - - -		None	girardprototakanan
-17468	reed, bamboo used for making arrows	tacana	ta	ta(wa)	t a	6764	5424	( - - - - ) t a - - -		Form was inferred. There was none on the original source.	girardprototakanan
-17469	reed, bamboo used for making arrows	tacana	tawa_midha	tawa midha	t a w a + m i ð a	6764	5424	( - - - - ) t a w a - + m i ð a )		None	girardprototakanan
-17470	reed, bamboo used for making arrows	tacana	e-tawa-i	e-tawa-(h)i	e + t a w a + i	6764	6351	( e + ) t a ( - w a + i - - - )		None	girardprototakanan
+17467	reed, bamboo used for making arrows	prototakana	ta	ta(wa)	t a w a	6764	5424	( - - - - ) t a w a ( - )		Added second syllable	New
+17468	reed, bamboo used for making arrows	tacana	ta	ta(wa)	t a	6764	5424	( - - - - ) t a - - ( - )		Form was inferred. There was none on the original source.	girardprototakanan
+17469	reed, bamboo used for making arrows	tacana	tawa_midha	tawa midha	t a w a + m i ð a	6764	5424	( - - - - ) t a w a ( - ) + m i ð a )		None	girardprototakanan
+17470	reed, bamboo used for making arrows	tacana	e-tawa-i	e-tawa-(h)i	e + t a w a + i	6764	4093 5424	( e + ( - - - - ) t a w a ( - ) + i - - - )		None	girardprototakanan
 17471	reed, bamboo used for making arrows	eseejja	e-ka	e-ka	e + k a	6764	6351	( e + ) k a ( - - - - - - - - )		None	girardprototakanan
 17472	reed, bamboo used for making arrows	eseejja	e-ka-ná	e-ka-ná	e + k a + n á/a	6764	6351	( e + ) k a ( + n á/a - - - - - )		None	girardprototakanan
 17473	sleep	prototakana	tawi	tawi	t a w i	6765	6352	( - - - ) t a w i ( - - - - - - )		None	girardprototakanan
@@ -17851,11 +17851,11 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 17850	put	eseejja	wana-oke-a-	wana-oke-a-	w a n a + o k e + a	6918	6505	( - - - - - ) w a n a ( + o k e + a - )		None	girardprototakanan
 17851	put	eseejja	wana-sowa-	wana-sowa-	w a n a + s o w a	6918	6505	( - - - - - ) w a n a ( + s o w a - - )		None	girardprototakanan
 17852	put	eseejja	baʔe-wana-sowa-	baʔe-wana-sowa-	b a ʔ e + w a n a + s o w a	6918	6505	( b a ʔ e + ) w a n a ( + s o w a - - )		None	girardprototakanan
-17853	woman	prototakana	wane	wane	w a n e	6919	4713	- - w a n e - -		cf. *awe	girardprototakanan
-17854	woman	tacana	e-wane	e-wane	e + w a n e	6919	2217 4713	( - e + - - w a n e - -		None	girardprototakanan
-17855	woman	warisa	-wane	-wane	w a n e	6919	4713	- - w a n e - -		None	girardprototakanan
-17856	woman	cavinena	wane	wane	w a n e	6919	4713	- - w a n e - -		None	girardprototakanan
-17857	woman	eseejja	wana-	wana-(ti-)	w a n a	6919	4713	- - w a n a - -		None	girardprototakanan
+17853	woman	prototakana	wane	wane	w a n e	6919	4713	- - w a n e ( - - )		cf. *awe	girardprototakanan
+17854	woman	tacana	e-wane	e-wane	e + w a n e	6919	2217 4713	( - e + - - w a n e ( - - )		None	girardprototakanan
+17855	woman	warisa	-wane	-wane	w a n e	6919	4713	- - w a n e ( - - )		None	girardprototakanan
+17856	woman	cavinena	wane	wane	w a n e	6919	4713	- - w a n e ( - - )		None	girardprototakanan
+17857	woman	eseejja	wana-	wana-(ti-)	w a n a	6919	4713	- - w a n a ( - - )		None	girardprototakanan
 17858	smoke (exhaust)	prototakana	wani	wani	w a n i	6921	6508	( - - - - ) w ( - ) a n i ( - - - - - - - - - - )		None	girardprototakanan
 17859	smoke (exhaust)	tacana	wani-ba-ke	wani-ba-ke	w a n i + b a + k e	6921	6508	( - - - - ) w ( - ) a n i ( + b a + k e - - - - )		None	girardprototakanan
 17860	smoke (exhaust)	tacana	wani-da	wani-da	w a n i + d a	6921	6508	( - - - - ) w ( - ) a n i ( + d a - - - - - - - )		None	girardprototakanan
@@ -18286,9 +18286,9 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18285	come	yaminawa	ɸɨ-	ɸɨ-	ɸ ɨ	7060	1019	ɸ ɨ - -		None	valenzuelazariquieypanotakana
 18286	come	chaninawa	ɸɨ-	ɸɨ-	ɸ ɨ	7060	1019	ɸ ɨ - -		None	valenzuelazariquieypanotakana
 18287	come	sharanawa	ɸɨ-	ɸɨ-	ɸ ɨ	7060	1019	ɸ ɨ - -		None	valenzuelazariquieypanotakana
-18288	1st sg 'i'	shipibokonibo	ʔɨ	ʔɨ	ʔ ɨ	7061	6657	ʔ ɨ - -		None	oliveiraprotopanoan valenzuelazariquieypanotakana
-18289	1st sg 'i'	kapanawa	ʔɨ	ʔɨ	ʔ ɨ	7061	6657	ʔ ɨ - -		None	oliveiraprotopanoan valenzuelazariquieypanotakana
-18290	1st sg 'i'	chakobo	ɨ	ɨ	ɨ	7061	6657	- ɨ - -		None	blumpanotacana oliveiraprotopanoan valenzuelazariquieypanotakana
+18288	1st sg 'i'	shipibokonibo	ʔɨ	ʔɨ	ʔ ɨ	7061	6657	ʔ ɨ ( - - )		None	oliveiraprotopanoan valenzuelazariquieypanotakana
+18289	1st sg 'i'	kapanawa	ʔɨ	ʔɨ	ʔ ɨ	7061	6657	ʔ ɨ ( - - )		None	oliveiraprotopanoan valenzuelazariquieypanotakana
+18290	1st sg 'i'	chakobo	ɨ	ɨ	ɨ	7061	6657	- ɨ ( - - )		None	blumpanotacana oliveiraprotopanoan valenzuelazariquieypanotakana
 18291	flesh	protopanotakana	Nami	Nami	r a m i	7062	5132	r a m i ( - )		Originalyl by V&Z	New
 18292	fat (organic substance)	protopanotakana	ʂɨNi	ʂɨNi	ʂ ɨ !N/r i	7063	6650	( - ) ʂ ɨ !N/r i		None	valenzuelazariquieypanotakana
 18293	fat (organic substance)	protopanoan	ʂɨni	ʂɨni	ʂ ɨ n i	7063	6650	( - ) ʂ ɨ n i		None	valenzuelazariquieypanotakana
@@ -18373,8 +18373,8 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18372	come	korubo	βɨ-	βɨ-	β ɨ	7060	1019	β ɨ - -		None	valenzuelazariquieypanotakana
 18373	come	matis	βɨ-	βɨ-	β ɨ	7060	1019	β ɨ - -		None	valenzuelazariquieypanotakana
 18374	come	matses	bɨ-	bɨ-	b ɨ	7060	1019	b ɨ - -		None	valenzuelazariquieypanotakana
-18375	1st sg 'i'	kaxinawa	ɨ	ɨ	ɨ	7061	6657	- ɨ - -		None	oliveiraprotopanoan valenzuelazariquieypanotakana
-18376	1st sg 'i'	marinawa	ɨ	ɨ	ɨ	7061	6657	- ɨ - -		None	oliveiraprotopanoan valenzuelazariquieypanotakana
+18375	1st sg 'i'	kaxinawa	ɨ	ɨ	ɨ	7061	6657	- ɨ ( - - )		None	oliveiraprotopanoan valenzuelazariquieypanotakana
+18376	1st sg 'i'	marinawa	ɨ	ɨ	ɨ	7061	6657	- ɨ ( - - )		None	oliveiraprotopanoan valenzuelazariquieypanotakana
 18377	flesh	poyanawa	nãbi	nãbi	n a !∼b/m i	7062	5132	n a !∼b/m i ( - )		None	valenzuelazariquieypanotakana
 18378	flesh	amawaka	nami	nami	n a m i	7062	5132	n a m i ( - )		None	valenzuelazariquieypanotakana
 18379	fat (organic substance)	katukina	ʃɨni	ʃɨni	ʃ ɨ n i	7063	6650	( - ) ʃ ɨ n i		None	valenzuelazariquieypanotakana
@@ -18409,7 +18409,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18408	two	chama	béka	béka	b !é/e k a	7046	2192 	- - b !é/e k a ( - - - - )		None	valenzuelazariquieypanotakana
 18409	liver	warayo	e-takwe	e-takwe	e + t a kʷ e	7047	6634	( e + ) t a kʷ e		None	valenzuelazariquieypanotakana
 18410	liver	arasa	etákua	etákua	e t !á/a kʷ a	7047	6634	( e - ) t !á/a kʷ a		None	valenzuelazariquieypanotakana
-18411	leaf,to fan	protopanoan	pei	pei	p e i	7048	6635	p e - i		None	valenzuelazariquieypanotakana
+18411	leaf,to fan	prototakana	pei	pei	p e i	7048	6635	p e - i		None	valenzuelazariquieypanotakana
 18412	leaf,to fan	cavinena	pei-	pei-	p e i	7048	6635	p e - i		None	valenzuelazariquieypanotakana
 18413	leaf,to fan	eseejja	e-pexi	e-pexi	e + p e x i	7048	2481 6635	( e + p e x i		None	valenzuelazariquieypanotakana
 18414	leaf,to fan	warayo	pio-	pio-	p i o	7048	6635	p i - o		None	valenzuelazariquieypanotakana
@@ -18435,9 +18435,9 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18434	thou	eseejja	mi-a	mi-a	m i + a	7059	6646	m i ( + - a - - )		None	valenzuelazariquieypanotakana
 18435	thou	arasa	mikia	mikia	m i k i a	7059	6646	m i ( - k i - a )		None	valenzuelazariquieypanotakana
 18436	come	prototakana	be-	be-	b e	7060	1019	b e - -		'bring'	valenzuelazariquieypanotakana
-18437	1st sg 'i'	prototakana	e	e	e	7061	6657	- e ( - - - )		None	valenzuelazariquieypanotakana
-18438	1st sg 'i'	tacana	e-ma	e-ma	e m a	7061	6657	- e m a		None	valenzuelazariquieypanotakana
-18439	1st sg 'i'	eseejja	ea	ea,eyaya	e a	7061	6657	- e - a		None	valenzuelazariquieypanotakana
+18437	1st sg 'i'	prototakana	e	e	e	7061	6657	- e ( - - )		None	valenzuelazariquieypanotakana
+18438	1st sg 'i'	tacana	e-ma	e-ma	e m a	7061	6657	- e ( m a )		None	valenzuelazariquieypanotakana
+18439	1st sg 'i'	eseejja	ea	ea,eyaya	e a	7061	6657	- e ( - a )		None	valenzuelazariquieypanotakana
 18440	flesh	warayo	eyami	eyami	e + j a m i	7062	2077 5132	e + j a m i ( - )		None	valenzuelazariquieypanotakana
 18441	*fat (organic substance)	protopanoan	ṭṣeri	ṭṣeri	tʂ e r i	7063	241	( - ) tʂ e r i		None	valenzuelazariquieypanotakana
 18442	fat (organic substance)	arasa	ésey	ésey	!é/e s e !j/i	7063	6650	( !é/e ) s e - !j/i		None	valenzuelazariquieypanotakana
@@ -18459,7 +18459,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18458	elbow	eseejja	e-bašo	e-bašo	e + b a ʃ o	7069	87 6656	e + - b a ʃ - o - - -		None	valenzuelazariquieypanotakana
 18459	elbow	warayo	e-bašo	e-bašo	e + b a ʃ o	7069	87 6656	e + - b a ʃ - o - - -		None	valenzuelazariquieypanotakana
 18460	elbow	arasa	ebaša	ebaša	e b a ʃ a	7069	6656	e b a ʃ - a - - -		None	valenzuelazariquieypanotakana
-18461	1st sg 'i'	yaminawa	ɨ̃	ɨ̃	!ɨ̃/ɨ	7070	6657	- !ɨ̃/ɨ - -		None	valenzuelazariquieypanotakana
+18461	1st sg 'i'	yaminawa	ɨ̃	ɨ̃	!ɨ̃/ɨ	7070	6657	- !ɨ̃/ɨ ( - - )		None	valenzuelazariquieypanotakana
 18462	2nd sg 'you'	protopanotakana	mi	mi	m i	7071	6658	m i ( - - - - - )		None	valenzuelazariquieypanotakana
 18463	2nd sg 'you'	protopanoan	mi	mi	m i	7071	6658	m i ( - - - - - )		None	valenzuelazariquieypanotakana
 18464	2nd sg 'you'	kashibo	mii	mii	m i i	7071	6658	m i ( - - i - - )		None	valenzuelazariquieypanotakana
@@ -18484,7 +18484,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18483	genitive	yaminawa	-na	-na,-fɨna	n a	7074	6661	- - ( - ) n ( a )		None	valenzuelazariquieypanotakana
 18484	imperative suffix	kashibo	-ɨ	-ɨ	ɨ	7075	5477	- ɨ -		None	valenzuelazariquieypanotakana
 18485	go down (descend)	kashibo	-but	-but	b u t	7076	5713	- - - - - b u t - -		None	valenzuelazariquieypanotakana
-18486	desiderative	protopanotakana	-katsa	-katsa	k a	7078	6665	k a		Originally by Girard and V&Z	New
+18486	desiderative	protopanotakana	-katsa	-katsa	k a	7078	6665	k a - - ( - - - )		Originally by Girard and V&Z	New
 18487	desiderative	protopanoan	-katsa	-katsa	k a ts a	7078	6665	k a ts a ( - - - )		None	valenzuelazariquieypanotakana
 18488	desiderative	kashibo	-kas	-kas,-katsi	k a s	7078	6665	k a s - ( - - - )		None	valenzuelazariquieypanotakana
 18489	desiderative	shipibokonibo	-kas	-kas	k a s	7078	6665	k a s - ( - - - )		None	valenzuelazariquieypanotakana
@@ -18553,9 +18553,9 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18552	previous event, same-subject	kaxinawa	=ʂun	=ʂun	ʂ u n	7086	6673	( - ) ʂ u n		None	valenzuelazariquieypanotakana
 18553	previous event, same-subject	matis	=ʂun	=ʂun	ʂ u n	7086	6673	( - ) ʂ u n		None	valenzuelazariquieypanotakana
 18554	previous event, same-subject	matses	=ʂun	=ʂun	ʂ u n	7086	6673	( - ) ʂ u n		None	valenzuelazariquieypanotakana
-18555	1st sg 'i'	warisa	e-me	e-me/éme	e + m e	7070	6657	- e - - + m e )		None	valenzuelazariquieypanotakana
-18556	1st sg 'i'	araona	ema	ema,yama	e m a	7070	6657	- e m a		None	valenzuelazariquieypanotakana
-18557	1st sg 'i'	cavinena	e-ra	e-ra	e r a	7070	6657	- e r a		None	valenzuelazariquieypanotakana
+18555	1st sg 'i'	warisa	e-me	e-me/éme	e + m e	7070	6657	- e ( - - ) + m e )		None	valenzuelazariquieypanotakana
+18556	1st sg 'i'	araona	ema	ema,yama	e m a	7070	6657	- e ( m a )		None	valenzuelazariquieypanotakana
+18557	1st sg 'i'	cavinena	e-ra	e-ra	e r a	7070	6657	- e ( r a )		None	valenzuelazariquieypanotakana
 18558	2nd sg 'you'	tacana	mi-ke	mi-ke	m i + k e	7071	6658	m i ( + k e - - )		None	valenzuelazariquieypanotakana
 18559	2nd sg 'you'	warisa	mibe	mibe/mive	m i b e	7071	6658	m i ( b - e - - )		None	valenzuelazariquieypanotakana
 18560	2nd sg 'you'	araona	mitya	mitya	m i t j a	7071	6658	m i ( t j a - - )		None	valenzuelazariquieypanotakana
@@ -18603,14 +18603,14 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18602	big	prototakana	*ari	*ari	a r i	7089	4708	- a r i ( - - - - - )		None	girardprotopanotakanan
 18603	fish poison	protopanoan	*ʔaš̥a-n-	*ʔaš̥a-n-, *ʔaš̥a	ʔ a ʃ a + n	7090	4711	ʔ a ʃ a - + n		None	girardprotopanotakanan
 18604	tapir	protopanotakana	**ʔawada	**ʔawada	ʔ a w a d a	7091	4712	ʔ a w a ( - ) d a		None	girardprotopanotakanan
-18605	woman	protopanotakana	**ʔawen{i/ɨ}	**ʔawen{i/ɨ}	ʔ a w e n !iɨ/i	7092	4713	ʔ a w e n !iɨ/i - -		None	girardprotopanotakanan
+18605	woman	protopanotakana	**ʔawen{i/ɨ}	**ʔawen{i/ɨ}	ʔ a w e n !iɨ/i	7092	4713	ʔ a w e n !iɨ/i ( - - )		None	girardprotopanotakanan
 18606	porcupine	protopanotakana	**ʔija	**ʔija	ʔ i j a	7093	5852	- ʔ i j a - - -		None	girardprotopanotakanan
 18607	warm	protopanotakana	**ʔij{i/ɨ}-	**ʔij{i/ɨ}-	ʔ i tʃ i	7094	4731	ʔ i tʃ i - - ( - - - )		None	new
 18608	give	protopanotakana	**ʔina-n-	**ʔina-n-	ʔ i n a + n	7096	4737	ʔ i n a - + n		None	girardprotopanotakanan
 18609	suffer	protopanotakana	**ʔidu-	**ʔidu-	ʔ i d u	7097	6684	ʔ i d u		None	girardprotopanotakanan
 18610	suffer	prototakana	*idu-	*idu-	i d u	7097	6684	- i d u		None	girardprotopanotakanan
-18611	1st sg 'i'	protopanotakana	**ʔɨ	**ʔɨ	ʔ ɨ	7098	6657	ʔ ɨ - -		None	valenzuelazariquieypanotakana girardprotopanotakanan
-18612	1st sg 'i'	protopanoan	*ʔɨ	*ʔɨ	ʔ ɨ	7098	6657	ʔ ɨ - -		None	oliveiraprotopanoan valenzuelazariquieypanotakana girardprotopanotakanan
+18611	1st sg 'i'	protopanotakana	**ʔɨ	**ʔɨ	ʔ ɨ	7098	6657	ʔ ɨ ( - - )		None	valenzuelazariquieypanotakana girardprotopanotakanan
+18612	1st sg 'i'	protopanoan	*ʔɨ	*ʔɨ	ʔ ɨ	7098	6657	ʔ ɨ ( - - )		None	oliveiraprotopanoan valenzuelazariquieypanotakana girardprotopanotakanan
 18613	mother	protopanotakana	**ʔɨgʷa	**ʔɨgʷa	ʔ ɨ gʷ a	7099	2479	ʔ ɨ gʷ a ( - - )		None	girardprotopanotakanan
 18614	mother	protopanoan	*ʔɨwa	*ʔɨwa	ʔ ɨ w a	7099	2479	ʔ ɨ w a ( - - )		None	girardprotopanotakanan
 18615	big	protopanotakana	**ʔɨwa	**ʔɨwa	ʔ ɨ w a	7100	4721	( - - - ) ʔ ɨ w a ( - - )		None	girardprotopanotakanan
@@ -18664,7 +18664,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18663	tree	protopanotakana	**hegʷi	**hegʷi	h i gʷ i	7134	12	h i gʷ i ( - - )		Originally by Girard	new
 18664	tree	prototakana	*akwi	*akwi	a kʷ i	7134	286	a kʷ i - -		None	girardprotopanotakanan
 18665	white	protopanotakana	**huẓu	**huẓu	h u ʂ u	7136	5200	( - - - ) h u ʂ u ( - - )		Originally by Girad	new
-18666	white	prototakana	*uze/u	*uze/u	u z !eu/e	7136	5200	( - - - ) - u z !eu/e ( - - )		Found only in Ese and War. The Čamic forms, if not loans from the Panoan, would apper to come from a pT *uze/u	girardprotopanotakanan
+18666	white	prototakana	*uze/u	*uze/u	u z !eu/u	7136	5200	( - - - ) - u z !eu/u ( - - )		Found only in Ese and War. The Čamic forms, if not loans from the Panoan, would apper to come from a pT *uze/u	girardprotopanotakanan
 18667	pineapple	protopanotakana	**kama-kama	**kama-kama	k a n	7138	4959	k a n		Possibly duplicated?	New
 18668	species of ara	protopanotakana	**kaNa	**kaNa	k a r a	7139	4965	k a r a ( - - )		Originally by Girard	New
 18669	hole	protopanotakana	**keni	**keni	k e n i	7141	4998	k e n i		None	girardprotopanotakanan
@@ -18684,7 +18684,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18683	piranha	protopanotakana	**makɨ	**makɨ	m a k ɨ	7151	5045	m a k ɨ		None	girardprotopanotakanan
 18684	piranha	protopanoan	*makɨ	*makɨ	m a k ɨ	7151	5045	m a k ɨ		None	oliveiraprotopanoan girardprotopanotakanan
 18685	piranha	prototakana	*make	*make	m a k e	7151	5045	m a k e		None	girardprotopanotakanan
-18686	die	protopanotakana	**ma-	**ma-,**manu-	m a	7152	6019	( - ) m a - -		None	girardprotopanotakanan
+18686	die	protopanotakana	**ma-	**ma-,**manu-	m a	7152	6019	( - ) m a ( - - )		None	girardprotopanotakanan
 18687	mortar	protopanotakana	**manVkanV	**manVkanV	m a k a	7153	5543	( - ) m a k a ( - - )		None	girardprotopanotakanan
 18688	mortar	protopanoan	*ma̹kaNV	*ma̹kaNV	m a k a !N/n !V/i	7153	5543	( - ) m a k a ( !N/n !V/i )		None	girardprotopanotakanan
 18689	mortar	prototakana	*a-maka	*a-maka	a + m a k a	7153	1998 5543	a + ( - ) m a k a ( - - )		also cf. Kav	girardprotopanotakanan
@@ -18711,8 +18711,8 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18710	toucan	protopanotakana	**piza	**piza	p i s a	7170	5241	p i s a		None	new
 18711	arrow	protopanotakana	pisa	**pi…	p i s a	7171	5238	p i s a		None	new
 18712	species of owl	protopanotakana	**pupu	**pupu	p u p u	7172	5254	p u p u		None	girardprotopanotakanan
-18713	sibling of the other sex	prototakana	*bu4-	*bu4-,*bui/e	b u	7175	5251	b u - - -		None	girardprotopanotakanan
-18714	tie	protopanotakana	**ri…	**ri…,*ris…	r i s a	7176	5146	r i s a ( - - - )		None	girardprotopanotakanan
+18713	sibling of the other sex	prototakana	*bu4-	*bu4-,*bui/e	b u	7175	4128	b u -		None	girardprotopanotakanan
+18714	tie	protopanotakana	**ri…	**ri…,*ris…	ɽ i s a	7176	5146	ɽ i s a ( - - - )		None	girardprotopanotakanan
 18715	intestines, belly	prototakana	*c̣a1-	*c̣a1-	ʈʂ a	7177	6764	ʈʂ a		None	girardprotopanotakanan
 18716	kapok tree	protopanotakana	**ṣapu	**ṣapu	ʈʂ a p u	7179	5355	ʈʂ a p u		doubtless related to item 90 above	girardprotopanotakanan
 18717	kapok tree	prototakana	*c̣apu	*c̣apu	ʈʂ a p u	7179	5355	ʈʂ a p u		None	girardprotopanotakanan
@@ -18731,16 +18731,16 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18730	roll	protopanotakana	**tara-n-	**tara-n-	t a r a + n	7193	1892	t a r a - + n		None	girardprotopanotakanan
 18731	roll	protopanoan	*tará̹-	*tará̹-	t a r a	7193	1892	t a r a -		None	girardprotopanotakanan
 18732	paddle, row	protopanotakana	**taru-n-	**taru-n-	t a r u + n	7194	6346	t a r u ( - ) + n		None	girardprotopanotakanan
-18733	reed, bamboo used for making arrows	protopanotakana	**tawa	**tawa	t a w a	7195	5424	( - - - - ) t a w a -		None	girardprotopanotakanan
+18733	reed, bamboo used for making arrows	protopanotakana	**tawa	**tawa	t a w a	7195	5424	( - - - - ) t a w a ( - )		None	girardprotopanotakanan
 18734	break (destroy or get destroyed)	protopanotakana	**tɨkV	**tɨ(ʔ)k(ʷ)V	t ɨ k a	7196	5426	t ɨ - k a -		Oiginally by Girard	New
 18735	belly	protopanotakana	**tu2-	**tu2-	t u	7198	5454	t u ( - - - - )		None	girardprotopanotakanan
 18736	ghost, spirit	protopanotakana	**yuṣi	**yuṣi	j u ʃ i	7200	5537	- j u - ʃ i - ( - - )		This is the only correspondance of pP *y and pT *d, despite the fact that pP *y is a fairly common phoneme. These forms may not be original but rather from the Spanish Dios (?)	girardprotopanotakanan
 18737	old	protopanotakana	**ẓɨNi	**ẓɨNi,**ẓiNi	z ɨ r i	7201	5371	z ɨ r i		Originally by Girard	New
-18738	maize	protopanotakana	ʃ i k e	**žikɨ,**žɨki	ʃ ɨ k e	7203	5365	ʃ ɨ k e ( - - )		Arawak loan suspected by Girard	new
+18738	maize	protopanotakana	ʃ i k e	**žikɨ,**žɨki	ʃ i k e	7203	5365	ʃ i k e ( - - )		Arawak loan suspected by Girard	new
 18739	fish poison	protopanotakana	*ʔaš̥a-n-	*ʔaš̥a-n-	ʔ a ʈʂ a n	0	4711	ʔ a ʈʂ a n		fricative is unclear, so is final nasal	new
 18740	authority	shipibokonibo	ɽanati	ɽanati	ɽ a n a + t i	0	6517 6791	ɽ a ( - ) n a ( - - ) + t i		'command'	cogrefpred
 18741	authority	protopanoan	ɽara	ɽara	ɽ a r a	0	6517	ɽ a ( - ) r a ( - - )		check Northern	new
-18742	authority	protopanotakana	waɽa	waɽa	w a ɽ a	0	6517	w a ( - ) ɽ a ( - - )		None	new
+18742	authority	protopanotakana	waɽa	waɽa	ɽ a ɽ a	0	6517	ɽ a ( - ) ɽ a ( - - )		None	new
 18743	drunk	protopanotakana	patse	patse	p a ʈʂ e	0	6179	p a ʈʂ e ( - - )		double check affricate from Proto-Takana for retroflex	new
 18744	branch	shipibokonibo	saʔa-ti	saʔa-ti	s a ʔ a + t i	0	6569 6794	s a ʔ a + t i		'divide into branches'	new
 18745	pain	shipibokonibo	nɨnɨ	nɨnɨ	n ɨ n ɨ	0	6138	n ɨ n ɨ		pain, to suffer	cogrefpred
@@ -18755,7 +18755,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18754	to count	shipibokonibo	topo	topo	t o p o + n t i	0	6442 3159	t o p o + n t i		pesar	cogrefpred
 18755	call	shipibokonibo	ɽana	ɽana	ɽ a n a	0	5898	- ɽ a n a		None	cogrefpred
 18756	earth (soil)	shipibokonibo	oɽa	oɽa	o ɽ a	0	6477	o ɽ a		'cultivated field'	cogrefpred
-18757	heavy	protopanotakana	β i kʷ e	β i kʷ e	β i kʷ ɨ	0	4752	( - - ) β i kʷ ɨ ( - )		None	new
+18757	heavy	protopanotakana	β i kʷ e	β i kʷ e	β i gʷ ɨ	0	4752	( - - ) β i gʷ ɨ ( - )		None	new
 18758	louse	protopanotakana	β i a	β i a	β i a	0	4725	β i - a ( - - )		None	new
 18759	palo santo	shipibokonibo	n a n ɨ	n a n ɨ	n a n ɨ	0	5579	( - - ) n a n ɨ		huito (ceremonial tree)	cogrefpred
 18760	pain	matses	nënë	nënë	n ɨ n ɨ	0	6138	n ɨ n ɨ		'painful'	new
@@ -18772,7 +18772,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18771	come	prototakana	po	po	p u	0	311	p u		None	new
 18772	go	protopanotakana	p u	p u	p u	0	311	p u		None	new
 18773	cut	prototakana	h e kʷ i	h e kʷ i	h i kʷ i	0	12	h i kʷ i ( - - )		None	new
-18774	dog	kashibo	'inun	'inun	ʔ i n u n	0	837	ʔ i n u n		None	New
+18774	dog	kashibo	'inun	'inun	ʔ i n u n	0	837	ʔ i n u ( n - - - - )		None	New
 18775	current	kashibo	bai	bai	b a i	0	5620	b a i		None	New
 18776	river	matis	waka	waka	w a k a	0	4769	w a k a		None	New
 18777	river	protopanoan	waka	waka	w a k a	0	4769	w a k a		None	New
@@ -18788,5 +18788,5 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 18787	getting infected	kashibo	'isin 'iruti	'isin 'iruti	ʔ i r u	0	6684	ʔ i r u		None	New
 18788	go	protopanoan	pu		p u		311	p u			new
 18789	grandchild	protopanoan	β a β a		β a β a		5638	β a β a			new
-18790	jump	protopanoan	tʃ i r i		tʃ i r i		1903	( - - - ) tʃ i r i -		Unclear if holds up	New
+18790	jump	protopanoan	tʃ i r i		tʃ i rⁿ i		1903	( - - - ) tʃ i rⁿ i -		Unclear if holds up	New
 18791	pain	protopanoan	n ɨ r ɨ		n ɨ n ɨ		6138	n ɨ n ɨ			new
