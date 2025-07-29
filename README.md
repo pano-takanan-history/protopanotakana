@@ -20,22 +20,22 @@ This dataset is licensed under a CC-BY-4.0 license
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 32 (linked to 32 different Glottocodes)
-- **Concepts:** 1,078 (linked to 723 different Concepticon concept sets)
-- **Lexemes:** 18,708
+- **Concepts:** 1,077 (linked to 723 different Concepticon concept sets)
+- **Lexemes:** 18,674
 - **Sources:** 0
 - **Synonymy:** 1.35
-- **Cognacy:** 18,708 cognates in 6,818 cognate sets (4,659 singletons)
+- **Cognacy:** 18,674 cognates in 6,811 cognate sets (4,659 singletons)
 - **Cognate Diversity:** 0.33
 - **Invalid lexemes:** 0
-- **Tokens:** 99,393
+- **Tokens:** 99,181
 - **Segments:** 264 (0 BIPA errors, 0 CLTS sound class errors, 262 CLTS modified)
-- **Inventory size (avg):** 39.16
+- **Inventory size (avg):** 39.03
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 18708/18708 (100.00%)
+- Entries missing sources: 18674/18674 (100.00%)
 
 # Contributors
 
