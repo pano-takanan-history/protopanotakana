@@ -3088,7 +3088,8 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 3405	corner	cavinena	e-coko	e-coko	e + ts o k o	6182	11181 5769	e + ts o k o		None	girardprototakanan
 3406	corner	cavinena	cuku-ki	cuku-ki	ts u k u + k i	6180	5767 11184	ts u k u + k i		None	girardprototakanan
 3407	corner	eseejja	e-só	e-só	e + s !ó/o	6180	11185 5767	e + s !ó/o		None	girardprototakanan
-3408	correct (right)	prototakana	neri	(e)ne(i)ri	n e r i	6552	6139	n e r i		None	girardprototakanan3413	correct (right)	tacana	-eni	-eni	e n i	6555	6142	e n i		None	girardprototakanan
+3408	correct (right)	prototakana	neri	(e)ne(i)ri	n e r i	6552	6139	n e r i		None	girardprototakanan
+3413	correct (right)	tacana	-eni	-eni	e n i	6555	6142	e n i		None	girardprototakanan
 3415	correct (right)	cavinena	neri	neri	n e r i	6552	6139	n e r i		None	girardprototakanan
 3416	correct (right)	cavinena	yenina	yenina	j e n i n a	6557	6144	j e n i n a		None	girardprototakanan
 3417	cortar,quebrar	prototakana	řa-	řa-	ɽ a	6681	6268	ɽ a		None	girardprototakanan
@@ -6409,7 +6410,7 @@ ID	CONCEPT	DOCULECT	FORM	VALUE	TOKENS	COGID	COGIDS	ALIGNMENT	MORPHEMES	NOTE	DATA
 6992	good	warisa	zaipibe	zaipibe	z a i p i b e	6704	6291	z a i p i b e		None	girardprototakanan
 6993	good	warisa	sayme	sayme	s a j m e	6704	6291	s a j m e		None	girardprototakanan
 6994	good	araona	xaipiave	xaipiave	x a i p i a β e	6704	6291	x a i p i a β e		None	girardprototakanan
-6995	good	hida-a-	hida-a-	h i d a + a	6704	6291 12411	h i d a + a		None	girardprototakanan
+6995	good	araona	hida-a-	hida-a-	h i d a + a	6704	6291 12411	h i d a + a		None	girardprototakanan
 7003	good	eseejja	kea-hai	kea-hai	k e a + h a i	6704	6291 12422	k e a + h a i		None	girardprototakanan
 7004	gorgojo	prototakana	musu	musu	m u s u	6530	6117	m u s u		None	girardprototakanan
 7005	gorgojo	tacana	musu	musu	m u s u	6530	6117	m u s u		None	girardprototakanan
