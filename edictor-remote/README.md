@@ -10,4 +10,4 @@ Once you have installed EDICTOR3, simply run the `edictor server` command within
 
 ## Creating the SQLite for Upload
 
-`edictor wordlist --name=protopanotakana --sqlite --addon="language_subgroup:subgroup","cognacy:cogid","partial_cognacy:cogids","alignment:alignment","dataset:dataset"`
+`edictor wordlist --name=protopanotakana --sqlite --namespace='{"language_name": "doculect", "concept_name": "concept","value": "value", "form":"form", "segments": "tokens","comment": "note"}' --addon="language_subgroup:subgroup","cognacy:cogid","partial_cognacy:cogids","alignment:alignment","dataset:dataset"`
