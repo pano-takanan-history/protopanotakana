@@ -1,8 +1,6 @@
 ID	Concept	Concepticon_Gloss	Concepticon_ID	Proto_ID
 tocount	to count	COUNT	1420	
-1stsgi	1st sg 'i'			
-2ndsgyou	2nd sg 'you'			
-3rapersona	3ra persona			431_girardprototakanan
+1stsgi	1st sg 'i'	I	1209	§11_oliveiraprotopanoan, 11_girardprotopanotakanan
 abandonedfield	abandoned field			§267_oliveiraprotopanoan
 abejamiel	abeja,miel			468_girardprototakanan
 abejo	abejo			462_girardprototakanan
@@ -379,10 +377,9 @@ piepierna	foot or leg	FOOT OR LEG	2098	93_girardprototakanan, 103_girardprotopan
 footprint	footprint	FOOTPRINT	318	
 forehead	forehead	FOREHEAD	123	
 foreheadface	forehead, face			§75_oliveiraprotopanoan
-foreigner	foreigner			§265_oliveiraprotopanoan
+foreigner	foreigner	FOREIGN	109	§265_oliveiraprotopanoan
 forest	forest	FOREST	420	§274_oliveiraprotopanoan
 forget	forget	FORGET	1523	
-freshwater	fresh water			§36_oliveiraprotopanoan
 friend	friend	FRIEND	1325	21_girardprototakanan
 frog	frog	FROG	503	85_girardprototakanan, 469_girardprototakanan
 fruit	fruit	FRUIT	1507	§91_oliveiraprotopanoan, 200_girardprototakanan
@@ -395,7 +392,6 @@ gallinazosucha	gallinazo,sucha			381_girardprototakanan
 basura	garbage	GARBAGE	909	76_girardprototakanan
 garrapata	garrapata			58_girardprototakanan
 gather	gather	GATHER	7	§269_oliveiraprotopanoan
-general3rdpersonsgandplpronoun	general 3rd person (sg. and pl.) pronoun			110_girardprotopanotakanan
 geniocaracterconciencia	genio,carácter,conciencia			318_girardprototakanan
 genipa	genipa	GENIPA	3920	§259_oliveiraprotopanoan
 genitive	genitive			
@@ -445,7 +441,7 @@ sombrero	hat	HAT	771	303_girardprototakanan
 hawk	hawk	HAWK	307	
 haz	haz			215_girardprototakanan
 he	he	HE	1211	§42_oliveiraprotopanoan
-3rdpersonpronoun	he or she or it	HE OR SHE OR IT	262	45_girardprotopanotakanan
+3rdperson	3rd person	HE OR SHE OR IT	262	431_girardprototakanan, 45_girardprotopanotakanan, 110_girardprotopanotakanan
 head	head	HEAD	1256	§108_oliveiraprotopanoan, 94_girardprototakanan
 headbelthat	headgear	HEADGEAR	2130	§209_oliveiraprotopanoan
 tipheadwatersofriver	headwaters	HEADWATERS	2672	§361_oliveiraprotopanoan
@@ -482,7 +478,6 @@ hunger	hunger	HUNGER	1864
 hunt	hunt	HUNT	1435	
 husband	husband	HUSBAND	1200	25_girardprototakanan
 husbandman	husband, man			§76_oliveiraprotopanoan
-i	i	I	1209	§11_oliveiraprotopanoan, 11_girardprotopanotakanan
 igarape	igarapé			§478_oliveiraprotopanoan
 iguana	iguana	IGUANA	1578	351_girardprototakanan
 imperative	imperative			
@@ -558,7 +553,7 @@ louse	louse	LOUSE	1392	§13_oliveiraprotopanoan, 63_girardprototakanan
 love	love	LOVE	923	§289_oliveiraprotopanoan
 lowerpartofleg	lower leg	LOWER LEG	447	§481_oliveiraprotopanoan
 lung	lung	LUNG	688	
-blackstripedcapuchin	black-striped capuchin	MACAW	1630	52_girardprotopanotakanan
+blackstripedcapuchin	black-striped capuchin			52_girardprotopanotakanan
 maduraramarillo	madurar,amarillo			384_girardprototakanan
 maize	maize	MAIZE	506	§409_oliveiraprotopanoan, 191_girardprototakanan, 116_girardprotopanotakanan
 majillopalmera	majillo (palmera)			268_girardprototakanan
@@ -709,9 +704,8 @@ pileup	pile up	PILE UP	1576
 pinch	pinch	PINCH	378	
 pineapple	pineapple	PINEAPPLE	2440	§163_oliveiraprotopanoan, 51_girardprotopanotakanan
 pintado	pintado			247_girardprototakanan
-piranha	piranha			§212_oliveiraprotopanoan, 64_girardprotopanotakanan
+piranha	piranha	PIRANHA	317	§212_oliveiraprotopanoan, 64_girardprotopanotakanan
 pisararanar	pisar,arañar			430_girardprototakanan
-piss	piss	PISS	592	
 piumspeciesoffly	pium (species of fly)			§389_oliveiraprotopanoan
 plain	plain	PLAIN	652	5_girardprototakanan
 plantsomething	plant (something)	PLANT (SOMETHING)	1486	§61_oliveiraprotopanoan, 18_girardprotopanotakanan
@@ -865,7 +859,7 @@ sowseeds	sow seeds	SOW SEEDS	748	45_girardprototakanan
 speak	speak	SPEAK	1623	
 speciesofant	species of ant			§233_oliveiraprotopanoan
 speciesofarara	species of ara			§166_oliveiraprotopanoan
-speciesofarmadillo	species of armadillo			§499_oliveiraprotopanoan
+speciesofarmadillo	species of armadillo	ARMADILLO	1885	§499_oliveiraprotopanoan
 speciesofbamboo	species of bamboo			§311_oliveiraprotopanoan
 speciesofbee	species of bee			§104_oliveiraprotopanoan
 speciesofbird	species of bird			§271_oliveiraprotopanoan
@@ -895,7 +889,7 @@ speciesofpicapaupicidae	species of picapau (picidae)			§96_oliveiraprotopanoan
 speciesofpig	species of pig			§304_oliveiraprotopanoan
 speciesofplant	species of plant			§385_oliveiraprotopanoan
 speciesofpumpkin	species of pumpkin			§471_oliveiraprotopanoan
-speciesofsloth	species of sloth			§344_oliveiraprotopanoan
+speciesofsloth	species of sloth	SLOTH	2446	§344_oliveiraprotopanoan
 speciesofsnail	species of snail			§287_oliveiraprotopanoan
 speciesofsnake	species of snake			§165_oliveiraprotopanoan
 speciesofspider	species of spider			§386_oliveiraprotopanoan
@@ -947,7 +941,7 @@ swim	swim	SWIM	1439	§292_oliveiraprotopanoan, 54_girardprototakanan
 tacuaraflauta	tacuara,flauta			297_girardprototakanan
 tail	tail	TAIL	1220	§141_oliveiraprotopanoan, 172_girardprototakanan
 tambien	también			55_girardprototakanan
-tapir	tapir			§8_oliveiraprotopanoan, 24_girardprototakanan, 4_girardprotopanotakanan
+tapir	tapir	TAPIR	312	§8_oliveiraprotopanoan, 24_girardprototakanan, 4_girardprotopanotakanan
 tapiritemporaryhome	tapiri, temporary home			§437_oliveiraprotopanoan
 tareche	tareche			187_girardprototakanan
 tastydelicious	tasty	TASTY	1813	§288_oliveiraprotopanoan, 77_girardprotopanotakanan
@@ -968,7 +962,7 @@ tothink	think	THINK	2271	§387_oliveiraprotopanoan
 thinkreflect	think (reflect)	THINK (REFLECT)	1415	
 thirdpersonplural	third person plural			§52_oliveiraprotopanoan
 thorn	thorn	THORN	124	§250_oliveiraprotopanoan
-thou	thou	THOU	1215	§245_oliveiraprotopanoan, 72_girardprotopanotakanan
+2ndsgthou	2nd sg 'thou'	THOU	1215	§245_oliveiraprotopanoan, 72_girardprotopanotakanan
 thread	thread	THREAD	1161	§371_oliveiraprotopanoan
 threadlinerope	thread, line, rope			§507_oliveiraprotopanoan
 threadrope	thread, rope			§370_oliveiraprotopanoan
@@ -1027,7 +1021,7 @@ tronar	tronar			428_girardprototakanan
 troncopierna	tronco,pierna			420_girardprototakanan
 true	true	TRUE	1657	
 totry	try	TRY	1812	§441_oliveiraprotopanoan
-tucandera	tucandera			81_girardprototakanan
+tucandera	tucandera	LARGE-BULLET-ANT (subfamily Paraponerinae)	3935	81_girardprototakanan
 tuertogris	tuerto,gris			336_girardprototakanan
 tumbar	tumbar			245_girardprototakanan
 caerse	tumble (fall down)	TUMBLE (FALL DOWN)	2894	448_girardprototakanan
@@ -1051,7 +1045,7 @@ untie	untie	UNTIE	352	350_girardprototakanan
 up	up	UP	1591	
 upperlegthigh	upper leg (thigh)	UPPER LEG (THIGH)	471	§185_oliveiraprotopanoan
 orina	urine	URINE	1142	477_girardprototakanan
-urinetourinate	urine, to urinate			§144_oliveiraprotopanoan
+urinetourinate	urine, to urinate	PISS	592	§144_oliveiraprotopanoan
 uruburei	urubu rei			§28_oliveiraprotopanoan
 urupecedazo	urupé (cedazo)			169_girardprototakanan
 vaciar	vaciar			286_girardprototakanan
@@ -1079,7 +1073,7 @@ warm	warm	WARM	1232	7_girardprotopanotakanan
 wart	wart	WART	2665	§465_oliveiraprotopanoan
 wash	wash	WASH	1453	§128_oliveiraprotopanoan, §307_oliveiraprotopanoan, 181_girardprototakanan
 wasp	wasp	WASP	1517	23_girardprotopanotakanan
-water	water	WATER	948	451_girardprototakanan, 75_girardprotopanotakanan
+water	water	WATER	948	451_girardprototakanan, 75_girardprotopanotakanan, §36_oliveiraprotopanoan
 waterriver	water, river			§468_oliveiraprotopanoan
 aguado	watery	WATERY	3545	305_girardprototakanan
 wave	wave	WAVE	978	§74_oliveiraprotopanoan

@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/pano-takanan-history/protopanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "24fa504",
+            "dc:created": "v0.1-3-gea64fe7",
             "dc:title": "Repository"
         },
         {
@@ -40,7 +40,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.12"
+            "dc:description": "3.14.4"
         },
         {
             "dc:title": "python-packages",
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 17545,
+            "dc:extent": 17539,
             "tableSchema": {
                 "columns": [
                     {
@@ -246,7 +246,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1075,
+            "dc:extent": 1072,
             "tableSchema": {
                 "columns": [
                     {
@@ -282,7 +282,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 17545,
+            "dc:extent": 17539,
             "tableSchema": {
                 "columns": [
                     {
