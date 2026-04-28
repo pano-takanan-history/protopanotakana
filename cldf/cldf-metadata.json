@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/pano-takanan-history/protopanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-6-gf014cfe",
+            "dc:created": "v0.1-7-g78c6323",
             "dc:title": "Repository"
         },
         {
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 17717,
+            "dc:extent": 19942,
             "tableSchema": {
                 "columns": [
                     {
@@ -172,7 +172,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
             "dc:description": "Adding new columns to Lexeme.",
-            "dc:extent": 36,
+            "dc:extent": 40,
             "tableSchema": {
                 "columns": [
                     {
@@ -282,7 +282,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 17717,
+            "dc:extent": 19942,
             "tableSchema": {
                 "columns": [
                     {
