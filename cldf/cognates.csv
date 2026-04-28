@@ -8911,16 +8911,16 @@ cavinena-marry-1-1,cavinena-marry-1,wanya,512,false,expert,,w a !nj/n a,false,ex
 tacana-marry-1-1,tacana-marry-1,butsene-ti,4395,false,expert,,b u ts e n e + t i,false,expert
 tacana-marry-2-1,tacana-marry-2,yahue-ti,4396,false,expert,,j a w e + t i,false,expert
 chakobo-marry-1-1,chakobo-marry-1,bichiquihaina,4690,false,expert,,β i tʃ i + k i,false,expert
-protopanoan-martimpescardor-1-1,protopanoan-martimpescardor-1,tʃaɽaʂ,5304,false,expert,,tʃ a ɽ a ʂ,false,expert
-kashibo-martimpescardor-1-1,kashibo-martimpescardor-1,tʃaɾáʂ,5304,false,expert,,tʃ a ɾ !á/a ʂ,false,expert
-shipibokonibo-martimpescardor-1-1,shipibokonibo-martimpescardor-1,tʃaɾáʂ,5304,false,expert,,tʃ a ɾ !á/a ʂ,false,expert
-kapanawa-martimpescardor-1-1,kapanawa-martimpescardor-1,tʃaɾáʂ,5304,false,expert,,tʃ a ɾ !á/a ʂ,false,expert
-kaxinawa-martimpescardor-1-1,kaxinawa-martimpescardor-1,tʃadaʃ_ʂɨnban,5304,false,expert,,tʃ a d a ʃ + ʂ ɨ n b a n,false,expert
-kaxinawa-martimpescardor-2-1,kaxinawa-martimpescardor-2,tʃadaʂ,5304,false,expert,,tʃ a d a ʂ,false,expert
-matses-martimpescardor-1-1,matses-martimpescardor-1,tʃaˈɾak,5304,false,expert,,tʃ a ɾ a k,false,expert
-prototakana-martinpescadorave-1-1,prototakana-martinpescadorave-1,madakapa,6421,false,expert,,m a d a k a p a,false,expert
-tacana-martinpescadorave-1-1,tacana-martinpescadorave-1,madapa,6421,false,expert,,m a d a p a,false,expert
-cavinena-martinpescadorave-1-1,cavinena-martinpescadorave-1,madakapa,6421,false,expert,,m a d a k a p a,false,expert
+protopanoan-ringedkingfisher-1-1,protopanoan-ringedkingfisher-1,tʃaɽaʂ,5304,false,expert,,tʃ a ɽ a ʂ,false,expert
+kashibo-ringedkingfisher-1-1,kashibo-ringedkingfisher-1,tʃaɾáʂ,5304,false,expert,,tʃ a ɾ !á/a ʂ,false,expert
+shipibokonibo-ringedkingfisher-1-1,shipibokonibo-ringedkingfisher-1,tʃaɾáʂ,5304,false,expert,,tʃ a ɾ !á/a ʂ,false,expert
+kapanawa-ringedkingfisher-1-1,kapanawa-ringedkingfisher-1,tʃaɾáʂ,5304,false,expert,,tʃ a ɾ !á/a ʂ,false,expert
+kaxinawa-ringedkingfisher-1-1,kaxinawa-ringedkingfisher-1,tʃadaʃ_ʂɨnban,5304,false,expert,,tʃ a d a ʃ + ʂ ɨ n b a n,false,expert
+kaxinawa-ringedkingfisher-2-1,kaxinawa-ringedkingfisher-2,tʃadaʂ,5304,false,expert,,tʃ a d a ʂ,false,expert
+matses-ringedkingfisher-1-1,matses-ringedkingfisher-1,tʃaˈɾak,5304,false,expert,,tʃ a ɾ a k,false,expert
+prototakana-ringedkingfisher-1-1,prototakana-ringedkingfisher-1,madakapa,6421,false,expert,,m a d a k a p a,false,expert
+tacana-ringedkingfisher-1-1,tacana-ringedkingfisher-1,madapa,6421,false,expert,,m a d a p a,false,expert
+cavinena-ringedkingfisher-1-1,cavinena-ringedkingfisher-1,madakapa,6421,false,expert,,m a d a k a p a,false,expert
 protopanoan-mat-1-1,protopanoan-mat-1,piʃi[n],5658,false,expert,,p i ʃ i rⁿ,false,expert
 kashibo-mat-1-1,kashibo-mat-1,piʃí,5658,false,expert,,p i ʃ !í/i,false,expert
 shipibokonibo-mat-1-1,shipibokonibo-mat-1,piʃi,5658,false,expert,,p i ʃ i,false,expert
@@ -17538,3 +17538,181 @@ kashibo-speciesofowl-2-1,kashibo-speciesofowl-2,popo,771,false,expert,,p o p o,f
 kakataibo-speciesofowl-1-1,kakataibo-speciesofowl-1,pupu,771,false,expert,,p ɯ p ɯ,false,expert
 kashibo-speciesofsnail-2-1,kashibo-speciesofsnail-2,noβo,5585,false,expert,,n o β o,false,expert
 kakataibo-sun-1-1,kakataibo-sun-1,βaɾi,5217,false,expert,,β a ɾ i,false,expert
+amawaka-scarletmacaw-1-1,amawaka-scarletmacaw-1,çãː,0,false,expert,,ç ãː,false,expert
+amawaka-ringedkingfisher-1-1,amawaka-ringedkingfisher-1,hɨndɨ tʃaça̰,0,false,expert,,h ɨ n d ɨ + tʃ a ç a̰,false,expert
+amawaka-saliva-1-1,amawaka-saliva-1,hʊʃtoka,0,false,expert,,h ʊ ʃ t o k a,false,expert
+amawaka-electriceel-1-1,amawaka-electriceel-1,kʊniʔa̰,0,false,expert,,k ʊ n i ʔ a̰,false,expert
+amawaka-taro-1-1,amawaka-taro-1,mɨnto,0,false,expert,,m ɨ n t o,false,expert
+amawaka-mahogany-1-1,amawaka-mahogany-1,iʃkanantɪ̰,0,false,expert,,i ʃ k a n a n t ɪ̰,false,expert
+amawaka-fishtrap-1-1,amawaka-fishtrap-1,ɾikaʔ,0,false,expert,,ɾ i k a ʔ,false,expert
+amawaka-spear-1-1,amawaka-spear-1,tʃikaɾʊ,0,false,expert,,tʃ i k a ɾ ʊ,false,expert
+amawaka-chaman-1-1,amawaka-chaman-1,juwɨ,0,false,expert,,j u w ɨ,false,expert
+amawaka-healer-1-1,amawaka-healer-1,juwɨːβʊ,0,false,expert,,j u w ɨː β ʊ,false,expert
+amawaka-song-1-1,amawaka-song-1,wɨʔaʔiʔ,0,false,expert,,w ɨ ʔ a ʔ i ʔ,false,expert
+amawaka-ayahuasca-1-1,amawaka-ayahuasca-1,undiʔ,0,false,expert,,u n d i ʔ,false,expert
+amawaka-lowlandpaca-1-1,amawaka-lowlandpaca-1,andʊʔ,0,false,expert,,a n d ʊ ʔ,false,expert
+amawaka-whitelippedpeccary-1-1,amawaka-whitelippedpeccary-1,jaː,0,false,expert,,j aː,false,expert
+amawaka-spidermonkey-1-1,amawaka-spidermonkey-1,isoː,0,false,expert,,i s oː,false,expert
+amawaka-anaconda-1-1,amawaka-anaconda-1,hɨndɨɾʊndo,0,false,expert,,h ɨ n d ɨ ɾ ʊ n d o,false,expert
+kaxinawa-scarletmacaw-1-1,kaxinawa-scarletmacaw-1,ʃãwãʔ,0,false,expert,,ʃ ã w ã ʔ,false,expert
+kaxinawa-ringedkingfisher-3-1,kaxinawa-ringedkingfisher-3,tʃaɾaʂ,0,false,expert,,tʃ a ɾ a ʂ,false,expert
+kaxinawa-saliva-1-1,kaxinawa-saliva-1,kɨmu,0,false,expert,,k ɨ m u,false,expert
+kaxinawa-electriceel-1-1,kaxinawa-electriceel-1,kuni,0,false,expert,,k u n i,false,expert
+kaxinawa-taro-1-1,kaxinawa-taro-1,dʒubĩ,0,false,expert,,dʒ u b ĩ,false,expert
+kaxinawa-mahogany-1-1,kaxinawa-mahogany-1,iʃpiŋgu,0,false,expert,,i ʃ p i ŋ g u,false,expert
+kaxinawa-fishtrap-1-1,kaxinawa-fishtrap-1,hiːsĩ,0,false,expert,,h iː s ĩ,false,expert
+kaxinawa-spear-1-1,kaxinawa-spear-1,lansa,0,false,expert,,l a n s a,false,expert
+kaxinawa-chaman-1-1,kaxinawa-chaman-1,uniɾawja,0,false,expert,,u n i ɾ a w j a,false,expert
+kaxinawa-song-1-1,kaxinawa-song-1,kantatiki,0,false,expert,,k a n t a t i k i,false,expert
+kaxinawa-ayahuasca-1-1,kaxinawa-ayahuasca-1,niʃipaɨ,0,false,expert,,n i ʃ i p a ɨ,false,expert
+kaxinawa-dragonfly-1-1,kaxinawa-dragonfly-1,satɨ,0,false,expert,,s a t ɨ,false,expert
+kaxinawa-lowlandpaca-1-1,kaxinawa-lowlandpaca-1,anu,0,false,expert,,a n u,false,expert
+kaxinawa-whitelippedpeccary-1-1,kaxinawa-whitelippedpeccary-1,jawakũj̃,0,false,expert,,j a w a k ũ j̃,false,expert
+kaxinawa-spidermonkey-1-1,kaxinawa-spidermonkey-1,isʊ,0,false,expert,,i s ʊ,false,expert
+kaxinawa-anaconda-1-1,kaxinawa-anaconda-1,dunua,0,false,expert,,d u n u a,false,expert
+chaninawa-scarletmacaw-1-1,chaninawa-scarletmacaw-1,kãĩ,0,false,expert,,k ã ĩ,false,expert
+chaninawa-ringedkingfisher-1-1,chaninawa-ringedkingfisher-1,tʃapiʂ,0,false,expert,,tʃ a p i ʂ,false,expert
+chaninawa-saliva-1-1,chaninawa-saliva-1,kɨbo,0,false,expert,,k ɨ b o,false,expert
+chaninawa-electriceel-1-1,chaninawa-electriceel-1,kudi,0,false,expert,,k u d i,false,expert
+chaninawa-taro-1-1,chaninawa-taro-1,sijo,0,false,expert,,s i j o,false,expert
+chaninawa-mahogany-1-1,chaninawa-mahogany-1,kʰaʊba,0,false,expert,,kʰ a ʊ b a,false,expert
+chaninawa-spear-1-1,chaninawa-spear-1,aɾpõn,0,false,expert,,a ɾ p õ n,false,expert
+chaninawa-chaman-1-1,chaninawa-chaman-1,kʷɨ̃w̃ãtia,0,false,expert,,kʷ ɨ̃ w̃ ã t i a,false,expert
+chaninawa-song-1-1,chaninawa-song-1,ɸʷadatininwinʊ,0,false,expert,,ɸʷ a d a t i n i n w i n ʊ,false,expert
+chaninawa-ayahuasca-1-1,chaninawa-ayahuasca-1,ʂuɾɪ,0,false,expert,,ʂ u ɾ ɪ,false,expert
+chaninawa-dragonfly-1-1,chaninawa-dragonfly-1,jaːdɨ,0,false,expert,,j aː d ɨ,false,expert
+chaninawa-lowlandpaca-1-1,chaninawa-lowlandpaca-1,adʊ,0,false,expert,,a d ʊ,false,expert
+chaninawa-whitelippedpeccary-1-1,chaninawa-whitelippedpeccary-1,jawa,0,false,expert,,j a w a,false,expert
+chaninawa-spidermonkey-1-1,chaninawa-spidermonkey-1,isʊ,0,false,expert,,i s ʊ,false,expert
+chaninawa-anaconda-1-1,chaninawa-anaconda-1,ɾonowã,0,false,expert,,ɾ o n o w ã,false,expert
+iskonawa-scarletmacaw-1-1,iskonawa-scarletmacaw-1,hãwã,0,false,expert,,h ã w ã,false,expert
+iskonawa-scarletmacaw-2-1,iskonawa-scarletmacaw-2,kãnᵈã,0,false,expert,,k ã ⁿd ã,false,expert
+iskonawa-ringedkingfisher-1-1,iskonawa-ringedkingfisher-1,tʃaɾaʃ,0,false,expert,,tʃ a ɾ a ʃ,false,expert
+iskonawa-saliva-1-1,iskonawa-saliva-1,kɨmu,0,false,expert,,k ɨ m u,false,expert
+iskonawa-electriceel-1-1,iskonawa-electriceel-1,kunĩwã,0,false,expert,,k u n ĩ w ã,false,expert
+iskonawa-taro-1-1,iskonawa-taro-1,ɾunu tɨntobiʔ,0,false,expert,,ɾ u n u + t ɨ n t o b i ʔ,false,expert
+iskonawa-spear-1-1,iskonawa-spear-1,pĩãŋki,0,false,expert,,p ĩ ã ŋ k i,false,expert
+iskonawa-chaman-1-1,iskonawa-chaman-1,hanubu,0,false,expert,,h a n u b u,false,expert
+iskonawa-healer-1-1,iskonawa-healer-1,ɾawmbiʂ,0,false,expert,,ɾ a w m b i ʂ,false,expert
+iskonawa-dragonfly-1-1,iskonawa-dragonfly-1,ʃinti,0,false,expert,,ʃ i n t i,false,expert
+iskonawa-lowlandpaca-1-1,iskonawa-lowlandpaca-1,mẽkũ,0,false,expert,,m ẽ k ũ,false,expert
+iskonawa-whitelippedpeccary-1-1,iskonawa-whitelippedpeccary-1,jawaʔ,0,false,expert,,j a w a ʔ,false,expert
+iskonawa-spidermonkey-1-1,iskonawa-spidermonkey-1,isoʔ,0,false,expert,,i s o ʔ,false,expert
+iskonawa-anaconda-1-1,iskonawa-anaconda-1,hɨa mitsa,0,false,expert,,h ɨ a + m i ts a,false,expert
+iskonawa-anaconda-2-1,iskonawa-anaconda-2,mũã hitsa,0,false,expert,,m ũ ã + h i ts a,false,expert
+kakataibo-scarletmacaw-1-1,kakataibo-scarletmacaw-1,kaĩː,0,false,expert,,k a ĩː,false,expert
+kakataibo-ringedkingfisher-1-1,kakataibo-ringedkingfisher-1,t͡saɾaʐ,0,false,expert,,ts a ɾ a ʐ,false,expert
+kakataibo-saliva-1-1,kakataibo-saliva-1,kuɲu,0,false,expert,,k u ɲ u,false,expert
+kakataibo-electriceel-1-1,kakataibo-electriceel-1,kunjo,0,false,expert,,k u n j o,false,expert
+kakataibo-taro-1-1,kakataibo-taro-1,pituka,0,false,expert,,p i t u k a,false,expert
+kakataibo-mahogany-1-1,kakataibo-mahogany-1,ʔinui,0,false,expert,,ʔ i n u i,false,expert
+kakataibo-fishtrap-1-1,kakataibo-fishtrap-1,ɲuna ɾuŋgɨ,0,false,expert,,ɲ u n a + ɾ u ŋ g ɨ,false,expert
+kakataibo-chaman-1-1,kakataibo-chaman-1,ɾoː naŋgɨ,0,false,expert,,ɾ oː + n a ŋ g ɨ,false,expert
+kakataibo-healer-1-1,kakataibo-healer-1,ɲu ʔunaŋgɨ,0,false,expert,,ɲ u + ʔ u n a ŋ g ɨ,false,expert
+kakataibo-song-1-1,kakataibo-song-1,βʷɨwati,0,false,expert,,βʷ ɨ w a t i,false,expert
+kakataibo-ayahuasca-1-1,kakataibo-ayahuasca-1,nizi,0,false,expert,,n i z i,false,expert
+kakataibo-dragonfly-1-1,kakataibo-dragonfly-1,zapɨː,0,false,expert,,z a p ɨː,false,expert
+kakataibo-lowlandpaca-1-1,kakataibo-lowlandpaca-1,ʔanu,0,false,expert,,ʔ a n u,false,expert
+kakataibo-whitelippedpeccary-1-1,kakataibo-whitelippedpeccary-1,uŋgi,0,false,expert,,u ŋ g i,false,expert
+kakataibo-spidermonkey-1-1,kakataibo-spidermonkey-1,tʃuna,0,false,expert,,tʃ u n a,false,expert
+kakataibo-anaconda-1-1,kakataibo-anaconda-1,ɾuni,0,false,expert,,ɾ u n i,false,expert
+marinawa-scarletmacaw-1-1,marinawa-scarletmacaw-1,kada,0,false,expert,,k a d a,false,expert
+marinawa-scarletmacaw-2-1,marinawa-scarletmacaw-2,kaĩ,0,false,expert,,k a ĩ,false,expert
+marinawa-ringedkingfisher-1-1,marinawa-ringedkingfisher-1,tapiʃi,0,false,expert,,t a p i ʃ i,false,expert
+marinawa-saliva-1-1,marinawa-saliva-1,kɨbo,0,false,expert,,k ɨ b o,false,expert
+marinawa-electriceel-1-1,marinawa-electriceel-1,kunĩwã,0,false,expert,,k u n ĩ w ã,false,expert
+marinawa-taro-1-1,marinawa-taro-1,βɨto,0,false,expert,,β ɨ t o,false,expert
+marinawa-mahogany-1-1,marinawa-mahogany-1,iʂtanati,0,false,expert,,i ʂ t a n a t i,false,expert
+marinawa-fishtrap-1-1,marinawa-fishtrap-1,ɸɨtati,0,false,expert,,ɸ ɨ t a t i,false,expert
+marinawa-spear-1-1,marinawa-spear-1,ɾansa,0,false,expert,,ɾ a n s a,false,expert
+marinawa-chaman-1-1,marinawa-chaman-1,ʃʊɾi,0,false,expert,,ʃ ʊ ɾ i,false,expert
+marinawa-healer-1-1,marinawa-healer-1,joɸɨ,0,false,expert,,j o ɸ ɨ,false,expert
+marinawa-song-1-1,marinawa-song-1,ɸanajki,0,false,expert,,ɸ a n a j k i,false,expert
+marinawa-ayahuasca-1-1,marinawa-ayahuasca-1,ʂuɾi,0,false,expert,,ʂ u ɾ i,false,expert
+marinawa-dragonfly-1-1,marinawa-dragonfly-1,jadɨ,0,false,expert,,j a d ɨ,false,expert
+marinawa-lowlandpaca-1-1,marinawa-lowlandpaca-1,ado,0,false,expert,,a d o,false,expert
+marinawa-whitelippedpeccary-1-1,marinawa-whitelippedpeccary-1,jawa,0,false,expert,,j a w a,false,expert
+marinawa-spidermonkey-1-1,marinawa-spidermonkey-1,iso,0,false,expert,,i s o,false,expert
+marinawa-anaconda-1-1,marinawa-anaconda-1,ʂɨkɨɾo,0,false,expert,,ʂ ɨ k ɨ ɾ o,false,expert
+mastanawa-scarletmacaw-1-1,mastanawa-scarletmacaw-1,kãĩ,0,false,expert,,k ã ĩ,false,expert
+mastanawa-ringedkingfisher-1-1,mastanawa-ringedkingfisher-1,tʃapiʃ,0,false,expert,,tʃ a p i ʃ,false,expert
+mastanawa-saliva-1-1,mastanawa-saliva-1,kɨbʊ,0,false,expert,,k ɨ b ʊ,false,expert
+mastanawa-electriceel-1-1,mastanawa-electriceel-1,kudɪ,0,false,expert,,k u d ɪ,false,expert
+mastanawa-taro-1-1,mastanawa-taro-1,ʂudɪ,0,false,expert,,ʂ u d ɪ,false,expert
+mastanawa-mahogany-1-1,mastanawa-mahogany-1,iʃtanati,0,false,expert,,i ʃ t a n a t i,false,expert
+mastanawa-fishtrap-1-1,mastanawa-fishtrap-1,dɨʂɨtiniwã,0,false,expert,,d ɨ ʂ ɨ t i n i w ã,false,expert
+mastanawa-spear-1-1,mastanawa-spear-1,iβikutʃãŋ,0,false,expert,,i β i k u tʃ ã ŋ,false,expert
+mastanawa-healer-1-1,mastanawa-healer-1,ɸɨ̃w̃ãtĩã,0,false,expert,,ɸ ɨ̃ w̃ ã t ĩ ã,false,expert
+mastanawa-song-1-1,mastanawa-song-1,nuɸʷanajtiɾʊ,0,false,expert,,n u ɸʷ a n a j t i ɾ ʊ,false,expert
+mastanawa-ayahuasca-1-1,mastanawa-ayahuasca-1,ʂʊɾɪ,0,false,expert,,ʂ ʊ ɾ ɪ,false,expert
+mastanawa-dragonfly-1-1,mastanawa-dragonfly-1,dʒadɨ,0,false,expert,,dʒ a d ɨ,false,expert
+mastanawa-lowlandpaca-1-1,mastanawa-lowlandpaca-1,aːdo,0,false,expert,,aː d o,false,expert
+mastanawa-whitelippedpeccary-1-1,mastanawa-whitelippedpeccary-1,ɸʷudihu,0,false,expert,,ɸʷ u d i h u,false,expert
+mastanawa-spidermonkey-1-1,mastanawa-spidermonkey-1,isʊ,0,false,expert,,i s ʊ,false,expert
+mastanawa-anaconda-1-1,mastanawa-anaconda-1,ɾʊdʊ,0,false,expert,,ɾ ʊ d ʊ,false,expert
+matses-scarletmacaw-1-1,matses-scarletmacaw-1,kəna,0,false,expert,,k ə n a,false,expert
+matses-ringedkingfisher-2-1,matses-ringedkingfisher-2,tʃaɾa,0,false,expert,,tʃ a ɾ a,false,expert
+matses-saliva-1-1,matses-saliva-1,wiʔtʃoŋ,0,false,expert,,w i ʔ tʃ o ŋ,false,expert
+matses-electriceel-1-1,matses-electriceel-1,ikenamɨʂ,0,false,expert,,i k e n a m ɨ ʂ,false,expert
+matses-taro-1-1,matses-taro-1,kamis̺,0,false,expert,,k a m i s̺,false,expert
+matses-mahogany-1-1,matses-mahogany-1,akwanʊ,0,false,expert,,a k w a n ʊ,false,expert
+matses-fishtrap-1-1,matses-fishtrap-1,tɨtinte,0,false,expert,,t ɨ t i n t e,false,expert
+matses-spear-1-1,matses-spear-1,sjante,0,false,expert,,s j a n t e,false,expert
+matses-chaman-1-1,matses-chaman-1,nɨnɨ tʃoki,0,false,expert,,n ɨ n ɨ + tʃ o k i,false,expert
+matses-song-1-1,matses-song-1,beɾem beɾem ʂuʂu,0,false,expert,,b e ɾ e m + b e ɾ e m + ʂ u ʂ u,false,expert
+matses-song-2-1,matses-song-2,wɨʊma,0,false,expert,,w ɨ ʊ m a,false,expert
+matses-ayahuasca-1-1,matses-ayahuasca-1,tsaweʂ iʂun neste,0,false,expert,,ts a w e ʂ + i ʂ u n + n e s t e,false,expert
+matses-dragonfly-1-1,matses-dragonfly-1,tʃin tʃin,0,false,expert,,tʃ i n + tʃ i n,false,expert
+matses-lowlandpaca-1-1,matses-lowlandpaca-1,tambis̺,0,false,expert,,t a m b i s̺,false,expert
+matses-whitelippedpeccary-1-1,matses-whitelippedpeccary-1,ʃɨʔtɪ,0,false,expert,,ʃ ɨ ʔ t ɪ,false,expert
+matses-spidermonkey-1-1,matses-spidermonkey-1,tʃɨʃɨjd̚,0,false,expert,,tʃ ɨ ʃ ɨ j d̚,false,expert
+matses-anaconda-1-1,matses-anaconda-1,dajumɨŋkɪ,0,false,expert,,d a j u m ɨ ŋ k ɪ,false,expert
+sharanawa-scarletmacaw-1-1,sharanawa-scarletmacaw-1,kãĩ,0,false,expert,,k ã ĩ,false,expert
+sharanawa-ringedkingfisher-1-1,sharanawa-ringedkingfisher-1,tikʊ,0,false,expert,,t i k ʊ,false,expert
+sharanawa-saliva-1-1,sharanawa-saliva-1,kɨ̃ᵐbõ,0,false,expert,,k ɨ̃ ᵐb õ,false,expert
+sharanawa-electriceel-1-1,sharanawa-electriceel-1,kuniwã,0,false,expert,,k u n i w ã,false,expert
+sharanawa-taro-1-1,sharanawa-taro-1,bɨːto,0,false,expert,,b ɨː t o,false,expert
+sharanawa-mahogany-1-1,sharanawa-mahogany-1,kaoba,0,false,expert,,k a o b a,false,expert
+sharanawa-fishtrap-1-1,sharanawa-fishtrap-1,tɾampeɾa,0,false,expert,,t ɾ a m p e ɾ a,false,expert
+sharanawa-spear-1-1,sharanawa-spear-1,iβikutʃa,0,false,expert,,i β i k u tʃ a,false,expert
+sharanawa-chaman-1-1,sharanawa-chaman-1,dʒuɸʷɨ,0,false,expert,,dʒ u ɸʷ ɨ,false,expert
+sharanawa-healer-1-1,sharanawa-healer-1,dʒuɸʷɨ,0,false,expert,,dʒ u ɸʷ ɨ,false,expert
+sharanawa-song-1-1,sharanawa-song-1,ɸʷanajki,0,false,expert,,ɸʷ a n a j k i,false,expert
+sharanawa-ayahuasca-1-1,sharanawa-ayahuasca-1,ʂuɾɪ,0,false,expert,,ʂ u ɾ ɪ,false,expert
+sharanawa-dragonfly-1-1,sharanawa-dragonfly-1,ʊɨkɨtsɨɾɨ,0,false,expert,,ʊ ɨ k ɨ ts ɨ ɾ ɨ,false,expert
+sharanawa-lowlandpaca-1-1,sharanawa-lowlandpaca-1,ado,0,false,expert,,a d o,false,expert
+sharanawa-whitelippedpeccary-1-1,sharanawa-whitelippedpeccary-1,dʒawa,0,false,expert,,dʒ a w a,false,expert
+sharanawa-spidermonkey-1-1,sharanawa-spidermonkey-1,isʊ̃,0,false,expert,,i s ʊ̃,false,expert
+sharanawa-anaconda-1-1,sharanawa-anaconda-1,ɾʊ̃nʊ̃w̃ã,0,false,expert,,ɾ ʊ̃ n ʊ̃ w̃ ã,false,expert
+shawandawa-ringedkingfisher-1-1,shawandawa-ringedkingfisher-1,tʃapiʃi,0,false,expert,,tʃ a p i ʃ i,false,expert
+shawandawa-saliva-1-1,shawandawa-saliva-1,kɨbʊ,0,false,expert,,k ɨ b ʊ,false,expert
+shawandawa-electriceel-1-1,shawandawa-electriceel-1,kudi,0,false,expert,,k u d i,false,expert
+shawandawa-taro-1-1,shawandawa-taro-1,βɨtʊ,0,false,expert,,β ɨ t ʊ,false,expert
+shawandawa-mahogany-1-1,shawandawa-mahogany-1,iʃtanati,0,false,expert,,i ʃ t a n a t i,false,expert
+shawandawa-fishtrap-1-1,shawandawa-fishtrap-1,ɾisi,0,false,expert,,ɾ i s i,false,expert
+shawandawa-spear-1-1,shawandawa-spear-1,ɾansa,0,false,expert,,ɾ a n s a,false,expert
+shawandawa-chaman-1-1,shawandawa-chaman-1,juɸɨ̃n,0,false,expert,,j u ɸ ɨ̃ n,false,expert
+shawandawa-healer-1-1,shawandawa-healer-1,kajawambisi,0,false,expert,,k a j a w a m b i s i,false,expert
+shawandawa-ayahuasca-1-1,shawandawa-ayahuasca-1,ʂuɾi,0,false,expert,,ʂ u ɾ i,false,expert
+shawandawa-dragonfly-1-1,shawandawa-dragonfly-1,tsɨ̃nwã,0,false,expert,,ts ɨ̃ n w ã,false,expert
+shawandawa-lowlandpaca-1-1,shawandawa-lowlandpaca-1,ãdo,0,false,expert,,ã d o,false,expert
+shawandawa-whitelippedpeccary-1-1,shawandawa-whitelippedpeccary-1,jawa,0,false,expert,,j a w a,false,expert
+shawandawa-spidermonkey-1-1,shawandawa-spidermonkey-1,isʊ,0,false,expert,,i s ʊ,false,expert
+shawandawa-anaconda-1-1,shawandawa-anaconda-1,ɾʊdʊ ɨwapa,0,false,expert,,ɾ ʊ d ʊ + ɨ w a p a,false,expert
+shipibokonibo-scarletmacaw-1-1,shipibokonibo-scarletmacaw-1,ʂawan,0,false,expert,,ʂ a w a n,false,expert
+shipibokonibo-ringedkingfisher-2-1,shipibokonibo-ringedkingfisher-2,tʃaɻaʂ,0,false,expert,,tʃ a ɻ a ʂ,false,expert
+shipibokonibo-saliva-1-1,shipibokonibo-saliva-1,tuʂβa,0,false,expert,,t u ʂ β a,false,expert
+shipibokonibo-electriceel-1-1,shipibokonibo-electriceel-1,kunĩwa,0,false,expert,,k u n ĩ w a,false,expert
+shipibokonibo-taro-1-1,shipibokonibo-taro-1,kamis,0,false,expert,,k a m i s,false,expert
+shipibokonibo-mahogany-1-1,shipibokonibo-mahogany-1,ʂɨʂɨ,0,false,expert,,ʂ ɨ ʂ ɨ,false,expert
+shipibokonibo-fishtrap-1-1,shipibokonibo-fishtrap-1,tʃikaɻu,0,false,expert,,tʃ i k a ɻ u,false,expert
+shipibokonibo-spear-1-1,shipibokonibo-spear-1,pia,0,false,expert,,p i a,false,expert
+shipibokonibo-chaman-1-1,shipibokonibo-chaman-1,jubɨ,0,false,expert,,j u b ɨ,false,expert
+shipibokonibo-healer-1-1,shipibokonibo-healer-1,unaɲa,0,false,expert,,u n a ɲ a,false,expert
+shipibokonibo-song-1-1,shipibokonibo-song-1,bɨwa,0,false,expert,,b ɨ w a,false,expert
+shipibokonibo-ayahuasca-1-1,shipibokonibo-ayahuasca-1,niʃi,0,false,expert,,n i ʃ i,false,expert
+shipibokonibo-dragonfly-1-1,shipibokonibo-dragonfly-1,santɨn,0,false,expert,,s a n t ɨ n,false,expert
+shipibokonibo-lowlandpaca-1-1,shipibokonibo-lowlandpaca-1,anu,0,false,expert,,a n u,false,expert
+shipibokonibo-whitelippedpeccary-1-1,shipibokonibo-whitelippedpeccary-1,jawa,0,false,expert,,j a w a,false,expert
+shipibokonibo-spidermonkey-1-1,shipibokonibo-spidermonkey-1,isu,0,false,expert,,i s u,false,expert
+shipibokonibo-anaconda-1-1,shipibokonibo-anaconda-1,ɻunin,0,false,expert,,ɻ u n i n,false,expert
