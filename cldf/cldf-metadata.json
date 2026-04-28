@@ -11,13 +11,13 @@
         {
             "rdf:about": "https://github.com/pano-takanan-history/protopanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "2f99e01",
+            "dc:created": "v0.1-7-g78c6323",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
@@ -40,7 +40,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.5"
+            "dc:description": "3.14.4"
         },
         {
             "dc:title": "python-packages",
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 18674,
+            "dc:extent": 19942,
             "tableSchema": {
                 "columns": [
                     {
@@ -172,7 +172,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
             "dc:description": "Adding new columns to Lexeme.",
-            "dc:extent": 32,
+            "dc:extent": 40,
             "tableSchema": {
                 "columns": [
                     {
@@ -246,7 +246,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1077,
+            "dc:extent": 1087,
             "tableSchema": {
                 "columns": [
                     {
@@ -282,7 +282,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 18674,
+            "dc:extent": 19942,
             "tableSchema": {
                 "columns": [
                     {

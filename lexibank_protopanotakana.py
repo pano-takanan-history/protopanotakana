@@ -5,6 +5,7 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Lexeme, Concept
 from lingpy import Wordlist
+#from pyetymdict.dataset import Language as BaseLanguage, Dataset as BaseDataset
 
 
 @attr.s
@@ -53,7 +54,8 @@ class Dataset(BaseDataset):
                         "ALIGNMENT",
                         "MORPHEMES",
                         "NOTE",
-                        "DATASET"
+                        "DATASET",
+                        "CONCEPTICON_GLOSS"
                     ],
                     base_url='http://lingulist.de/pth/',
                     script_url='get_data.py'
@@ -62,6 +64,8 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         # add bib
+        # self.schema(args.writer.cldf)
+        # self.local_schema(args.writer.cldf)
         args.writer.add_sources()
         args.log.info("added sources")
 
@@ -80,7 +84,7 @@ class Dataset(BaseDataset):
         args.log.info("added concepts")
 
         # add language
-        languages = []
+        languages = {}
         for language in self.languages:
             args.writer.add_language(
                     ID=language["ID"],
@@ -89,7 +93,7 @@ class Dataset(BaseDataset):
                     Dataset=language["Dataset"],
                     SubGroup=language["Subgroup"]
                     )
-            languages.append(language['ID'])
+            languages[language['Name']] = language['ID']
 
         args.log.info("added languages")
 
@@ -109,7 +113,8 @@ class Dataset(BaseDataset):
             alignment,
             morphemes,
             comment,
-            dataset
+            dataset,
+            _
         ) in pb(
             wl.iter_rows(
                 "concept",
@@ -122,11 +127,13 @@ class Dataset(BaseDataset):
                 "alignment",
                 "morphemes",
                 "note",
-                "dataset"
+                "dataset",
+                "concepticon_gloss"
             ),
             desc="cldfify"
         ):
             # Remove tagged entries
+            # print(concept, tokens)
             if '*' not in concept:
                 if language not in languages:
                     errors.add(("language", language))
@@ -137,7 +144,7 @@ class Dataset(BaseDataset):
 
                 else:
                     lexeme = args.writer.add_form_with_segments(
-                        Language_ID=language,
+                        Language_ID=languages[language],
                         Parameter_ID=concepts[concept],
                         Value=value.strip() if value else form.strip(),
                         Form=form.strip(),

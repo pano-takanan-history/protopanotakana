@@ -10,11 +10,7 @@ setup(
     include_package_data=True,
     url=metadata.get("url", ""),
     zip_safe=False,
-    entry_points={
-        'lexibank.dataset': [
-            'template=protopanotakana:Dataset',
-        ]
-    },
+    entry_points={'lexibank.dataset': ['protopanotakana=lexibank_protopanotakana:Dataset']},
     install_requires=[
         "pylexibank>=3.5.0",
         "cldfbench==1.14.0",
@@ -22,7 +18,5 @@ setup(
         "csvw==3.5.1",
         "pyconcepticon==3.1.0",
     ],
-    extras_require={
-        'test': ['pytest-cldf']
-        }
+    extras_require={'test': ['pytest-cldf']}
 )
