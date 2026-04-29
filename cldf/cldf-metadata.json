@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/pano-takanan-history/protopanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-7-g78c6323",
+            "dc:created": "v0.1-9-gcd464b8",
             "dc:title": "Repository"
         },
         {
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 19942,
+            "dc:extent": 20778,
             "tableSchema": {
                 "columns": [
                     {
@@ -137,6 +137,10 @@
                     {
                         "datatype": "string",
                         "name": "Dataset"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GroupedSounds"
                     }
                 ],
                 "foreignKeys": [
@@ -172,7 +176,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
             "dc:description": "Adding new columns to Lexeme.",
-            "dc:extent": 40,
+            "dc:extent": 50,
             "tableSchema": {
                 "columns": [
                     {
@@ -282,7 +286,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 19942,
+            "dc:extent": 20778,
             "tableSchema": {
                 "columns": [
                     {

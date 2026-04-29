@@ -8,6 +8,13 @@ from lingpy import Wordlist
 #from pyetymdict.dataset import Language as BaseLanguage, Dataset as BaseDataset
 
 
+def unmerge(sequence):
+    out = []
+    for tok in sequence:
+        out += tok.split('.')
+    return out
+
+
 @attr.s
 class CustomLanguage(Language):
     """Adding new columns to Lexeme."""
@@ -26,6 +33,7 @@ class CustomLexeme(Lexeme):
     Alignment = attr.ib(default=None)
     Morphemes = attr.ib(default=None)
     Dataset = attr.ib(default=None)
+    GroupedSounds = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -148,7 +156,8 @@ class Dataset(BaseDataset):
                         Parameter_ID=concepts[concept],
                         Value=value.strip() if value else form.strip(),
                         Form=form.strip(),
-                        Segments=tokens,
+                        Segments=unmerge(tokens),
+                        GroupedSounds=tokens,
                         Comment=comment,
                         Cognacy=cognacy,
                         Partial_Cognacy=" ".join([str(x) for x in partial_cognacy]),
