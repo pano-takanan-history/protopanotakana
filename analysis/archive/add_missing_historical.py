@@ -70,14 +70,14 @@ with open("concepts_with_additions.tsv", newline='') as file:
         # print(row)
         added_c.append([row[0]])
 
-exclude = ['reye1240', 'paca1246', 'remo1249', 'poya1241']
-idx = 20253
+exclude = ['reye1240', 'paca1246', 'remo1249', 'poya1241', 'esee1248']
+idx = 20778
 for item in wl:
-    print(wl[item])
-    if wl[item, 'concepticon_gloss'] in lookup and \
-         wl[item, 'family'] == 'Pano-Tacanan' and \
+    if wl[item, 'concepticon_gloss'] in concepts and \
+         wl[item, 'family'] == 'Pano-Takana' and \
             wl[item, 'glottocode'] not in lookup[wl[item, 'concepticon_gloss']] and \
                 wl[item, 'glottocode'] not in exclude:
+                print(wl[item])
                 idx += 1
                 additions.append([
                             idx,
@@ -100,10 +100,10 @@ for item in wl:
 
 print(additions)
 
-# with open('historical_to_existing.tsv', 'w', newline='', encoding='utf8') as csvfile:
-#     writer = csv.writer(csvfile, delimiter='\t')
-#     writer.writerows(additions)
+with open('historical_to_existing.tsv', 'w', newline='', encoding='utf8') as csvfile:
+    writer = csv.writer(csvfile, delimiter='\t')
+    writer.writerows(additions)
 
-# with open('concepts_with_additions.tsv', 'w', newline='', encoding='utf8') as csvfile:
-#     writer = csv.writer(csvfile, delimiter='\t')
-#     writer.writerows(added_c)
+with open('concepts_with_additions.tsv', 'w', newline='', encoding='utf8') as csvfile:
+    writer = csv.writer(csvfile, delimiter='\t')
+    writer.writerows(added_c)

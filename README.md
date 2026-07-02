@@ -20,21 +20,22 @@ This dataset is licensed under a CC-BY-4.0 license
 ![BIPA: 100%](etc/badge_bipa.svg)
 ![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
-- **Varieties:** 50 (linked to 46 different Glottocodes)
-- **Concepts:** 1,085 (linked to 742 different Concepticon concept sets)
-- **Lexemes:** 20,766
+- **Varieties:** 52 (linked to 47 different Glottocodes)
+- **Concepts:** 1,082 (linked to 741 different Concepticon concept sets)
+- **Lexemes:** 20,811
 - **Sources:** 0
-- **Synonymy:** 1.21
-- **Cognacy:** 20,766 cognates in 6,615 cognate sets (4,462 singletons)
+- **Synonymy:** 1.20
+- **Cognacy:** 20,811 cognates in 6,607 cognate sets (4,457 singletons)
 - **Cognate Diversity:** 0.28
 - **Invalid lexemes:** 0
-- **Tokens:** 104,486
-- **Segments:** 321 (0 BIPA errors, 0 CLTS sound class errors, 318 CLTS modified)
-- **Inventory size (avg):** 38.32
+- **Tokens:** 104,836
+- **Segments:** 322 (0 BIPA errors, 0 CLTS sound class errors, 319 CLTS modified)
+- **Inventory size (avg):** 37.90
 
 ## Possible Improvements:
 
-- Entries missing sources: 20766/20766 (100.00%%)
+- Languages missing glottocodes: 1/52 (1.92%%)
+- Entries missing sources: 20811/20811 (100.00%%)
 
 
 # Contributors

@@ -87,7 +87,6 @@ bird,bird,937,BIRD,
 bite,bite,1403,BITE,"§264_oliveiraprotopanoan, 119_girardprototakanan"
 bitter,bitter,887,BITTER,332_girardprototakanan
 black,black,163,BLACK,"§488_oliveiraprotopanoan, 499_girardprototakanan"
-blackmonkey,black monkey,,,§25_oliveiraprotopanoan
 blanket,blanket,806,BLANKET,
 blood,blood,946,BLOOD,"§140_oliveiraprotopanoan, 11_girardprototakanan, 48_girardprotopanotakanan"
 bloom,bloom,3287,BLOOM,
@@ -657,7 +656,6 @@ picotada,picotada,,,400_girardprototakanan
 pieceshard,piece,594,PIECE,§179_oliveiraprotopanoan
 piernafalda,"pierna,falda",,,420_girardprototakanan
 piernamuslo,"pierna,muslo",,,420_girardprototakanan
-pig,pig,1337,PIG,
 pileup,pile up,1576,PILE UP,
 pinch,pinch,378,PINCH,
 pineapple,pineapple,2440,PINEAPPLE,"§163_oliveiraprotopanoan, 51_girardprotopanotakanan"
@@ -831,7 +829,6 @@ speciesofowl,species of owl,,,§343_oliveiraprotopanoan
 speciesofpalm,species of palm,,,§442_oliveiraprotopanoan
 speciesofpepper,species of pepper,,,§504_oliveiraprotopanoan
 speciesofpicapaupicidae,species of picapau (picidae),,,§96_oliveiraprotopanoan
-speciesofpig,species of pig,,,§304_oliveiraprotopanoan
 speciesofplant,species of plant,,,§385_oliveiraprotopanoan
 speciesofpumpkin,species of pumpkin,,,§471_oliveiraprotopanoan
 speciesofsloth,species of sloth,2446,SLOTH,§344_oliveiraprotopanoan
@@ -1081,6 +1078,6 @@ song,song,1096,SONG,
 ayahuasca,ayahuasca,276,BANISTERIUM,
 dragonfly,dragonfly,2352,DRAGONFLY,
 lowlandpaca,lowland paca,316,PACA,
-whitelippedpeccary,white-lipped peccary,436,WHITE-LIPPED PECCARY,
-spidermonkey,spider monkey,434,SPIDER MONKEY,
+whitelippedpeccary,white-lipped peccary,436,WHITE-LIPPED PECCARY,§304_oliveiraprotopanoan
+spidermonkey,spider monkey,434,SPIDER MONKEY,§25_oliveiraprotopanoan
 anaconda,anaconda,896,ANACONDA (WATER BOA),
