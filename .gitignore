@@ -106,3 +106,4 @@ ENV/
 # Database
 raw/preprocessing/cldf-resources/
 edictor-remote/scripts
+*.pdf

@@ -90,7 +90,6 @@ bird	bird	BIRD	937
 bite	bite	BITE	1403	§264_oliveiraprotopanoan, 119_girardprototakanan	
 bitter	bitter	BITTER	887	332_girardprototakanan	
 black	black	BLACK	163	§488_oliveiraprotopanoan, 499_girardprototakanan	
-blackmonkey	black monkey			§25_oliveiraprotopanoan	
 blanket	blanket	BLANKET	806		
 blood	blood	BLOOD	946	§140_oliveiraprotopanoan, 11_girardprototakanan, 48_girardprotopanotakanan	
 bloom	bloom	BLOOM	3287		
@@ -101,7 +100,6 @@ azulverde	blue or green	BLUE OR GREEN	2382	494_girardprototakanan
 body	body	BODY	1480	254_girardprototakanan	
 bofe	bofe			179_girardprototakanan	
 toboil	boil (of liquid)	BOIL (OF LIQUID)	792	§187_oliveiraprotopanoan	
-boilsomething	boil (something)	BOIL (SOMETHING)	2492		
 bone	bone	BONE	1394	§398_oliveiraprotopanoan, 96_girardprototakanan, 93_girardprotopanotakanan, 100_girardprotopanotakanan	
 bordunawalkingstick	borduna, walking stick			§485_oliveiraprotopanoan	
 borogusano	boro,gusano			116_girardprototakanan	
@@ -697,7 +695,6 @@ picotada	picotada			400_girardprototakanan
 pieceshard	piece	PIECE	594	§179_oliveiraprotopanoan	
 piernafalda	pierna,falda			420_girardprototakanan	
 piernamuslo	pierna,muslo			420_girardprototakanan	
-pig	pig	PIG	1337		
 pileup	pile up	PILE UP	1576		
 pinch	pinch	PINCH	378		
 pineapple	pineapple	PINEAPPLE	2440	§163_oliveiraprotopanoan, 51_girardprotopanotakanan	
@@ -884,7 +881,6 @@ speciesofowl	species of owl			§343_oliveiraprotopanoan
 speciesofpalm	species of palm			§442_oliveiraprotopanoan	
 speciesofpepper	species of pepper			§504_oliveiraprotopanoan	
 speciesofpicapaupicidae	species of picapau (picidae)			§96_oliveiraprotopanoan	
-speciesofpig	species of pig			§304_oliveiraprotopanoan	
 speciesofplant	species of plant			§385_oliveiraprotopanoan	
 speciesofpumpkin	species of pumpkin			§471_oliveiraprotopanoan	
 speciesofsloth	species of sloth	SLOTH	2446	§344_oliveiraprotopanoan	
@@ -1133,7 +1129,6 @@ grindaxe	axe, to grind
 sharptip	sharp, tip				
 surround	surround				
 pathlake	path, lake				
-lupuna	lupuna				
 scarletmacaw	scarlet macaw	RED-AND-GREEN MACAW	3938		guacamayo
 ringedkingfisher	ringed kingfisher	KINGFISHER	2444	§122_oliveiraprotopanoan, 261_girardprototakanan	martín pescador
 saliva	saliva	SALIVA	1503		
@@ -1148,6 +1143,6 @@ song	song	SONG	1096
 ayahuasca	ayahuasca	BANISTERIUM	276		
 dragonfly	dragonfly	DRAGONFLY	2352
 lowlandpaca	lowland paca	PACA	316		
-whitelippedpeccary	white-lipped peccary	WHITE-LIPPED PECCARY	436		
-spidermonkey	spider monkey	SPIDER MONKEY	434		maquisapa
+whitelippedpeccary	white-lipped peccary	WHITE-LIPPED PECCARY	436	§304_oliveiraprotopanoan	'species of pig' in Oliveira
+spidermonkey	spider monkey	SPIDER MONKEY	434	§25_oliveiraprotopanoan	maquisapa, macaco preto
 anaconda	anaconda	ANACONDA (WATER BOA)	896		

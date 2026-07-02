@@ -2,16 +2,14 @@
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:related": null,
     "dc:title": "protopanotakana",
     "dcat:accessURL": "https://github.com/pano-takanan-history/protopanotakana",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/pano-takanan-history/protopanotakana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-9-gcd464b8",
+            "dc:created": "v0.1-10-g06aa484",
             "dc:title": "Repository"
         },
         {
@@ -40,7 +38,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.14.4"
+            "dc:description": "3.14.5"
         },
         {
             "dc:title": "python-packages",
@@ -52,7 +50,8 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 20778,
+            "dc:description": "CustomLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: str | None = None, Segments: list[str] = <factory>, Graphemes: list[str] | None = None, Profile: str | None = None, Source: list[str] = <factory>, Comment: str | None = None, Cognacy: str | None = None, Loan: bool | None = None, Partial_Cognacy: Optional[__annotationlib_name_1__] = None, Alignment: Optional[__annotationlib_name_2__] = None, Morphemes: Optional[__annotationlib_name_3__] = None, Dataset: Optional[__annotationlib_name_4__] = None, GroupedSounds: Optional[__annotationlib_name_5__] = None)",
+            "dc:extent": 20766,
             "tableSchema": {
                 "columns": [
                     {
@@ -250,7 +249,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1087,
+            "dc:description": "CustomConcept(ID: str | None = '', Name: str | None = '', Concepticon_ID: str | None = None, Concepticon_Gloss: str | None = None, Proto_ID: Optional[__annotationlib_name_1__] = None)",
+            "dc:extent": 1085,
             "tableSchema": {
                 "columns": [
                     {
@@ -286,7 +286,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 20778,
+            "dc:description": "A cognate or rather a cognacy judgement.",
+            "dc:extent": 20766,
             "tableSchema": {
                 "columns": [
                     {

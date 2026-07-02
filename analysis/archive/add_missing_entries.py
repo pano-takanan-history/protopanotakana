@@ -36,7 +36,7 @@ for item in ppt:
     languages[ppt[item, "glottocode"]] = ppt[item, 'doculect']
 
 wl = Wordlist.from_cldf(
-    '../../zariquieypano/cldf/cldf-metadata.json',
+    '../../nordenskioeldmadrededios/cldf/cldf-metadata.json',
     # columns to be loaded from CLDF set
     columns=(
         "language_name",
@@ -75,25 +75,25 @@ for item in wl:
     if wl[item, 'concepticon_gloss'] in lookup and \
          wl[item, 'family'] == 'Pano-Tacanan' and \
             wl[item, 'glottocode'] not in lookup[wl[item, 'concepticon_gloss']]:
-                idx += 1
-                additions.append([
-                            idx,
-                            concepts[wl[item, "concepticon_gloss"]],
-                            languages[wl[item, 'glottocode']] if wl[item, 'glottocode'] in languages else wl[item, 'doculect'],
-                            wl[item, 'form'],
-                            wl[item, 'value'],
-                            ' '.join(wl[item, 'tokens']),
-                            '0',
-                            '0',
-                            wl[item, 'tokens'],
-                            '',
-                            'None',
-                            'zariquieypano',
-                            wl[item, "concepticon_gloss"]
-                        ])
-                
-                if [wl[item, "concepticon_gloss"]] not in added_c:
-                    added_c.append([wl[item, "concepticon_gloss"]])
+        idx += 1
+        additions.append([
+                    idx,
+                    concepts[wl[item, "concepticon_gloss"]],
+                    languages[wl[item, 'glottocode']] if wl[item, 'glottocode'] in languages else wl[item, 'doculect'],
+                    wl[item, 'form'],
+                    wl[item, 'value'],
+                    ' '.join(wl[item, 'tokens']),
+                    '0',
+                    '0',
+                    wl[item, 'tokens'],
+                    '',
+                    'None',
+                    'zariquieypano',
+                    wl[item, "concepticon_gloss"]
+                ])
+        
+        if [wl[item, "concepticon_gloss"]] not in added_c:
+            added_c.append([wl[item, "concepticon_gloss"]])
 
 print(additions)
 

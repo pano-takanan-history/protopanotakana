@@ -2,20 +2,6 @@ from collections import defaultdict
 from lingpy import Wordlist
 import csv
 
-dataset_to_add = 'panotacananwordlists'
-sources = {
-    "mabe1235": "farabee1922",
-    "chir1294": "ribera1794",
-    "paca1246": "heath1883",
-    "mayo1270": "alviano1957",
-    "tuxi1238": "carvalho1931",
-    "remo1249": "carvalho1931",
-    "sens1242": "tessmann1930",
-    "remo1250": "leuque1927",
-    "remo1248": "loos1974",
-    "poya1241": "paula1922"
-}
-
 ppt = Wordlist.from_cldf(
     '../cldf/cldf-metadata.json',
     # columns to be loaded from CLDF set
@@ -50,7 +36,7 @@ for item in ppt:
     languages[ppt[item, "glottocode"]] = ppt[item, 'doculect']
 
 wl = Wordlist.from_cldf(
-    '../../' + dataset_to_add + '/cldf/cldf-metadata.json',
+    '../../nordenskioeldmadrededios/cldf/cldf-metadata.json',
     # columns to be loaded from CLDF set
     columns=(
         "language_name",
@@ -81,12 +67,13 @@ added_c = []
 with open("concepts_with_additions.tsv", newline='') as file:
     tsv_reader = csv.reader(file, delimiter='\t')
     for row in tsv_reader:
-        #print(row)
+        # print(row)
         added_c.append([row[0]])
 
 exclude = ['reye1240', 'paca1246', 'remo1249', 'poya1241']
 idx = 20253
 for item in wl:
+    print(wl[item])
     if wl[item, 'concepticon_gloss'] in lookup and \
          wl[item, 'family'] == 'Pano-Tacanan' and \
             wl[item, 'glottocode'] not in lookup[wl[item, 'concepticon_gloss']] and \
@@ -104,7 +91,7 @@ for item in wl:
                             wl[item, 'tokens'],
                             '',
                             'None',
-                            sources[wl[item, 'glottocode']],
+                            'Nordenskioeld1905',
                             wl[item, "concepticon_gloss"]
                         ])
                 
@@ -113,10 +100,10 @@ for item in wl:
 
 print(additions)
 
-with open('historical_to_existing.tsv', 'w', newline='', encoding='utf8') as csvfile:
-    writer = csv.writer(csvfile, delimiter='\t')
-    writer.writerows(additions)
+# with open('historical_to_existing.tsv', 'w', newline='', encoding='utf8') as csvfile:
+#     writer = csv.writer(csvfile, delimiter='\t')
+#     writer.writerows(additions)
 
-with open('concepts_with_additions.tsv', 'w', newline='', encoding='utf8') as csvfile:
-    writer = csv.writer(csvfile, delimiter='\t')
-    writer.writerows(added_c)
+# with open('concepts_with_additions.tsv', 'w', newline='', encoding='utf8') as csvfile:
+#     writer = csv.writer(csvfile, delimiter='\t')
+#     writer.writerows(added_c)

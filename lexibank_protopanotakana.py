@@ -1,5 +1,5 @@
 import pathlib
-import attr
+import dataclasses
 from edictor.wordlist import fetch_wordlist
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
@@ -15,25 +15,25 @@ def unmerge(sequence):
     return out
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomLanguage(Language):
     """Adding new columns to Lexeme."""
-    Dataset = attr.ib(default=None)
-    SubGroup = attr.ib(default=None)
+    Dataset: Optional[str] = None
+    SubGroup: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomConcept(Concept):
-    Proto_ID = attr.ib(default=None)
+    Proto_ID: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomLexeme(Lexeme):
-    Partial_Cognacy = attr.ib(default=None)
-    Alignment = attr.ib(default=None)
-    Morphemes = attr.ib(default=None)
-    Dataset = attr.ib(default=None)
-    GroupedSounds = attr.ib(default=None)
+    Partial_Cognacy: Optional[str] = None
+    Alignment: Optional[str] = None
+    Morphemes: Optional[str] = None
+    Dataset: Optional[str] = None
+    GroupedSounds: Optional[str] = None
 
 
 class Dataset(BaseDataset):
