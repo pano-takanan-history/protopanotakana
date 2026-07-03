@@ -766,7 +766,6 @@ roll	roll	ROLL	827	106_girardprotopanotakanan
 rollup	roll up			202_girardprototakanan	
 roof	roof	ROOF	769	§417_oliveiraprotopanoan, 203_girardprototakanan	
 root	root	ROOT	670	§444_oliveiraprotopanoan, 426_girardprototakanan	
-rope	rope	ROPE	1218		
 pudrirse	rot	ROT	2907	174_girardprototakanan, 373_girardprototakanan	
 rotten	rotten	ROTTEN	1728	§324_oliveiraprotopanoan	
 rough	rough	ROUGH	1923		
@@ -824,8 +823,7 @@ parecido	similar	SIMILAR	1558	27_girardprototakanan
 simpleinterrogante	simple interrogante			3_girardprototakanan	
 sing	sing	SING	1261		
 sisterinlawwifecrosscousin	sister-in-law, wife, cross-cousin			§397_oliveiraprotopanoan	
-sit	sit	SIT	1416	§109_oliveiraprotopanoan	
-sitdown	sit down	SIT DOWN	1649		
+tosit	to sit	SIT	1416	§109_oliveiraprotopanoan	
 skin	skin	SKIN	763	72_girardprototakanan, 22_girardprotopanotakanan	
 sky	sky	SKY	1732	§253_oliveiraprotopanoan, 31_girardprototakanan	
 sleep	sleep	SLEEP	1585	§38_oliveiraprotopanoan, 412_girardprototakanan	
@@ -1127,7 +1125,6 @@ current	current
 snakesurround	snake, to surround				
 grindaxe	axe, to grind				
 sharptip	sharp, tip				
-surround	surround				
 pathlake	path, lake				
 scarletmacaw	scarlet macaw	RED-AND-GREEN MACAW	3938		guacamayo
 ringedkingfisher	ringed kingfisher	KINGFISHER	2444	§122_oliveiraprotopanoan, 261_girardprototakanan	martín pescador
