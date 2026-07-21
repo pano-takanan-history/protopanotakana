@@ -4,12 +4,14 @@
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
+**Sources**: [sources.bib](./sources.bib)
+
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/pano-takanan-history/protopanotakana
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/pano-takanan-history/protopanotakana/tree/db0f96b">pano-takanan-history/protopanotakana  v0.1-11-gdb0f96b</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon  v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS  v2.3.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/pano-takanan-history/protopanotakana/tree/3f72fff">pano-takanan-history/protopanotakana  v0.1-13-g3f72fff</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon  v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS  v2.3.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.14.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | protopanotakana
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -22,7 +24,7 @@ CustomLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 20811
+[dc:extent](http://purl.org/dc/terms/extent) | 20445
 
 
 ### Columns
@@ -37,7 +39,7 @@ Name/Property | Datatype | Description
 [Form](http://cldf.clld.org/v1.0/terms.rdf#form) | `string` | 
 [Segments](http://cldf.clld.org/v1.0/terms.rdf#segments) | list of `string` (separated by ` `) | 
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
-[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | 
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
 `Cognacy` | `string` | 
 `Loan` | `boolean` | 
 `Graphemes` | `string` | 
@@ -55,7 +57,7 @@ Adding new columns to Lexeme.
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 52
+[dc:extent](http://purl.org/dc/terms/extent) | 53
 
 
 ### Columns
@@ -81,7 +83,7 @@ CustomConcept(ID: str | None = '', Name: str | None = '', Concepticon_ID: str | 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1082
+[dc:extent](http://purl.org/dc/terms/extent) | 1080
 
 
 ### Columns
@@ -101,7 +103,7 @@ A cognate or rather a cognacy judgement.
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognateTable](http://cldf.clld.org/v1.0/terms.rdf#CognateTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 20811
+[dc:extent](http://purl.org/dc/terms/extent) | 20445
 
 
 ### Columns
@@ -114,7 +116,7 @@ Name/Property | Datatype | Description
 [Cognateset_ID](http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference) | `string` | 
 `Doubt` | `boolean` | 
 `Cognate_Detection_Method` | `string` | 
-[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | 
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
 [Alignment](http://cldf.clld.org/v1.0/terms.rdf#alignment) | list of `string` (separated by ` `) | 
 `Alignment_Method` | `string` | 
 `Alignment_Source` | `string` | 

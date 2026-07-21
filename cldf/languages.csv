@@ -1,6 +1,7 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Dataset,SubGroup
 amawaka,Amawaka,amah1246,Amahuaca,amc,South America,-10.2012,-72.3208,Pano-Tacanan,"blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana",Pano
 araona,Araona,arao1248,Araona,aro,South America,-12.4242,-67.7293,Pano-Tacanan,"blumpanotacana, girardprototakanan, valenzuelazariquieypanotakana",Tacana
+arasa,Arasa,araz1236,Arazaire,,South America,-13.25,-70.8,Pano-Tacanan,"girardprototakanan, valenzuelazariquieypanotakana",Tacana
 cavinena,Cavineña,cavi1250,Cavineña,cav,South America,-13.3544,-66.6277,Pano-Tacanan,"blumpanotacana, girardprototakanan, valenzuelazariquieypanotakana",Tacana
 chakobo,Chákobo,chac1251,Chácobo,cao,South America,-12.133,-66.7164,Pano-Tacanan,"blumpanotacana, oliveiraprotopanoan, valenzuelazariquieypanotakana",Pano
 chama,Chama,cham1314,Chama subgroup,,,,,Pano-Tacanan,valenzuelazariquieypanotakana,Pano
@@ -48,6 +49,6 @@ MayorunaDomestica,Mayoruna_A,mayo1271,Mayoruna-Amazon,,South America,-4.322858,-
 MayorunaFera,Mayoruna_B,mayo1271,Mayoruna-Amazon,,South America,-4.322858,-70.280457,Pano-Tacanan,martius1867,Pano
 JaunAvo,Karipuna,kari1312,Karipuna Pano,,South America,-10.0,-65.5,Pano-Tacanan,martius1867,Pano
 Culino,Marúbo,maru1252,Marúbo,mzr,South America,-6.60703,-72.4027,Pano-Tacanan,martius1867,Pano
-Arazaire,Arasa,araz1236,Arazaire,,South America,-13.25,-70.8,Pano-Tacanan,nordenskioeld1905,Pano
+Arazaire,Arazaire,araz1236,Arazaire,,South America,-13.25,-70.8,Pano-Tacanan,nordenskioeld1905,Pano
 Yamiaka,Yamiaka,,,,,,,,nordenskioeld1905,Pano
 Atsahuaca,Atsahuaca,atsa1242,Atsahuaca,atc,South America,-14.1666,-69.5,Pano-Tacanan,nordenskioeld1905,Pano

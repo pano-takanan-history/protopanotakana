@@ -149,7 +149,14 @@ class Dataset(BaseDataset):
                 elif concept not in concepts:
                     errors.add(("concept", concept))
                     print('Missing concept:', concept)
-
+                elif len(str(tokens).split('+')) != len(partial_cognacy) or len(str(alignment).split('+')) != len(partial_cognacy):
+                    if partial_cognacy != [0]:
+                        print("Alignments and cognacy do not match!", language, concept, tokens, partial_cognacy, alignment)
+                    elif partial_cognacy == [0]:
+                        print("Still missing annotation: ", language, concept)
+                    else:
+                        print("Double check: ", language, concept)
+                    
                 else:
                     lexeme = args.writer.add_form_with_segments(
                         Language_ID=languages[language],
