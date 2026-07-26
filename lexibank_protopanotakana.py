@@ -87,7 +87,7 @@ class Dataset(BaseDataset):
                     Concepticon_Gloss=concept["Concepticon_Gloss"],
                     Proto_ID=concept["Proto_ID"]
                     )
-            concepts[concept["Concept"]] = concept["ID"]
+            concepts[concept["Concept"]] = [concept["ID"], 0]
 
         args.log.info("added concepts")
 
@@ -152,15 +152,15 @@ class Dataset(BaseDataset):
                 elif len(str(tokens).split('+')) != len(partial_cognacy) or len(str(alignment).split('+')) != len(partial_cognacy):
                     if partial_cognacy != [0]:
                         print("Alignments and cognacy do not match!", language, concept, tokens, partial_cognacy, alignment)
-                    elif partial_cognacy == [0]:
-                        print("Still missing annotation: ", language, concept)
-                    else:
-                        print("Double check: ", language, concept)
+                    # elif partial_cognacy == [0]:
+                    #     print("Still missing annotation: ", language, concept)
+                    # else:
+                    #     print("Double check: ", language, concept)
                     
                 else:
                     lexeme = args.writer.add_form_with_segments(
                         Language_ID=languages[language],
-                        Parameter_ID=concepts[concept],
+                        Parameter_ID=concepts[concept][0],
                         Value=value.strip() if value else form.strip(),
                         Form=form.strip(),
                         Segments=unmerge(tokens),
@@ -172,6 +172,7 @@ class Dataset(BaseDataset):
                         Morphemes=" ".join(morphemes),
                         Dataset=dataset
                     )
+                    concepts[concept][1] = concepts[concept][1] + 1
 
                     args.writer.add_cognate(
                         lexeme=lexeme,
@@ -180,3 +181,11 @@ class Dataset(BaseDataset):
                         Alignment_Method="false",
                         Alignment_Source="expert"
                         )
+
+        # Check for empty concepts!
+        # print("The following concepts can be removed once their proto-ID has been reassigned:")
+        # counter = 0
+        # for concept in concepts:
+        #     if concepts[concept][1] < 1:
+        #         counter += 1
+        #         print(counter, concept, concepts[concept][1])
