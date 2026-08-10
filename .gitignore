@@ -107,3 +107,4 @@ ENV/
 raw/preprocessing/cldf-resources/
 edictor-remote/scripts
 *.pdf
+.*sqlite3

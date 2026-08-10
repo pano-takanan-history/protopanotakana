@@ -104,7 +104,7 @@ bow,bow,994,BOW,§168_oliveiraprotopanoan
 bowlplate,"bowl, plate",,,§177_oliveiraprotopanoan
 boy,boy,1366,BOY,
 brain,brain,1583,BRAIN,
-branchoftree,branch,1531,BRANCH,§321_oliveiraprotopanoan
+branchoftree,branch,1531,BRANCH,"§321_oliveiraprotopanoan, 484_girardprototakanan"
 branchesthathangintotheriver,branches that hang into the river,,,§450_oliveiraprotopanoan
 brave,brave,3,BRAVE,§381_oliveiraprotopanoan
 cedrelaodorata,brazilian cedar,3929,BRAZILIAN CEDAR,§199_oliveiraprotopanoan
@@ -137,7 +137,7 @@ calabaceragrandeinsecto,calabacera grande (insecto),,,407_girardprototakanan
 calf,calf,1989,CALF,§487_oliveiraprotopanoan
 calientecocinar,"caliente,cocinar",,,392_girardprototakanan
 call,call,1084,CALL,"§151_oliveiraprotopanoan, 173_girardprototakanan"
-wildturkeyspcampanillo,wild turkey sp. (campanillo),,,"221_girardprototakanan, 57_girardprotopanotakanan"
+wildturkeyspcampanillo,wild turkey sp. (campanillo),,,"§200_oliveiraprotopanoan, 221_girardprototakanan, 57_girardprotopanotakanan"
 canoe,canoe,1970,CANOE,"§294_oliveiraprotopanoan, 231_girardprototakanan"
 cabybara,capybara,314,CAPYBARA,"§3_oliveiraprotopanoan, 504_girardprototakanan"
 caricari,caricari,,,46_girardprototakanan
@@ -178,7 +178,6 @@ chontaloro,chontaloro,,,7_girardprototakanan
 choose,choose,1750,CHOOSE,
 cicada,cicada,2353,CICADA,§112_oliveiraprotopanoan
 clarity,clarity,,,§391_oliveiraprotopanoan
-classofant,class of ant,,,§143_oliveiraprotopanoan
 clavararreglar,"clavar,arreglar",,,409_girardprototakanan
 claw,claw,72,CLAW,§298_oliveiraprotopanoan
 claypit,clay pit,,,§244_oliveiraprotopanoan
@@ -216,13 +215,12 @@ cotton,cotton,1850,COTTON,"§476_oliveiraprotopanoan, 463_girardprototakanan"
 cough,cough,879,COUGH,"§34_oliveiraprotopanoan, 15_girardprotopanotakanan"
 cover,cover,761,COVER,§357_oliveiraprotopanoan
 cangrejo,crab,2348,CRAB,498_girardprototakanan
-crawlorcreep,crawl or creep,3456,CRAWL OR CREEP,
-creceragrandar,"crecer,agrandar",,,17_girardprototakanan
+tocrawl,to crawl,96,CRAWL,"§242_oliveiraprotopanoan, 371_girardprototakanan"
 grillo,cricket,2354,CRICKET,19_girardprototakanan
 crooked,crooked,297,CROOKED,
 cry,cry,1839,CRY,"§484_oliveiraprotopanoan, 328_girardprototakanan"
 cuandoharto,"cuando,harto",,,121_girardprototakanan
-cuidar,cuidar,,,252_girardprototakanan
+tocarefor,to care for,253,CARE FOR,252_girardprototakanan
 cuquisa,cuquisa,,,66_girardprototakanan
 curassow,curassow,315,CURASSOW,"§49_oliveiraprotopanoan, 274_girardprototakanan"
 cure,cure,499,CURE,
@@ -230,7 +228,7 @@ curucusiluciernaga,"curucusí,luciérnaga",,,360_girardprototakanan
 cut,cut,1432,CUT,"§393_oliveiraprotopanoan, 379_girardprototakanan, 112_girardprotopanotakanan"
 tocuthair,cut (with scissors),2155,CUT (WITH SCISSORS),§229_oliveiraprotopanoan
 dance,dance,1879,DANCE,33_girardprotopanotakanan
-dark,dark,706,DARK,
+dark,dark,706,DARK,§494_oliveiraprotopanoan
 darkblue,dark blue,,,§464_oliveiraprotopanoan
 darkness,darkness,11,DARKNESS,
 dawn,dawn,729,DAWN,
@@ -248,7 +246,7 @@ demonstrative,demonstrative,,,14_girardprotopanotakanan
 demonstrativeproximate,demonstrative proximate,,,
 derivativesuffixwithreferencetobodyparts,derivative suffix with reference to body parts,,,198_girardprototakanan
 desenganchar,desenganchar,,,343_girardprototakanan
-desiderative,desiderative,,,197_girardprototakanan
+desiderative,desiderative,,,"197_girardprototakanan, 53_girardprotopanotakanan"
 desidia,desidia,,,38_girardprototakanan
 todesire,desire,2117,DESIRE,§150_oliveiraprotopanoan
 desnudarsacardestejar,"desnudar,sacar,destejar",,,474_girardprototakanan
@@ -282,7 +280,7 @@ diafiesta,"día,fiesta",,,109_girardprototakanan
 ear,ear,1247,EAR,156_girardprototakanan
 holeofear,earhole,3891,EARHOLE,§310_oliveiraprotopanoan
 earornamentearring,earring,770,EARRING,§314_oliveiraprotopanoan
-earthsoil,earth (soil),1228,EARTH (SOIL),"281_girardprototakanan, 63_girardprotopanotakanan"
+earthsoil,earth (soil),1228,EARTH (SOIL),"§207_oliveiraprotopanoan, 281_girardprototakanan, 63_girardprotopanotakanan"
 earthworm,earthworm,2350,EARTHWORM,§286_oliveiraprotopanoan
 eat,eat,1336,EAT,§326_oliveiraprotopanoan
 edgelips,"edge, lips",,,§148_oliveiraprotopanoan
@@ -335,13 +333,13 @@ firefly,firefly,206,FIREFLY,§190_oliveiraprotopanoan
 firewood,firewood,10,FIREWOOD,"§172_oliveiraprotopanoan, 229_girardprototakanan"
 first,first,728,FIRST,244_girardprototakanan
 fish,fish,227,FISH,"§496_oliveiraprotopanoan, 377_girardprototakanan"
-fishpoison,fish poison,348,FISH POISON,"4_girardprototakanan, 3_girardprotopanotakanan"
+fishpoison,fish poison,348,FISH POISON,"§7_oliveiraprotopanoan, 4_girardprototakanan, 3_girardprotopanotakanan"
 espinas,fishbone,3799,FISHBONE,250_girardprototakanan
 fishhook,fishhook,1074,FISHHOOK,§248_oliveiraprotopanoan
 puno,fist,1473,FIST,352_girardprototakanan
 flat,flat,1633,FLAT,
 flee,flee,956,FLEE,
-flesh,flesh,2259,FLESH,
+flesh,flesh,2259,FLESH,362_girardprototakanan
 float,float,1574,FLOAT,
 floracion,floración,,,88_girardprototakanan
 flour,flour,1594,FLOUR,
@@ -399,10 +397,10 @@ rallarraspar,grate (something),3114,GRATE (SOMETHING),369_girardprototakanan
 cascajo,gravel,3028,GRAVEL,264_girardprototakanan
 gredabarrocoloradopiedra,"greda,barro colorado,piedra",,,281_girardprototakanan
 green,green,1425,GREEN,"82_girardprotopanotakanan, 115_girardprotopanotakanan"
-gray,grey,153,GREY,56_girardprotopanotakanan
+gray,grey,153,GREY,"56_girardprotopanotakanan, 226_girardprototakanan"
 grind,grind,1033,GRIND,§364_oliveiraprotopanoan
 groundnut,groundnut (peanut),595,GROUNDNUT (PEANUT),§439_oliveiraprotopanoan
-grow,grow,479,GROW,"§510_oliveiraprotopanoan, 300_girardprototakanan"
+grow,grow,479,GROW,"§510_oliveiraprotopanoan, 300_girardprototakanan, 17_girardprototakanan"
 gualusa,gualusa,,,15_girardprototakanan
 jacuspeciesofbird,guan,437,GUAN,§149_oliveiraprotopanoan
 guava,guava,,,"§94_oliveiraprotopanoan, 83_girardprototakanan"
@@ -466,7 +464,7 @@ ingestsoftfood,ingest soft food,,,§192_oliveiraprotopanoan
 insect,insect,620,INSECT,§106_oliveiraprotopanoan
 inside,inside,1606,INSIDE,§261_oliveiraprotopanoan
 interrogacion,interrogación,,,3_girardprototakanan
-intestinesbelly,"intestines, belly",,,§341_oliveiraprotopanoan
+intestinesbelly,"intestines, belly",1991,INTESTINES,"§341_oliveiraprotopanoan, 90_girardprotopanotakanan, 497_girardprototakanan"
 intransitivesuffixofconcordance,intransitive suffix of concordance,,,§6_oliveiraprotopanoan
 isla,island,622,ISLAND,492_girardprototakanan
 itchtoitch,itch,148,ITCH,§422_oliveiraprotopanoan
@@ -722,7 +720,7 @@ root,root,670,ROOT,"§444_oliveiraprotopanoan, 426_girardprototakanan"
 pudrirse,rot,2907,ROT,"174_girardprototakanan, 373_girardprototakanan"
 rotten,rotten,1728,ROTTEN,§324_oliveiraprotopanoan
 rough,rough,1923,ROUGH,
-paddlerow,"paddle, row",1849,ROW,"§483a_oliveiraprotopanoan, 107_girardprotopanotakanan"
+paddlerow,"paddle, row",1849,ROW,"§483a_oliveiraprotopanoan, 107_girardprotopanotakanan, 408_girardprototakanan"
 rub,rub,1449,RUB,
 run,run,1519,RUN,§446_oliveiraprotopanoan
 rioarriba,río arriba,,,55_girardprototakanan
@@ -800,7 +798,7 @@ soupbroth,soup,1547,SOUP,§85_oliveiraprotopanoan
 sour,sour,1906,SOUR,
 sowseeds,sow seeds,748,SOW SEEDS,45_girardprototakanan
 speak,speak,1623,SPEAK,
-speciesofant,species of ant,,,§233_oliveiraprotopanoan
+speciesofant,species of ant,,,"§233_oliveiraprotopanoan, §143_oliveiraprotopanoan"
 speciesofarara,species of ara,,,§166_oliveiraprotopanoan
 speciesofarmadillo,species of armadillo,1885,ARMADILLO,§499_oliveiraprotopanoan
 speciesofbamboo,species of bamboo,,,§311_oliveiraprotopanoan
@@ -894,8 +892,7 @@ thatmuch,that much,,,§51_oliveiraprotopanoan
 there,there,1937,THERE,
 they,they,817,THEY,
 thick,thick,1244,THICK,§180_oliveiraprotopanoan
-thinfine,thin,2308,THIN,§84_oliveiraprotopanoan
-delgado,thin (slim),1400,THIN (SLIM),239_girardprototakanan
+delgado,thin,2308,THIN,"239_girardprototakanan, §84_oliveiraprotopanoan"
 thing,thing,738,THING,3_girardprototakanan
 tothink,think,2271,THINK,§387_oliveiraprotopanoan
 thinkreflect,think (reflect),1415,THINK (REFLECT),
@@ -930,7 +927,7 @@ topeeloneselftochangeskin,"to peel oneself, to change skin",,,§428_oliveiraprot
 toplaytoabandon,"to play, to abandon",,,§346_oliveiraprotopanoan
 toputinsidetodive,"to put inside, to dive",,,§260_oliveiraprotopanoan
 tostringtogether,to string together,,,§156_oliveiraprotopanoan
-tothreshthecorn,to thresh the corn,,,§406_oliveiraprotopanoan
+tothreshthecorn,to thresh the corn,,,"§406_oliveiraprotopanoan, 171_girardprototakanan"
 towetwet,"to wet, wet",,,§236_oliveiraprotopanoan
 tobacco,tobacco,974,TOBACCO,"§374_oliveiraprotopanoan, 446_girardprototakanan"
 toco,toco,,,466_girardprototakanan
@@ -944,7 +941,7 @@ touch,touch,1892,TOUCH,§235_oliveiraprotopanoan
 citysettlement,town,1391,TOWN,§492_oliveiraprotopanoan
 townorvillage,town or village,3609,TOWN OR VILLAGE,
 transitiveconcordancesuffix,transitive concordance suffix,,,§419_oliveiraprotopanoan
-transitivizer,transitivizer,,,
+transitivizer,transitivizer,,,"1_girardprotopanotakanan, 2_girardprototakanan"
 trapcatch,trap (catch),1170,TRAP (CATCH),
 trappitfall,trap (pitfall),1075,TRAP (PITFALL),
 tree,tree,906,TREE,"8_girardprototakanan, 47_girardprotopanotakanan"
@@ -1059,7 +1056,6 @@ gettinginfected,getting infected,,,
 makenoise,make noise,,,
 current,current,,,
 snakesurround,"snake, to surround",,,
-grindaxe,"axe, to grind",,,
 pathlake,"path, lake",,,
 scarletmacaw,scarlet macaw,3938,RED-AND-GREEN MACAW,
 ringedkingfisher,ringed kingfisher,2444,KINGFISHER,"§122_oliveiraprotopanoan, 261_girardprototakanan"
