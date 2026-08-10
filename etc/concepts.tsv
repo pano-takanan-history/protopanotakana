@@ -224,7 +224,6 @@ cover	cover	COVER	761	§357_oliveiraprotopanoan
 cangrejo	crab	CRAB	2348	498_girardprototakanan	
 tocrawl	crawl	CRAWL	96	§242_oliveiraprotopanoan, 371_girardprototakanan	
 crawlorcreep	crawl or creep	CRAWL OR CREEP	3456		
-creceragrandar	crecer,agrandar			17_girardprototakanan	
 grillo	cricket	CRICKET	2354	19_girardprototakanan	
 crooked	crooked	CROOKED	297		
 cry	cry	CRY	1839	§484_oliveiraprotopanoan, 328_girardprototakanan	
@@ -420,7 +419,7 @@ green	green	GREEN	1425	82_girardprotopanotakanan, 115_girardprotopanotakanan
 gray	grey	GREY	153	56_girardprotopanotakanan	
 grind	grind	GRIND	1033	§364_oliveiraprotopanoan	
 groundnut	groundnut (peanut)	GROUNDNUT (PEANUT)	595	§439_oliveiraprotopanoan	
-grow	grow	GROW	479	§510_oliveiraprotopanoan, 300_girardprototakanan	
+grow	grow	GROW	479	§510_oliveiraprotopanoan, 300_girardprototakanan, 17_girardprototakanan	
 gualusa	gualusa			15_girardprototakanan	
 jacuspeciesofbird	guan	GUAN	437	§149_oliveiraprotopanoan	
 guava	guava			§94_oliveiraprotopanoan, 83_girardprototakanan	
@@ -946,8 +945,7 @@ thatmuch	that much			§51_oliveiraprotopanoan
 there	there	THERE	1937		
 they	they	THEY	817		
 thick	thick	THICK	1244	§180_oliveiraprotopanoan	
-thinfine	thin	THIN	2308	§84_oliveiraprotopanoan	
-delgado	thin (slim)	THIN (SLIM)	1400	239_girardprototakanan	
+delgado	thin	THIN	2308	239_girardprototakanan, §84_oliveiraprotopanoan	
 thing	thing	THING	738	3_girardprototakanan	
 tothink	think	THINK	2271	§387_oliveiraprotopanoan	
 thinkreflect	think (reflect)	THINK (REFLECT)	1415		
