@@ -10,4 +10,10 @@ Once you have installed EDICTOR3, simply run the `edictor server` command within
 
 ## Creating the SQLite for Upload
 
-`edictor wordlist --name=protopanotakana --sqlite --namespace='{"language_name": "doculect", "concept_name": "concept","value": "value", "form":"form", "segments": "tokens","comment": "note"}' --addon="language_subgroup:subgroup","cognacy:cogid","partial_cognacy:cogids","alignment:alignment","dataset:dataset","concept_concepticon_gloss:concepticon_gloss"`
+`edictor wordlist --name=protopanotakana --namespace='{"language_name": "doculect", "concept_name": "concept","value": "value", "form":"form", "segments": "tokens","comment": "note"}' --addon="language_subgroup:subgroup","cognacy:cogid","partial_cognacy:cogids","alignment:alignment","dataset:dataset","concept_concepticon_gloss:concepticon_gloss"`
+
+## Creating wordlist for BEAST analysis
+
+`edictor wordlist --name=protopanotakana --namespace='{"language_name": "doculect", "concept_name": "concept","value": "value", "form":"form", "segments": "tokens","comment": "note"}' --addon="cognacy:cogid"`
+
+`python -c "from lingpy import *; from lingpy.convert.strings import write_nexus; wl = Wordlist('protopanotakana.tsv'); write_nexus(wl, mode='beastwords', filename='ppt.nex', ref='cogid')"`

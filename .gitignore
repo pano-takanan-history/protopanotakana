@@ -108,3 +108,4 @@ raw/preprocessing/cldf-resources/
 edictor-remote/scripts
 *.pdf
 .*sqlite3
+analysis/phylo/
